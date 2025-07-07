@@ -1,0 +1,518 @@
+[
+  {
+    "question_id": 12584,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:27.993255",
+    "url": "https://oneprep.xyz/question/12584/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<div><img alt=\"The figure presents the graph of a curve in the x y plane. The line begins at the point with coordinates negative 8 comma negative 3. It moves to the right, crossing the y-axis approximately 3 units below the x-axis. It then curves upward and to the right, crossing the x-axis 6.7 units to the right of the y-axis. It ends at the point with coordinates 7.7 comma 8.\" height=\"373\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod2E_Art_Q03.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"380\"/></div>\n<p><br/>What is the <em>y</em>-intercept of the graph shown?</p>",
+    "answer_choices": {
+      "A": "(0, –3)",
+      "B": "(0, 3)",
+      "C": "(0, –7)",
+      "D": "(0, 7)"
+    },
+    "choice_ids": {
+      "A": 44793,
+      "B": 44794,
+      "C": 44795,
+      "D": 44796
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12585,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:28.691335",
+    "url": "https://oneprep.xyz/question/12585/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "The graph shows the predicted weight <em>w</em>, in kilograms, of a certain calf <em>m </em>months after it is born.<br/><br/>\n<div><img alt=\"The figure presents a line graph. The horizontal axis is labeled “months,” and the numbers 0 through 6, in increments of 1, are indicated. The vertical axis is labeled “body weight (KGg)”, and the numbers 0 through 200, in increments of 20, are indicated. The line trends upward and to the right. The data are as follows. Note that all values are approximate.\n0 months, 40 kilograms.\n1 month, 70 kilograms.\n2 months, 80 kilograms.\n3 months, 108 kilograms.\n4 months, 140 kilograms.\n5 months, 160 kilograms.\n6 months, 188 kilograms.\" height=\"388\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod2E_Art_Q01-r.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"405\"/></div>\n<p><br/>Based on the graph, which of the following is closest to the predicted weight, in kilograms, of the calf 5 months after it is born?</p>",
+    "answer_choices": {
+      "A": "39",
+      "B": "111",
+      "C": "159",
+      "D": "185"
+    },
+    "choice_ids": {
+      "A": 44797,
+      "B": 44798,
+      "C": 44799,
+      "D": 44800
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12586,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:29.396146",
+    "url": "https://oneprep.xyz/question/12586/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<div><img alt=\"The figure presents the graph of a line and a curve in the x y plane, with the origin labeled O. The numbers negative 6 through positive 4 are indicated on the horizontal axis, and the numbers negative 2 through 8 are indicated on the vertical axis. The line begins in the upper left quadrant at the point with the approximate coordinates negative 6 comma 5 and passes through the point negative 1 comma 7, then it ends at the point with the approximate coordinates 1.5 comma 8. The curve begins at the point with the approximate coordinates negative 1.2 comma 8 and curves downward and to the right. It intersects the line at the point with coordinates negative 1 comma 7, crosses the vertical axis at the point with coordinates positive 2.2, crosses the horizontal axis at the point with coordinates positive 1 comma 0, and ends at the point with the approximate coordinates 4 comma negative 1.2.\" height=\"363\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod2E_Art_Q02.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"364\"/></div>\n<br/>What is the solution (<em>x</em>, <em>y</em>) to the system of one linear equation and one nonlinear equation shown in the graph?",
+    "answer_choices": {
+      "A": "(–1, 7)",
+      "B": "(0, 0)",
+      "C": "(0, 2.5)",
+      "D": "(1, 0)"
+    },
+    "choice_ids": {
+      "A": 44801,
+      "B": 44802,
+      "C": 44803,
+      "D": 44804
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12588,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:30.769619",
+    "url": "https://oneprep.xyz/question/12588/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "In a jar containing 13 lollipops, 8 are lemon flavored, 3 are orange flavored, and 2 are strawberry flavored. If one lollipop is chosen at random, what is the probability that the lollipop is lemon flavored?",
+    "answer_choices": {
+      "A": "<img align=\"middle\" alt=\"1 over 13\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/e3243b3f-4788-4925-b44d-1354c242fe78_Choice_1220554_5177002f-386d-49c7-aa67-55b110072e19.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"27\"/>",
+      "B": "<img align=\"middle\" alt=\"5 over 13\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/e3243b3f-4788-4925-b44d-1354c242fe78_Choice_1220555_5c731902-74be-4469-ab9e-92dca6b3e22b.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"27\"/>",
+      "C": "<img align=\"middle\" alt=\"8 over 13\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/e3243b3f-4788-4925-b44d-1354c242fe78_Choice_1220556_e1467a9e-fe02-4e22-ba35-4dae717e25f6.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"27\"/>",
+      "D": "<img align=\"middle\" alt=\"13 over 13\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/e3243b3f-4788-4925-b44d-1354c242fe78_Choice_1220591_df0dd620-a83c-40d5-9a49-40eaa5afc351.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"27\"/>"
+    },
+    "choice_ids": {
+      "A": 44805,
+      "B": 44806,
+      "C": 44807,
+      "D": 44808
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12589,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:31.491197",
+    "url": "https://oneprep.xyz/question/12589/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<div><img alt=\"The figure presents the graph of a curve in the x y plane. The line begins at the point with coordinates negative 4 comma negative 2. It moves downward and to the right, crossing the y-axis approximately 3 units below the x-axis. It ends at the point with approximate coordinates 1.7 comma negative 6.\" height=\"341\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod2E_Art_Q05x.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"345\"/></div>\n<p><br/>The graph of function <em>g </em>is shown in the <em>xy</em>-plane, where <em>y</em> = <em>g</em>(<em>x</em>). Which of the following describes function <em>g</em>?</p>",
+    "answer_choices": {
+      "A": "Decreasing linear",
+      "B": "Decreasing exponential",
+      "C": "Increasing linear",
+      "D": "Increasing exponential"
+    },
+    "choice_ids": {
+      "A": 44809,
+      "B": 44810,
+      "C": 44811,
+      "D": 44812
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12590,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:32.199578",
+    "url": "https://oneprep.xyz/question/12590/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<p style=\"text-align: center;\"><em>y</em> = –49<br/><em>y</em> = –7<em>x</em> + 14</p>\n<p>What is the solution (<em>x</em>, <em>y</em>) to the given system of equations?</p>",
+    "answer_choices": {
+      "A": "(–49, 9)",
+      "B": "(–49, 14)",
+      "C": "(9, –49)",
+      "D": "(14, –49)"
+    },
+    "choice_ids": {
+      "A": 44813,
+      "B": 44814,
+      "C": 44815,
+      "D": 44816
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12591,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:33.164540",
+    "url": "https://oneprep.xyz/question/12591/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<p style=\"text-align: center;\"><em>f</em>(<em>x</em>) = –5<em>x</em> + 7</p>\n<p>The function <em>f</em> is defined by the given equation. What is the value of <em>f</em>(20)?</p>",
+    "answer_choices": {
+      "A": "–107",
+      "B": "–100",
+      "C": "–93",
+      "D": "140"
+    },
+    "choice_ids": {
+      "A": 44817,
+      "B": 44818,
+      "C": 44819,
+      "D": 44820
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12592,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:33.882910",
+    "url": "https://oneprep.xyz/question/12592/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<div><img alt=\"The figure presents the graph of a line in the x y plane. The line begins in the third quadrant. It moves downward and to the right, crossing the y-axis 2 units above the x-axis. It crosses the x-axis 5 units to the right of the y axis and ends in the fourth quadrant.\" height=\"283\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod2E_Art_Q08.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"359\"/></div>\n<br/>The graph of function <em>h</em> is shown, where <em>y</em> = <em>h</em>(<em>x</em>). What is the <em>x</em>-intercept of the graph?",
+    "answer_choices": {
+      "A": "(–5, 0)",
+      "B": "(–2, 0)",
+      "C": "(2, 0)",
+      "D": "(5, 0)"
+    },
+    "choice_ids": {
+      "A": 44821,
+      "B": 44822,
+      "C": 44823,
+      "D": 44824
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12596,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:36.639348",
+    "url": "https://oneprep.xyz/question/12596/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "The estimated volume of water, in milliliters, of a dish of water <em>h </em>hours after being placed under a heat lamp is modeled by the equation <em>v</em> = –5<em>h</em> + 100. What is the best interpretation of 100 in this context?",
+    "answer_choices": {
+      "A": "The dish of water was under the heat lamp for 100 hours.",
+      "B": "The dish contained 100 milliliters of water when placed under the heat lamp.",
+      "C": "The water in the dish is expected to decrease by 100 milliliters each hour.",
+      "D": "The water in the dish will decrease to a minimum of 100 milliliters."
+    },
+    "choice_ids": {
+      "A": 44825,
+      "B": 44826,
+      "C": 44827,
+      "D": 44828
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12596,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T01:12:12.436747",
+    "url": "https://oneprep.xyz/question/12596/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "The estimated volume of water, in milliliters, of a dish of water <em>h </em>hours after being placed under a heat lamp is modeled by the equation <em>v</em> = –5<em>h</em> + 100. What is the best interpretation of 100 in this context?",
+    "answer_choices": {
+      "A": "The dish of water was under the heat lamp for 100 hours.",
+      "B": "The dish contained 100 milliliters of water when placed under the heat lamp.",
+      "C": "The water in the dish is expected to decrease by 100 milliliters each hour.",
+      "D": "The water in the dish will decrease to a minimum of 100 milliliters."
+    },
+    "choice_ids": {
+      "A": 44825,
+      "B": 44826,
+      "C": 44827,
+      "D": 44828
+    },
+    "metadata": {},
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "question_id": 12597,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:37.328372",
+    "url": "https://oneprep.xyz/question/12597/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<p>Which of the following equations defines the linear function <em>g</em> if the graph of <em>y</em> = <em>g</em>(<em>x</em>) in the <em>xy</em>-plane has a slope of –13 and passes through the origin?</p>",
+    "answer_choices": {
+      "A": "<em>g</em>(<em>x</em>) = –13<em>x</em>",
+      "B": "<em>g</em>(<em>x</em>) = <em>x </em>– 13",
+      "C": "<em></em><img align=\"middle\" alt=\"g left parenthesis x right parenthesis space equals space – 1 over 13 x\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/81f85ac5-9118-464c-a7e0-bb8302a3b483_Choice_1220597_06b692ab-ffb6-40e4-802c-6aa0be816007.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"103\"/><em></em>",
+      "D": "<em>g</em>(<em>x</em>) = 13<em>x</em>"
+    },
+    "choice_ids": {
+      "A": 44829,
+      "B": 44830,
+      "C": 44831,
+      "D": 44832
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12597,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T01:12:13.148801",
+    "url": "https://oneprep.xyz/question/12597/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<p>Which of the following equations defines the linear function <em>g</em> if the graph of <em>y</em> = <em>g</em>(<em>x</em>) in the <em>xy</em>-plane has a slope of –13 and passes through the origin?</p>",
+    "answer_choices": {
+      "A": "<em>g</em>(<em>x</em>) = –13<em>x</em>",
+      "B": "<em>g</em>(<em>x</em>) = <em>x </em>– 13",
+      "C": "<em></em><img align=\"middle\" alt=\"g left parenthesis x right parenthesis space equals space – 1 over 13 x\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/81f85ac5-9118-464c-a7e0-bb8302a3b483_Choice_1220597_06b692ab-ffb6-40e4-802c-6aa0be816007.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"103\"/><em></em>",
+      "D": "<em>g</em>(<em>x</em>) = 13<em>x</em>"
+    },
+    "choice_ids": {
+      "A": 44829,
+      "B": 44830,
+      "C": 44831,
+      "D": 44832
+    },
+    "metadata": {},
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "question_id": 12598,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:38.035361",
+    "url": "https://oneprep.xyz/question/12598/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<p>At a local restaurant, the least amount of flour needed for any pasta recipe is 1.75 cups per pound of pasta, and the greatest amount of flour needed for any pasta recipe is 2.25 cups per pound of pasta. If <em>f</em> represents the amount of flour, in cups, per pound of pasta, which of the following inequalities is true for all values of <em>f</em> at this restaurant?</p>",
+    "answer_choices": {
+      "A": "0.5 ≤ <em>f</em> ≤ 1.75",
+      "B": "1.75 ≤ <em>f</em> ≤ 2.25",
+      "C": "<em>f</em> ≤ 1.75",
+      "D": "<em>f</em> ≤ 0.5"
+    },
+    "choice_ids": {
+      "A": 44833,
+      "B": 44834,
+      "C": 44835,
+      "D": 44836
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12598,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T01:12:13.857067",
+    "url": "https://oneprep.xyz/question/12598/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<p>At a local restaurant, the least amount of flour needed for any pasta recipe is 1.75 cups per pound of pasta, and the greatest amount of flour needed for any pasta recipe is 2.25 cups per pound of pasta. If <em>f</em> represents the amount of flour, in cups, per pound of pasta, which of the following inequalities is true for all values of <em>f</em> at this restaurant?</p>",
+    "answer_choices": {
+      "A": "0.5 ≤ <em>f</em> ≤ 1.75",
+      "B": "1.75 ≤ <em>f</em> ≤ 2.25",
+      "C": "<em>f</em> ≤ 1.75",
+      "D": "<em>f</em> ≤ 0.5"
+    },
+    "choice_ids": {
+      "A": 44833,
+      "B": 44834,
+      "C": 44835,
+      "D": 44836
+    },
+    "metadata": {},
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "question_id": 12601,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:40.123541",
+    "url": "https://oneprep.xyz/question/12601/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<div style=\"text-align: center;\">\n<table border=\"1\" height=\"83\" style=\"height: 83px; width: 25.1055%; border-collapse: collapse; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr>\n<td style=\"width: 50%;\"><em>x</em></td>\n<td style=\"width: 50%;\"><em>y</em></td>\n</tr>\n<tr>\n<td style=\"width: 50%;\">4</td>\n<td style=\"width: 50%;\">14</td>\n</tr>\n<tr>\n<td style=\"width: 50%;\">6</td>\n<td style=\"width: 50%;\">20</td>\n</tr>\n<tr>\n<td style=\"width: 50%;\">8</td>\n<td style=\"width: 50%;\">26</td>\n</tr>\n<tr>\n<td style=\"width: 50%;\">10</td>\n<td style=\"width: 50%;\">32</td>\n</tr>\n</tbody>\n</table>\n</div>\n<br/>\n<p>The table shows four values of <em>x</em> and their corresponding values of <em>y</em>. Which of the following equations represents the relationship between <em>x</em> and <em>y</em>?</p>",
+    "answer_choices": {
+      "A": "<em>y</em> = 2<em>x</em> + 6",
+      "B": "<em>y</em> = 2<em>x</em> + 14",
+      "C": "<em>y</em> = 3<em>x</em> + 2",
+      "D": "<em>y</em> = 3<em>x</em> + 14"
+    },
+    "choice_ids": {
+      "A": 44837,
+      "B": 44838,
+      "C": 44839,
+      "D": 44840
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12602,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:40.888282",
+    "url": "https://oneprep.xyz/question/12602/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<p style=\"text-align: center;\"><em></em><img align=\"middle\" alt=\"g left parenthesis x right parenthesis space equals space open parentheses 0.35 close parentheses to the power of x over 5 end exponent\" height=\"39\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/21e563b2-a13d-443f-bb1b-20d9473585ad_80a9859f-8c89-4ce4-b9ac-72ac4fe04f86.svg\" style=\"max-width: none; vertical-align: -5px;\" width=\"110\"/><sup></sup></p>\n<p><br/>The function <em>g</em> is defined by the given equation, which can be rewritten as <em></em><img align=\"middle\" alt=\"g left parenthesis x right parenthesis space equals space open parentheses 1 space minus space n over 100 close parentheses to the power of x\" height=\"43\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/21e563b2-a13d-443f-bb1b-20d9473585ad_50b2768a-ef25-43c5-9eed-cc1a4868e9c6.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"143\"/>, where <em>n</em> is a constant. Which of the following is closest to the value of <em>n</em>?</p>",
+    "answer_choices": {
+      "A": "5",
+      "B": "7",
+      "C": "13",
+      "D": "19"
+    },
+    "choice_ids": {
+      "A": 44841,
+      "B": 44842,
+      "C": 44843,
+      "D": 44844
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12603,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:41.854890",
+    "url": "https://oneprep.xyz/question/12603/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "There are 5 advertising executives for every 14 salespeople at a corporate retreat, and there are <em>a </em>advertising executives at the retreat. Which of the following expressions represents the number of salespeople at the retreat?",
+    "answer_choices": {
+      "A": "5<em>a</em> + 14",
+      "B": "<img align=\"middle\" alt=\"fraction numerator 5 a over denominator 14 end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/f5bd1dc4-e928-4968-b95f-506af028012a_Choice_1220578_9271c7cc-1838-491f-a2c2-4420b40f219c.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"28\"/>",
+      "C": "<img align=\"middle\" alt=\"fraction numerator 14 over denominator 5 a end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/f5bd1dc4-e928-4968-b95f-506af028012a_Choice_1220579_784426ed-7440-482e-96b5-40685dfc8408.svg\" style=\"max-width: none; vertical-align: -16px;\" width=\"28\"/>",
+      "D": "<img align=\"middle\" alt=\"fraction numerator 14 a over denominator 5 end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/f5bd1dc4-e928-4968-b95f-506af028012a_Choice_1220580_16dbb459-7798-43a0-9018-4e28ef92ed2c.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"37\"/>"
+    },
+    "choice_ids": {
+      "A": 44845,
+      "B": 44846,
+      "C": 44847,
+      "D": 44848
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12604,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:42.545223",
+    "url": "https://oneprep.xyz/question/12604/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "In triangle <em>DEF</em>, the length of side <em>DF</em> is <img align=\"middle\" alt=\"20 square root of 23\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2ffe543b-fdd6-4dea-aeca-031cdce21e31_73a8df7a-c90d-4f81-9c34-391959ed65b2.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"53\"/> and the length of side <em>DE</em> is <img align=\"middle\" alt=\"16 square root of 23\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2ffe543b-fdd6-4dea-aeca-031cdce21e31_accdc158-7675-4ae3-8057-797683584e57.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"53\"/>. If angle <em>E</em> measures 90°, what is the length of side <em>EF</em>?",
+    "answer_choices": {
+      "A": "<img align=\"middle\" alt=\"square root of 4.23 end root\" height=\"24\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2ffe543b-fdd6-4dea-aeca-031cdce21e31_Choice_1220608_94d2b148-5e81-4f5b-8d42-3c9f5f27f614.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"49\"/>",
+      "B": "<img align=\"middle\" alt=\"4 square root of 23\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2ffe543b-fdd6-4dea-aeca-031cdce21e31_Choice_1220609_d7888628-65df-412e-b705-7dd1983b4159.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/>",
+      "C": "<img align=\"middle\" alt=\"12 square root of 23\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2ffe543b-fdd6-4dea-aeca-031cdce21e31_Choice_1220610_efa11e7e-b018-4c5b-b3d0-97f6fac21735.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"53\"/>",
+      "D": "<img align=\"middle\" alt=\"36 square root of 23\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2ffe543b-fdd6-4dea-aeca-031cdce21e31_Choice_1220611_a8633ae7-ade0-499c-b5ac-99db945464f1.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"53\"/>"
+    },
+    "choice_ids": {
+      "A": 44849,
+      "B": 44850,
+      "C": 44851,
+      "D": 44852
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12605,
+    "exam_id": 420,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:56:43.255168",
+    "url": "https://oneprep.xyz/question/12605/?question_set=exam&exam_id=420",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<div><img alt=\"The figure presents a geometric shape made of two triangles. Larger triangle ABE is on the left. AE is the base, with vertex A on the left, and vertex B is above vertex A. Angle AEB is labeled with a right angle symbol and angle ABE is labeled as y degrees. Angle BAE is not labeled. On line BE, there is a point C slightly below B. Line AE extends to the right to point D, and points C, D, and E form smaller triangle CDE. Angle CED is labeled with a right angle symbol and angle DCE is labeled as y degrees. Angle CDE is not labeled.\" height=\"222\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod2E_Art_Q21x.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"501\"/></div>\n<p><br/>Triangle <em>ABE</em> is similar to triangle <em>DCE</em>. Line segments <img align=\"middle\" alt=\"top enclose A E end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/034f328f-40d2-43a3-ad30-88e3082f6297_4e2a59a9-1092-4fb6-8a5d-c1260e0c7bfe.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"24\"/> and <img align=\"middle\" alt=\"top enclose D E end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/034f328f-40d2-43a3-ad30-88e3082f6297_7c9430a2-5ce8-482a-a270-9ac4462329b0.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"25\"/><em> </em>have lengths of 28 and 21, respectively, while line segments <img align=\"middle\" alt=\"top enclose C E end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/034f328f-40d2-43a3-ad30-88e3082f6297_b7dba961-35a8-463a-9a8e-7c6015b14eee.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"25\"/> and <img align=\"middle\" alt=\"top enclose C D end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/034f328f-40d2-43a3-ad30-88e3082f6297_6f7c93b0-88b7-43b2-b6ae-17415efbeb41.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"26\"/><em> </em>have lengths of 20 and 29, respectively. What is the length of line segment <img align=\"middle\" alt=\"top enclose B E end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/034f328f-40d2-43a3-ad30-88e3082f6297_a8d2f6cf-b966-4a60-90df-12fd494c10fe.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"24\"/>?</p>",
+    "answer_choices": {
+      "A": "<img align=\"middle\" alt=\"560 over 29\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/034f328f-40d2-43a3-ad30-88e3082f6297_Choice_1220604_b23b849e-e3ec-48e5-bf2d-ff0efc96c448.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"36\"/>",
+      "B": "<img align=\"middle\" alt=\"560 over 21\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/034f328f-40d2-43a3-ad30-88e3082f6297_Choice_1220605_fbdbc107-70ac-4c99-a0e8-d3c2e36212e8.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"36\"/>",
+      "C": "<img align=\"middle\" alt=\"588 over 29\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/034f328f-40d2-43a3-ad30-88e3082f6297_Choice_1220606_0737a380-2211-4385-9ee8-9234effe60a6.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"36\"/>",
+      "D": "<img align=\"middle\" alt=\"588 over 20\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/034f328f-40d2-43a3-ad30-88e3082f6297_Choice_1220607_78d92663-5d30-4a51-be7a-ede1ef1629c3.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"36\"/>"
+    },
+    "choice_ids": {
+      "A": 44853,
+      "B": 44854,
+      "C": 44855,
+      "D": 44856
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  }
+]

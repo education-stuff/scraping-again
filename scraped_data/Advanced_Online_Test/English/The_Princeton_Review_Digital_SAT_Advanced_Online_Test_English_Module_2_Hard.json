@@ -1,0 +1,731 @@
+[
+  {
+    "question_id": 12535,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:14.490703",
+    "url": "https://oneprep.xyz/question/12535/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>To determine if poor dental health can be correlated with an elevated risk of dementia, research student Sam Asher and colleagues ________  the results of more than 40 prior studies that had recorded the dental health of early onset and full onset dementia patients: Asher and his team used the results to demonstrate that patients with any form of dementia had more instances of dental health issues such as tooth loss and periodontitis prior to their dementia diagnosis than did patients without dementia.</p></div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "scrutinized",
+      "B": "critiqued",
+      "C": "questioned",
+      "D": "reinterpreted"
+    },
+    "choice_ids": {
+      "A": 44621,
+      "B": 44622,
+      "C": 44623,
+      "D": 44624
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12536,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:15.192195",
+    "url": "https://oneprep.xyz/question/12536/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\">Eric Dexler, an author and engineer, most deservedly was acclaimed for his academic writings that laid the groundwork for the field of nanotechnology, but his contributions to the field itself are perhaps less ________ than those of Paul Alivisatos, whose pioneering work on fabricating nanocrystals that could be used in both renewable energy and biomedicine remains one of the most important breakthroughs in the history of science.</div>",
+    "question_stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "answer_choices": {
+      "A": "obscure",
+      "B": "temporary",
+      "C": "notable",
+      "D": "legitimate"
+    },
+    "choice_ids": {
+      "A": 44625,
+      "B": 44626,
+      "C": 44627,
+      "D": 44628
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12537,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:15.886978",
+    "url": "https://oneprep.xyz/question/12537/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>While some music historians have criticized the classification of Donna Summer’s “I Feel Love” as a ________ traditional disco song, it is inarguable that the 1977 hit’s composition features expansive melodies, mesmerizing pulsations, and strobe-like delay effects not typical of disco songs of its era.</p></div>",
+    "question_stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "answer_choices": {
+      "A": "deviation from",
+      "B": "commentary on",
+      "C": "blemish upon",
+      "D": "mimicry of"
+    },
+    "choice_ids": {
+      "A": 44629,
+      "B": 44630,
+      "C": 44631,
+      "D": 44632
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12538,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:16.590110",
+    "url": "https://oneprep.xyz/question/12538/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>Despite the desire to understand how or why certain events transpire, it’s common for both researchers and laypeople to make an attribution error: a psychological phenomenon in which the cause of an event or behavior is assumed without evidence. To ________ the occurrence of an attribution error, it is crucial to research the underlying factors or motivations behind an event or behavior before allowing conclusions to be formed.</p></div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "hypothesize",
+      "B": "censure",
+      "C": "inhibit",
+      "D": "validate"
+    },
+    "choice_ids": {
+      "A": 44633,
+      "B": 44634,
+      "C": 44635,
+      "D": 44636
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12539,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:17.300655",
+    "url": "https://oneprep.xyz/question/12539/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>Though it is known that honeybees prefer to feed on nectar, their ability to gather nectar is ________ several factors, namely the diameter of and length of hairs on the honeybee’s tongue—features that evolved as the honeybee needed to absorb energy at an increased rate compared to previous generations.</p></div>",
+    "question_stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "answer_choices": {
+      "A": "correlated with",
+      "B": "independent of",
+      "C": "equivalent to",
+      "D": "typical of"
+    },
+    "choice_ids": {
+      "A": 44637,
+      "B": 44638,
+      "C": 44639,
+      "D": 44640
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12540,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:17.997837",
+    "url": "https://oneprep.xyz/question/12540/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>Immediately following the Big Bang, the lightest elements, such as lithium, helium, and hydrogen, were produced. Other, heavier elements—such as iron—were formed over time in the cores of stars. The origin of these heavier elements has perplexed scientists for decades. It has been theorized that the rapid absorption of neutrons (known as r-process) releases these heavier elements into space. Following a collision of two dead stars, an event that involves extremely rapid rates of neutron absorption, astrophysicist Darach Watson and colleagues expected to observe the release of at least some of the heavier elements. They were surprised, however, to detect the presence of only strontium, one of the lightest heavy elements in existence.</p></div>",
+    "question_stem": "Which choice best describes the overall structure of the text?",
+    "answer_choices": {
+      "A": "It presents a hypothesis about a phenomenon, shares the results of a recent observation of that phenomenon, and then confirms the hypothesis.",
+      "B": "It puts forth a new hypothesis about a currently debated scientific topic, discusses the methodology of an experiment intended to test the hypothesis, and then disproves the hypothesis.",
+      "C": "It introduces a scientific question, discusses scientists’ assumptions about it, and then shows how one team was surprised by the results of an event that challenged the previous assumptions.",
+      "D": "It calls into question a previously propagated theory about the creation of the universe, lists the objections to the theory, and then offers a competing theory."
+    },
+    "choice_ids": {
+      "A": 44641,
+      "B": 44642,
+      "C": 44643,
+      "D": 44644
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12541,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:18.695752",
+    "url": "https://oneprep.xyz/question/12541/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>The following text is adapted from Thomas Mann’s 1924 novel <em>The Magic Mountain</em>. In the novel, protagonist Hans Castorp visits his cousin, who has tuberculosis, at a sanatorium in the Swiss mountains.</p><p style=\"padding-left: 30px;\">The pity the well person felt for the sick—<u>a pity that almost amounted to awe, because the well person could not imagine how he himself could possibly bear such suffering</u>—was very greatly exaggerated. The sick person had no real right to it. It was, in fact, the result of an error in thinking, a sort of hallucination; in that the well man attributed to the sick his own emotional equipment, and imagined that the sick man was, as it were, a well man who had to bear the agonies of a sick one—than which nothing was further from the truth.</p></div>",
+    "question_stem": "Which choice describes the function of the underlined portion in the text as a whole?",
+    "answer_choices": {
+      "A": "It contradicts the generally accepted belief that healthy people are unable to imagine the suffering of those who are terminally ill.",
+      "B": "It questions the assertion that tuberculosis is necessarily a terminal disease and declares that such claims are greatly exaggerated.",
+      "C": "It elaborates upon an emotion felt by a well person toward a sick person that may not be as strongly felt as conventionally believed.",
+      "D": "It suggests that the well person has no real right to offer the sick person emotional comfort and cannot alleviate the suffering of the ill."
+    },
+    "choice_ids": {
+      "A": 44645,
+      "B": 44646,
+      "C": 44647,
+      "D": 44648
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12542,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:19.418193",
+    "url": "https://oneprep.xyz/question/12542/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p><strong>Text 1</strong></p><p><u>Some scholars argue that because humans were likely at least in part responsible for the extinction of the woolly mammoth, scientists should try to bring this species back.</u> Geneticist George Church has made 15 genetic alterations to elephant genes to render them more mammoth-like. Church and others argue that reintroducing the mammoth could improve the biodiversity of arctic ecosystems that have been impacted by the effects of climate change.</p><p><strong>Text 2</strong></p><p>Paleobiologist Tori Herridge notes that Asian elephants and mammoths are no more related than are chimpanzees and humans and that a surrogate elephant mother could face serious health challenges were a genetically altered elephant embryo to be implanted inside her. She further contends that there are more straightforward ways to combat climate change and adds that bringing back species could reintroduce to the world diseases that would threaten livestock or humans.</p></div>",
+    "question_stem": "<p>Based on the texts, how would the author of Text 2 most likely respond to the claim in the underlined sentence of Text 1?</p>",
+    "answer_choices": {
+      "A": "By claiming that distantly related species may eventually grow closer genetically without human intervention",
+      "B": "By noting that there are significant consequences to any attempt to reintroduce the wooly mammoth",
+      "C": "By condemning the previous work done in genetic modification for focusing on the revival of only a single species",
+      "D": "By asserting that most species are not able to adapt to changes in the climate of their ecosystem"
+    },
+    "choice_ids": {
+      "A": 44649,
+      "B": 44650,
+      "C": 44651,
+      "D": 44652
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12543,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:20.114253",
+    "url": "https://oneprep.xyz/question/12543/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>Organisms usually require a brain and nervous system to coordinate their movements. According to a study led by biochemist Wallace Marshall, though, a single-celled organism called <em>Euplotes eurystomus</em> can apparently walk using a simple, mechanical processor. The protozoan <em>E. eurystomus</em> has 14 clusters of cilia, which are hair-like structures controlled by a series of internal connections. Disruptions in these connections can cause malfunctions, such as circular movements rather than the intended linear direction observed under normal conditions.</p></div>",
+    "question_stem": "<p>It can most reasonably be inferred from the text that the finding about <em>Euplotes eurystomus</em> was important for which reason?</p>",
+    "answer_choices": {
+      "A": "It suggested that single-celled organisms such as <em>E. eurystomus </em>actually do have nervous systems and simple brains.",
+      "B": "It rejected a previously held notion that protozoa move by means of a rudimentary processor.",
+      "C": "It confirmed previous studies that found protozoa incapable of coordinated movement.",
+      "D": "It demonstrated that certain organisms may not, as was previously thought, need a brain to generate deliberate locomotion."
+    },
+    "choice_ids": {
+      "A": 44653,
+      "B": 44654,
+      "C": 44655,
+      "D": 44656
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12544,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:20.796822",
+    "url": "https://oneprep.xyz/question/12544/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><div><img alt=\"The figure presents a bar graph titled “Actual and Estimated Water Drin Time Based on Various Methods.” The horizontal axis is labeled “Time interval,” and the intervals first, second, and third are indicated. There are three bars above each of the intervals. A key indicates that the first bar represents “experimental,” the second bar represents “theoretical,” and the third bar represents “numerical.” The vertical axis is labeled “Water height (millimeters),” and the numbers 0 through 210, in increments of 30, are indicated. The data are as follows. Note that all values are approximate.First interval. Experimental, 200 milligrams. Theoretical, 170 milligrams. Numerical, 200 milligrams. Second interval. Experimental, 80 milligrams. Theoretical, 60 milligrams. Numerical, 75 milligrams.Third interval. Experimental, 35 milligrams. Theoretical, 10 milligrams. Numerical, 25 milligrams.\" height=\"383\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATAdv_OnlineTest_RW_Mod2H_Q11.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"440\"/></div><p>To assist other researchers in estimating liquid drainage times, physicist Fadhilah Mohd Sakri and colleagues analyzed a 2011 study that measured the actual or estimated drainage time during three separate 20-second intervals during the time that it took for water to drain from a tank. The 2011 team used three different methods of measurement: an experiment that featured a physical tank filled with water, a theoretical analysis that focused on the known properties of water movement, and a numerical analysis that accounted for both the water in the tank as well as the air present in both the tank and the drainpipe. After reviewing this data, Sakri and colleagues determined that the theoretical analysis may not be as accurate for future estimations as the numerical analysis will be.</p></div>",
+    "question_stem": "<p>Which choice best describes data from the graph that support Sakri and his colleagues’ conclusion?</p>",
+    "answer_choices": {
+      "A": "At the second and third intervals, the estimated water height predicted by the theoretical analysis was lower than the actual water height observed during the experimental analysis.",
+      "B": "At the second interval, the estimated water height predicted by the theoretical analysis was lower than the actual water height observed during the experimental analysis, but at the third interval, the actual water height observed during the experimental analysis was higher than the estimated water height predicted by the numerical analysis.",
+      "C": "At the first interval, the estimated water height predicted by the theoretical analysis was lower than both the actual water height observed during the experimental analysis and the estimated water height predicted by the numerical analysis.",
+      "D": "At all three intervals, the estimated water height predicted by the theoretical analysis was not as close to the actual water height observed during the experimental analysis as the numerical analysis was."
+    },
+    "choice_ids": {
+      "A": 44657,
+      "B": 44658,
+      "C": 44659,
+      "D": 44660
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12545,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:21.494177",
+    "url": "https://oneprep.xyz/question/12545/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><div style=\"text-align: center;\">Percentage of Patients Experiencing Symptoms Related to Epilepsy<br/><br/></div><div><table border=\"1\" style=\"width: 100%; border-collapse: collapse; margin-left: auto; margin-right: auto;\"><tbody><tr><td style=\"width: 33.3333%; text-align: center;\">Characteristic</td><td style=\"width: 33.3333%; text-align: center;\">Percentage of total patients exhibiting symptom(s)</td><td style=\"width: 33.3333%; text-align: center;\">Percentage of patients under two years old exhibiting symptom(s)</td></tr><tr><td style=\"width: 33.3333%;\"> Focal seizures</td><td style=\"width: 33.3333%; text-align: center;\"><p>63.9</p></td><td style=\"width: 33.3333%; text-align: center;\">67.6</td></tr><tr><td style=\"width: 33.3333%;\"> Infantile spasms</td><td style=\"width: 33.3333%; text-align: center;\">38.9</td><td style=\"width: 33.3333%; text-align: center;\">46.8</td></tr><tr><td style=\"width: 33.3333%;\"> Co-occurrence of infantile<br/> spasms and focal seizures</td><td style=\"width: 33.3333%; text-align: center;\">20.5</td><td style=\"width: 33.3333%; text-align: center;\">25.7</td></tr></tbody></table></div><br/>To better understand the correlation between epilepsy and age, researchers compare epilepsy-related symptoms for early onset patients (patients two years old and younger) and patients of all ages. Traditionally, it has been believed that epilepsy had no strong correlation to age. However, the team performed its analysis to determine if such a link existed. The researchers compiled data based on various factors, focusing particularly on those who experienced focal seizures, infantile spasms, and both of these symptoms simultaneously. The researchers did claim to find such a link. According to their data, compared to the percentage of patients under two years old who experienced symptoms, the percentage of total patients who experienced symptoms ________</div>",
+    "question_stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+    "answer_choices": {
+      "A": "was lower for all three characteristics, indicating that there may be a higher frequency of these symptoms at younger ages.",
+      "B": "ranged from 20.5 to 63.9, implying that there is no consistent trend among epilepsy-related symptoms.",
+      "C": "was higher for two characteristics, with the percentage for only one characteristic indicating a consistent trend among epilepsy-related symptoms.",
+      "D": "ranged from 25.7 to 67.6, with no percentage indicating that there is a correlation between age and epilepsy-related symptoms."
+    },
+    "choice_ids": {
+      "A": 44661,
+      "B": 44662,
+      "C": 44663,
+      "D": 44664
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12546,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:22.224022",
+    "url": "https://oneprep.xyz/question/12546/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>“Fragment of a Satire on Satire” is an 1880 poem by Percy Bysshe Shelley. The poem focuses on the dangers of satire as the speaker notes the emotional damage satirical comments can cause while also expressing his distaste for those who make them, writing ________</p></div>",
+    "question_stem": "<p>Which quotation from “Fragment of a Satire on Satire” most effectively illustrates the claim?</p>",
+    "answer_choices": {
+      "A": "“ 'Tis not worth while to prove, as I could, how / From the sweet fountains of our Nature flow / These bitter waters.”",
+      "B": "“Follow his flight with winged words, and urge / The strokes of the inexorable scourge / Until the heart be naked, till his soul / See the contagion's spots ... foul.”",
+      "C": "“Then send the priests to every hearth and home / To preach the burning wrath which is to come, / In words like flakes of sulphur, such as thaw / The frozen tears.”",
+      "D": "“Rough words beget sad thoughts, ... and, beside, / Men take a sullen and a stupid pride / In being all they hate in others' shame, / By a perverse antipathy of fame.”"
+    },
+    "choice_ids": {
+      "A": 44665,
+      "B": 44666,
+      "C": 44667,
+      "D": 44668
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12547,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:22.921256",
+    "url": "https://oneprep.xyz/question/12547/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><div><img alt=\"The figure presents a bar graph titled “Average Number of Symptomatic Incidents Per Year by Age Group of Patients Experiencing COVID-like or Influenza-like Symptoms.” The horizontal axis is labeled “age group,” and the eight age ranges are indicated. There are two bars above each of the age ranges. A key indicates that the first bar represents “COVID-like incidents,” and the second bar represents “Influenza-like incidents.” The vertical axis is labeled “average number of symptomatic incidents,” and the numbers 0 through 4.0, in increments of 0.5, are indicated. The data are as follows. Note that all values are approximate.Age 15 to 19. COVID-like incidents, 2.8. Influenza-like incidents, 1.75. Age 20 to 24. COVID-like incidents, 2.8. Influenza-like incidents, 1.65. Age 25 to 29. COVID-like incidents, 3.3. Influenza-like incidents, 2.1. Age 30 to 34. COVID-like incidents, 3.5. Influenza-like incidents, 2.2. Age 35 to 39. COVID-like incidents, 3.4. Influenza-like incidents, 2.5. Age 40 to 44. COVID-like incidents, 3.2. Influenza-like incidents, 2.1. Age 45 to 49. COVID-like incidents, 2.8. Influenza-like incidents, 1.5. Age 50 to 54. COVID-like incidents, 2.4. Influenza-like incidents, 1.4.\" height=\"383\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATAdv_OnlineTest_RW_Mod2H_Q12.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"531\"/></div><p><br/>It had been previously believed that an affected individual will experience the highest possibility of COVID-like or Influenza-like symptoms between the ages of 30 and 34, but older individuals must exercise caution as the occurrence of symptomatic incidents is not necessarily reduced with age even with diseases that have been around longer, such as Influenza, as evidenced by the information that ________</p></div>",
+    "question_stem": "<p>Which choice most effectively uses data from the graph to complete the text?</p>",
+    "answer_choices": {
+      "A": "at least four different age groups experienced, on average, more than three incidents of COVID-like symptoms per year.",
+      "B": "individuals within an age group experienced approximately the same number of COVID-like and Influenza-like symptomatic incidents per year.",
+      "C": "patients between 35 and 39 years old experienced, on average, more Influenza-like symptomatic incidents than did any other age group experiencing Influenza-like symptoms.",
+      "D": "the majority of age groups experiencing Influenza-like symptoms experienced, on average, two or more symptomatic incidents per year."
+    },
+    "choice_ids": {
+      "A": 44669,
+      "B": 44670,
+      "C": 44671,
+      "D": 44672
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12548,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:23.602904",
+    "url": "https://oneprep.xyz/question/12548/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>Philosopher Lawrence Kohlberg posited six stages of ethical development, focusing particularly on the reasoning capabilities possessed by an individual at each stage rather than the actual choices made. Based on Jean Piaget’s theory of cognitive development, Kohlberg’s theory presents increasingly nuanced ethical perspectives, starting at punishment avoidance (level one) to universal ethical principles (level six). As an illustrative example, Kohlberg offered the theoretical “Heinz dilemma,” in which Heinz’s wife is ill and can be saved only by a newly invented drug. Unable to afford the drug, Heinz steals it. A person solving the dilemma must say whether or not Heinz should have stolen the drug and why. Kohlberg was uninterested in a person’s choice of “yes” or “no,” though, because ________</p></div>",
+    "question_stem": "<p>Which choice most logically completes the text?</p>",
+    "answer_choices": {
+      "A": "identical responses made by individuals at different stages of ethical development would have been described by Kohlberg as ethically similar unless those responses were affected by external factors, such as the desire to impress others.",
+      "B": "Kohlberg would have disregarded the concept that the actual decision made by the person is relevant to assessing their reasoning capabilities in order to determine which stage of ethical development the person is in.",
+      "C": "Kohlberg would have disregarded the concept that the actual decision made by the person can be fairly evaluated given the formal, laboratory nature of the experiment.",
+      "D": "the individuals observed by Kohlberg during the experiment could not be properly categorized into a stage of ethical development even though participants demonstrated their reasoning capabilities during the explanation of their response choice."
+    },
+    "choice_ids": {
+      "A": 44673,
+      "B": 44674,
+      "C": 44675,
+      "D": 44676
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12549,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:24.281156",
+    "url": "https://oneprep.xyz/question/12549/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>A recent agricultural study undertaken by scientists in Xinjiang, China, investigated whether the presence of licorice root could boost the number of predators (mainly ladybeetles, but also other arthropods) near cotton crops to reduce aphid populations, which are harmful to the crops. Results from the peak seasons of two consecutive years showed that fields treated with strips of licorice root experienced a 17.5% decrease in aphid density in the first year and a 61.2 % decrease in the second year, compared to control fields. According to these findings, the study’s researchers suggest that the use of licorice root ________</p></div>",
+    "question_stem": "<p>Which choice most logically completes the text?</p>",
+    "answer_choices": {
+      "A": "can significantly reduce the numbers of aphids harmful to crops, potentially allowing for higher crop yields.",
+      "B": "increases the density of the aphid populations, leading to reduced crop yields in licorice-treated fields.",
+      "C": "reduces the numbers of aphids during the first year, though not during the second year.",
+      "D": "has no significant effect on the numbers of aphids but did lower the numbers of other arthropods."
+    },
+    "choice_ids": {
+      "A": 44677,
+      "B": 44678,
+      "C": 44679,
+      "D": 44680
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12550,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:24.965074",
+    "url": "https://oneprep.xyz/question/12550/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>In 1642, propelled by a desire to relieve his father, a tax collector, of the burden of performing many arduous calculations by hand, a French mathematician developed the first functional mechanical calculator. This machine, designed by Blaise Pascal, a pioneer in the physical sciences, ________ a dial with a spoke for each digit.</p></div>",
+    "question_stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "answer_choices": {
+      "A": "have featured",
+      "B": "feature",
+      "C": "features",
+      "D": "were featuring"
+    },
+    "choice_ids": {
+      "A": 44681,
+      "B": 44682,
+      "C": 44683,
+      "D": 44684
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12551,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:25.644689",
+    "url": "https://oneprep.xyz/question/12551/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>The Paris Agreement aims to limit the increase in global average temperature to below 2 degrees Celsius above the levels of the planet before the Industrial Revolution. ________ by representatives from 196 different nations, the agreement also commits funds to mitigate the financial burden that the ensuing environmental restrictions would create for non-high-income nations.</p></div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "Negotiating",
+      "B": "Negotiate",
+      "C": "Negotiates",
+      "D": "Negotiated"
+    },
+    "choice_ids": {
+      "A": 44685,
+      "B": 44686,
+      "C": 44687,
+      "D": 44688
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12552,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:26.336334",
+    "url": "https://oneprep.xyz/question/12552/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>In <em>Micrographia</em>, a 1665 collection of scientific drawings and observations, English polymath Robert Hooke published the first illustrations based on microscopic images along with a then-heretical conclusion about the nature of fossils—the theory that some objects excavated from the ground (petrified wood, shell, etc.) ________ the remains of once-living organisms that are now extinct.</p></div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "has embodied",
+      "B": "embody",
+      "C": "was embodying",
+      "D": "embodies"
+    },
+    "choice_ids": {
+      "A": 44689,
+      "B": 44690,
+      "C": 44691,
+      "D": 44692
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12553,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:27.023768",
+    "url": "https://oneprep.xyz/question/12553/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>The type of paint an artist selects affects not only the look of the finished product but also the pace of the process of creating the work. Acrylic paint, which is fast-drying, requires less time before a second layer can be painted ________ oil paint, which dries slowly, offers prolonged working time.</p></div>",
+    "question_stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "answer_choices": {
+      "A": "on and",
+      "B": "on;",
+      "C": "on,",
+      "D": "on"
+    },
+    "choice_ids": {
+      "A": 44693,
+      "B": 44694,
+      "C": 44695,
+      "D": 44696
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12554,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:27.706681",
+    "url": "https://oneprep.xyz/question/12554/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>Originally constructed as a Christian cathedral in the sixth century, the Hagia Sophia Grand Mosque has gone through several different renovations and redesigns to fulfill various purposes. Today, the building exists as an architectural ________ it exhibits a blend of Byzantine and Islamic stylistic traditions.</p></div>",
+    "question_stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "answer_choices": {
+      "A": "amalgamation,",
+      "B": "amalgamation",
+      "C": "amalgamation:",
+      "D": "amalgamation and"
+    },
+    "choice_ids": {
+      "A": 44697,
+      "B": 44698,
+      "C": 44699,
+      "D": 44700
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12555,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:28.389826",
+    "url": "https://oneprep.xyz/question/12555/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>Thousands of species of sharks, fish, and amphibians exhibit electroreception, the ability to perceive the presence of electric fields in the environment. Only five species of mammals have been found to possess this ________ the short-beaked echidna, western long-beaked echidna, eastern long-beaked echidna, platypus, and Guiana dolphin—the last of which is unique in the list as the only fully aquatic mammal.</p></div>",
+    "question_stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "answer_choices": {
+      "A": "sense, though,<br/>",
+      "B": "sense, though;",
+      "C": "sense; though,",
+      "D": "sense, though:"
+    },
+    "choice_ids": {
+      "A": 44701,
+      "B": 44702,
+      "C": 44703,
+      "D": 44704
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12556,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:29.073767",
+    "url": "https://oneprep.xyz/question/12556/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>The Maine penny, an 11th-century Norwegian coin found in Brooklin, Maine, has been cited as evidence that medieval Norse settlers explored the coast of North America much farther south than is currently accepted. ________ some archaeologists believe that a better explanation is that the coin was obtained by Indigenous people north of Maine and transported south through local trade networks.</p></div>",
+    "question_stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "answer_choices": {
+      "A": "Moreover,",
+      "B": "In fact,",
+      "C": "Likewise,",
+      "D": "However,"
+    },
+    "choice_ids": {
+      "A": 44705,
+      "B": 44706,
+      "C": 44707,
+      "D": 44708
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12557,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:29.775918",
+    "url": "https://oneprep.xyz/question/12557/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>Mars is a desert planet, with a thin atmosphere and no precipitation. ________ astronomers have long speculated that liquid water was once abundant on the planet. According to planetary scientist Nina Lanza of the Los Alamos National Laboratory, who led a research project studying camera data from the Curiosity rover, this hypothesis is supported by new observations of mud cracks on the Martian surface since these features are formed during wet-and-dry seasonal cycles.</p></div>",
+    "question_stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "answer_choices": {
+      "A": "For example,",
+      "B": "Nonetheless,",
+      "C": "Therefore,",
+      "D": "Meanwhile,"
+    },
+    "choice_ids": {
+      "A": 44709,
+      "B": 44710,
+      "C": 44711,
+      "D": 44712
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12558,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:30.470238",
+    "url": "https://oneprep.xyz/question/12558/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>Plants influence the level of humidity in Earth’s atmosphere through transpiration. ________ their roots take up underground water which is then transferred upward and lost through evaporation from their leaves. Thus, heavily vegetated ecosystems, especially those containing broadleaf trees, contribute to cloud formation and higher precipitation levels.</p></div>",
+    "question_stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "answer_choices": {
+      "A": "That is,",
+      "B": "In addition,",
+      "C": "By contrast,",
+      "D": "Consequently,"
+    },
+    "choice_ids": {
+      "A": 44713,
+      "B": 44714,
+      "C": 44715,
+      "D": 44716
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12559,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:31.180894",
+    "url": "https://oneprep.xyz/question/12559/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>There is a common assumption that organisms that share certain characteristics have a close evolutionary relationship. For example, fungi and plants have historically been presumed to be closely related because of their similarities—both are immobile, grow in soil, and have a cell wall. However, an analysis of their molecular structures reveals that fungi and animals actually have a nearer common ancestor, thus making fungi more closely related to animals than to plants. The idea that shared traits necessarily correlate with evolutionary relatedness, ________ warrants some reevaluation.</p></div>",
+    "question_stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "answer_choices": {
+      "A": "nevertheless,",
+      "B": "therefore,",
+      "C": "ultimately,",
+      "D": "still,"
+    },
+    "choice_ids": {
+      "A": 44717,
+      "B": 44718,
+      "C": 44719,
+      "D": 44720
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12560,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:31.881732",
+    "url": "https://oneprep.xyz/question/12560/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>While researching a topic, a student has taken the following notes:</p><ul><li>The Saffir-Simpson scale classifies hurricanes based on the speed of their maximum sustained</li><li>A hurricane is classified as Category 4 if its maximum sustained winds are between 130 and 156 miles per hour.</li><li>A hurricane is classified as Category 5 if its maximum sustained winds are 157 miles per hour or more.</li><li>Hurricane Norbert had maximum sustained winds of 135 miles per hour.</li><li>It struck the west coast of Mexico in October of 2008.</li></ul></div>",
+    "question_stem": "The student wants to indicate which category Hurricane Norbert belongs in, based on the speed of its winds. Which choice uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "The Saffir-Simpson scale classified Hurricane Norbert according to the speed of its maximum sustained winds.",
+      "B": "Having maximum sustained winds of 135 miles per hour, Hurricane Norbert was classified as Category 4 by the Saffir-Simpson scale.",
+      "C": "Hurricane Norbert had maximum sustained winds of 135 miles per hour and struck the west coast of Mexico in October of 2008.",
+      "D": "According to the Saffir-Simpson scale, which classifies hurricanes such as Hurricane Norbert, Category 4 hurricanes have maximum sustained winds between 130 and 156 miles per hour."
+    },
+    "choice_ids": {
+      "A": 44721,
+      "B": 44722,
+      "C": 44723,
+      "D": 44724
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12561,
+    "exam_id": 418,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:27:32.572275",
+    "url": "https://oneprep.xyz/question/12561/?question_set=exam&exam_id=418",
+    "stimulus": "<div class=\"\"><p>While researching a topic, a student has taken the following notes:</p><ul><li>John Cage was an American experimental music composer.</li><li>His works were unusual in that they often featured instruments that did not produce their typical sounds.</li><li>His piece <em>The Wonderful Widow of Eighteen Springs </em>(1942), for voice and piano, requires the piano to remain closed.</li><li>In the piece, the pianist produces percussive sounds by manually striking different parts of the piano.</li><li>Cage’s piece <em>4’33</em> (1952), for any instrument or instruments, is composed of three movements.</li><li>In the piece, the instruments produce no sound at all.</li></ul></div>",
+    "question_stem": "<p>The student wants to emphasize a similarity between the two pieces. Which choice uses relevant information from the notes to accomplish this goal?</p>",
+    "answer_choices": {
+      "A": "Both <em>The Wonderful Widow of Eighteen Springs </em>and <em>4’33</em> feature instruments that don’t produce their typical sounds.",
+      "B": "Cage composed <em>The Wonderful Widow of Eighteen Springs </em>in 1942 and <em>4’33 </em>in 1952.",
+      "C": "In <em>The Wonderful Widow of Eighteen Springs</em>, the pianist produces sounds by manually striking a closed piano, while in <em>4’33</em>, the instruments produce no sound at all.",
+      "D": "Cage’s <em>4’33 </em>is composed of three movements in which the instruments produce no sound at all."
+    },
+    "choice_ids": {
+      "A": 44725,
+      "B": 44726,
+      "C": 44727,
+      "D": 44728
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  }
+]

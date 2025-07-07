@@ -1,0 +1,646 @@
+[
+  {
+    "question_id": 12562,
+    "stimulus": "",
+    "question_stem": "<div><img alt=\"The figure presents two vertical parallel lines p and q, with p on the left, which are crossed by line r going from the lower left to the upper right. The angle above line r and to the right of line p is labeled a degrees. The angle below line r and to the right of line q is labeled 120 degrees. The figure is not drawn to scale.\" height=\"318\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod1_Art_Q03.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"280\"/><br/> The figure shows line <i>r</i> intersecting parallel lines <i>p</i> and <i>q</i>. Which of the following statements is true?</div>",
+    "answer_choices": {
+      "A": "The value of <em>a </em>cannot be determined.",
+      "B": "The value of <em>a </em>is equal to 120.",
+      "C": "The value of <em>a</em> is greater than 120.",
+      "D": "The value of <em>a</em> is less than 120."
+    },
+    "answer_ids": {
+      "A": 44729,
+      "B": 44730,
+      "C": 44731,
+      "D": 44732
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the value of an angle on a figure. Use the Geometry Basic Approach. Redraw the figure and labels on the scratch paper. When a line intersects two parallel lines, two kinds of angles are created: big and small. All of the small angles are equal to each other, all of the big angles are equal to each other, and any small angle plus any big angle = 180°. The angle marked <em>a</em>° is a small angle and the angle marked 120° is a big angle. Thus, <em>a </em>+ 120 = 180. Subtract 120 from both sides of the equation to get <em>a</em> = 60. Eliminate (A) because the value of <em>a</em> can be determined. Eliminate (B) because 60 is not equal to 120. Eliminate (C) because 60 is not greater than 120. Keep (D) because 60 is less than 120. The correct answer is (D).\n                        </div>",
+    "correct_answer": "D",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12562/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:45.706923"
+  },
+  {
+    "question_id": 12563,
+    "stimulus": "",
+    "question_stem": "Each month, a streaming service charges a flat fee of $6 plus an additional $5 for each user profile associated with the account. If <em>s</em> is the total amount the streaming service charges, in dollars, each month for an account with <em>u</em> user profiles, which of the following equations represents this situation?",
+    "answer_choices": {
+      "A": "<em>s</em> = 5<em>u</em>",
+      "B": "<em>s</em> = 11<em>u</em>",
+      "C": "<em>s</em> = 6 + 5<em>u</em>",
+      "D": "<em>s</em> = 5 + 6<em>u</em>"
+    },
+    "answer_ids": {
+      "A": 44733,
+      "B": 44734,
+      "C": 44735,
+      "D": 44736
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for an equation that represents a specific situation. Translate the information in Bite-Sized Pieces and eliminate after each piece. One piece of information states that a streaming service charges <em>$5 for each user profile associated with the account</em>. Thus, the charge of $5 per user can be represented by the term 5<em>u</em>. Eliminate (B) and (D) because they do not include this term. The question also states that <em>a streaming service charges a flat fee of $6</em>. Thus, 6 should be added to 5<em>u</em> to equal the total amount charged, <em>s</em>. Eliminate (A) because it does not include 6 at all. The correct answer is (C).\n                        </div>",
+    "correct_answer": "C",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12563/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:46.414647"
+  },
+  {
+    "question_id": 12564,
+    "stimulus": "",
+    "question_stem": "The recipe for a restaurant’s soup of the day calls for 44 fluid ounces of broth. How many <u>cups</u> of broth are required for the recipe? <br/>(1 cup = 8 fluid ounces)",
+    "answer_choices": {
+      "A": "2.75",
+      "B": "5.5",
+      "C": "32",
+      "D": "352"
+    },
+    "answer_ids": {
+      "A": 44737,
+      "B": 44738,
+      "C": 44739,
+      "D": 44740
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for a measurement and gives conflicting units. The question provides the conversion that 1 cup = 8 fluid ounces. Set up a proportion, being sure to match up units. The proportion is <img align=\"middle\" alt=\"fraction numerator 1 space cup over denominator 8 space fluid space ounces end fraction\" height=\"43\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/09ca39be-bb54-44c3-8710-77f9207b0929_769ae5c2-83c9-47bc-b04a-d61b1d8728d1.svg\" style=\"max-width: none; vertical-align: -16px;\" width=\"107\"/> = <img align=\"middle\" alt=\"fraction numerator x space cup over denominator 44 space fluid space ounces end fraction\" height=\"43\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/09ca39be-bb54-44c3-8710-77f9207b0929_92583956-7c24-4825-9d55-ec9387511295.svg\" style=\"max-width: none; vertical-align: -16px;\" width=\"116\"/>. Cross-multiply to get (8)(<em>x</em>) = (1)(44), or 8<em>x</em> = 44. Divide both sides of the equation by 8 to get <em>x</em> = 5.5. The correct answer is (B).\n                        </div>",
+    "correct_answer": "B",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12564/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:47.134061"
+  },
+  {
+    "question_id": 12565,
+    "stimulus": "",
+    "question_stem": "A can contained 2.5 liters of paint. A painter accidentally spilled 30% of the paint that was in the can. How much paint, in liters, did the painter spill?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for a percent of a number. Translate the English to math in Bite-Sized Pieces. <em>Percent</em> means out of 100, so translate 30% as <img align=\"middle\" alt=\"30 over 100\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/f4df7bfe-2927-4544-adda-c9fbf376f141_61a02211-6b51-4fdd-b7d2-cbae64afea9d.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"36\"/>. Translate <em>of</em> as times. Plug in 2.5 as the amount of paint in the can. The translated expression is <img align=\"middle\" alt=\"30 over 100 left parenthesis 2.5 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/f4df7bfe-2927-4544-adda-c9fbf376f141_8b6a4c84-3b9c-4976-a072-1af668584f00.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"69\"/>. Solve by hand or with a calculator to get 0.75. The correct answer is .75.\n                        </div>",
+    "correct_answer": "",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12565/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:47.836451"
+  },
+  {
+    "question_id": 12566,
+    "stimulus": "",
+    "question_stem": "<p style=\"text-align: center;\"><em>g</em>(<em>x</em>) = 296 – 12<em>x</em></p>\n<p><span style=\"font-size: 12pt;\">The function </span><em style=\"font-size: 12pt;\">g </em><span style=\"font-size: 12pt;\">can be used to model the total number of trading cards remaining in a collection after the collector sells the same number of cards each week for </span><em style=\"font-size: 12pt;\">x</em><span style=\"font-size: 12pt;\"> weeks. After how many weeks will there be 104 cards remaining in the collection?</span></p>",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for a value given a function. In function notation, the number inside the parentheses is the <em>x</em>-value that goes into the function, or the input, and the value that comes out of the function is the <em>y</em>-value, or the output. In this case, the number of weeks is the input, <em>x</em>, and the total number of trading cards remaining in a collection is the output, <em>g</em>(<em>x</em>). The question provides an output value of 104, but there are no answers to plug in, so substitute 104 for <em>g</em>(<em>x</em>) and solve for the input value, <em>x</em>. The equation becomes 104 = 296 – 12<em>x</em>. Subtract 296 from both sides of the equation to get –192 = –12<em>x</em>. Divide both sides of the equation by –12 to get 16 = <em>x</em>.</p>\n<p>It is also possible to answer this question using the built-in calculator. Enter the equation of the function, and then scroll and zoom as needed to find the point on the line at which <em>y</em> = 104. That point is (16, 104), so the <em>x</em>-value is 16. </p>\n<p>Using either of these methods, the correct answer is 16.</p>\n</div>",
+    "correct_answer": "",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12566/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:48.559629"
+  },
+  {
+    "question_id": 12567,
+    "stimulus": "",
+    "question_stem": "If 5<em>x</em> + 25 = 45, what is the value of <em>x</em> + 5?",
+    "answer_choices": {
+      "A": "4",
+      "B": "9",
+      "C": "34",
+      "D": "45"
+    },
+    "answer_ids": {
+      "A": 44741,
+      "B": 44742,
+      "C": 44743,
+      "D": 44744
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the value of an expression based on an equation. When an SAT question asks for the value of an expression, there is usually a straightforward way to solve for the expression without needing to completely isolate the variable. Since <em>x</em> is 5<em>x</em> divided by 5, and 5 is 25 divided by 5, divide the entire equation 5<em>x</em> + 25 = 45 by 5 to get <em>x</em> + 5 = 9. The question asks for the value of <em>x</em> + 5, so stop here. The correct answer is (B).\n                        </div>",
+    "correct_answer": "B",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12567/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:49.389839"
+  },
+  {
+    "question_id": 12568,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\">(9<i>x</i><sup>4</sup> – 6) + (–3<i>x</i><sup>4</sup> – 6)</div>\n<o:p></o:p> <br/>The given expression is equivalent to which of the following expressions?<o:p></o:p>",
+    "answer_choices": {
+      "A": "6<em>x</em><sup>4</sup>",
+      "B": "9<em>x</em><sup>4</sup>",
+      "C": "6<em>x</em><sup>4</sup> – 12",
+      "D": "9<em>x</em><sup>4</sup> – 12"
+    },
+    "answer_ids": {
+      "A": 44745,
+      "B": 44746,
+      "C": 44747,
+      "D": 44748
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for an equivalent form of an expression. Use Bite-Sized Pieces and Process of Elimination to tackle this question. Start by combining the terms that have <em>x</em><sup>4</sup>. Add 9<em>x</em><sup>4</sup> to –3<em>x</em><sup>4</sup> to get 9<em>x</em><sup>4</sup> + (–3<em>x</em><sup>4</sup>), which becomes 9<em>x</em><sup>4</sup> –3<em>x</em><sup>4</sup> = 6<em>x</em><sup>4</sup>. Eliminate (B) and (D) because they do not include 6<em>x</em><sup>4</sup>. Next, work with the constants. Add again to get –6 + (–6), which becomes –6 – 6, or –12. Eliminate (A) because it does not include –12. The correct answer is (C).\n                        </div>",
+    "correct_answer": "C",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12568/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:50.108368"
+  },
+  {
+    "question_id": 12569,
+    "stimulus": "",
+    "question_stem": "A study of six counties recorded the average number of inches of snow each county experienced during the most recent winter. The table shows an original data set of the results of the study.<br/><br/>\n<div>\n<table border=\"1\" style=\"height: 141px; width: 33.4454%; border-collapse: collapse; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 11.8487%; height: 18px; text-align: center;\">County</td>\n<td style=\"width: 21.5967%; height: 18px; text-align: center;\">Inches of snow</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 11.8487%; height: 21px; text-align: center;\"><em>C</em><sub>1</sub></td>\n<td style=\"width: 21.5967%; height: 21px; text-align: center;\">44</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 11.8487%; height: 21px; text-align: center;\"><em>C</em><sub>2</sub></td>\n<td style=\"width: 21.5967%; height: 21px; text-align: center;\">56</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 11.8487%; height: 21px; text-align: center;\"><em>C</em><sub>3</sub></td>\n<td style=\"width: 21.5967%; height: 21px; text-align: center;\">43</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 11.8487%; height: 21px; text-align: center;\"><em>C</em><sub>4</sub></td>\n<td style=\"width: 21.5967%; height: 21px; text-align: center;\">31</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 11.8487%; height: 21px; text-align: center;\"><em>C</em><sub>5</sub></td>\n<td style=\"width: 21.5967%; height: 21px; text-align: center;\">41</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 11.8487%; height: 18px; text-align: center;\"><em>C</em><sub>6</sub></td>\n<td style=\"width: 21.5967%; height: 18px; text-align: center;\">52</td>\n</tr>\n</tbody>\n</table>\n<br/> A seventh county with 55 inches of snow recorded is added to create a new data set. Which of the following is true about the means of the two data sets?</div>",
+    "answer_choices": {
+      "A": "There is not enough information to compare the means.",
+      "B": "The means of both data sets are equal.",
+      "C": "The mean of the original data set is greater than the mean of the new data set.",
+      "D": "The mean of the original data set is less than the mean of the new data set."
+    },
+    "answer_ids": {
+      "A": 44749,
+      "B": 44750,
+      "C": 44751,
+      "D": 44752
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for a comparison of the means of two data sets. One approach is to ballpark. All but one of the numbers in the original data set are less than 55, so adding 55 to create the new data set will make the mean of the new data set greater than the mean of the original data set, making (D) correct. <br/><br/>Another method is to use the built-in calculator. Enter <em>mean</em> into an entry field followed by the list of numbers inside parentheses. After entering the values from the initial data set, the calculator shows a mean of 44.5 in the lower right corner of the entry field. Write this down, and then add 55 to the list of numbers in parenthesis. The calculator now shows a mean of 46. This is greater than the original mean of 44.5, so (D) is correct. <br/><br/>Using either of these methods, the correct answer is (D).\n                        </div>",
+    "correct_answer": "D",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12569/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:50.824837"
+  },
+  {
+    "question_id": 12570,
+    "stimulus": "",
+    "question_stem": "<strong><img alt=\"The figure presents the graph of a line in the x y plane, with the origin labeled O. The numbers negative 8 through 8, in increments of 2, are indicated on the x axis and on the y-axis. The line begins in the third quadrant and slants upward and to the right, ending in the first quadrant. The line passes through the point with coordinates negative 6 comma negative 7, the point with coordinates negative 2 comma negative 1, and the point with coordinates 0 comma 2. The area below and to the right of the line is shaded gray.\" height=\"382\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod1_Art_Q08-revised.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"381\"/><br/></strong>\n<p>Solutions to which inequality are shown in the shaded region of the graph?</p>",
+    "answer_choices": {
+      "A": "<em>y</em> ≤ 2 – 1.5<em>x</em>",
+      "B": "<em>y</em> ≤ 2 + 1.5<em>x</em>",
+      "C": "<em>y</em> ≥ 2 – 1.5<em>x</em>",
+      "D": "<em>y</em> ≥ 2 + 1.5<em>x</em>"
+    },
+    "answer_ids": {
+      "A": 44753,
+      "B": 44754,
+      "C": 44755,
+      "D": 44756
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for an inequality that represents a graph. One approach is to enter the inequality from each answer choice into the built-in calculator and see which graph looks like the graph in the question. Save time by entering the inequality in (A) and then changing signs and the direction of the inequality sign to see the graphs of the other answer choices. The graph of the inequality in (B) matches the graph in the question, so (B) is correct.<span style=\"font-size: 12pt;\"> <br/><br/></span>\n<p>Another approach is to plug in points from the graph. Start with simple numbers and use the point (0, 0), which is in the shaded area and thus is a solution to the inequality, meaning it must work in the correct equation. Choice (A) becomes 0 ≤ 2 – 1.5(0), then 0 ≤ 2 – 0, and finally 0 ≤ 2. This is true, so keep (A). Choice (B) becomes 0 ≤ 2 + 1.5(0), then 0 ≤ 2 + 0, and finally 0 ≤ 2; keep (B). Choice (C) becomes 0 ≥ 2 – 1.5(0), then 0 ≥ 2 – 0, and finally 0 ≥ 2. This is not true, so eliminate (C). Choice (D) becomes 0 ≥ 2 + 1.5(0), then 0 ≥ 2 + 0, and finally 0 ≥ 2; eliminate (D). Two answers worked with the first point, so try another point in the shaded area, such as (4, 4). Choice (A) becomes 4 ≤ 2 – 1.5(4), then 4 ≤ 2 – 6, and finally 4 ≤ –4; eliminate (A). Choice (B) becomes 4 ≤ 2 + 1.5(4), then 4 ≤ 2 + 6, and finally 4 ≤ 8; keep (B). Only (B) is left, so it is correct.<br/><br/>Using either of these methods, the correct answer is (B).</p>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12570/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:51.554161"
+  },
+  {
+    "question_id": 12571,
+    "stimulus": "",
+    "question_stem": "A baker uses 93 cups of flour per day making cakes and pies. The equation 3<em>c </em>+ 1.5<em>p </em>= 93 represents this situation, where <em>c </em>is the number of cakes made and <em>p </em>is the number of pies made. According to the equation, how many cups of flour does the baker use for each pie?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for a value given a specific situation. Translate the information in Bite-Sized Pieces. One piece of information states that <em>A baker uses 93 cups of flour per day making cakes and pies</em>. Since the right side of the equation represents the total number of cups f flour used for cakes and pies, the two terms on the left side of the equation must represent the number of cups of flour used for each dessert. Another piece of information states that <em>p is the number of pies made</em>. Since <em>p</em> is the number of pies and 1.5<em>p</em> is number of cups of flour used to make pies, 1.5 must represent the number of cups of flour per pie. The correct answer is 1.5.\n                        </div>",
+    "correct_answer": "",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12571/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:52.253826"
+  },
+  {
+    "question_id": 12572,
+    "stimulus": "",
+    "question_stem": "When graphed in the <em>xy-</em>plane, line <em>m </em>contains the points (–3, 11) and (0, 2). Which of the following equations defines line <em>m</em>?",
+    "answer_choices": {
+      "A": "<em>y</em> = –3<em>x</em> + 2",
+      "B": "<img align=\"middle\" alt=\"y equals negative 1 third x plus 2\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/460e733e-ade0-42f8-ace0-392ae90975ae_Choice_1217986_62262bd2-655a-4b19-9c69-05017aba129e.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"92\"/>",
+      "C": "<em>y</em> = <em>x </em>– 3",
+      "D": "<img align=\"middle\" alt=\"y equals x minus 1 third\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/460e733e-ade0-42f8-ace0-392ae90975ae_Choice_1217988_c7fc5306-f2ae-45c1-a3fd-5e79ec4adfd0.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"68\"/>"
+    },
+    "answer_ids": {
+      "A": 44757,
+      "B": 44758,
+      "C": 44759,
+      "D": 44760
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for the equation of a line. The question provides two points on the line, so plug those into the answer choices and eliminate answers that don’t work with both points. Start by plugging <em>x</em> = 0 and <em>y</em> = 2 into the answer choices. Choice (A) becomes 2 = –3(0) + 2, then 2 = 0 + 2, and finally 2 = 2. This is true, so check the second point in (A). Plug in <em>x</em> = –3 and <em>y</em> = 11, and the equation in (A) becomes 11 = –3(–3) + 2, then 11 = 9 + 2, and finally 11 = 11. Both points work in the equation in (A), so it is correct. </p>\n<p>Another method is to find the slope of the line using the two points given. Plug the points (–3, 11) and (0, 2) into the formula <em>slope</em> = <img align=\"middle\" alt=\"fraction numerator y subscript 2 minus y subscript 1 over denominator x subscript 2 minus x subscript 1 end fraction\" height=\"53\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/460e733e-ade0-42f8-ace0-392ae90975ae_e4581841-c5b4-46ba-851f-5542334084ca.svg\" style=\"max-width: none; vertical-align: -21px;\" width=\"56\"/>. The formula becomes <em>slope</em> = <img align=\"middle\" alt=\"fraction numerator 11 minus 2 over denominator negative 3 minus 0 end fraction\" height=\"43\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/460e733e-ade0-42f8-ace0-392ae90975ae_54cc23ac-a2da-41e4-b5a0-71ec372e3e1f.svg\" style=\"max-width: none; vertical-align: -16px;\" width=\"55\"/>, then <em>slope</em> = <img align=\"middle\" alt=\"fraction numerator 9 over denominator negative 3 end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/460e733e-ade0-42f8-ace0-392ae90975ae_ef2d35a8-2751-4a2e-a8f4-781eb9a5018f.svg\" style=\"max-width: none; vertical-align: -16px;\" width=\"31\"/>, and finally <em>slope</em> = –3. All of the answer choices are in slope-intercept form, <em>y</em> = <em>mx</em> + <em>b</em>, in which <em>m </em>is the slope and <em>b </em>is the <em>y</em>-intercept. Only in (A) does <em>m</em> = –3, so it is correct. <br/><br/></p>\nUsing either of these methods, the correct answer is (A).\n                        </div>",
+    "correct_answer": "A",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12572/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:52.983552"
+  },
+  {
+    "question_id": 12573,
+    "stimulus": "",
+    "question_stem": "If (<em>n</em> + 15)(<em>n</em> – 15) + 22 = 22, what is one possible value of <em>n</em>?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for the solution to an equation. One method is to use the built-in calculator. Change <em>n</em> to <em>x</em> in order to see a graph, enter the equation as written, and then scroll and zoom as needed to see the solutions represented by vertical lines. There are gray dots on the <em>x</em>-axis at 15 and –15. Either answer will be accepted as correct. </p>\n<p>To solve algebraically, start by subtracting 22 from both sides of the equation to get (<em>n</em> + 15) (<em>n</em> – 15) = 0. Set each factor equal to 0 to get <em>n</em> + 15 = 0 and <em>n</em> – 15 = 0. Subtract 15 from both sides of the first equation to get <em>n</em> = –15. Add 15 to both sides of the second equation to get <em>n</em> = 15. Either answer will be accepted as correct. </p>\nUsing either of these methods, the correct answer is 15 or –15.\n                        </div>",
+    "correct_answer": "",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12573/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:53.705490"
+  },
+  {
+    "question_id": 12574,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\"><em>d</em> = <em>k</em>(–<em>a</em> + 21)</div>\n<span style=\"font-size: 12pt;\"> </span><br/>The given equation relates the nonzero numbers <em>d</em>, <em>k</em>, and <em>a</em>. Which equation correctly expresses <em>a </em>in terms of <em>d</em> and <em>k</em>?",
+    "answer_choices": {
+      "A": "<img align=\"middle\" alt=\"a equals negative d over k plus 21\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/ea1230a9-a46c-407d-9bbc-1ff30e60ee2f_Choice_1217981_3ae95fce-a822-4310-a1ff-e4d186ee7b7d.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"94\"/>",
+      "B": "<img align=\"middle\" alt=\"a equals d over k minus 21\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/ea1230a9-a46c-407d-9bbc-1ff30e60ee2f_Choice_1217982_33c0c572-049b-42cd-8be7-d47606c4f747.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"79\"/>",
+      "C": "<img align=\"middle\" alt=\"a equals negative fraction numerator d minus 21 over denominator k end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/ea1230a9-a46c-407d-9bbc-1ff30e60ee2f_Choice_1217983_d6de3609-7079-4335-a547-419a7f2f17b1.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"94\"/>",
+      "D": "<img align=\"middle\" alt=\"a equals fraction numerator d minus 21 over denominator k end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/ea1230a9-a46c-407d-9bbc-1ff30e60ee2f_Choice_1217984_365bf255-8f50-4185-a75b-e3de3ef056ff.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"79\"/>"
+    },
+    "answer_ids": {
+      "A": 44761,
+      "B": 44762,
+      "C": 44763,
+      "D": 44764
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for an equation in terms of a specific variable. The question asks about the relationship among variables and there are variables in the answer choices, so one option is to plug in. However, that might get messy with three variables. All of the answer choices have <em>a</em> by itself, so the other option is to solve for <em>a</em>. To isolate <em>a </em>on the left side of the equation, first divide both sides of the equation by <em>k</em> to get <img align=\"middle\" alt=\"d over k equals negative a plus 21\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/ea1230a9-a46c-407d-9bbc-1ff30e60ee2f_224e714d-a08a-4761-978a-d3fa319beb59.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"94\"/>. Next, add <em>a</em> to both sides of the equation to get <img align=\"middle\" alt=\"a plus d over k equals 21\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/ea1230a9-a46c-407d-9bbc-1ff30e60ee2f_f7831cac-4b88-4dd4-aed8-107ec563ab41.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"79\"/>. Finally, subtract <img align=\"middle\" alt=\"d over k\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/ea1230a9-a46c-407d-9bbc-1ff30e60ee2f_35340265-5323-47b4-8fd3-4b8a4fba936d.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"19\"/> from both sides of the equation to get <img align=\"middle\" alt=\"a equals negative d over k plus 21\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/ea1230a9-a46c-407d-9bbc-1ff30e60ee2f_b3351f3a-0e94-4c05-a414-dafcb3a1e728.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"94\"/>. The correct answer is (A).\n                        </div>",
+    "correct_answer": "A",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12574/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:54.439543"
+  },
+  {
+    "question_id": 12575,
+    "stimulus": "",
+    "question_stem": "<p>The atmospheric pressure, in millibars, at a given altitude, in meters, can be approximated by the function <em>P</em>(<em>a</em>) = <img align=\"middle\" alt=\"395 left parenthesis 0.51 right parenthesis to the power of a over 510 end exponent\" height=\"38\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/9d2fc04c-ec98-4e78-97df-2898dba01e36_0582128e-321d-4b22-91da-a7a37705c602.svg\" style=\"max-width: none; vertical-align: -5px;\" width=\"97\"/>, where <em>a</em> is the altitude, in meters, above 10,000 meters and 0 ≤ <em>a</em> ≤ 30,000. According to the function, what is the approximate atmospheric pressure, in millibars, at an altitude of 10,000 meters?</p>",
+    "answer_choices": {
+      "A": "49",
+      "B": "51",
+      "C": "395",
+      "D": "510"
+    },
+    "answer_ids": {
+      "A": 44765,
+      "B": 44766,
+      "C": 44767,
+      "D": 44768
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the value of a function that represents a situation. In function notation, the number inside the parentheses is the <em>x</em>-value that goes into the function, or the input, and the value that comes out of the function is the <em>y</em>-value, or the output. In this question, the altitude in meters, <em>a</em>, is the input and the atmospheric pressure, <em>P</em>(<em>a</em>), is the output. The question states that <em>a</em> represents <em>altitude, in meters, above 10,000 meters</em> and asks about the atmospheric pressure when the altitude is 10,000 meters. When the altitude is 10,000 meters, the altitude is 0 meters above 10,000 meters. Plug in <em>a</em> = 0 and the function becomes <em>P</em>(0) = <img align=\"middle\" alt=\"395 left parenthesis 0.51 right parenthesis to the power of 0 over 510 end exponent\" height=\"39\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/9d2fc04c-ec98-4e78-97df-2898dba01e36_5cd4d2a9-0b0f-4fd5-99ba-aace2b9bf827.svg\" style=\"max-width: none; vertical-align: -5px;\" width=\"97\"/>. Either enter the right side of the equation into the built-in calculator or simplify to get <em>P</em>(0) = 395(0.51)<sup>0</sup>. Any number besides 0 raised to the power of 0 is 1, so the function becomes <em>P</em>(0) = 395(1), or <em>P</em>(0) = 395. Thus, when the altitude is 10,000 meters, the atmospheric pressure is 395 millibars. The correct answer is (C).\n                        </div>",
+    "correct_answer": "C",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12575/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:55.150320"
+  },
+  {
+    "question_id": 12576,
+    "stimulus": "",
+    "question_stem": "<div><img alt=\"The figure presents the graph of a curve in the x y plane. The line begins at the point with coordinates 0 comma 2. It moves upward and to the right, passing through the point with approximate coordinates 1 comma 3 and the point with approximate coordinates 3 comma 6.7. The curve ends at the point with the approximate coordinates 4 comma 10.\" height=\"341\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod1_Art_Q14.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"350\"/></div>\n<br/>A partial graph of the rational function <em>g</em> is shown, where <em>y</em> = <em>g</em>(<em>x</em>). Which graph represents the equation <em>y</em> = <em>g</em>(<em>x</em>) – 2, where <em>x </em>≥ 0?",
+    "answer_choices": {
+      "A": "<img alt=\"The figure presents the graph of a curve in the x y plane. The line begins at the point with coordinates 0 comma 4. It moves upward and to the right, passing through the point with approximate coordinates 1 comma 5 and the point with approximate coordinates 3 comma 8.7. The curve ends at the point with the approximate coordinates 3.5 comma 10.\" height=\"339\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod1_Art_Q14A.jpg\" width=\"350\"/>",
+      "B": "<img alt=\"The figure presents the graph of a curve in the x y plane. The line begins at the point with coordinates 0 comma 0. It moves upward and to the right, passing through the point with approximate coordinates 1 comma 1 and the point with approximate coordinates 3 comma 4.7. The curve ends at the point with the approximate coordinates 4.4 comma 10.\" height=\"339\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod1_Art_Q14B.jpg\" width=\"350\"/>",
+      "C": "<img alt=\"The figure presents the graph of a curve in the x y plane. The line begins at the point with coordinates 0 comma 2. It moves upward and to the right, passing through the point with approximate coordinates 1 comma 7. The curve ends at the point with the approximate coordinates 1.3 comma 10.\" height=\"343\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod1_Art_Q14C.jpg\" width=\"350\"/>",
+      "D": "<img alt=\"The figure presents the graph of a curve in the x y plane. The line begins at the point with coordinates 0 comma 1. It moves upward and to the right, passing through the point with approximate coordinates 1 comma 1.2 and the point with approximate coordinates 3 comma 1.7. The curve ends at the point with the approximate coordinates 10 comma 6.2.\" height=\"341\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod1_Art_Q14D.jpg\" width=\"350\"/>"
+    },
+    "answer_ids": {
+      "A": 44769,
+      "B": 44770,
+      "C": 44771,
+      "D": 44772
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Advanced Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the graph that is a translation of another graph. Pick a point on the graph of <em>y</em> = <em>g</em>(<em>x</em>) and apply the translation. The graph of <em>y</em> = <em>g</em>(<em>x</em>) passes through a point at approximately (0, 2). The equation of the graph of <em>g</em>(<em>x</em>) <em>–</em> 2 subtracts 2 outside the parentheses, so the <em>y</em>-coordinate moves down 2 units. Thus, the second graph should include a point at approximately (0, 0). The graph in (A) has a point at (0, 4), not (0, 0), so eliminate (A). The graph in (B) has a point at approximately (0, 0); keep (B). The graph in (C) has a point at approximately (0, 2); eliminate (C). The graph in (D) has a point at (0, 1); eliminate (D). To check (B), find another point on the first graph and translate it down 2 units. There is a point at approximately (4, 10). Translate this point down 2 units to get a point on the new graph at (4, 8). The graph in (B) has a point at approximately (4, 8). The correct answer is (B).\n                        </div>",
+    "correct_answer": "B",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12576/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:55.868461"
+  },
+  {
+    "question_id": 12577,
+    "stimulus": "",
+    "question_stem": "What is the value of <img align=\"middle\" alt=\"sin fraction numerator 67 straight pi over denominator 4 end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/f5ec0f8f-6314-4476-a012-12b08e55ec4e_68403476-4795-43e1-8c7f-edfc4cb46c4c.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"59\"/>?",
+    "answer_choices": {
+      "A": "<img align=\"middle\" alt=\"negative square root of 2\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/f5ec0f8f-6314-4476-a012-12b08e55ec4e_Choice_1217989_ef0f4738-ef9e-49af-84f5-0dab7666f572.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"39\"/>",
+      "B": "<img align=\"middle\" alt=\"negative fraction numerator square root of 2 over denominator 2 end fraction\" height=\"45\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/f5ec0f8f-6314-4476-a012-12b08e55ec4e_Choice_1217990_93805bf3-932c-421d-9347-595ab3a66c37.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"47\"/>",
+      "C": "<img align=\"middle\" alt=\"fraction numerator square root of 2 over denominator 2 end fraction\" height=\"45\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/f5ec0f8f-6314-4476-a012-12b08e55ec4e_Choice_1217991_9efc3404-42cc-483d-81d8-b3af426c3295.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"34\"/>",
+      "D": "<img align=\"middle\" alt=\"square root of 2\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/f5ec0f8f-6314-4476-a012-12b08e55ec4e_Choice_1217992_7beff98a-922a-4829-9a69-b7b41ff5e3d0.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"26\"/>"
+    },
+    "answer_ids": {
+      "A": 44773,
+      "B": 44774,
+      "C": 44775,
+      "D": 44776
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the value of the sine of an angle. It may appear that knowledge of the unit circle and coterminal angles is necessary to answer the question, but a much more efficient method is to use the built-in calculator. Enter <img align=\"middle\" alt=\"sin open parentheses fraction numerator 67 straight pi over denominator 4 end fraction close parentheses\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/f5ec0f8f-6314-4476-a012-12b08e55ec4e_f88d6e32-12dc-4ecc-89a9-53f35d50bf8e.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"73\"/> into an entry field. To enter π, either type <em>pi</em> and let the calculator convert it to the symbol or open the on-screen keypad in the lower left corner and click on π. Next, check that the angle is in the correct units. When an angle measure on the SAT does not have a degree symbol or specify degrees in words, it is in radians. Click on the tool button in the upper right of the built-in calculator and make sure that Radians is selected, as indicated by the darker box. The value of <img align=\"middle\" alt=\"sin open parentheses fraction numerator 67 straight pi over denominator 4 end fraction close parentheses\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/f5ec0f8f-6314-4476-a012-12b08e55ec4e_fdbc7366-5614-48bb-88f2-ce201fa5e36c.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"73\"/> shows in the bottom right of the entry field as 0.707106781187. This is positive, so eliminate (A) and (B) because they are negative. Test the remaining answers by entering each one into the built-in calculator to see whether it equals 0.707106781187. To enter square roots, either type <em>sqrt</em> and let the calculator convert it to the square root symbol or open the on-screen keypad in the lower left corner and click on <img align=\"middle\" alt=\"square root of blank end root\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/f5ec0f8f-6314-4476-a012-12b08e55ec4e_7b02af03-2ba8-4658-b75e-10eda0af9942.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"25\"/>. The value in (C) results in the same value as <img align=\"middle\" alt=\"sin open parentheses fraction numerator 67 straight pi over denominator 4 end fraction close parentheses\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/f5ec0f8f-6314-4476-a012-12b08e55ec4e_c35b09c5-a3c0-443d-809b-6b7ab3cf30ac.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"73\"/>, but the value in (D) does not. The correct answer is (C).\n<p></p>\n</div>",
+    "correct_answer": "C",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12577/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:56.605970"
+  },
+  {
+    "question_id": 12578,
+    "stimulus": "",
+    "question_stem": "A bricklayer uses bricks in the shape of rectangular prisms with dimensions, in centimeters, of 9 × 9 × 19. The bricklayer puts mortar only on the bottom of the brick and the two square ends of the brick. What is the surface area, in centimeters, of the portion of one brick with mortar on it?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the surface area of a geometric figure. Use the Geometry Basic Approach. First, draw a figure. The surface area of a geometric figure is the sum of the areas of its sides, so draw the sides. Since the edges of the rectangular prism have lengths of 9, 9, and 19 centimeters, two of the sides are squares and four of the sides are rectangles. Draw a square and a rectangle and label the sides of the square as 9 and one side of the rectangle as 9 and another side as 19. The figure should look something like this:<br/><br/>\n<div><img alt=\"The figure presents a rectangle and a square. The rectangle is labeled with a height of 19 and a width of 9. The square is labeled with a height and width of 9.\" height=\"288\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Ans_Mod1_Art_Q16.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"333\"/><br/>The formula for the area of a square is <em>A</em> = <em>s</em><sup>2</sup>, so the area of one of the square ends is <em>A</em> = 9<sup>2</sup>, or <em>A</em> = 81 square centimeters. The formula for the area of a rectangle is <em>A </em>= <em>lw</em>, so the area of one of the rectangular faces is <em>A </em>= (9)(19), or <em>A </em>= 171 square centimeters. The question states that the <em>bricklayer puts mortar only on the bottom of the brick and the two square ends of the brick</em>, so the surface area of the portion of the brick with mortar on it is made up of the bottom and the two square ends. This is two square sides with an area of 81 square centimeters and one rectangular side with an area of 171 square centimeters, so the surface area is (81)(2) + 171. Simplify to get 162 + 171, and then 333 square centimeters. The correct answer is 333.</div>\n</div>",
+    "correct_answer": "",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12578/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:57.313221"
+  },
+  {
+    "question_id": 12579,
+    "stimulus": "",
+    "question_stem": "What is the sum of the solutions to the equation |<em>x</em> + 11| – 47 = –24?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for the sum of the solutions to an equation. The most efficient method is to enter the equation into the built-in calculator. The equation does not need to be in a different form in order to find the solutions. When graphed, the points where the two vertical lines cross the <em>x</em>-axis are the solutions. Those points are at <em>x</em> = –34 and <em>x</em> = 12. Add these to get –34 + 12 = –22, which is correct. </p>\n<p>To solve algebraically, first add 47 to both sides of the equation to get |<em>x</em> + 11| = 23. With an absolute value, the value inside the absolute value bars can be either positive or negative, so this equation has two possible solutions. To find the solutions, set <em>x</em> + 11 equal to both 23 and –23. When <em>x</em> + 11 = 23, subtract 11 from both sides of the equation to get <em>x</em> = 12. When <em>x </em>+ 11 = –23, subtract 11 from both sides of the equation to get <em>x</em> = –34. Add the two solutions to get 12 + (–34) = –22, which is correct. </p>\n<p>Using either of these methods, the correct answer is –22.</p>\n</div>",
+    "correct_answer": "",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12579/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:58.037680"
+  },
+  {
+    "question_id": 12580,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\">(<em>x</em> + 7)<sup>2</sup> + (<em>y</em> – 3)<sup>2</sup> = 64<br/><br/></div>\n<p>The given equation is graphed in the <em>xy</em>-plane. Which of the following could be the <em>y</em>-coordinate of a point that lies on the circle?</p>",
+    "answer_choices": {
+      "A": "–9",
+      "B": "–8",
+      "C": "–7",
+      "D": "–3"
+    },
+    "answer_ids": {
+      "A": 44777,
+      "B": 44778,
+      "C": 44779,
+      "D": 44780
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Advanced Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for a possible <em>y</em>-value of a point on a circle. The most efficient method is to enter the equation into the built-in calculator. Scroll and zoom as needed to see the entire graph of the circle. Next, check the answer choices by entering <em>y</em> = followed by each answer choice and looking to see whether the graph of that horizontal line intersects the circle. Enter <em>y</em> = –9 into the second entry field to see that no points on that line intersect the circle; eliminate (A). Enter <em>y</em> = –8 to see that no points on that line intersect the circle; eliminate (B). Enter <em>y</em> = –7 to see that no points on that line intersect the circle; eliminate (C). Enter <em>y</em> = –3 to see that two points on that line intersect the circle; keep (D), which leaves (D) as correct. </p>\n<p>Another method is to use information from the equation of the circle. The standard form of the equation of a circle is (<em>x</em> – <em>h</em>)<sup>2</sup> + (<em>y</em> – <em>k</em>)<sup>2</sup> = <em>r</em><sup>2</sup>, in which (<em>h</em>, <em>k</em>) is the center and <em>r</em> is the radius. In this circle, <em>x</em> – <em>h</em> = <em>x</em> + 7, so <em>h</em> = –7; <em>y</em> – <em>k</em> = <em>y</em> – 3, so <em>k</em> = 3; and <em>r</em><sup>2</sup> = 64, so <em>r</em> = 8. The center is at (–7, 3), and the radius is 8, so there are points on the circle 8 units up and 8 units down from the center. The <em>y</em>-values of these points are 3 – 8 = –5 and 3 + 8 = 11. Thus, there are points on the circle at (–7, –5) and (–7, 11). Only points with <em>y</em>-values greater than or equal to –5 and less than or equal to 11 will be on the circle. Eliminate (A), (B), and (C) because the <em>y</em>-values are outside of this range, leaving (D) as correct. </p>\n<p>Using either of these methods, the correct answer is (D).</p>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12580/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:58.749508"
+  },
+  {
+    "question_id": 12581,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: left;\"><img align=\"middle\" alt=\"36 b q minus fraction numerator 36 b over denominator q end fraction\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/eecae1d4-9720-4913-9a1e-d56cefbdb05e_e7131b9f-3053-484f-bcd5-8f80b433899d.svg\" style=\"max-width: none; vertical-align: -15px; display: block; margin-left: auto; margin-right: auto;\" width=\"89\"/><br/>Which of the following expressions is equivalent to the given expression, where <em>q </em>&gt; 0?</div>",
+    "answer_choices": {
+      "A": "<img align=\"middle\" alt=\"fraction numerator 36 b left parenthesis q minus 1 right parenthesis over denominator q end fraction\" height=\"43\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/eecae1d4-9720-4913-9a1e-d56cefbdb05e_Choice_1217993_1594e168-58cb-4368-8240-da9c5ffbb83b.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"81\"/>",
+      "B": "<img align=\"middle\" alt=\"fraction numerator 36 b left parenthesis q squared minus 1 right parenthesis over denominator q end fraction\" height=\"45\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/eecae1d4-9720-4913-9a1e-d56cefbdb05e_Choice_1217994_988c13f3-4e3b-4a07-98e1-ae4f3f379f4b.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"88\"/>",
+      "C": "<img align=\"middle\" alt=\"fraction numerator 72 b q over denominator q end fraction\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/eecae1d4-9720-4913-9a1e-d56cefbdb05e_Choice_1217999_0e850c29-51f3-4289-b9c3-c9482d0d1bf2.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"46\"/>",
+      "D": "<img align=\"middle\" alt=\"fraction numerator 72 b q squared over denominator q end fraction\" height=\"44\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/eecae1d4-9720-4913-9a1e-d56cefbdb05e_Choice_1218000_bfe8f2c2-77ef-434a-8daa-681ec286b596.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"53\"/>"
+    },
+    "answer_ids": {
+      "A": 44781,
+      "B": 44782,
+      "C": 44783,
+      "D": 44784
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for an equivalent form of an expression. There are variables in the answer choices, so plug in. Choose small numbers that work well with the expression: make <em>b</em> = 2 and <em>q</em> = 3. Plug these into the expression to get <img align=\"middle\" alt=\"36 left parenthesis 2 right parenthesis left parenthesis 3 right parenthesis minus fraction numerator 36 left parenthesis 2 right parenthesis over denominator 3 end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/eecae1d4-9720-4913-9a1e-d56cefbdb05e_d0e9cf47-9e71-4dda-ae54-94ba85284acf.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"117\"/>, which becomes <img align=\"middle\" alt=\"216 minus 72 over 3\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/eecae1d4-9720-4913-9a1e-d56cefbdb05e_ff687d26-6a16-4eb4-93b4-a95eb47601fc.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"69\"/>, then 216 – 24, and finally 192. This is the target value; write it down and circle it. Now plug <em>b</em> = 2 and <em>q</em> = 3 into the answer choices, and eliminate any that do not match the target value. Choice (A) becomes <img align=\"middle\" alt=\"fraction numerator 36 left parenthesis 2 right parenthesis left parenthesis 3 minus 1 right parenthesis over denominator 3 end fraction\" height=\"43\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/eecae1d4-9720-4913-9a1e-d56cefbdb05e_86de3016-0eca-44d9-bd9b-891873057a4c.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"89\"/>, then <img align=\"middle\" alt=\"fraction numerator 36 left parenthesis 2 right parenthesis left parenthesis 2 right parenthesis over denominator 3 end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/eecae1d4-9720-4913-9a1e-d56cefbdb05e_544f8831-e505-4322-a08d-9e85f6a4532b.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"65\"/>, and finally 48. This does not match the target value, so eliminate (A). Choice (B) becomes <img align=\"middle\" alt=\"fraction numerator 36 left parenthesis 2 right parenthesis left parenthesis 3 squared minus 1 right parenthesis over denominator 3 end fraction\" height=\"45\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/eecae1d4-9720-4913-9a1e-d56cefbdb05e_94b8c936-5dc3-458f-915d-36b19084f9c0.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"96\"/>, and then <img align=\"middle\" alt=\"fraction numerator 36 left parenthesis 2 right parenthesis left parenthesis 8 right parenthesis over denominator 3 end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/eecae1d4-9720-4913-9a1e-d56cefbdb05e_06a91a34-382c-4bd6-99f3-033894d33641.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"65\"/>. Continue simplifying to get <img align=\"middle\" alt=\"fraction numerator 36 left parenthesis 16 right parenthesis over denominator 3 end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/eecae1d4-9720-4913-9a1e-d56cefbdb05e_574cfeb5-d5fd-4b79-8383-60495a68611d.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"55\"/>, and finally 192; keep (B), but check the remaining answers just in case. Choice (C) becomes <img align=\"middle\" alt=\"fraction numerator 72 left parenthesis 2 right parenthesis left parenthesis 3 right parenthesis over denominator 3 end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/eecae1d4-9720-4913-9a1e-d56cefbdb05e_4cc954c1-282f-473f-ada5-a051fcf16989.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"65\"/>, and then 72(2). Continue simplifying to get 144; eliminate (C). Choice (D) becomes <img align=\"middle\" alt=\"fraction numerator 72 left parenthesis 2 right parenthesis left parenthesis 3 right parenthesis squared over denominator 3 end fraction\" height=\"45\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/eecae1d4-9720-4913-9a1e-d56cefbdb05e_947c387a-f0f5-4478-b9d4-07f1459d24bd.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"72\"/>, and then 72(2)(3). Continue simplifying to get 72(6), and then 432. Eliminate (D). The correct answer is (B).</p>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12581/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:26:59.473062"
+  },
+  {
+    "question_id": 12582,
+    "stimulus": "",
+    "question_stem": "<p style=\"text-align: center;\"><em>g</em>(<em>x</em>) = <em><img align=\"middle\" alt=\"c square root of d minus x end root\" height=\"24\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/65fa4835-59cb-409c-a941-82f64c71764f_6ec6f1b9-6b93-4900-8a17-926de4081729.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"60\"/></em><em> </em></p>\n<br/>In the given function, <em>c </em>and <em>d</em> are constants. If <em>g</em>(–18) < 0 and the graph of <em>g</em>(<em>x</em>) contains the point (18, 0) when graphed in the <em>xy</em>-plane, then which of the following must be true?",
+    "answer_choices": {
+      "A": "<em>c</em> < <em>d</em>",
+      "B": "<em>c</em> > <em>d</em>",
+      "C": "<em>g</em>(0) = –18",
+      "D": "<em>g</em>(0) = 18"
+    },
+    "answer_ids": {
+      "A": 44785,
+      "B": 44786,
+      "C": 44787,
+      "D": 44788
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for a true statement based on a function. One method is to use the built-in calculator. Enter the equation of the function in an entry field, and then select the slider tool for both <em>c</em> and <em>d</em>. The question provides a point at (18, 0), so move the slider tools to see when this point is on the graph. Moving the slider for <em>c</em> to the right or left moves the graph up or down, but not side to side. Moving the slider for <em>d</em> to the right moves the graph to the right. Expand the range of the slider tool and keep sliding to the right until the graph intersects the point (18, 0). This happens when <em>d</em> = 18. </p>\n<p>Next, use the information that <em>g</em>(–18) &lt; 0, which means that, when <em>x</em> = –18, the <em>y</em>-coordinate must be below the <em>x</em>-axis. Move the slider for <em>c</em> to the right and left to see that sliding to the left moves the graph lower. Keep moving the slider for <em>c</em> to the left until the <em>y</em>-coordinate is below the <em>x</em>-axis when <em>x</em> = –18. This happens when <em>c</em> &lt; 0. Combine this information: if <em>c</em> &lt; 0 and <em>d</em> = 18, <em>c</em> must be less than <em>d</em>, or <em>c</em> &lt; <em>d</em>, so (A) is correct. </p>\n<p>To solve algebraically, recall that, in function notation, the number inside the parentheses is the <em>x</em>-value that goes into the function, or the input, and the value that comes out of the function is the <em>y</em>-value, or the output. Together, they define (<em>x</em>, <em>y</em>) points on the graph of the function. Plug in the input and output values given in the question. The question provides a point at (18, 0), so when <em>x</em> = 18, <em>g</em>(<em>x</em>) = 0. Plug these values into the function to get <img align=\"middle\" alt=\"0 equals c square root of d minus 18 end root\" height=\"24\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/65fa4835-59cb-409c-a941-82f64c71764f_4e28d988-ddbe-4b5f-a1cd-9327d2695d57.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"95\"/>. To make the right side of the equation equal 0, either <em>c</em> = 0 or  <img align=\"middle\" alt=\"square root of d minus 18 end root equals 0\" height=\"24\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/65fa4835-59cb-409c-a941-82f64c71764f_f568cc31-0389-4bbb-bf57-c8623dd18341.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"86\"/>. Square both sides of the second equation to get <em>d</em> – 18 = 0, and then add 18 to both sides of the equation to get <em>d</em> = 18. Thus, either <em>c</em> = 0 or <em>d</em> = 18, or possibly both. This is not enough information to determine what <em>must be true</em>, so work with the other input value. </p>\n<p>The question states that <em>g</em>(–18) &lt; 0, which means that, when <em>x</em> = –18, <em>g</em>(<em>x</em>) &lt; 0. Plug these values into the function to get <img align=\"middle\" alt=\"c square root of d minus left parenthesis negative 18 right parenthesis end root less than 0\" height=\"25\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/65fa4835-59cb-409c-a941-82f64c71764f_edbef10c-aba2-4258-9ada-ab63a827dc10.svg\" style=\"max-width: none; vertical-align: -5px;\" width=\"119\"/>. Try the possible values of <em>c</em> and <em>d</em> from before. Plug in <em>c</em> = 0 to get <img align=\"middle\" alt=\"left parenthesis 0 right parenthesis square root of d minus left parenthesis negative 18 right parenthesis end root less than 0\" height=\"25\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/65fa4835-59cb-409c-a941-82f64c71764f_f2fdce9e-2018-46ee-b32c-ee27da721d45.svg\" style=\"max-width: none; vertical-align: -5px;\" width=\"129\"/>, which becomes 0 &lt; 0. This is not true, so it is not true that <em>c</em> = 0, and it must be true that <em>d</em> = 18. Plug in <em>d</em> = 18 to get <img align=\"middle\" alt=\"c square root of 18 minus left parenthesis negative 18 right parenthesis end root less than 0\" height=\"25\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/65fa4835-59cb-409c-a941-82f64c71764f_d432954f-772b-4187-83b2-4bda17f9b385.svg\" style=\"max-width: none; vertical-align: -5px;\" width=\"127\"/>, which becomes <img align=\"middle\" alt=\"c square root of 36 less than 0\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/65fa4835-59cb-409c-a941-82f64c71764f_8f984427-ba9c-4fef-b243-e6e4dca0ac5a.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"69\"/>. Divide both sides of this inequality by <img align=\"middle\" alt=\"square root of 36\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/65fa4835-59cb-409c-a941-82f64c71764f_fc73b3a1-8ab4-45bc-a2a0-e6841f09c823.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"35\"/> to get <em>c</em> &lt; 0. Thus, <em>c</em> must be negative. Combine this information: if <em>c</em> is negative and <em>d</em> = 18, <em>d</em> must be greater than <em>c</em>, which can be written as <em>d</em> &gt; <em>c</em> or <em>c</em> &lt; <em>d</em>. This makes (A) correct. </p>\nUsing either of these methods, the correct answer is (A).\n                        </div>",
+    "correct_answer": "A",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12582/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:27:00.204787"
+  },
+  {
+    "question_id": 12583,
+    "stimulus": "",
+    "question_stem": "A right rectangular pyramid has a height of <em>p </em>yards, which is 11 yards less than the length of the pyramid’s base. The width of the pyramid’s base is 55 yards. Which function <em>V</em> gives the volume of the pyramid, in cubic yards, in terms of the height of the pyramid?",
+    "answer_choices": {
+      "A": "<img align=\"middle\" alt=\"V left parenthesis p right parenthesis equals 1 third left parenthesis p right parenthesis left parenthesis p plus 11 right parenthesis left parenthesis 55 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_Choice_1218019_1105e0d3-c58b-4165-bc0f-0ca218e849f2.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"168\"/>",
+      "B": "<img align=\"middle\" alt=\"V left parenthesis p right parenthesis equals 1 third left parenthesis p right parenthesis left parenthesis p minus 11 right parenthesis left parenthesis 55 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_Choice_1218020_7ec3a222-11ae-4708-af70-43918a33e0e8.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"168\"/>",
+      "C": "<img align=\"middle\" alt=\"V left parenthesis p right parenthesis equals 1 third left parenthesis p right parenthesis left parenthesis p minus 11 right parenthesis left parenthesis p plus 55 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_Choice_1218021_3a262133-8923-42be-9207-056b22d84a28.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"193\"/>",
+      "D": "<img align=\"middle\" alt=\"V left parenthesis p right parenthesis equals 1 third left parenthesis p right parenthesis left parenthesis p plus 11 right parenthesis left parenthesis p plus 55 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_Choice_1218022_73d5e881-90d4-4fa2-be0d-69a13a721516.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"193\"/>"
+    },
+    "answer_ids": {
+      "A": 44789,
+      "B": 44790,
+      "C": 44791,
+      "D": 44792
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for an equation that represents the volume of a geometric figure. Use the Geometry Basic Approach. Start by drawing a right rectangular pyramid on the scratch paper as best as possible. Next, label the figure with information from the question. Label the width of the base as 55. No specific value is given for the length of the base or the height, so plug in. The question states that the <em>right rectangular pyramid has a height of p yards, which is 11 yards less than the length of the pyramid’s base</em>. Make the height, or <em>p</em>, 3 and the length of the base 3 + 11 = 14. The figure should look something like this:<br/><br/>\n<div><img alt=\"The figure presents a rectangular pyramid with a height of 3 units and a base that measure 14 units by 55 units.\" height=\"206\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Ans_Mod1_Art_Q21.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"319\"/><br/>\n<p>Finally, write down the formula for the volume of a right rectangular pyramid, either from memory or after looking it up on the reference sheet. The formula is <img align=\"middle\" alt=\"V o l u m e equals 1 third left parenthesis l e n g t h cross times w i d t h cross times h e i g h t right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_8ffde3e0-4938-4d18-a4da-14920fddf1d3.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"260\"/>, or <img align=\"middle\" alt=\"V equals 1 third l w h\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_c56de790-1dc9-4643-ad04-ca22cec4d067.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"73\"/>. Plug in the values labeled on the figure to get <img align=\"middle\" alt=\"V equals 1 third left parenthesis 14 right parenthesis left parenthesis 55 right parenthesis left parenthesis 3 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_2aa41b1b-359d-418b-be7d-0c590d459c6e.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"122\"/>, or <em>V</em> = 770. This is the target value; write it down and circle it. </p>\nNow plug <em>p</em> = 3 into the answer choices, and eliminate any that do not match the target value. Choice (A) becomes <img align=\"middle\" alt=\"V left parenthesis 3 right parenthesis equals 1 third left parenthesis 3 right parenthesis left parenthesis 3 plus 11 right parenthesis left parenthesis 55 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_e41f7165-416a-461b-9d05-491eb25b07de.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"165\"/>, then <img align=\"middle\" alt=\"V left parenthesis 3 right parenthesis equals 1 third left parenthesis 3 right parenthesis left parenthesis 14 right parenthesis left parenthesis 55 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_51d73469-ab25-42a4-8854-e71376b22919.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"141\"/>, and finally <em>V</em>(3) = 770. This matches the target value, so keep (A)), but check the remaining answers just in case. Choice (B) becomes <img align=\"middle\" alt=\"V left parenthesis 3 right parenthesis equals 1 third left parenthesis 3 right parenthesis left parenthesis 3 minus 11 right parenthesis left parenthesis 55 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_1584e88c-0eba-408e-b7d5-e98a469d9c47.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"165\"/>, then <img align=\"middle\" alt=\"V left parenthesis 3 right parenthesis equals 1 third left parenthesis 3 right parenthesis left parenthesis negative 8 right parenthesis left parenthesis 55 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_b0ca3db0-4dfd-4017-8c57-806ecdac5623.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"147\"/>, and finally <em>V</em>(3) = –440; eliminate (B). Choice (C) becomes <img align=\"middle\" alt=\"V left parenthesis 3 right parenthesis equals 1 third left parenthesis 3 right parenthesis left parenthesis 3 minus 11 right parenthesis left parenthesis 3 plus 55 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_b5ed0e8c-44b2-4ea1-903b-96a7067f6d50.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"189\"/>, then <img align=\"middle\" alt=\"V left parenthesis 3 right parenthesis equals 1 third left parenthesis 3 right parenthesis left parenthesis negative 8 right parenthesis left parenthesis 58 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_1fde2a41-a435-4614-8f20-b20552a08440.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"147\"/>, and finally <em>V</em>(3) = –464; eliminate (C). Choice (D) becomes <img align=\"middle\" alt=\"V left parenthesis 3 right parenthesis equals 1 third left parenthesis 3 right parenthesis left parenthesis 3 plus 11 right parenthesis left parenthesis 3 plus 55 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_08a85854-9cbe-4b92-842c-0c6b187c85a2.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"189\"/>, then <img align=\"middle\" alt=\"V left parenthesis 3 right parenthesis equals 1 third left parenthesis 3 right parenthesis left parenthesis 14 right parenthesis left parenthesis 58 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2abc0390-77f3-4a20-8b00-175070f42156_83f0ab6f-b07d-4924-9556-1acb546a34e0.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"141\"/>, and finally <em>V</em>(3) = 812; eliminate (D). The correct answer is (A).<br/><br/></div>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 419,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/12583/?question_set=exam&exam_id=419",
+    "scraped_at": "2025-07-07T01:27:00.939785"
+  }
+]

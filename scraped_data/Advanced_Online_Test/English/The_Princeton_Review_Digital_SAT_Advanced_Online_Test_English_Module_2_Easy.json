@@ -1,0 +1,731 @@
+[
+  {
+    "question_id": 12508,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:26:55.588615",
+    "url": "https://oneprep.xyz/question/12508/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\">Despite the potential dangers in doing so, many agricultural societies chose to live near volcanoes, as the surrounding soil was especially ________ in nutrients. The ash and lava from volcanic eruptions contain large amounts of elements that produce fertile soil.</div>",
+    "question_stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "answer_choices": {
+      "A": "unique",
+      "B": "coarse",
+      "C": "rich",
+      "D": "lacking"
+    },
+    "choice_ids": {
+      "A": 44513,
+      "B": 44514,
+      "C": 44515,
+      "D": 44516
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12509,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:26:56.287414",
+    "url": "https://oneprep.xyz/question/12509/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>The following text is adapted from Charlotte M. Yonge’s 1870 novel <em>The Caged Lion</em>. Father Ninian has just completed a quest for a certain book when he encounters the knight Sir James.</p><p style=\"padding-left: 30px;\">‘It is the “Itinerarium” of the blessed Adamnanus,’ replied Father Ninian, <u>producing from</u> his bosom a parcel, apparently done up in many wrappers, a seal-skin above all. ‘The “Itinerarium”!’ exclaimed Sir James, ‘methought I had heard of such a book.’</p></div>",
+    "question_stem": "<p>As used in the text, what does the phrase “producing from” most nearly mean?</p>",
+    "answer_choices": {
+      "A": "Returning to",
+      "B": "Concealing with",
+      "C": "Searching for",
+      "D": "Retrieving from"
+    },
+    "choice_ids": {
+      "A": 44517,
+      "B": 44518,
+      "C": 44519,
+      "D": 44520
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12510,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:26:56.975936",
+    "url": "https://oneprep.xyz/question/12510/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>Although its slender body, rounded snout, and long tail resemble the features of a cat or dog, the fossa shares no further connection to those animals; it is instead ________ the mongoose, which shares many of the fossa’s genetic and behavioral markers.</p></div>",
+    "question_stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "answer_choices": {
+      "A": "paired with",
+      "B": "related to",
+      "C": "identical to",
+      "D": "hunted by"
+    },
+    "choice_ids": {
+      "A": 44521,
+      "B": 44522,
+      "C": 44523,
+      "D": 44524
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12511,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:26:57.663485",
+    "url": "https://oneprep.xyz/question/12511/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>A group of scientists collected samples of “regolith,” or rocky topsoil, from the surface of an asteroid. Only some samples are currently being studied, while other samples are being ________ to be studied in the future after more advancements have been made in soil analysis.</p></div>",
+    "question_stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "answer_choices": {
+      "A": "distributed",
+      "B": "observed",
+      "C": "preserved",
+      "D": "discarded"
+    },
+    "choice_ids": {
+      "A": 44525,
+      "B": 44526,
+      "C": 44527,
+      "D": 44528
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12512,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:26:58.356613",
+    "url": "https://oneprep.xyz/question/12512/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>US Bureau of Reclamation Commissioner Camille Calimlim Touton has emphasized that agreeing on water rights to the Colorado River basin will require ________ from its dependents. Since the basin supports residents and agriculturists in Arizona, California, and Nevada, any region’s usage could impact another’s, making mutual consideration essential.</p></div>",
+    "question_stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "answer_choices": {
+      "A": "rationing",
+      "B": "cooperation",
+      "C": "observation",
+      "D": "encouragement"
+    },
+    "choice_ids": {
+      "A": 44529,
+      "B": 44530,
+      "C": 44531,
+      "D": 44532
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12513,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:26:59.037611",
+    "url": "https://oneprep.xyz/question/12513/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>In the mid-1800s, the discovery of gold brought a rush of people to California. Prior to the gold rush, California had a population of around 15,000 people. Goldfields were found in relatively close proximity to the port town of San Francisco, and most people traveled to California by sea rather than by treacherous land routes. Therefore, it is unsurprising that the population of San Francisco alone increased from about 500 in 1847 to around 150,000 in 1870.</p></div>",
+    "question_stem": "Which choice best states the main purpose of the text?",
+    "answer_choices": {
+      "A": "To analyze the economic impacts that the discovery of gold had on California",
+      "B": "To describe the conditions that gold-seekers faced in their travels to California",
+      "C": "To explain factors that contributed to the growth of San Francisco in the mid-1800s",
+      "D": "To compare the risks involved in traveling to California by sea and by land"
+    },
+    "choice_ids": {
+      "A": 44533,
+      "B": 44534,
+      "C": 44535,
+      "D": 44536
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12514,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:26:59.726934",
+    "url": "https://oneprep.xyz/question/12514/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><div>The following text is from Hilda Doolittle’s 1916 poem “Storm.”<br/><br/></div><div></div><div style=\"padding-left: 30px;\">You crash over the trees,</div><div style=\"padding-left: 30px;\">you crack the live branch—</div><div style=\"padding-left: 30px;\">the branch is white,</div><div style=\"padding-left: 30px;\">the green crushed,</div><div style=\"padding-left: 30px;\">each leaf is rent like split wood.<br/><br/></div><div style=\"padding-left: 30px;\"></div><div style=\"padding-left: 30px;\">You burden the trees</div><div style=\"padding-left: 30px;\">with black drops,</div><div style=\"padding-left: 30px;\">you swirl and crash—</div><div style=\"padding-left: 30px;\">you have broken off a weighted leaf</div><div style=\"padding-left: 30px;\">in the wind,</div><div style=\"padding-left: 30px;\">it is hurled out,</div><div style=\"padding-left: 30px;\">whirls up and sinks,</div><div style=\"padding-left: 30px;\">a green stone.</div></div>",
+    "question_stem": "<p>Which choice best states the main purpose of the text?</p>",
+    "answer_choices": {
+      "A": "To explain the types of weather the speaker is fearful of",
+      "B": "To detail the speaker’s observations during a weather event",
+      "C": "To contrast the speaker with a crashing storm",
+      "D": "To explain the speaker’s dismay about the tree’s destruction"
+    },
+    "choice_ids": {
+      "A": 44537,
+      "B": 44538,
+      "C": 44539,
+      "D": 44540
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12515,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:00.445254",
+    "url": "https://oneprep.xyz/question/12515/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p><strong>Text 1<br/><br/></strong>The United States is one of three nations that do not predominantly use the metric system today. Despite efforts in the 1970s, the US was unable to convert its preferred system of measurements to metric. <u>With the world becoming more integrated, it is time for the US to adopt metric as its primary system of measurements.</u> Because the current system in the US does not rely on a consistent numerical factor such as the ten used by the metric system, it is far more prone to miscalculation during unit conversions.</p><p><strong>Text 2<br/><br/></strong>While most of the world uses the metric system, the US has the flexibility of keeping its current system while using the metric system on a voluntary basis. Measurements based on everyday things, such as the foot measured in relation to the human body, make sense to people. Still, there are many opportunities to include both systems, such as showing both miles and kilometers on speedometers.</p></div>",
+    "question_stem": "<p>Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?</p>",
+    "answer_choices": {
+      "A": "By dismissing the idea that the US could not contribute to world matters without converting to a metric system",
+      "B": "By conceding that metric must be used when dealing with international matters",
+      "C": "By implying that the US should continue using both systems, allowing metric to be used as needed",
+      "D": "By describing the difficulties that would come with converting entirely to a metric system"
+    },
+    "choice_ids": {
+      "A": 44541,
+      "B": 44542,
+      "C": 44543,
+      "D": 44544
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12516,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:01.128995",
+    "url": "https://oneprep.xyz/question/12516/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><div style=\"text-align: center;\">Sports Sign-Ups by Grade<br/><br/><table border=\"1\" style=\"width: 100%; border-collapse: collapse; margin-left: auto; margin-right: auto;\"><tbody><tr style=\"height: 18px;\"><td style=\"width: 20%; height: 18px;\">Sport</td><td style=\"width: 20%; height: 18px;\">Freshmen</td><td style=\"width: 20%; height: 18px;\">Sophomores</td><td style=\"width: 20%; height: 18px;\">Juniors</td><td style=\"width: 20%; height: 18px;\">Seniors</td></tr><tr style=\"height: 18px;\"><td style=\"width: 20%; height: 18px; text-align: left;\"> baseball</td><td style=\"width: 20%; height: 18px;\">32</td><td style=\"width: 20%; height: 18px;\">31</td><td style=\"width: 20%; height: 18px;\">29</td><td style=\"width: 20%; height: 18px;\">26</td></tr><tr style=\"height: 18px;\"><td style=\"width: 20%; height: 18px; text-align: left;\"> basketball</td><td style=\"width: 20%; height: 18px;\">24</td><td style=\"width: 20%; height: 18px;\">22</td><td style=\"width: 20%; height: 18px;\">20</td><td style=\"width: 20%; height: 18px;\">19</td></tr><tr style=\"height: 18px;\"><td style=\"width: 20%; height: 18px; text-align: left;\"> volleyball</td><td style=\"width: 20%; height: 18px;\">23</td><td style=\"width: 20%; height: 18px;\">25</td><td style=\"width: 20%; height: 18px;\">23</td><td style=\"width: 20%; height: 18px;\">21</td></tr><tr style=\"height: 18px;\"><td style=\"width: 20%; height: 18px; text-align: left;\"> water polo</td><td style=\"width: 20%; height: 18px;\">17</td><td style=\"width: 20%; height: 18px;\">21</td><td style=\"width: 20%; height: 18px;\">22</td><td style=\"width: 20%; height: 18px;\">28</td></tr></tbody></table></div><br/>A student is writing an article on the popularity of various sports programs at her school among the different grade levels and needs to determine whether there are any sports for which more seniors sign up than freshmen. Examining the data, she determines that this was true for ________</div>",
+    "question_stem": "<p>Which choice most effectively uses data from the table to complete the assertion?</p>",
+    "answer_choices": {
+      "A": "water polo.",
+      "B": "baseball.",
+      "C": "volleyball.",
+      "D": "basketball."
+    },
+    "choice_ids": {
+      "A": 44545,
+      "B": 44546,
+      "C": 44547,
+      "D": 44548
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12517,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:01.812431",
+    "url": "https://oneprep.xyz/question/12517/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>Bees are able to distinguish flowers from other objects not only by their colors and odors but also by their electrical field strengths. Field researchers noted that bees were unlikely to land on a flower for about 20 minutes after it had been sprayed with fertilizer. A team of scientists led by Dr. Ellard Hunting explored whether charged particles in fertilizers affected the electrical fields of flowers and whether altered electrical fields changed bee behavior. In an experiment, the scientists sprayed cut flowers with fertilizer, measured the electrical field strength around the flowers, and observed bee behavior around the electrically-manipulated flowers. The team concluded that fertilizer affected the electrical field strength of flowers and caused bees to avoid fertilized flowers.</p></div>",
+    "question_stem": "<p>Which finding from the experiment, if true, would most directly support Hunting’s conclusion?</p>",
+    "answer_choices": {
+      "A": "There was no noticeable effect on the electric field strength of the flowers sprayed with fertilizer, and bees favored all flowers equally.",
+      "B": "Fertilized flowers exhibited a noticeable change in their electrical field after fertilizer was applied, and bees tended to be attracted to the electrically manipulated flowers.",
+      "C": "There was a noticeable effect on the electrical field strength of the flowers sprayed with fertilizer, but bees did not show favor whether the flowers were or were not electrically manipulated.",
+      "D": "Fertilized flowers exhibited a noticeable change in their electrical field after fertilizer was applied, and bees showed a preference for flowers that were not electrically manipulated."
+    },
+    "choice_ids": {
+      "A": 44549,
+      "B": 44550,
+      "C": 44551,
+      "D": 44552
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12518,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:02.557228",
+    "url": "https://oneprep.xyz/question/12518/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><div><img alt=\"The figure presents a line graph titled “Fossil fuel material footprint of recycling concrete using three different methods.” The figure shows three line graphs in the same coordinate plane. The horizontal axis represents time, and the years 2020 through 2040, in increments of 5 years, are indicated. The vertical axis is labeled “FMF (in millijoules per ton)” and the numbers 0 through 400, in increments of 100, are indicated. One graph is labeled syndiesel, one graph is labeled diesel, and one graph is labeled biodiesel. On the left side of the figure, the graph for syndiesel is above the graph for diesel, which is above the graph for biodiesel. The graph for syndiesel generally trends down to the middle of the figure on the right. The graphs for diesel and biodiesel remain fairly flat as the trend across the figure. There are 5 data points indicated on each graph. The data points for each graph are listed as follows.Line graph labeled syndiesel.Point 1. 2020, 340 millijoules per ton.Point 2. 2025, 300 millijoules per ton.Point 3. 2030, 260 millijoules per ton.Point 4. 2035,220 millijoules per ton.Point 5. 2040, 210 millijoules per ton.Line graph labeled diesel.Point 1. 2020, 175 millijoules per ton.Point 2. 2025, 180 millijoules per ton.Point 3. 2030, 175 millijoules per ton.Point 4. 2035, 180 millijoules per ton.Point 5. 2040, 175 millijoules per ton.Line graph labeled biodiesel.Point 1. 2020, 90 millijoules per ton.Point 2. 2025, 90 millijoules per ton.Point 3. 2030, 90 millijoules per ton.Point 4. 2035, 90 millijoules per ton.Point 5. 2040, 95 millijoules per ton.\" height=\"467\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATAdv_OnlineTest_RW_Mod2E_Q09.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"543\"/></div><p>Producing concrete requires manufacturers to mine gravel and sand as well as burn fossil fuels to turn a mixture of gravel and sand into cement. As demand continues to rise, there is a growing concern over the amount of emissions produced in the process of manufacturing concrete, and more focus is being put on recycling concrete waste. The graph shows the predicted fossil fuel material footprint (FMF) of three methods of recycling concrete. A student notes that among the methods shown in the graph, the recycling method that produces the lowest FMF uses ________</p></div>",
+    "question_stem": "<p>Which choice most effectively uses data from the graph to complete the text?</p>",
+    "answer_choices": {
+      "A": "limestone.",
+      "B": "syndiesel.",
+      "C": "diesel.",
+      "D": "biodiesel."
+    },
+    "choice_ids": {
+      "A": 44553,
+      "B": 44554,
+      "C": 44555,
+      "D": 44556
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12519,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:03.259683",
+    "url": "https://oneprep.xyz/question/12519/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>Scientists have discovered a protein present in various species of jellyfish that produces a green fluorescence. Genes containing these green fluorescent proteins (GFPs) can be paired with other genes researchers wish to study and inserted into the genetic codes of animals. GFPs serve to visibly mark the successful implantation of targeted genes. Researchers paired a GFP with a gene that blocks the virus causing feline AIDS and inserted the pair into unfertilized cat eggs. The eggs produced offspring that glowed green, confirming the successful implantation of the viral-blocking gene. A student researching the study asserts that the presence of the gene should not necessarily be correlated with genetic protection against the AIDS virus.</p></div>",
+    "question_stem": "<p>Which quotation from a fellow researcher would best support the student’s assertion?</p>",
+    "answer_choices": {
+      "A": "“While we can confirm successful implantation of the viral-blocking gene, we still have to do infection studies to verify the gene’s effectiveness.”",
+      "B": "“The presence of the protection gene in the cats’ lymphoid organs, where the spread of the AIDS virus and subsequent cell death mostly plays out, is encouraging to us.”",
+      "C": "“We want to see if we can protect the domestic cat against the feline AIDS virus, and if we can expand this research to protect any species against its own corresponding AIDS virus.”",
+      "D": "“We chose to use cats in this study because cats exhibit more genetic complexity than other animals typically used in AIDS-related research.”"
+    },
+    "choice_ids": {
+      "A": 44557,
+      "B": 44558,
+      "C": 44559,
+      "D": 44560
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12520,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:03.957747",
+    "url": "https://oneprep.xyz/question/12520/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><div><img alt=\"The figure presents a line graph. The horizontal axis is labeled Year, and the years 1974 through 2014, in increments of 10, are indicated. The vertical axis is labeled number of kestrels, and the numbers 0 through 600, in increments of 100, are indicated. The data, represented by 5 points on the graph, are as follows. Note that all values are approximate.1974, 0 kestrels.1984, 50 kestrels.1994, 250 kestrels.2004, 500 kestrels.2014, 400 kestrels.\" height=\"331\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATAdv_OnlineTest_RW_Mod2E_Q12.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"495\"/></div><p><br/>Scientists have worked to bring the Mauritius kestrel population back from the brink of extinction. In 1974, only four of these birds existed in the wild. Efforts to repopulate this species have been ongoing since at least the 1980s. While conservation efforts have yielded some positive results, many scientists claim that the Mauritius kestrel still faces some challenges as a species.</p></div>",
+    "question_stem": "<p>Which choice best describes data from the graph that support the scientists’ claim?</p>",
+    "answer_choices": {
+      "A": "The number of Mauritius kestrels declined between 2005 and 2014.",
+      "B": "The number of Mauritius kestrels increased substantially from 1974 to 2014.",
+      "C": "The number of Mauritius kestrels increased only slightly between 1974 and 1984.",
+      "D": "The number of Mauritius kestrels showed the most significant increase between 1997 and 2005."
+    },
+    "choice_ids": {
+      "A": 44561,
+      "B": 44562,
+      "C": 44563,
+      "D": 44564
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12521,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:04.703869",
+    "url": "https://oneprep.xyz/question/12521/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><div style=\"text-align: center;\"> Median Home Prices Paid by Consumers <br/>in Four States (in year-2000 US dollars)<br/><br/></div><table border=\"1\" style=\"width: 100%; border-collapse: collapse; margin-left: auto; margin-right: auto;\"><tbody><tr style=\"height: 18px;\"><td style=\"width: 25%; height: 18px; text-align: center;\">State</td><td style=\"width: 25%; height: 18px; text-align: center;\">1980</td><td style=\"width: 25%; height: 18px; text-align: center;\">1990</td><td style=\"width: 25%; height: 18px; text-align: center;\">2000</td></tr><tr style=\"height: 18px;\"><td style=\"width: 25%; height: 18px;\"> California</td><td style=\"width: 25%; height: 18px; text-align: center;\">$167,300</td><td style=\"width: 25%; height: 18px; text-align: center;\">$249,800</td><td style=\"width: 25%; height: 18px; text-align: center;\">$211,500</td></tr><tr style=\"height: 18px;\"><td style=\"width: 25%; height: 18px;\"> Hawaii</td><td style=\"width: 25%; height: 18px; text-align: center;\">$233,800</td><td style=\"width: 25%; height: 18px; text-align: center;\">$313,400</td><td style=\"width: 25%; height: 18px; text-align: center;\">$272,700</td></tr><tr style=\"height: 18px;\"><td style=\"width: 25%; height: 18px;\"> New York</td><td style=\"width: 25%; height: 18px; text-align: center;\">$90,300</td><td style=\"width: 25%; height: 18px; text-align: center;\">$168,100</td><td style=\"width: 25%; height: 18px; text-align: center;\">$148,700</td></tr><tr style=\"height: 18px;\"><td style=\"width: 25%; height: 18px;\"> Texas</td><td style=\"width: 25%; height: 18px; text-align: center;\">$77,400</td><td style=\"width: 25%; height: 18px; text-align: center;\">$76,100</td><td style=\"width: 25%; height: 18px; text-align: center;\">$82,500</td></tr></tbody></table><br/>One indicator of economic change is the sales price for a new home. A student writing a paper on home prices in different states notes that among the four states researched, most showed an increase in median home price from 1980 to 1990 and then a decrease from 1990 to 2000, but that trend wasn’t consistent. For example, ________</div>",
+    "question_stem": "Which choice most effectively uses data from the table to complete the example?",
+    "answer_choices": {
+      "A": "for each year recorded, Hawaii had a higher median home price than any of the other states.",
+      "B": "for each year recorded, the median home price in California and New York was higher than the median home price in Texas.",
+      "C": "California’s median home price was higher in 1980 than it was in 2000.",
+      "D": "Texas showed a decrease from 1980 to 1990 and an increase from 1990 to 2000."
+    },
+    "choice_ids": {
+      "A": 44565,
+      "B": 44566,
+      "C": 44567,
+      "D": 44568
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12522,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:05.406801",
+    "url": "https://oneprep.xyz/question/12522/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>The practice of captive breeding is the process of breeding animals in controlled environments, such as zoos and wildlife centers, with the goal of repopulating an endangered species. The giant tortoise population on Española, one of the Galapagos Islands, had dwindled to 15 individuals by 1965 when scientists removed those 15 tortoises to a captive breeding center. More than 1,800 tortoises were bred during the program and released back to Española. When the program ended in 2020, the original 15 tortoises were also returned to the island, where the tortoise population is now more than 2,300. These results suggest that ________</p></div>",
+    "question_stem": "<p>Which choice most logically completes the text?</p>",
+    "answer_choices": {
+      "A": "scientists should no longer use the practice of captive breeding.",
+      "B": "breeding occurring outside captivity may have contributed to the giant tortoise’s repopulation on Española.",
+      "C": "scientists should continue the captive breeding program for the giant tortoise.",
+      "D": "it will be difficult to monitor the size of the giant tortoise population on Española."
+    },
+    "choice_ids": {
+      "A": 44569,
+      "B": 44570,
+      "C": 44571,
+      "D": 44572
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12523,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:06.094275",
+    "url": "https://oneprep.xyz/question/12523/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>Stitches used in embroidery, the art form of adding thread or yarn to fabric, can be preserved for future generations in a stitchbank. One online stitchbank ________ multiple embroidery stitches chosen for educational purposes by the Royal School of Needlework (RSN).</p></div>",
+    "question_stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "answer_choices": {
+      "A": "showcases:",
+      "B": "showcases",
+      "C": "showcases,",
+      "D": "showcases;"
+    },
+    "choice_ids": {
+      "A": 44573,
+      "B": 44574,
+      "C": 44575,
+      "D": 44576
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12524,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:06.777697",
+    "url": "https://oneprep.xyz/question/12524/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>The Hyochang Park in South Korea functions as both a park and a memorial site. ________ as a Historic Site of South Korea in 1989, the park contains the graves of multiple Korean activists as well as the Kim Koo Museum.</p></div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "Designate",
+      "B": "Designating",
+      "C": "Designates",
+      "D": "Designated"
+    },
+    "choice_ids": {
+      "A": 44577,
+      "B": 44578,
+      "C": 44579,
+      "D": 44580
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12525,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:07.482507",
+    "url": "https://oneprep.xyz/question/12525/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>Louise Glück published fifteen poems as part of the collection <em>Winter Recipes from the Collective</em> two years before her death, making ________ the final poems of her long writing career.</p></div>",
+    "question_stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "answer_choices": {
+      "A": "those",
+      "B": "that",
+      "C": "any",
+      "D": "this"
+    },
+    "choice_ids": {
+      "A": 44581,
+      "B": 44582,
+      "C": 44583,
+      "D": 44584
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12526,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:08.185963",
+    "url": "https://oneprep.xyz/question/12526/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>Empathy is an important skill for social relationships, but it can cause distress if an individual’s distinction between self and other is not strong enough. As researchers Sonia Krol and Jennifer Bartz have found, higher empathy is a result of a self that ________ clearly defined, temporally stable, and coherent.</p></div>",
+    "question_stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "answer_choices": {
+      "A": "is",
+      "B": "have been",
+      "C": "are",
+      "D": "were"
+    },
+    "choice_ids": {
+      "A": 44585,
+      "B": 44586,
+      "C": 44587,
+      "D": 44588
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12527,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:08.874807",
+    "url": "https://oneprep.xyz/question/12527/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>Professor Adam Knowlden wondered how ________ Knowlden ran a series of studies on sleep health and found that poor time management accounted for roughly twenty percent of sleep quality outcomes.</p></div>",
+    "question_stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "answer_choices": {
+      "A": "time management affects sleep health.",
+      "B": "time management affects sleep health?",
+      "C": "does time management affect sleep health?",
+      "D": "does time management affect sleep health."
+    },
+    "choice_ids": {
+      "A": 44589,
+      "B": 44590,
+      "C": 44591,
+      "D": 44592
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12528,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:09.591999",
+    "url": "https://oneprep.xyz/question/12528/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>A renowned poet who combined religious themes with powerful emotions in her work, ________</p></div>",
+    "question_stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "answer_choices": {
+      "A": "Gabriela Mistral’s 1945 Nobel Prize in Literature was the first given to a Latin American author.",
+      "B": "the Nobel Prize in Literature was given to Latin American author Gabriela Mistral in 1945.",
+      "C": "in 1945 the first Latin American author to receive a Nobel Prize in Literature was Gabriela Mistral.",
+      "D": "Gabriela Mistral was the first Latin American author to receive a Nobel Prize in Literature in 1945."
+    },
+    "choice_ids": {
+      "A": 44593,
+      "B": 44594,
+      "C": 44595,
+      "D": 44596
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12529,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:10.281992",
+    "url": "https://oneprep.xyz/question/12529/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>Many US states have mechanisms for citizens to have direct input on state law through the ballot box. For example, in Colorado, propositions can be approved by a simple majority vote and later amended or overturned by state legislators. Constitutional amendments, ________ require 55 percent of the vote for approval but once approved remain in force unless reversed by another public vote.</p></div>",
+    "question_stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "answer_choices": {
+      "A": "accordingly,",
+      "B": "regardless,",
+      "C": "additionally,",
+      "D": "by contrast,"
+    },
+    "choice_ids": {
+      "A": 44597,
+      "B": 44598,
+      "C": 44599,
+      "D": 44600
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12530,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:10.984538",
+    "url": "https://oneprep.xyz/question/12530/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>The magnitudes of earthquakes on a particular fault line follow a mathematical relationship known as the Gutenberg-Richter law. ________ the probability of an earthquake of a given magnitude can be forecast, even though seismologists are still unable to predict the timing of such an event.</p></div>",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "However,",
+      "B": "For example,",
+      "C": "As a result,",
+      "D": "Additionally,"
+    },
+    "choice_ids": {
+      "A": 44601,
+      "B": 44602,
+      "C": 44603,
+      "D": 44604
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12531,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:11.715531",
+    "url": "https://oneprep.xyz/question/12531/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>The slender pitcher plant (<em>Nepenthes gracilis</em>) is a carnivorous plant that has pitcher-shaped leaves, each with a lid-like leaf over it. When rain falls, the lid acts like a springboard, dropping ants into the pitcher below. A research team at the University of Bristol expected to find that the spring action originates either in the lid itself or in the narrow connection between the lid and pitcher. ________ they found that the spring is located far down in the back of the pitcher wall, allowing for quicker resetting of the trap and less twisting of the lid.</p></div>",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "As a result,",
+      "B": "Instead,",
+      "C": "Likewise,",
+      "D": "Not surprisingly,"
+    },
+    "choice_ids": {
+      "A": 44605,
+      "B": 44606,
+      "C": 44607,
+      "D": 44608
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12532,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:12.428760",
+    "url": "https://oneprep.xyz/question/12532/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>While researching a topic, a student has taken the following notes:<br/><br/></p><ul><li>According to the American Heart Association, seven important factors contribute to cardiovascular health.</li><li>A team of researchers has proposed adding an eighth factor: sleep.</li><li>The team’s study found that sleep quality could provide important information about future cardiovascular disease (CVD).</li><li>A single-factor sleep health score that looked only at sleep duration was predictive of CVD.</li><li>Sleep health scores can also include multiple factors, such as sleep regularity and daytime sleepiness.</li><li>Multi-factor sleep health scores were predictive of CVD.</li></ul></div>",
+    "question_stem": "The student wants to emphasize a similarity between single-factor and multifactor sleep health scores. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "Sleep health scores can measure different factors, such as sleep duration, sleep regularity, and daytime sleepiness, and can provide information about health.",
+      "B": "A team of researchers looked at the impact of single-factor and multifactor sleep health scores on cardiovascular health.",
+      "C": "Single-factor and multifactor sleep health scores measure sleep quality, and both scores are predictive of cardiovascular disease.",
+      "D": "Multi-factor sleep health scores, unlike single-factor scores, measure multiple factors that include sleep regularity and daytime sleepiness and can provide information about cardiovascular health."
+    },
+    "choice_ids": {
+      "A": 44609,
+      "B": 44610,
+      "C": 44611,
+      "D": 44612
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12533,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:13.120652",
+    "url": "https://oneprep.xyz/question/12533/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>While researching a topic, a student has taken the following notes:<br/><br/></p><ul><li>In geology, the geologic time scale is a type of time division based on the Earth’s rock record.</li><li>An era has a time span of tens to hundreds of millions of years.</li><li>The Paleoproterozoic era lasted for 900 million years.</li><li>The Neoarchean era lasted for 300 million years.</li></ul></div>",
+    "question_stem": "The student wants to emphasize the length of the Paleoproterozoic era. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "Covering a span of 900 million years, the Paleoproterozoic era lasted three times as long as the Neoarchean era.",
+      "B": "The Paleoproterozoic and Neoarchean are eras of different lengths.<br/>",
+      "C": "In geology, time scales are based on the Earth’s rock record, and an era lasts between tens and hundreds of millions of years.",
+      "D": "An era, such as the Neoarchean era, can last for hundreds of millions of years."
+    },
+    "choice_ids": {
+      "A": 44613,
+      "B": 44614,
+      "C": 44615,
+      "D": 44616
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12534,
+    "exam_id": 417,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 2 - Easy",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "scraped_at": "2025-07-07T00:27:13.810967",
+    "url": "https://oneprep.xyz/question/12534/?question_set=exam&exam_id=417",
+    "stimulus": "<div class=\"\"><p>While researching a topic, a student has taken the following notes:<br/><br/></p><ul><li>An optical telescope is an instrument used to observe distant objects.</li><li>Optical telescopes use lenses, curved mirrors, or a combination.</li><li>A refractor telescope uses two lenses to focus light into an image.</li><li>The two lenses are the objective lens and the eyepiece lens.</li><li>A reflector telescope uses two mirrors to reflect light and form an image.</li><li>The two mirrors are located at the opposite ends of the telescope.</li></ul></div>",
+    "question_stem": "The student wants to contrast refractor and reflector telescopes. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "In refractor telescopes, two lenses are used to focus light into an image, but in reflector telescopes, mirrors are used to reflect light and form an image.",
+      "B": "A refractor telescope is an instrument that can be used to observe distant objects, but of course, reflector telescopes can be used as well.",
+      "C": "In refractor and reflector telescopes, different things are used to form images.<br/>",
+      "D": "One of the lenses in a refractor telescope is called the objective lens; the other, in contrast, is called the eyepiece lens."
+    },
+    "choice_ids": {
+      "A": 44617,
+      "B": 44618,
+      "C": 44619,
+      "D": 44620
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  }
+]

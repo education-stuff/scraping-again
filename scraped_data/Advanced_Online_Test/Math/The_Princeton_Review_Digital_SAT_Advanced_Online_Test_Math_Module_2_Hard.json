@@ -1,0 +1,646 @@
+[
+  {
+    "question_id": 12606,
+    "stimulus": "",
+    "question_stem": "<p>Hoping to gauge public support for an upcoming local referendum, a political pollster surveys a random sample of 560 registered voters within the municipality in question. Based on the results of the survey, the pollster predicts, with a 4.4% margin of error, that 60% of registered voters will support the referendum. Based on this information, which conclusion can most reasonably be drawn with respect to the upcoming referendum?</p>",
+    "answer_choices": {
+      "A": "4.4% of registered voters will support the referendum.",
+      "B": "60% of registered voters will support the referendum.",
+      "C": "It is likely that between 55.6% and 64.4% of registered voters will support the referendum.",
+      "D": "It is likely that less than 55.6% of registered voters will support the referendum."
+    },
+    "answer_ids": {
+      "A": 44857,
+      "B": 44858,
+      "C": 44859,
+      "D": 44860
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks about the most appropriate conclusion based on a random sample and a margin of error. A margin of error expresses the amount of random sampling error in a survey’s results. The margin of error is 4.4%, meaning that results within a range of 4.4% above and 4.4% below the estimate are reasonable. Since the estimated percentage of registered voters that will support the referendum is 60%, subtract the margin of error to get 60% – 4.4% = 55.6%, and add the margin of error to get 60% + 4.4% = 64.4%. The most appropriate conclusion is that between 55.6% and 64.4% of registered voters will support the referendum. Eliminate (A) because it is only the margin of error, not the range of possible values. Eliminate (B) because it is only the estimated percent of registered voters that will support the referendum; it doesn’t include the margin of error. Eliminate (D) because it accounts for only the lower range of likely results; in addition, it is unlikely that the percentage will be less than the lower end of the range. Choice (C) correctly matches the range and says that it is likely that the estimated number of registered voters that will support the referendum is within that range. The correct answer is (C).\n                        </div>",
+    "correct_answer": "C",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12606/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:42:50.909828"
+  },
+  {
+    "question_id": 12607,
+    "stimulus": "",
+    "question_stem": "<p>What is the length of one side of a right triangle, in inches, if the length of the hypotenuse of the triangle is 12 inches and the length of the other side is 7 inches?</p>",
+    "answer_choices": {
+      "A": "<img align=\"middle\" alt=\"square root of 95\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/d4e01983-a78d-4fee-85e3-e36aac2e2ae5_Choice_1220620_6e9f5a6b-d9ee-4599-bfa8-41d612d88865.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"35\"/>",
+      "B": "<img align=\"middle\" alt=\"square root of 193\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/d4e01983-a78d-4fee-85e3-e36aac2e2ae5_Choice_1220621_1c9048d9-2229-4828-8ead-2c43d17287ae.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/>",
+      "C": "19",
+      "D": "95"
+    },
+    "answer_ids": {
+      "A": 44861,
+      "B": 44862,
+      "C": 44863,
+      "D": 44864
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the length of a side of a right triangle. To find the length of the other side, use the Pythagorean Theorem: <em>a</em><sup>2</sup> + <em>b</em><sup>2</sup> = <em>c</em><sup>2</sup>. Plug in the given values for one of the legs and the hypotenuse to get <em>a</em><sup>2</sup> + 7<sup>2</sup> = 12<sup>2</sup>. Square the values on both sides of the equation to get <em>a</em><sup>2</sup> + 49 = 144. Subtract 49 from both sides of the equation to get <em>a</em><sup>2</sup> = 95. Take the positive square root of both sides of the equation to get <em>a</em> = <img align=\"middle\" alt=\"square root of 95\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/d4e01983-a78d-4fee-85e3-e36aac2e2ae5_f8bd2a37-eef1-4c8e-a3ac-cead41d6ef62.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"35\"/>. The correct answer is (A).\n                        </div>",
+    "correct_answer": "A",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12607/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:42:51.626995"
+  },
+  {
+    "question_id": 12608,
+    "stimulus": "",
+    "question_stem": "In the <em>xy</em>-plane, the graph of <em>y</em> = <em>f</em>(<em>x</em>) for the linear function <em>f </em>passes through the points (6, 26) and (12, 28). Which of the following equations defines function <em>f</em>?",
+    "answer_choices": {
+      "A": "<img align=\"middle\" alt=\"f left parenthesis x right parenthesis space equals space 1 third x space plus space 24\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/3252db51-3d9f-43cc-a4f1-3bd9f2164990_Choice_1220624_c8f23fc4-bccf-4c8c-bab6-d78efbf7e2ac.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"121\"/>",
+      "B": "<img align=\"middle\" alt=\"f left parenthesis x right parenthesis space equals space 3 x space minus space 8 over 3\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/3252db51-3d9f-43cc-a4f1-3bd9f2164990_Choice_1220625_50ed196f-89d1-485f-abef-7fe2e7715b66.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"112\"/>",
+      "C": "<em>f</em>(<em>x</em>) = 6<em>x</em> + 26",
+      "D": "<em>f</em>(<em>x</em>) = 12<em>x</em> + 28"
+    },
+    "answer_ids": {
+      "A": 44865,
+      "B": 44866,
+      "C": 44867,
+      "D": 44868
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the equation of a line. One method is to enter each answer equation into the built-in calculator and eliminate any graphs that do not contain both points. Enter the equation in (A), then scroll and zoom as needed to see whether the line contains the point (6, 26). It does, so scroll and zoom as needed to see whether it also contains the point (12, 28). It does, so stop here and pick (A).<br/><br/>\n<p>The question provides two points on the line, and all of the answer choices have different slopes, so another method is to find the slope and eliminate answers that have the wrong slope. Since <em>f</em>(<em>x</em>) = <em>y</em>, the answer choices are all in slope-intercept form, <em>y</em> = <em>mx</em> + <em>b</em>, in which <em>m</em> is the slope and <em>b</em> is the <em>y</em>-intercept. Use the two points to calculate the slope of the line using the formula <em></em><img align=\"middle\" alt=\"s l o p e space equals space fraction numerator y subscript 2 space minus space y subscript 1 over denominator x subscript 2 space minus space x subscript 1 end fraction\" height=\"53\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/3252db51-3d9f-43cc-a4f1-3bd9f2164990_5f087ce5-984f-4dc6-979d-54cc3757523f.svg\" style=\"max-width: none; vertical-align: -21px;\" width=\"129\"/>. Plug in the given values to get <em></em><img align=\"middle\" alt=\"s l o p e space equals space fraction numerator 28 space minus space 26 over denominator 12 space minus space 6 end fraction\" height=\"43\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/3252db51-3d9f-43cc-a4f1-3bd9f2164990_835b73c7-1ed0-4563-ad11-e8d687f9ca59.svg\" style=\"max-width: none; vertical-align: -16px;\" width=\"133\"/>, which becomes <em>slope</em> = <img align=\"middle\" alt=\"2 over 6\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/3252db51-3d9f-43cc-a4f1-3bd9f2164990_20eb1aac-a587-4c25-8da1-7c17dd2118f3.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/>, or <em>slope</em> = <img align=\"middle\" alt=\"1 third\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/3252db51-3d9f-43cc-a4f1-3bd9f2164990_d349ebec-14e1-4c17-a452-189b6cb8b1a8.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/>. Thus, in slope-intercept form, <em>m</em> = <img align=\"middle\" alt=\"1 third\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/3252db51-3d9f-43cc-a4f1-3bd9f2164990_283a3c2a-7457-47b6-bf2e-726c30e16a3f.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/>. Eliminate (B), (C), and (D) because they have the wrong value for <em>m</em>, which leaves (A) as correct.</p>\n<p>Using either of these methods, the correct answer is (A).</p>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12608/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:42:52.367667"
+  },
+  {
+    "question_id": 12609,
+    "stimulus": "",
+    "question_stem": "<p style=\"text-align: center;\">7, 7, 8, 10, 12, 12</p>\n<p>The ages of six children are shown. What is the median of these ages?</p>",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the median of a list of numbers. Enter “median(7,7,8,10,12,12)” into the built-in calculator, then look in the lower right corner of the entry field to see “= 9.” This is the median of the list, so stop here. The correct answer is 9.\n                        </div>",
+    "correct_answer": "",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12609/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:42:53.050770"
+  },
+  {
+    "question_id": 12610,
+    "stimulus": "",
+    "question_stem": "A baker can bake a maximum of 50 layers of cake in one day, including 10-layer wedding cakes and birthday cakes with either 2 layers or 3 layers. Which of the following inequalities represents the possible combinations of 2-layer birthday cakes and 3-layer birthday cakes that the baker can bake in one day if the baker bakes 1 wedding cake, <em>b</em> 2-layer birthday cakes, <em>c</em> 3-layer birthday cakes, and no other items that day?",
+    "answer_choices": {
+      "A": "2<em>b</em> + 3<em>c</em> ≥ 40",
+      "B": "2<em>b</em> + 3<em>c</em> ≤ 40",
+      "C": "3<em>b</em> + 2<em>c</em> ≥ 50",
+      "D": "3<em>b</em> + 2<em>c</em> ≤ 50"
+    },
+    "answer_ids": {
+      "A": 44869,
+      "B": 44870,
+      "C": 44871,
+      "D": 44872
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for an inequality that represents a given situation. Translate the information in Bite-Sized Pieces and eliminate after each piece. The question asks for an inequality that represents information about 2-layer and 3-layer birthday cakes, so subtract the 10-layer wedding cake from the total number of layers to get 50 – 10 = 40 as the number of layers in the 2-layer and 3-layer cakes combined. Eliminate (C) and (D) because they have the total number of layers on the right side of the inequality instead of the number of layers in the 2-layer and 3-layer cakes. Choices (A) and (B) correctly translate the total number of layers of <em>b</em> 2-layer birthday cakes as 2<em>b</em> and the total number of layers of <em>c</em> 3-layer birthday cakes as 3<em>c</em>, so keep both (A) and (B). Another piece of information says that <em>A baker can bake a maximum of 50 layers of cake in one day</em>. The total on the left side of the equation must be less than or equal to the 40 layers of cake remaining after subtracting the 10-layer birthday cake, so the correct answer must include ≤ 40. Eliminate (A) because the inequality sign is the wrong direction. The correct answer is (B).\n                        </div>",
+    "correct_answer": "B",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12610/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:42:53.769211"
+  },
+  {
+    "question_id": 12611,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\">3<em>y</em> = 7<em>x</em></div>\n<div style=\"text-align: center;\"><em>y</em> – 5 = 4<em>x </em></div>\n<br/>Which ordered pair (<em>x</em>, <em>y</em>) is the solution to the given system of equations?",
+    "answer_choices": {
+      "A": "(–7, –3)",
+      "B": "(–3, –7)",
+      "C": "<img align=\"middle\" alt=\"open parentheses 1 comma space 3 over 7 close parentheses\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/8728a3f3-b24b-41d4-a748-6f626c4fdbcc_Choice_1220638_1e476423-5cb3-443c-bb5f-67fcfa29ad2c.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"50\"/>",
+      "D": "<img align=\"middle\" alt=\"open parentheses 7 over 3 comma space 1 close parentheses\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/8728a3f3-b24b-41d4-a748-6f626c4fdbcc_Choice_1220639_a6b83a19-e692-4ab9-9b28-325bb6c18713.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"50\"/>"
+    },
+    "answer_ids": {
+      "A": 44873,
+      "B": 44874,
+      "C": 44875,
+      "D": 44876
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for the solution to a system of equations. The most efficient method is to enter both equations into the built-in calculator, then scroll and zoom as needed to find the point of intersection. There is a gray dot indicating the solution to the system at the point (–3, –7), which makes (B) correct.</p>\n<p>To solve for the solution to the system algebraically, first add 5 to both sides of the second equation to get <em>y</em> = 4<em>x</em> + 5. Next, substitute 4<em>x</em> + 5 for <em>y</em> in the first equation to get 3(4<em>x </em>+ 5) = 7<em>x</em>. Distribute on the left side of this equation to get 12<em>x </em>+ 15 = 7<em>x</em>. Subtract 12<em>x</em> from both sides of the equation to get 15 = –5<em>x</em>. Divide both sides of the equation by –5 to get –3 = <em>x</em>. Only (B) includes this <em>x</em>-coordinate, so it is correct.</p>\n<p>Using either of these methods, the correct answer is (B).</p>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12611/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:42:54.492850"
+  },
+  {
+    "question_id": 12612,
+    "stimulus": "",
+    "question_stem": "<p style=\"text-align: center;\"><em>y </em>= <em>x</em><sup>2</sup> – 6<em>x </em>– 18<br/><em>y </em>= –<em>x</em> + 6<br/><br/></p>\n<p>A solution to the given system of equations can be expressed as (<em>a</em>, <em>b</em>). If <em>a</em> &lt; 0, what is the value of <em>a</em>?</p>",
+    "answer_choices": {
+      "A": "–18",
+      "B": "–6",
+      "C": "–3",
+      "D": "8"
+    },
+    "answer_ids": {
+      "A": 44877,
+      "B": 44878,
+      "C": 44879,
+      "D": 44880
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for the negative <em>x</em>-coordinate of a solution to a system of equations. The most efficient approach is to enter both equations into the built-in calculator, then scroll and zoom to find the solutions. The graph shows solutions at (–3, 9) and (8, –2). The question states that <em>a</em> &lt; 0, so the correct value is –3, and (C) is correct.</p>\n<p>To solve algebraically, start by substituting –<em>x</em> + 6 for <em>y</em> in the first equation to get –<em>x</em> + 6 = <em>x</em><sup>2</sup> – 6<em>x</em> – 18. Put the quadratic into standard form by setting one side equal to 0. Add <em>x</em> to both sides of the equation to get 6 = <em>x</em><sup>2</sup> – 5<em>x</em> – 18, and then subtract 6 from both sides of the equation to get 0 = <em>x</em><sup>2</sup> – 5<em>x</em> – 24. Now that the quadratic is in standard form, factor the right side. Find two numbers that multiply to –24 and add to –5. These are 3 and –8. Thus, the quadratic factors into (<em>x</em> + 3)(<em>x</em> – 8) = 0. Now set each factor equal to 0 to get two equations: <em>x</em> + 3 = 0 and <em>x</em> – 8 = 0. Subtract 3 from both sides of the first equation to get <em>x</em> = –3. Add 8 to both sides of the second equation to get <em>x</em> = 8. The solution when <em>a</em> &lt; 0 is –3, so (C) is correct.</p>\n<p>Using either of these methods, the correct answer is (C).</p>\n</div>",
+    "correct_answer": "C",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12612/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:42:55.463840"
+  },
+  {
+    "question_id": 12613,
+    "stimulus": "",
+    "question_stem": "Two employees at a jewelry store are weighing identical pieces of jewelry. The first employee weighs 4 pairs of earrings and 2 necklaces and obtains a weight of 38.8 grams. The second employee weighs 1 pair of earrings and 5 necklaces and obtains a weight of 42.1 grams. What is the weight, in grams, of 1 pair of earrings?",
+    "answer_choices": {
+      "A": "6.1",
+      "B": "6.5",
+      "C": "7.0",
+      "D": "7.2"
+    },
+    "answer_ids": {
+      "A": 44881,
+      "B": 44882,
+      "C": 44883,
+      "D": 44884
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for a value given a specific situation. One method is to translate the English to math in Bite-Sized Pieces and use the built-in calculator. Use <em>x</em> to represent the weight of 1 pair of earrings and <em>y</em> to represent the weight of 1 necklace; write this on the scratch paper to remember it. The question states that <em>The first employee weighs 4 pairs of earrings and 2 necklaces and obtains a weight of 38.8 grams</em>. Translate the weight of 4 pairs of earrings as 4<em>x</em>, the weight of 2 necklaces as 2<em>y</em>, and the total weight as 38.8. The translated equation is 4<em>x</em> + 2<em>y</em> = 38.8. The question also states that <em>The second employee weighs 1 pair of earrings and 5 necklaces and obtains a weight of 42.1 grams</em>. Translate this scenario the same way to get <em>x</em> + 5<em>y</em> = 42.1. Enter both equations into the built-in calculator, and then scroll and zoom to see that the lines intersect at the point (6.1, 7.2). The question asks for the weight of 1 pair of earrings, which is represented by <em>x</em>, so the weight of 1 pair of earrings is 6.1 grams, and (A) is correct.</p>\n<p>Since the question asks for a specific value and the answers contain numbers in increasing order, another approach is to plug in the answers. Rewrite the answer choices on the scratch paper and label them as “weight of 1 pair of earrings.” Next, start with a number in the middle and try (B), 6.5. The question states that <em>The first employee weighs 4 pairs of earrings and 2 necklaces and obtains a weight of 38.8 grams</em>. If 1 pair of earrings weighs 6.5 grams, 4 pairs of earrings weigh (4)(6.5) = 26 grams. Subtract this from the 38.8 grams that the first employee weighed to get 38.8 – 26 = 12.8 grams for the two necklaces. Divide 12.8 by 2 to get 6.4, which is the weight of 1 necklace. The question also states that <em>The second employee weighs 1 pair of earrings and 5 necklaces and obtains a weigh of 42.1 grams</em>. Plug in 6.5 for the weight of 1 pair of earrings and 6.4 for the weight of 1 necklace to get 42.1 = 6.5 + 6(6.4), which becomes 42.1 = 6.5 + 38.4, and then 42.1 = 44.9. This is not true, so eliminate (B).</p>\n<p>It may be difficult to determine whether a larger or smaller value is needed, so pick a direction and try (A), 6.1. If 1 pair of earrings weighs 6.1 grams, 4 pairs of earrings weigh (4)(6.1) = 24.4 grams. Subtract this from the 38.8 grams that the first employee weighed to get 38.8 – 24.4 = 14.4. Divide 14.4 by 2 to get 7.2, which is the weight of 1 necklace. Plug 6.1 grams for the weight of 1 pair of earrings and 7.2 grams for the weight of 1 necklace into the second scenario to get 42.1 = 6.1 + 5(7.2), which becomes 42.1 = 6.1 + 36, and then 42.1 = 42.1. The weight of 1 pair of earrings, 6.1 grams, and the weight of 1 necklace, 7.2 grams, was the same in both scenarios, so (A) is correct.</p>\n<p>Using either of these methods, the correct answer is (A).</p>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12613/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:42:56.185355"
+  },
+  {
+    "question_id": 12614,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\"><em>y</em> = 7(<em>x</em> + 13)<sup>2</sup> – 19</div>\n<div style=\"text-align: center;\"><em>y</em> = –13<br/><br/></div>\nAt how many points do the graphs of the given equations intersect in the <em>xy</em>-plane?",
+    "answer_choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "answer_ids": {
+      "A": 44885,
+      "B": 44886,
+      "C": 44887,
+      "D": 44888
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for the number of points of intersection in a system of equations. One method is to use the built-in calculator. Enter both equations into the calculator, then scroll and zoom to see how many times, if at all, they intersect. The line and the parabola intersect at two points, making (B) correct.</p>\n<p>To solve algebraically, substitute –13 for <em>y</em> in the first equation to get –13 = 7(<em>x</em> + 13)<sup>2</sup> – 19. Add 19 to both sides of the equation to get 6 = 7(<em>x</em> + 13)<sup>2</sup>. Divide both sides of the equation by 7 to get <img align=\"middle\" alt=\"6 over 7 space equals space left parenthesis x space plus space 13 right parenthesis squared\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/0cb4626b-5d69-40fb-a6c1-7b4041fc4897_5c338d69-def8-4ab4-a15b-9b8ea2db9caf.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"110\"/><sup></sup>. Take the square root of both sides of the equation to get <img align=\"middle\" alt=\"plus-or-minus square root of 6 over 7 end root equals space x space plus space 13\" height=\"45\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/0cb4626b-5d69-40fb-a6c1-7b4041fc4897_9b1448f2-70fb-466a-a278-84978a0f25cd.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"117\"/>. Since <em>x</em> + 13 equals either a positive or negative real number, there are two values of <em>x</em>, or two solutions, and (B) is correct.</p>\n<p>Using either of these methods, the correct answer is (B).</p>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12614/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:42:56.916578"
+  },
+  {
+    "question_id": 12615,
+    "stimulus": "",
+    "question_stem": "As part of an opening-day promotion, a hobby shop gave the same number of free trading cards to every customer who entered the store between 10:00 A.M. and 11:00 A.M. The relationship between the number of trading cards that the store started with, <em>t</em>, and the number of customers who entered the store between 10:00 A.M. and 11:00 A.M., <em>c</em>, can be expressed as <em>t </em>– 3<em>c </em>= 132. In this context, what is the best interpretation of the number 3?",
+    "answer_choices": {
+      "A": "Each customer received 3 trading cards.",
+      "B": "The shop had 3 trading cards remaining at 11:00 A.M.",
+      "C": "The shop started with 3 trading cards at 10:00 A.M.",
+      "D": "3 customers visited the store between 10:00 A.M. and 11:00 A.M."
+    },
+    "answer_ids": {
+      "A": 44889,
+      "B": 44890,
+      "C": 44891,
+      "D": 44892
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for the interpretation of a number in context. Start by reading the final question, which asks for the meaning of the number 3. Then label the parts of the equation with the information given. The question states that <em>t</em> represents the number of trading cards the store started with, and <em>c</em> represents the number of customers who entered the store between 10:00 A.M. and 11:00 A.M. Rewrite the equation with these labels:</p>\n<p style=\"text-align: center;\"><em>Starting number of trading cards </em>– 3(<em>number of customers</em>) = 132</p>\n<p>Since 3 is multiplied by the number of customers, 3<em>c</em> represents the total number of trading cards given to customers. Subtracting the total number of trading cards given to customers from the starting number of trading cards results in the number of trading cards left at 11:00 A.M. Rewrite the equation with this information:</p>\n<p style=\"text-align: center;\"><em>Starting number of trading cards </em>– 3(<em>number of customers</em>) =<br/><em>Number of trading cards left at 11:00 A.M.</em></p>\n<p>Keep (A) because 3 is multiplied by the number of customers and 3<em>c</em> represents the total number of trading cards given to customers, so 3 must represent the number of trading cards given to each customer. Eliminate (B) because the shop had 132 trading cards, not 3, remaining at 11:00 A.M. Eliminate (C) because the shop could not have started with fewer trading cards than it ended with. Eliminate (D) because <em>c</em> customers, not 3, visited the store between 10:00 A.M. and 11:00 A.M. The correct answer is (A).</p>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12615/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:42:57.631001"
+  },
+  {
+    "question_id": 12616,
+    "stimulus": "",
+    "question_stem": "A line is graphed in the <em>xy</em>-plane. If the line has an <em>x</em>-intercept of (20, 0) and a slope of <img align=\"middle\" alt=\"negative 1 fourth comma\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/9b8ed9ef-ae97-4a54-bb45-023b7bee8310_06a3e048-b41b-4642-8c6d-6b1bbb1ea7bc.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"36\"/> what is the <em>y</em>-coordinate of the <em>y</em>-intercept of the line?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the <em>y</em>-coordinate of the <em>y</em>-intercept of a line. Use the given information to write an equation in slope-intercept form, <em>y</em> = <em>mx</em> + <em>b</em>, in which <em>m</em> is the slope and <em>b</em> is the <em>y</em>-intercept. Plug in <em>x</em> = 20, <em>y</em> = 0, and <em>m</em> = <img align=\"middle\" alt=\"negative 1 fourth\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/9b8ed9ef-ae97-4a54-bb45-023b7bee8310_f2abfb58-65d4-46ab-9528-bb177b6ece59.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"31\"/>, and the equation becomes <img align=\"middle\" alt=\"0 space equals space open parentheses negative 1 fourth close parentheses left parenthesis 20 right parenthesis space plus space b\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/9b8ed9ef-ae97-4a54-bb45-023b7bee8310_aae7b2dd-9c7b-427f-9d58-9d6a281c5e2d.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"140\"/><em></em>. Simplify the equation to get 0 = –5 + <em>b</em>. Add 5 to both sides of the equation to get 5 = <em>b</em>. The correct answer is 5.\n                        </div>",
+    "correct_answer": "",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12616/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:42:58.397923"
+  },
+  {
+    "question_id": 12617,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\">–5(<em>x</em> + 14) = 5(14 – <em>x</em>)</div>\n<br/>How many solutions does the given equation have?",
+    "answer_choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "answer_ids": {
+      "A": 44893,
+      "B": 44894,
+      "C": 44895,
+      "D": 44896
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for the number of solutions to a linear equation. The most efficient method is to enter the equation into the built-in calculator. Scroll and zoom as needed to see that there is no vertical line representing a solution, which makes (D) correct.</p>\n<p>To determine the number of solutions algebraically, start by distributing on both sides of the equation to get –5<em>x</em> – 70 = 70 – 5<em>x</em>. In a linear equation with one variable, when the variable terms are the same but the constant terms are different, the equation has no solution. To check, continue solving: add 5<em>x</em> to both sides of the equation to get –70 = 70, which is not true. Therefore, there is no solution, and (D) is correct.</p>\n<p>Using either of these methods, the correct answer is (D).</p>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12617/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:42:59.123299"
+  },
+  {
+    "question_id": 12618,
+    "stimulus": "",
+    "question_stem": "<p style=\"text-align: center;\">3<em>d </em>+ 8<em>n</em> = 24<em>n </em>– 14<br/>14 + 3<em>d </em>= <em>kn<br/><br/></em></p>\n<p>In the given system of equations, <em>k </em>is a constant. If the system of equations has infinitely many solutions, what is the value of <em>k</em>?</p>",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for the value of a constant in a system of equations. When a system of linear equations has infinitely many solutions, the two equations form the same line. One method is to use the built-in calculator. First, replace <em>d</em> with <em>x</em> and <em>n</em> with <em>y</em> so the calculator will show graphs. Next, enter each equation into an entry field, and select the slider tool for <em>k</em>. Move the slider left and right until the same line is graphed twice, scrolling and zooming as needed to confirm that the lines are on top of each other. Click on the slider tool to extend the range, and then keep sliding to the right to see that the same line is graphed twice when <em>k</em> = 16, making 16 correct.</p>\n<p>Another method is to make the two equations look similar. Subtract 8<em>n</em> from both sides of the first equation to get 3<em>d</em> = 16<em>n</em> – 14. Subtract 14 from both sides of the second equation to get 3<em>d</em> = <em>kn</em> – 14. Write one equation above the other to compare terms:</p>\n<p style=\"text-align: center;\">3<em>d</em> = 16<em>n</em> – 14<br/>3<em>d</em> = <em>kn</em> – 14</p>\n<p>Both equations have 3<em>d</em> on the left side and –14 on the right side, so the remaining terms must be equal, which means 16<em>n</em> = <em>kn</em>. Divide both sides of this equation by <em>n</em> to get 16 = <em>k</em>.</p>\n<p>Using either of these methods, the correct answer is 16.</p>\n</div>",
+    "correct_answer": "",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12618/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:42:59.838670"
+  },
+  {
+    "question_id": 12619,
+    "stimulus": "",
+    "question_stem": "<p>Which of the following quadratic equations has exactly two real solutions?</p>",
+    "answer_choices": {
+      "A": "<em>x</em><sup>2</sup> – 6<em>x</em> + 9 = 0",
+      "B": "<em>x</em><sup>2</sup> – 2<em>x</em> + 3 = 0",
+      "C": "<em>x</em><sup>2</sup> + 2<em>x</em> – 3 = 0",
+      "D": "<em>x</em><sup>2</sup> + 6<em>x</em> + 9 = 0"
+    },
+    "answer_ids": {
+      "A": 44897,
+      "B": 44898,
+      "C": 44899,
+      "D": 44900
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for a quadratic equation that has exactly two solutions. Rather than factoring or determining which equation’s discriminant has a value greater than zero, the most efficient method is to enter each equation into the built-in calculator. Either include “= 0” to see the solutions as vertical lines or leave out “= 0” to see a parabola. Either way, scroll and zoom as needed to see whether the graph has any real solutions. The graph of the equation in (A) has one solution; eliminate (A). The graph of the equation in (B) has no solution; eliminate (B). The graph of the equation in (C) has two solutions; keep (C). Only one answer can be correct, so stop here. The correct answer is (C).\n                        </div>",
+    "correct_answer": "C",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12619/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:43:00.622254"
+  },
+  {
+    "question_id": 12620,
+    "stimulus": "",
+    "question_stem": "<p style=\"text-align: center;\"><em></em><img align=\"middle\" alt=\"g left parenthesis x right parenthesis space equals open parentheses 0.35 close parentheses to the power of x over 5 end exponent\" height=\"39\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/149c16d5-2630-4f73-bf81-afa99a3f1291_a7b7f379-c021-4cda-be1b-2d73b02b6259.svg\" style=\"max-width: none; vertical-align: -5px;\" width=\"106\"/></p>\n<p><br/>The function <em>g</em> is defined by the given equation, which can be rewritten as <em></em><img align=\"middle\" alt=\"g left parenthesis x right parenthesis space equals space open parentheses 1 space minus space n over 100 close parentheses to the power of x\" height=\"43\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/149c16d5-2630-4f73-bf81-afa99a3f1291_0ee4c909-28db-4393-923a-8116a9aa3aa5.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"143\"/>, where <em>n</em> is a constant. Which of the following is closest to the value of <em>n</em>?</p>",
+    "answer_choices": {
+      "A": "5",
+      "B": "7",
+      "C": "13",
+      "D": "19"
+    },
+    "answer_ids": {
+      "A": 44901,
+      "B": 44902,
+      "C": 44903,
+      "D": 44904
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for the value of a constant in an equivalent form of a function. The most efficient method is to enter both forms of the function equation into the built-in calculator. Next, plug in the answer choices—either by replacing <em>n</em> with each value one at a time or by using the slider tool—to see which one results in the same graph as the first form of the equation. The graph when <em>n</em> = 19 is closest, so (D) is correct.</p>\n<p>Another method is to plug in for <em>x</em>. Make <em>x</em> = 1 so the exponent of the more complicated second form of the equation is simple. The first equation becomes <em></em><img align=\"middle\" alt=\"g left parenthesis 1 right parenthesis space equals space open parentheses 0.35 close parentheses to the power of 1 fifth end exponent\" height=\"39\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/149c16d5-2630-4f73-bf81-afa99a3f1291_8d7ffc44-3895-41a5-b9de-98761392df61.svg\" style=\"max-width: none; vertical-align: -5px;\" width=\"110\"/><sub></sub>, or <em>g</em>(1) ≈ 0.811. Plug <em>x</em> = 1 into the second equation to get <em></em><img align=\"middle\" alt=\"g left parenthesis 1 right parenthesis space equals space open parentheses 1 space minus space n over 100 close parentheses to the power of 1\" height=\"43\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/149c16d5-2630-4f73-bf81-afa99a3f1291_9c203997-526e-43e9-98ab-49ed26521fa3.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"143\"/>, or <img align=\"middle\" alt=\"g left parenthesis 1 right parenthesis space equals space 1 space minus space n over 100\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/149c16d5-2630-4f73-bf81-afa99a3f1291_f11432e0-9651-41b7-8e39-7e89917de35f.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"122\"/>. Set the two values of <em>g</em>(1) equal to each other to get <img align=\"middle\" alt=\"0.811 space equals space 1 space minus space n over 100\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/149c16d5-2630-4f73-bf81-afa99a3f1291_2728c30b-c3f9-4e44-b053-45b09bd932ab.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"134\"/>. Subtract 1 from both sides of the equation to get <img align=\"middle\" alt=\"negative 0.189 space equals space minus n over 100\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/149c16d5-2630-4f73-bf81-afa99a3f1291_2591e73f-9917-45f2-8e41-fa98b82cf015.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"130\"/>. Multiply both sides of the equation by –100 to get 18.9 = <em>n</em>. The closest number in the answer choices is 19, so (D) is correct.</p>\n<p>Using either of these methods, the correct answer is (D).</p>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12620/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:43:01.347776"
+  },
+  {
+    "question_id": 12621,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\"><img alt=\"The figure presents triangle VYZJ. Side VY is horizontal and is at the top of the figure, and vertex Z is directly below vertex Y. Angle Y is marked with the right angle symbol. Side VY contains point W, and side VZ contains point X, which is directly below point W. A line is drawn down from point W to point X such that line segment WX is perpendicular to side VY.\" height=\"282\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod2H_Art_Q18a.jpg\" width=\"348\"/><br/>Note: Figure not drawn to scale.<br/><br/></div>\n<p>In the figure shown, <em>VW </em>= 6 units, <em>YZ </em>= 15 units, and <em>VZ</em> = <img align=\"middle\" alt=\"square root of 549\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2b3961b0-9f97-40df-aea4-b38b516821ab_aaf8bf2b-fcf1-4b32-9e40-4e69b69771f6.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/> units. What is the area, in square units, of triangle <em>VWX</em>?</p>",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the area of a geometric figure. Use the Geometry Basic Approach. Start by redrawing the figure on the scratch paper. It might help to draw two separate triangles to see the relationships more clearly. Triangles <em>VWX</em> and <em>VYZ</em> share angle <em>V</em>, and each has a right angle, so they are similar triangles, which means they have the same angle measures and proportional sides. The figure should look something like this:<br/><br/>\n<div><img alt=\"The figure presents triangle VWX and a larger triangle VYZ. Angle W and angle Y are both labeled with a right angle symbol, and the two triangles are the same shape.\" height=\"203\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Ans_Mod2H_Art_Q18a.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"415\"/></div>\n<br/>Next, label the figure with the given information. Label <em>VW</em> as 6,<em> YZ</em> as 15 and <em>VZ</em> as <img align=\"middle\" alt=\"square root of 549\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2b3961b0-9f97-40df-aea4-b38b516821ab_aaf8bf2b-fcf1-4b32-9e40-4e69b69771f6.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/>. The figure now looks like this:<br/><br/>\n<div><img alt=\"The figure presents the same two triangles described above. Additionally, on triangle VWX, side VW is labeled as 6. On triangle VYZ, side YZ is labeled as 15 and side VZ is labeled as root 529. The remaining sides of the triangles are not labeled.\" height=\"206\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Ans_Mod2H_Art_Q18b.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"421\"/></div>\n<p><br/>Next, write down the formula for the area of a triangle, either from memory or after looking it up on the reference sheet. The formula is <em>Area</em> = <img align=\"middle\" alt=\"1 half\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2b3961b0-9f97-40df-aea4-b38b516821ab_40c4d37c-617e-4e30-8b02-d689383a76ac.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/> × <em>base</em> × <em>height</em>, or <em></em><img align=\"middle\" alt=\"A space equals space 1 half b h\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2b3961b0-9f97-40df-aea4-b38b516821ab_3762673e-96fc-4e8b-b162-1e3dc821ab28.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"74\"/><em></em>. The question asks for the area of triangle <em>VWX</em>. The height is the length of <em>WX</em>, so the base is the length of <em>VW</em>, or 6. The area formula becomes <em></em><img align=\"middle\" alt=\"A space equals space 1 half left parenthesis 6 right parenthesis left parenthesis h right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2b3961b0-9f97-40df-aea4-b38b516821ab_a430d72e-dec6-49e2-ac87-38d49b4c0b6b.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"94\"/>.  Find a way to determine the height, which is the length of <em>WX</em>. Similar triangles have proportional sides, and <em>WX</em> in triangle <em>VWX</em> is proportional to <em>YZ</em> in triangle <em>VYZ</em>. To find the length of <em>VY</em>, use the Pythagorean Theorem, <em>a</em><sup>2</sup> + <em>b</em><sup>2</sup> = <em>c</em><sup>2</sup>. Plug in the known sides of triangle <em>VYZ</em> to get <img align=\"middle\" alt=\"15 squared space plus space left parenthesis V Y right parenthesis squared space equals space open parentheses square root of 549 close parentheses squared\" height=\"26\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2b3961b0-9f97-40df-aea4-b38b516821ab_0f94a9a9-1ffe-464e-9440-b904c3bf6c1f.svg\" style=\"max-width: none; vertical-align: -5px;\" width=\"174\"/>. Square the terms to get 225 + (<em>VY</em>)<sup>2</sup> = 549. Subtract 225 from both sides of the equation to get (<em>VY</em>)<sup>2</sup> = 324. Take the positive square root of both sides of the equation to get <em>VY</em> = 18. Label this on the figure, which now looks like this:<br/><br/></p>\n<div><img alt=\"The figure presents the same two triangles described above. Additionally, on triangle VYZ, side VY is labeled as 18.\" height=\"207\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Ans_Mod2H_Art_Q18c.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"422\"/></div>\n<br/>Set up a proportion using matching pairs of sides: <img align=\"middle\" alt=\"6 over 18 space equals space fraction numerator W X over denominator 15 end fraction\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2b3961b0-9f97-40df-aea4-b38b516821ab_dc83f314-3807-4d6f-bf80-bee34f98baef.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"87\"/>. Cross-multiply to get (18)(<em>WX</em>) = (6)(15), which becomes 18(<em>WX</em>) = 90. Divide both sides of this equation by 18 to get <em>WX</em> = 5; label this on the figure, which now looks like this:<br/><br/>\n<div><img alt=\"The figure presents the same two triangles described above. Additionally, on triangle VWX, side WX is labeled as 5.\" height=\"206\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Ans_Mod2H_Art_Q18d.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"421\"/></div>\n<br/>The question asks for the area of triangle <em>VWX</em>, so keep going. The base of triangle <em>VWX</em> is 6, and the height is 5. Plug these into the area formula to get <em></em><img align=\"middle\" alt=\"A space equals space 1 half left parenthesis 6 right parenthesis left parenthesis 5 right parenthesis\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/2b3961b0-9f97-40df-aea4-b38b516821ab_016b73f6-f2cb-41b9-9b6e-4d17f15e87b2.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"93\"/>, which becomes <em>A</em> = 15. The correct answer is 15.\n                        </div>",
+    "correct_answer": "",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12621/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:43:02.090864"
+  },
+  {
+    "question_id": 12622,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\"><img alt=\"The figure presents the graph of a parabola in the xy plane. There is a dot at the vertex of the parabola, which is at the point with coordinates 1 comma 4. The parabola opens downward. There are also dots on the parabola at the points with coordinates zero comma 3 and 2 comma three. The parabola crosses the x-axis and negative one and at positive 3.\" height=\"397\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod2H_Art_Q16-r.jpg\" width=\"405\"/></div>\n<br/>\n<p>The graph of <em>y</em> = –<em>x</em><sup>2</sup> + <em>bx</em> + <em>c</em> is shown. If <em>b</em> and <em>c</em> are constants, what is the value of <em>b</em> – <em>c</em>?</p>",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the difference of two constants based on the graph of an equation. Three points are marked on the graph, so plug the given points into the equation one at a time. There is a point at (0, 3), so plug <em>x</em> = 0 and <em>y</em> = 3 into the equation to get 3 = – (0)<sup>2</sup> + <em>b</em>(0) + <em>c</em>, which becomes 3 = 0 + 0 + <em>c</em>, and then 3 = <em>c</em>. There is another point at (1, 4), so plug <em>x</em> = 1, <em>y</em> = 4, and <em>c</em> = 3 into the equation to get 4 = – (1)<sup>2</sup> + <em>b</em>(1) + 3, which becomes 4 = –1 + <em>b</em> + 3. Continue simplifying to get 4 = <em>b</em> + 2. Subtract 2 from both sides of this equation to get 2 = <em>b</em>. Thus, <em>b</em> = 2, <em>c</em> = 3, and <em>b </em>– <em>c</em> = 2 – 3 = –1. The correct answer is –1.\n                        </div>",
+    "correct_answer": "",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12622/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:43:02.807890"
+  },
+  {
+    "question_id": 12623,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\"><img alt=\"The figure presents the graph of a line in the xy-plane. The line starts at the points with coordinates zero comma negative 6. The line moves up and to the right, passing through the point with coordinates one comma negative 3 and the point with coordinates 2 comma zero.\" height=\"402\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod2H_Art_Q17-r.jpg\" width=\"400\"/></div>\n<br/> The graph of <i>y </i>= <i>g</i>(<i>x</i>) – 14 is shown. If <i>a </i>is a positive constant and <i>b</i> is a negative constant, the function <i>g</i> could be defined by which of the following equations?",
+    "answer_choices": {
+      "A": "<em>g</em>(<em>x</em>) = –<em>a</em> – <em>bx</em>",
+      "B": "<em>g</em>(<em>x</em>) = –<em>a</em> + <em>bx</em>",
+      "C": "<em>g</em>(<em>x</em>) = <em>a</em> – <em>bx</em>",
+      "D": "<em>g</em>(<em>x</em>) = <em>a</em> + <em>bx</em>"
+    },
+    "answer_ids": {
+      "A": 44905,
+      "B": 44906,
+      "C": 44907,
+      "D": 44908
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Advanced Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for an equation with constants that represents a graph. Compare features of the graph to the answer choices. The equations in the answer choices are all close to slope-intercept form, <em>y </em>= <em>mx </em>+ <em>b</em>, in which <em>m </em>is the slope and <em>b </em>is the <em>y</em>-intercept, except they use <em>b</em> for <em>m</em> and <em>a</em> for <em>b</em>, and the <em>mx</em> and <em>b </em>terms are reversed. The graph shown is for <em>y</em> = <em>g</em>(<em>x</em>) – 14, but the question asks for the equation of function <em>g</em>. When a graph is translated, or shifted, up or down, the <em>y</em>-value changes. Thus, the graph of <em>y</em> = <em>g</em>(<em>x</em>) – 14 is shifted down 14 units from the graph of <em>y</em> = <em>g</em>(<em>x</em>). Translating a graph does not change its shape, so both graphs have the same slope. The graph of <em>g</em>(<em>x</em>) – 14 ascends from left to right, so it has a positive slope, as will the graph of <em>g</em>(<em>x</em>). The question states that <em>b</em> is negative, so –<em>b</em> indicates a positive slope. Eliminate (B) and (D) because they have negative slopes. Next, work with the <em>y</em>-intercept. The graph of <em>y</em> = <em>g</em>(<em>x</em>) – 14 intercepts the <em>y</em>-axis at (0, –6). Translate this up 14 units to get the <em>y</em>-intercept for the graph of <em>y</em> = <em>g</em>(<em>x</em>) at (0, 8). The question states that <em>a</em> is positive, so <em>a </em>indicates a positive <em>y</em>-intercept. Eliminate (A) because it has a negative <em>y</em>-intercept. The correct answer is (C).\n                        </div>",
+    "correct_answer": "C",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12623/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:43:03.536377"
+  },
+  {
+    "question_id": 12624,
+    "stimulus": "",
+    "question_stem": "A circle has center <em>O</em> with coordinates (<em>h</em>, <em>k</em>) when graphed in the <em>xy</em>-plane. Point <em>Y</em> lies on the circle and has coordinates (<em>h </em>+ <img align=\"middle\" alt=\"square root of 111\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_20f12570-d77f-4155-8688-272a8479f564.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/>, <em>k</em> – 2). If point <em>X</em> also lies on the circle, and the measure of angle <em>XOY </em>is 90º, what is the length of <img align=\"middle\" alt=\"top enclose X Y end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_e208a27e-1ade-453f-98a7-5543a86b3b3f.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"24\"/>?",
+    "answer_choices": {
+      "A": "<img align=\"middle\" alt=\"115 square root of 3\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_Choice_1220676_22fed1da-ca24-482f-aaed-2443f4565743.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"53\"/>",
+      "B": "<img align=\"middle\" alt=\"115 square root of 2\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_Choice_1220677_8da135bc-ac8a-47e3-bd41-5c463ff27b73.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"53\"/>",
+      "C": "<img align=\"middle\" alt=\"2 square root of 111\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_Choice_1220678_77fb00b0-41ae-4d07-8ef2-2565b0999482.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"53\"/>",
+      "D": "<img align=\"middle\" alt=\"square root of 230\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_Choice_1220679_d69f7117-0da4-4858-a2d4-0bd775e69fa3.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/>"
+    },
+    "answer_ids": {
+      "A": 44909,
+      "B": 44910,
+      "C": 44911,
+      "D": 44912
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for a measurement of a geometric figure. Use the Geometry Basic Approach. Start by drawing a figure on the scratch paper. Draw a circle with center <em>O</em>, and place points <em>X</em> and <em>Y</em> on the circle. Since (<em>h</em>, <em>k</em>) is the center of the circle, the <em>x</em>-coordinate of point <em>Y</em> is <img align=\"middle\" alt=\"square root of 111\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_94ea98ad-b630-4491-8bf0-e1e31b565105.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/> units to the right of the center of the circle, and the <em>y</em>-coordinate of point <em>X</em> is 2 units down from the center of the circle. To keep things simple, plug in (0, 0) for the center, and label point <em>Y </em>with the coordinates <img align=\"middle\" alt=\"open parentheses square root of 111 comma space 2 close parentheses\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_ae97461e-2255-4fec-8ca2-969f79e74aa9.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"72\"/> . The question states that angle <em>XOY</em> measures 90°, so place point <em>X</em> at a right angle from point <em>Y</em>. The question asks for the length of <img align=\"middle\" alt=\"top enclose X Y end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_ae11a769-305e-4b5f-bdf4-010dc26c5368.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"24\"/>, so draw a line segment connecting points <em>X</em> and <em>Y</em>. The drawing should look something like this:<br/><br/><img alt=\"The figure presents a circle with center O, which is labeled with coordinates zero comma zero. Point X lies on the circle below and slightly to the left of center O. Point Y lies on the circle to the right of and slightly below center O. Point Y is labeled with the coordinates root 111 comma 2. Lines connect points O, X, and Y to form triangle OXY, and angle XOY is labeled with a right angle symbol.\" height=\"237\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Ans_Mod2H_Art_Q20a.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"300\"/><br/>There is now a right triangle <em>XOY</em>, so find the lengths of <img align=\"middle\" alt=\"top enclose X O end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_0c6ad002-4325-4990-9f54-d27f9f6c2f16.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"25\"/> and <img align=\"middle\" alt=\"top enclose Y O end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_ba9e15db-f8ff-4122-bca3-c0dd798556a5.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"25\"/> in order to calculate the length of <img align=\"middle\" alt=\"top enclose X Y end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_673d1e19-bc95-412e-a4c1-2a4d0b29af7a.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"24\"/>. Since <img align=\"middle\" alt=\"top enclose X O end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_b47ae9d7-4f24-4924-a87b-a820facf8144.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"25\"/> and <img align=\"middle\" alt=\"top enclose Y O end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_b8e86d0f-f3f5-4696-921a-4600b43ad11b.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"25\"/> are each a radius of the circle, they have the same length. Use the coordinates of point <em>Y</em> to find the length of <img align=\"middle\" alt=\"top enclose O Y end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_835a2dd7-e9c9-449d-a5e0-bd4d269be26a.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"25\"/>. Add a point <img align=\"middle\" alt=\"square root of 111\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_50d8c9c9-4329-4f89-b363-0ab0c0a61fc1.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/> units to the right of point <em>O</em> and 2 units up from point <em>Y</em> to create a right triangle. Label this point <em>Z</em>. Label <em>OZ</em> as <img align=\"middle\" alt=\"square root of 111\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_5b59fae1-e9e4-45d3-a9fa-d4228475e3ea.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/> and <em>YZ</em> as 2. The drawing now looks like this:</p>\n<p><img alt=\"The figure presents the same circle described above. Additionally, point Z has been added directly to the right of center O and directly above point Y. Line are drawn to form triangle OYZ. Angle OZY is a right angle, side OZ is labeled as root 111, and side YZ is labeled as 2.\" height=\"246\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Ans_Mod2H_Art_Q20b.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"299\"/><br/>To find the length of <img align=\"middle\" alt=\"top enclose O Y end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_2473c564-27d2-4cfe-9580-ac5eb501b801.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"25\"/>, use the Pythagorean Theorem, <em>a</em><sup>2</sup> + <em>b</em><sup>2</sup> = <em>c</em><sup>2</sup>. Plug in the known sides of triangle <em>OYZ</em> to get 2<sup>2</sup> + <img align=\"middle\" alt=\"open parentheses square root of 111 close parentheses squared\" height=\"25\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_6cf943d3-929a-4d59-942d-6aa4d43d3de9.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"61\"/> = (<em>OY</em>)<sup>2</sup>. Square the terms to get 4 + 111 = (<em>OY</em>)<sup>2</sup>. Add the terms on the left side of the equation to get 115 = (<em>OY</em>)<sup>2</sup>. Take the positive square root of both sides of the equation to get <img align=\"middle\" alt=\"square root of 115\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_f7663e2e-127f-41c5-97c7-0633824e1ecc.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/> = <em>OY</em>. Label this on the figure. Since <img align=\"middle\" alt=\"top enclose O X end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_830ae727-4736-467e-8ef2-7bbeb29cc019.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"25\"/> is the same length, also label <em>OX</em> as <img align=\"middle\" alt=\"square root of 115\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_16f7556c-edf1-40ea-9d89-bd94e33b8b6f.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/>. The figure now looks like this:</p>\n<p><img alt=\"The figure presents the same circle described above. Additionally, side OX is labeled as root 115, and side OY is labeled as root 115.\" height=\"239\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Ans_Mod2H_Art_Q20c.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"300\"/></p>\n<p><br/>To find the length of <img align=\"middle\" alt=\"top enclose X Y end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_78f53489-5f67-4a1d-b417-672063e75e11.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"24\"/>, use the Pythagorean Theorem again, this time with triangle <em>XOY</em>. Plug in the known sides of triangle <em>XOY</em> to get<img align=\"middle\" alt=\"open parentheses square root of 115 close parentheses squared space plus space open parentheses square root of 115 close parentheses squared space equals space left parenthesis X Y right parenthesis squared\" height=\"26\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_a63efc26-3df7-442b-b8df-13347545ab30.svg\" style=\"max-width: none; vertical-align: -5px;\" width=\"209\"/><sup></sup>. Square the terms to get 115 + 115 = (<em>XY</em>)<sup>2</sup>. Add the terms on the left side of the equation to get 230 = (<em>XY</em>)<sup>2</sup>. Take the positive square root of both sides of the equation to get <img align=\"middle\" alt=\"square root of 230\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_5271343b-21c0-470f-a3b8-2d1f0248e7ca.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/> = <em>XY</em>. The correct answer is (D).</p>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12624/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:43:04.346895"
+  },
+  {
+    "question_id": 12625,
+    "stimulus": "",
+    "question_stem": "<p>When the quantity <em>n</em> is decreased by 150%, the result is –90. What is the value of <em>n</em>?</p>",
+    "answer_choices": {
+      "A": "–135",
+      "B": "–60",
+      "C": "60",
+      "D": "180"
+    },
+    "answer_ids": {
+      "A": 44913,
+      "B": 44914,
+      "C": 44915,
+      "D": 44916
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for a value based on a percentage. Since the question asks for a specific value and the answers contain numbers in increasing order, plug in the answers. Rewrite the answer choices on the scratch paper and label them “<em>n</em>.” Next, start with a number in the middle, and try (C), 60. <em>Percent</em> means out of 100, so translate 150% as <img align=\"middle\" alt=\"150 over 100\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/fa280310-275e-4cea-b6e2-6ce85cb12a4d_864f0c2f-96da-4092-a249-aea1c034e956.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"36\"/>, or 1.5. To find 150% of 60, multiply 1.5 by 60 to get 90. The question states that <em>n</em> is decreased by 150%, so subtract 90 from the starting value to get 60 – 90 = –30. This is not –90, so eliminate (C). The result was too large, so also eliminate (A) and (B). Choice (D) is correct because 150% of 180 is (1.5)(180) = 270, and decreasing 180 by 270 is 180 – 270 = –90. The correct answer is (D).\n                        </div>",
+    "correct_answer": "D",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12625/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:43:05.144602"
+  },
+  {
+    "question_id": 12626,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\"><img alt=\"The figure presents a scatterplot in the x y plane. The x axis is labeled with the numbers 0 through 14, in increments of 2. The y axis is labeled with the numbers 60 through 74, in increments of 2. There is a cluster of data points that trend downward and to the right, and the line of best fit, which passes through the point with approximate coordinates 2 comma 70 and the point with coordinates 12 comma 61, is also drawn.\" height=\"448\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod2H_Art_Q22g.jpg\" width=\"552\"/></div>\n<br/> For data set A, the scatterplot shows the relationship between two variables, <i>x</i> and <i>y</i>. A line of best fit is also shown. Data set B is created by dividing the <i>y</i>-coordinate of each data point from data set A by 5.2. Which of the following is closest to the equation of a line of best fit for data set B?",
+    "answer_choices": {
+      "A": "<em>y</em> = 13.8 – 0.9<em>x</em>",
+      "B": "<em>y</em> = 13.8 – 0.2<em>x</em>",
+      "C": "<em>y</em> = 71.8 – 0.9<em>x</em>",
+      "D": "<em>y</em> = 71.8 – 0.2<em>x</em>"
+    },
+    "answer_ids": {
+      "A": 44917,
+      "B": 44918,
+      "C": 44919,
+      "D": 44920
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Advanced Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>The question asks for an equation that represents the line of best fit of a scatterplot. The question asks for the line of best fit of data set B, which has <em>y</em>-coordinates that are the <em>y</em>-coordinates of data set A divided by 5.2. Pick a point on the line of best fit of data set A. There is a point at approximately (2, 70). Divide the <em>y</em>-coordinate by 5.2 to get 70 ÷ 5.2 ≈ 13.5. Thus, the correct line of best fit must include a point at approximately (2, 13.5). Enter each answer choice into the built-in calculator, then scroll and zoom as needed to see whether the graph contains this point. Only (B) is close, with a point at (2, 13.4), so (B) is correct.</p>\n<p>There is another method to find the line of best fit. After determining that the correct equation must include a point at approximately (2, 13.5), plug that point into each answer choice, and eliminate any equations that don’t work. Choice (A) becomes 13.5 = 13.8 – 0.9(2), then 13.5 = 13.8 – 1.8, and finally 13.5 = 12. This is not true, so eliminate (A). Choice (B) becomes 13.5 = 13.8 – 0.2(2), then 13.5 = 13.8 – 0.4, and finally 13.5 = 13.4. This is very close, so keep (B), but check the remaining answers just in case. Choice (C) becomes 13.5 = 71.8 – 0.9(2), then 13.5 = 71.8 – 1.8, and 13.5 = 70; eliminate (C). Choice (D) becomes 13.5 = 71.8 – 0.2(2), then 13.5 = 71.8 – 0.4, and finally 13.5 = 71.4; eliminate (D). The correct answer is (B).</p>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12626/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:43:05.860061"
+  },
+  {
+    "question_id": 12627,
+    "stimulus": "",
+    "question_stem": "Pressure is defined in physics as the amount of force applied perpendicular to the surface of an object divided by the area over which that force is distributed. As part of the design test for an automotive part, two flat circular discs are placed on a flat surface. A constant pressure of 50 pascals is applied simultaneously straight down onto the surface of the two discs. The smaller disc has a radius that is <img align=\"middle\" alt=\"1 fourth\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/173de581-a9e1-4ff6-ae73-9e826f67085d_d774b9b5-3c8c-4519-85c8-f9e793f127f4.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/> of the radius of the larger disc. If the amount of force on the two circular discs combined is 3,400π newtons, what is the amount of force, in newtons, on the smaller circular disc, to the nearest integer?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for a value given a scenario. Start by drawing a figure to represent the scenario. The question describes a force that is applied perpendicular to the surface of two flat circular discs of different sizes, so draw two circles. The question gives information comparing the radii of the two circles, so add a radius to each circle. The drawing should look something like this:<br/><br/>\n<div><img alt=\"The figure presents two circles, with the larger circle on the left. Both circles have a radius drawn, but no measurement is given. Both circles also have an arrow pointing down to the surface of them to indicate applied pressure.\" height=\"295\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Ans_Mod2H_Art_Q21a1.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"450\"/></div>\n<br/>Next, label the figure with information from the question. Label the force applied to each circular disc as 50 pascals. There are other specific numbers relating to the size of the discs, so it is not possible to plug in. Instead, because the question states that <em>The smaller disc has a radius that is <img align=\"middle\" alt=\"1 fourth\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/173de581-a9e1-4ff6-ae73-9e826f67085d_a0f6e757-9104-4070-8ea7-e371d692b99a.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/> of the radius of the larger disc</em>, make the radius of the smaller circle <em>x</em> and the radius of the larger circle 4<em>x</em>. Label this on the figure, which now looks like this:<br/><br/>\n<div><img alt=\"The figure presents the same two circles described above. Additionally, the radius if the circle on the left is labeled as 4x and the radius of the circle on the right is labeled as x. Both arrows pointing to the surface of the circles are labeled as 50 pascals pressure.\" height=\"296\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Ans_Mod2H_Art_Q21b1.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"451\"/></div>\n<p>The question refers to <em>unit area </em>of the surface, so find the area of each circle. The formula for the area of a circle is <em>A</em> = π<em>r</em><sup>2</sup>, so the area of the larger circle is <em>A </em>= π(4<em>x</em>)<sup>2</sup> square units, or <em>A </em>= 16π<em>x</em><sup>2</sup> square units, and the area of the smaller circle is <em>A </em>= π<em>x</em><sup>2</sup> square units. The combined area of the surface of the two discs is 16π<em>x</em><sup>2</sup> + π<em>x</em><sup>2</sup>, which becomes 17π<em>x</em><sup>2 </sup>square units.</p>\n<p>At this point, one option is to use a proportion. The question asks about the force on the smaller disc and gives the force on both discs. Use the area of the smaller disc and the combined area of the two discs to set up a proportion, using a variable, such as <em>f</em>, to represent the unknown force: <img align=\"middle\" alt=\"fraction numerator f over denominator x straight pi squared end fraction space equals space fraction numerator 3 comma 400 straight pi over denominator 17 straight pi x squared end fraction\" height=\"45\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/173de581-a9e1-4ff6-ae73-9e826f67085d_9ebe99bf-49ac-4b81-afd0-b9887d3e0015.svg\" style=\"max-width: none; vertical-align: -18px;\" width=\"123\"/>. Cross-multiply to get (<em>f</em>)(17π<em>x</em><sup>2</sup>) = (π<em>x</em><sup>2</sup>)(3,400π). Divide both sides of the equation by π<em>x</em><sup>2</sup> to get 17<em>f</em> = 3,400π, and then divide both sides of the equation by 17 to get <em>f</em> = 200π. This is the force on the smaller disc. Multiply 200 by π and round to the nearest integer to get 628, which is correct.</p>\n<p>Another option is to write an equation. The question states that <em>Pressure is defined in physics as the amount of force applied perpendicular to the surface of an object divided by the unit area over which that force is distributed.</em> Use <em>P</em> for pressure, <em>F</em> for force, and <em>A</em> for unit area, and the equation becomes <img align=\"middle\" alt=\"P space equals space F over A\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/173de581-a9e1-4ff6-ae73-9e826f67085d_b410738b-3fa0-49ed-a81f-86ace99c3741.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"58\"/>. Fill in the numbers and units given in the question to get <img align=\"middle\" alt=\"50 space equals space fraction numerator 3 comma 400 straight pi over denominator A end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/173de581-a9e1-4ff6-ae73-9e826f67085d_c025b934-cd77-4ad9-a967-828240904fdc.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"105\"/>. Multiply both sides of the equation by <em>A</em> to get 50<em>A</em> = 3,400π, and then divide both sides of the equation by 50 to get <em></em><img align=\"middle\" alt=\"A space equals space fraction numerator 3 comma 400 straight pi over denominator 50 end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/173de581-a9e1-4ff6-ae73-9e826f67085d_0b964ce5-af7d-4996-ae95-bcaecb30864d.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"99\"/>, or <em>A</em> = 68π square units. Recall that the combined surface of the two discs can be represented by 17π<em>x</em><sup>2</sup>. Set as equal the two ways to represent the combined area of the two discs to get 17π<em>x</em><sup>2</sup> = 68π. Divide both sides of the equation by 17 to get π<em>x</em><sup>2</sup> = 4π. Divide both sides of the equation by π to get <em>x</em><sup>2</sup> = 4. Take the positive square root of both sides of the equation to get <em>x</em> = 2. This is the radius of the smaller circle. Thus, the area of the smaller circle is <em>A </em>= π(2)<sup>2</sup> or <em>A</em> = 4π. The pressure remains constant at 50 pascals, so plug this and the area of the smaller circle into the <img align=\"middle\" alt=\"P space equals space F over A\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/173de581-a9e1-4ff6-ae73-9e826f67085d_653cd008-88e9-4b57-a4a4-15d98cb05eb8.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"58\"/> formula to get <img align=\"middle\" alt=\"50 space equals space fraction numerator F over denominator 4 straight pi end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/173de581-a9e1-4ff6-ae73-9e826f67085d_c5e4b8d0-7afb-4e83-ac89-cc1e20588659.svg\" style=\"max-width: none; vertical-align: -16px;\" width=\"73\"/>. Multiply both sides of the equation by 4π to get 200π = <em>F</em>. Multiply 200 by π and round to the nearest integer to get 628, which is correct.</p>\n<p>Using either of these methods, the correct answer is 628.</p>\n</div>",
+    "correct_answer": "",
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/12627/?question_set=exam&exam_id=421",
+    "scraped_at": "2025-07-07T01:43:06.598961"
+  }
+]

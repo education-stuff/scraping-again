@@ -1,0 +1,731 @@
+[
+  {
+    "question_id": 12481,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:36.789074",
+    "url": "https://oneprep.xyz/question/12481/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>Neuroscience researcher Larissa K. Dill and colleagues have revealed that repetitive concussions can result in thicker skull bones, in the body’s attempt to protect the brain from future injuries. By utilizing both high-resolution neuroimaging and tissue staining techniques at their facility in southeastern Australia, Dill and her team were able to analyze how the ________ of bone tissue in the cranium increased after repeated exposure to concussive forces.</p></div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "visibility",
+      "B": "fragility",
+      "C": "density",
+      "D": "symmetry"
+    },
+    "choice_ids": {
+      "A": 44405,
+      "B": 44406,
+      "C": 44407,
+      "D": 44408
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12482,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:37.462738",
+    "url": "https://oneprep.xyz/question/12482/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>In Croatia, bećarac, a humorous style of folk song originating in rural communities, utilizes gentle teasing and mockery to generate a funny story or message. It was traditionally sung by respected male citizens who by nature of their esteem could deliver the message of the song without inciting anger, though women who have achieved similar ________ in their communities have also begun to perform bećarac songs.</p></div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "age",
+      "B": "status",
+      "C": "wealth",
+      "D": "promotions"
+    },
+    "choice_ids": {
+      "A": 44409,
+      "B": 44410,
+      "C": 44411,
+      "D": 44412
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12483,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:38.266079",
+    "url": "https://oneprep.xyz/question/12483/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>In 1900, British metallurgist Sherard Osborn Cowper-Coles determined that objects with ferrous (containing iron) metal surfaces could be galvanized—protected by a special coating of zinc to prevent rusting through oxidation—using zinc dust rather than liquid zinc, which had been the practice previously. At high enough temperatures, zinc dust will evaporate into vapor and bond with the iron on the surface of the metal object to create a ________ coating.</p></div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "temperate",
+      "B": "perennial",
+      "C": "fortified",
+      "D": "frangible"
+    },
+    "choice_ids": {
+      "A": 44413,
+      "B": 44414,
+      "C": 44415,
+      "D": 44416
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12484,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:38.960483",
+    "url": "https://oneprep.xyz/question/12484/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>In novelist Darcie Little Badger’s works of horror and science fiction, Little Badger tells stories through the lens of a Lipan Apache point of view, ________ perspective somewhat novel to popular literature, which typically features less specific motifs meant to be more easily digestible to a large audience.</p></div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "a surprising",
+      "B": "a meticulous",
+      "C": "an indigenous",
+      "D": "an outspoken"
+    },
+    "choice_ids": {
+      "A": 44417,
+      "B": 44418,
+      "C": 44419,
+      "D": 44420
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12485,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:39.647325",
+    "url": "https://oneprep.xyz/question/12485/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>Researchers from NASA and the Smithsonian Astrophysical Observatory had long wanted to test Einstein’s equivalence principle, which stated that the observed equivalence of inertial mass and gravitational mass is an effect of nature. The researchers set out to substantiate this theory. To do this, the researchers launched Gravity Probe A (GP-A), a hydrogen maser, into space to determine how time passes in a location with weak gravitational pull. The probe was launched from Virginia in 1976 and stayed in space for just under two hours before crashing back to Earth in the Atlantic Ocean. The researchers determined that the data collected by GP-A supported Einstein’s equivalent principle.</p></div>",
+    "question_stem": "Which choice best states the main purpose of the text?",
+    "answer_choices": {
+      "A": "To claim that the results of an experiment may provide evidence in support of a prior theory",
+      "B": "To advocate for the importance of the data to dispelling the criticisms of Einstein’s theory",
+      "C": "To discuss the capabilities and limitations of using space probes to test mathematical theories",
+      "D": "To detail two conflicting theories and an important piece of substantive evidence for both"
+    },
+    "choice_ids": {
+      "A": 44421,
+      "B": 44422,
+      "C": 44423,
+      "D": 44424
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12486,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:40.327416",
+    "url": "https://oneprep.xyz/question/12486/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>The following text is adapted from O. Henry’s 1905 short story “The Gift of the Magi<em>.</em>” A married couple is trying to buy sentimental Christmas gifts for each other despite not having much money to spend on them.</p><p style=\"text-align: left; padding-left: 30px;\">One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one's cheeks burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it.</p></div>",
+    "question_stem": "Which choice best states the main purpose of the text?",
+    "answer_choices": {
+      "A": "To emphasize the challenges of saving up the amount of money",
+      "B": "To demonstrate the variety of sources of income Della has",
+      "C": "To highlight the pride Della feels over saving up this money",
+      "D": "To describe the types of money Della enjoys collecting"
+    },
+    "choice_ids": {
+      "A": 44425,
+      "B": 44426,
+      "C": 44427,
+      "D": 44428
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12487,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:40.999102",
+    "url": "https://oneprep.xyz/question/12487/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>A field of intriguing possibilities, space tourism has attracted the attention of entrepreneurs looking to offer their clients the next phase of leisure travel. In response, aerospace researchers often call attention to the challenges of humans living in space for extended periods of time. Primarily, extended periods of low gravity as well as the visual uniformity of empty space put a strain on the physical and mental capabilities of humans, forcing a need for various and significant diversions to be present, which further complicates the design of a potential leisure spacecraft. Although the challenges are many, a subset of aerospace researchers known as aerospace architects seek to address these concerns and make space travel a possibility for a greater percentage of the population.</p></div>",
+    "question_stem": "Which choice best states the main idea of the text?",
+    "answer_choices": {
+      "A": "Researchers don’t understand the appeal of space tourism when the logistical challenges of physical and mental strain on the health of human travelers are likely to deter or diminish the viability of the field.",
+      "B": "Researchers believe that the logistical challenges of space tourism may pose difficulties for human travelers even though other groups, such as entrepreneurs, view the field with optimism.",
+      "C": "The main difference between the viewpoint of the entrepreneurs and the viewpoint of the researchers is that, unlike the researchers, the entrepreneurs advise caution regarding space tourism.",
+      "D": "The excitement generated by the entrepreneurs who seek the advancement of space tourism seems to have been overshadowed by the more recent objections posed by aerospace researchers."
+    },
+    "choice_ids": {
+      "A": 44429,
+      "B": 44430,
+      "C": 44431,
+      "D": 44432
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12488,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:41.727895",
+    "url": "https://oneprep.xyz/question/12488/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>To better honor the diverse cultural groups that call Papua New Guinea home, Jayawijaya Regent John Wempi Wetipo commissioned the Rumah Nusantara House, a museum in the region of Wamena. One of the items Wetipo and his staff have on display in the museum is a <em>noken</em>, a traditional entwined or plaited bag from Indonesia used to carry a wide variety of items and even young children. It is often hung from the head and carried by women in the Western New Guinea region. The <em>noken</em> is often used in political settings as a collection box for voting ballots and has been praised as a symbol to bridge the gap between competing tribes in the area.</p></div>",
+    "question_stem": "Which choice best states the main idea of the text?",
+    "answer_choices": {
+      "A": "John Wempi Wetipo and his staff chose to feature the <em>noken</em> in the Rumah Nusanatra House because of its importance to multiple cultures as a symbol of unity.",
+      "B": "John Wempi Wetipo and his staff’s decision showed that the <em>noken</em> was critical to the function of Papua New Guinean society.",
+      "C": "John Wempi Wetipo and his staff believed that some Papua New Guinean cultural groups used the <em>noken</em> more frequently than others did.",
+      "D": "John Wempi Wetipo and his staff were hesitant as to which items to feature in the Rumah Nusanatra House due to a desire to not offend any one particular Papua New Guinean cultural group."
+    },
+    "choice_ids": {
+      "A": 44433,
+      "B": 44434,
+      "C": 44435,
+      "D": 44436
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12489,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:42.420576",
+    "url": "https://oneprep.xyz/question/12489/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p><em>Pansori,</em> a genre of storytelling used in Korea, blends vocal performance with percussive instruments. The nineteenth century is often called the golden age of <em>pansori</em>, when its musical techniques became more advanced and attracted the attention of upper-class patrons. However, evidence for the elite’s appreciation of the music genre appears even earlier in recorded history. Many music historians note that while eighteenth-century <em>pansori</em> street performances attracted large audiences of lower-class citizens, members of the Korean nobility would attend these performances as well.</p></div>",
+    "question_stem": "According to the text, what do music historians note about <em>pansori</em>?",
+    "answer_choices": {
+      "A": "<em>Pansori </em>music was formalized before other Korean musical genres.",
+      "B": "<em>Pansori</em> music has attracted the attention of the upper class at multiple points throughout its history.",
+      "C": "<em>Pansori </em>music catered more to the tastes of the lower class than those of the upper class.",
+      "D": "<em>Pansori</em> music was generally performed only by accomplished musicians."
+    },
+    "choice_ids": {
+      "A": 44437,
+      "B": 44438,
+      "C": 44439,
+      "D": 44440
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12490,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:43.116638",
+    "url": "https://oneprep.xyz/question/12490/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>“The Man Who Would Be King” is an 1888 short story by Rudyard Kipling. The narrator believes that skilled leadership in battle can potentially lead to a change in one’s status: ________</p></div>",
+    "question_stem": "Which quotation from “The Man Who Would Be King” most effectively illustrates this claim?",
+    "answer_choices": {
+      "A": "\"Nobody cares a straw for the internal administration of Native States so long as oppression and crime are kept within decent limits.\"",
+      "B": "\"If I want a crown I must go and hunt it for myself.\"",
+      "C": "“We have kept away from the two things that make life worth having.”",
+      "D": "\"In any place where they fight, a man who knows how to drill men can always be a King.\""
+    },
+    "choice_ids": {
+      "A": 44441,
+      "B": 44442,
+      "C": 44443,
+      "D": 44444
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12491,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:43.782834",
+    "url": "https://oneprep.xyz/question/12491/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>Selective breeding is the process by which individuals with desirable characteristics—such as robust health or docile temperament—are bred together in the hopes of passing on these attributes to their offspring. In an experiment, researcher Lyudmila Trut sought to discover how selective breeding transforms species during domestication. She observed a group of docile foxes who were already in captivity and allowed them to breed with limited human interaction, with the goal of determining if the docile behavior exhibited by these foxes was due to genetics or prior human training. Trut claimed that the offspring were tame due to genetics, and selective breeding had caused the trait to be passed down to each subsequent group of fox offspring.</p></div>",
+    "question_stem": "Which quotation from a paper published by a fellow researcher who analyzed the same group of docile foxes best supports Trut’s claim?",
+    "answer_choices": {
+      "A": "“The fox group here was larger than the ones I had observed in the past, and this created more opportunities for conflict. I observed some dominant tendencies in this fox group that smaller fox groups don’t always display.”",
+      "B": "“Foxes under the care of human trainers still display aggressive tendencies when left alone, but these foxes were different. While I was observing them, I noted that they were happy to share a relatively small space with no desire for conflict.”",
+      "C": "“I didn’t expect to see what I saw when observing the fox group. I couldn’t establish a consistent trend in their behavior, though I observed them carefully for several weeks.”",
+      "D": "“The fox group offered some opportunities I hadn’t been afforded previously, so I spent longer with them than I had originally planned to. Of note was the group’s exceptionally good health, with an average lifespan approximately one year longer than the average fox in captivity.”"
+    },
+    "choice_ids": {
+      "A": 44445,
+      "B": 44446,
+      "C": 44447,
+      "D": 44448
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12492,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:44.523163",
+    "url": "https://oneprep.xyz/question/12492/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><div><img alt=\"The figure presents a bar graph titled “Number of rabbits present in various shelter types by fur color.” The horizontal axis is labeled “shelter type,” and the types of sticks, grass, and mud are indicated. There are three bars above each of the types. A key indicates that the first bar represents “brown,” the second bar represents “white,” and the third bar represents “gray.” The vertical axis is labeled “Number of rabbits,” and the numbers 0 through 80, in increments of 10, are indicated. The data are as follows. Note that all values are approximate.Sticks shelter. Brown fur, 75. White fur, 25. Gray fur, 38.Grass shelter. Brown fur, 22. White fur, 8. Gray fur, 44.Mud shelter. Brown fur, 11. White fur, 70. Gray fur, 40.\" height=\"325\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATAdv_OnlineTest_RW_Mod1_Q10.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"375\"/></div><p><br/>An investigator is attempting to identify the types of shelters wild rabbits are more likely to utilize in a forest setting. The graph shows the number of rabbits, separated by fur color, that inhabit each type of shelter. According to the data collected, the investigator claims that <u>rabbits with brown fur are more likely to use shelters made of sticks than rabbits with any other fur color</u>.</p></div>",
+    "question_stem": "Which choice most effectively uses data from the graph to support the underlined claim?",
+    "answer_choices": {
+      "A": "The highest number of brown-furred rabbits inhabiting a shelter type is approximately 75 for stick-based shelters.",
+      "B": "For stick-based shelters, the number of white-furred rabbit inhabitants was equal to the number of gray-furred rabbit inhabitants.",
+      "C": "For mud-based shelters, there were more brown-furred rabbit inhabitants than there were gray-furred rabbit inhabitants.",
+      "D": "The lowest number of white-furred rabbits inhabiting a shelter type is approximately 20 for grass-based shelters."
+    },
+    "choice_ids": {
+      "A": 44449,
+      "B": 44450,
+      "C": 44451,
+      "D": 44452
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12493,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:45.215709",
+    "url": "https://oneprep.xyz/question/12493/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>The gene that causes genetic epilepsy with febrile (related to fever) seizures demonstrates an autosomal dominance pattern, meaning that only one mutated copy of the gene is necessary to create the disorder. Researcher Bronwyn E. Grinton and colleagues aimed to identify the genetic connection between different families who exhibit this disorder. All of the families each contained a chromosome with the same set of DNA variants and shared a common ancestor approximately 800 years ago. Therefore, Grinton and colleagues determined that ________</p></div>",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "genetic analyses involving mutated genes should compare several different families with the same condition.",
+      "B": "the ancestor likely served as the source of the mutation that caused the disorder present in each of these families.",
+      "C": "containing the same set of DNA variants reduced the likelihood of genetic epilepsy among these families.",
+      "D": "genetic comparison between families is more useful for determining the causes of disorders than it is for determining common ancestry."
+    },
+    "choice_ids": {
+      "A": 44453,
+      "B": 44454,
+      "C": 44455,
+      "D": 44456
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12494,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:45.906170",
+    "url": "https://oneprep.xyz/question/12494/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>Even with an increase to the popularity of pet adoption, some potential pet owners remain wary of adoption and will adopt only when unable to secure a pet by other means. It may be appealing to forecast how the pet-owner relationship in these situations would have evolved if the owner had been open to adoption from the beginning, but each pet-owner relationship is a distinctive bond forged from a unique series of events. Thus, ________</p></div>",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "there is no method to accurately predict how a pet-owner relationship would change if it were started under different circumstances.",
+      "B": "in order to increase their options, potential pet owners who are averse to adoption should consider adoption as their primary means for procuring a pet.",
+      "C": "potential pet owners who seek out means for obtaining a pet other than adoption generally raise more well-behaved pets than those who primarily adopt.",
+      "D": "pet-owner bonds that begin through methods other than adoption take less time to form than those that begin with adoption.\t\t\t\t\t<span class=\"text-danger\">Your Answer</span>"
+    },
+    "choice_ids": {
+      "A": 44457,
+      "B": 44458,
+      "C": 44459,
+      "D": 44460
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12495,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:46.597289",
+    "url": "https://oneprep.xyz/question/12495/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>The musical ensemble New Yor-Uba, founded by pianist Michele Rosewoman in 1983, has a wide-ranging repertoire, but it is indebted to ________ Afro-Cuban musical traditions and avant-garde jazz—for its distinctive sound. On the group’s 2019 album <em>Hallowed</em>, percussionist Román Díaz plays the batá drums, used for sacred music in both Cuba and Nigeria, while Rosewoman provides the melodies using improvisational techniques.</p></div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "its main influence’s—",
+      "B": "it’s main influence’s—\t\t\t\t\t<span class=\"text-danger\">Your Answer</span>",
+      "C": "its main influences—",
+      "D": "it’s main influences—"
+    },
+    "choice_ids": {
+      "A": 44461,
+      "B": 44462,
+      "C": 44463,
+      "D": 44464
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12496,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:47.272265",
+    "url": "https://oneprep.xyz/question/12496/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>Some recent popular science articles have warned of an imminent geomagnetic reversal, the switching of the Earth’s magnetic poles. When will the next reversal happen, and what ________ Geomagnetic reversals do not occur regularly and thus cannot be predicted, but the last major event occurred more than 40,000 years ago. Scientists do not currently believe that the reversals cause catastrophic effects on the planet’s climate or on plants and animals.</p></div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "it will mean for life on Earth.",
+      "B": "will it mean for life on Earth?",
+      "C": "it will mean for life on Earth?",
+      "D": "will it mean for life on Earth."
+    },
+    "choice_ids": {
+      "A": 44465,
+      "B": 44466,
+      "C": 44467,
+      "D": 44468
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12497,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:47.972628",
+    "url": "https://oneprep.xyz/question/12497/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>During the “flash crash” of May 6, 2010, the value of securities held in US stock exchanges decreased by a total of more than $1 trillion over the span of 36 minutes due in part to the extensive use of trading algorithms, computer programs that automatically buy and sell large volumes of stocks. The crash had market-wide ________ exchanges placed new regulations on the use of algorithms and introduced a mechanism to stop trading on stocks that suddenly drop in value.</p></div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "effects, in addition, to the monetary loss suffered by investors",
+      "B": "effects, in addition to the monetary loss suffered by investors,",
+      "C": "effects, in addition to the monetary loss suffered by investors:",
+      "D": "effects in addition to the monetary loss suffered by investors,\t\t\t\t\t<span class=\"text-danger\">Your Answer</span>"
+    },
+    "choice_ids": {
+      "A": 44469,
+      "B": 44470,
+      "C": 44471,
+      "D": 44472
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12498,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:48.658512",
+    "url": "https://oneprep.xyz/question/12498/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>Bong Joon-ho’s 2019 thriller <em>Parasite</em>, the first non-English-language film to win the Academy Award for Best ________ explores themes of class identity and generational inequality in modern-day South Korea.</p></div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "Picture\t\t\t\t\t<span class=\"text-danger\">Your Answer</span>",
+      "B": "Picture, and",
+      "C": "Picture and",
+      "D": "Picture,"
+    },
+    "choice_ids": {
+      "A": 44473,
+      "B": 44474,
+      "C": 44475,
+      "D": 44476
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12499,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:49.353950",
+    "url": "https://oneprep.xyz/question/12499/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>Iowa’s Effigy Mounds National Monument is home to the Marching Bear ________ so large in scale that they can only be fully photographed from the air, the bear-shaped mounds were constructed between 800 and 1,450 years ago by the ancestors of Native Americans who today live in the Midwestern US.</p></div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "Group, earth sculptures\t\t\t\t\t<span class=\"text-danger\">Your Answer</span>",
+      "B": "Group earth sculptures",
+      "C": "Group and earth sculptures",
+      "D": "Group. Earth sculptures"
+    },
+    "choice_ids": {
+      "A": 44477,
+      "B": 44478,
+      "C": 44479,
+      "D": 44480
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12500,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:50.027035",
+    "url": "https://oneprep.xyz/question/12500/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>Sourced from mines and cutting factories around the world, ________ are painstakingly glued to a framed glass background, contributing their brilliant colors to the finished artworks.</p></div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "Thai artist Wanlaya Suwannapirom and her team create gem paintings made up of natural gemstones that\t\t\t\t\t<span class=\"text-danger\">Your Answer</span>",
+      "B": "when Thai artist Wanlaya Suwannapirom and her team create gem paintings with natural gemstones, the gems",
+      "C": "the gem paintings of Thai artist Wanlaya Suwannapirom and her team are composed of natural gemstones that",
+      "D": "the natural gemstones making up the gem paintings created by Thai artist Wanlaya Suwannapirom and her team"
+    },
+    "choice_ids": {
+      "A": 44481,
+      "B": 44482,
+      "C": 44483,
+      "D": 44484
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12501,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:50.709585",
+    "url": "https://oneprep.xyz/question/12501/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>The first step in making fabric on a loom is to create a warp, a set of parallel threads attached to the loom’s fixed frame. ________ a separate thread called a weft is woven perpendicular to the warp threads.<br/><br/></p></div>",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "In other words,",
+      "B": "Moreover,",
+      "C": "Then,",
+      "D": "Likewise,\t\t\t\t\t<span class=\"text-danger\">Your Answer</span>"
+    },
+    "choice_ids": {
+      "A": 44485,
+      "B": 44486,
+      "C": 44487,
+      "D": 44488
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12502,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:51.408136",
+    "url": "https://oneprep.xyz/question/12502/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>Several recent research studies have shown that birds are capable of impressive mental feats. In 2008, a research team led by psychologist Helmut Prior found a surprising result: Eurasian magpies (<em>Pica pica</em>) were able to recognize their reflections in a mirror as images of their own bodies. ________ scientists believed that this capacity was possessed by only a few species of mammals and was a function of the neocortex, a part of the brain that birds lack.</p></div>",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Previously,",
+      "B": "Then,",
+      "C": "Specifically,",
+      "D": "For this reason,\t\t\t\t\t<span class=\"text-danger\">Your Answer</span>"
+    },
+    "choice_ids": {
+      "A": 44489,
+      "B": 44490,
+      "C": 44491,
+      "D": 44492
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12503,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:52.107538",
+    "url": "https://oneprep.xyz/question/12503/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>Tungsten is the chemical element with the highest melting point. ________ it is used in many applications for which resistance to heat is important, such as nozzles for rocket engines and filaments for incandescent light bulbs.</p></div>",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Nevertheless,",
+      "B": "Additionally,",
+      "C": "For this reason,",
+      "D": "Likewise,"
+    },
+    "choice_ids": {
+      "A": 44493,
+      "B": 44494,
+      "C": 44495,
+      "D": 44496
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12504,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:52.824252",
+    "url": "https://oneprep.xyz/question/12504/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>When Norse settlers moved to Greenland starting in the 10th century, they met Indigenous Arctic people, including the ancestors of the modern-day Inuit. While the main literary sources available to historians studying this period are Norse sagas written hundreds of years after the events they describe, there are also some accounts of the encounter from the other perspective. ________ one Greenlandic Inuit folk story describes conflict between K’aisappe, a leader of the Inuit, and the Norse chief Ungortoq.</p></div>",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Specifically,",
+      "B": "However,\t\t\t\t\t<span class=\"text-danger\">Your Answer</span>",
+      "C": "In comparison,",
+      "D": "Consequently,"
+    },
+    "choice_ids": {
+      "A": 44497,
+      "B": 44498,
+      "C": 44499,
+      "D": 44500
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12505,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:53.524040",
+    "url": "https://oneprep.xyz/question/12505/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>While researching a topic, a student has taken the following notes:<br/><br/></p><ul><li><em>The Mysteries of Udolpho</em> is a 1794 novel by author Ann Radcliffe.</li><li>It follows its main character, Emily St. Aubert, through a series of adventures, including a lengthy stay in a gloomy castle.</li><li>In August 1794, the literary journal <em>The Critical Review </em>called <em>The Mysteries of Udolpho</em> “the most interesting novel in the English language.”</li><li>The novel was influential on later writers of the genre of Gothic fiction.</li><li>According to editor and publisher Isabel Panadero, “<em>Udolpho</em> took over the genre like a storm and soon became the one to follow.”</li></ul></div>",
+    "question_stem": "The student wants to use a quotation to support a claim about the impact of <em>The Mysteries of Udolpho</em> on Gothic fiction. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "Isabel Panadero believes that <em>The Mysteries of Udolpho</em> was influential on later writers of Gothic fiction.",
+      "B": "A 1794 novel by Ann Radcliffe, <em>The Mysteries of Udolpho</em> was called “the most interesting novel in the English language” by the journal <em>The Critical Review</em>.",
+      "C": "Emily St. Aubert is the main character of <em>The Mysteries of Udolpho</em>, which was influential on later writers of Gothic fiction.\t\t\t\t\t<span class=\"text-danger\">Your Answer</span>",
+      "D": "<em>The Mysteries of Udolpho</em> was so influential on Gothic fiction that, according to Isabel Panadero, it “took over the genre like a storm and soon became the one to follow.”"
+    },
+    "choice_ids": {
+      "A": 44501,
+      "B": 44502,
+      "C": 44503,
+      "D": 44504
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12506,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:54.217375",
+    "url": "https://oneprep.xyz/question/12506/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>While researching a topic, a student has taken the following notes:<br/><br/></p><ul><li>The Treaty of Waitangi was signed in New Zealand in 1840.</li><li>It recognized Indigenous land rights for the Māori people.</li><li>In 2019, the Ainu were officially proclaimed an Indigenous population by the government of Japan and gained the ability to apply for rights to land relevant to their culture.</li><li>The legislation that recognized these land rights was the Ainu Promotion Act.</li></ul></div>",
+    "question_stem": "The student wants to emphasize a similarity between the Treaty of Waitangi and the Ainu Promotion Act. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "One piece of legislation that was passed by the government of Japan is known as the Ainu Promotion Act.\t\t\t\t\t<span class=\"text-danger\">Your Answer</span>",
+      "B": "Like the Treaty of Waitangi, the Ainu Promotion Act recognized the land rights of an Indigenous population.",
+      "C": "While the Treaty of Waitangi was signed in New Zealand, the Ainu Promotion Act is from Japan.",
+      "D": "The Treaty of Waitangi, signed in New Zealand in 1840, recognized indigenous land rights."
+    },
+    "choice_ids": {
+      "A": 44505,
+      "B": 44506,
+      "C": 44507,
+      "D": 44508
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12507,
+    "exam_id": 416,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - English - Module 1",
+    "test_series": "Advanced Online Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "scraped_at": "2025-07-07T00:26:54.910707",
+    "url": "https://oneprep.xyz/question/12507/?question_set=exam&exam_id=416",
+    "stimulus": "<div class=\"\"><p>While researching a topic, a student has taken the following notes:<br/><br/></p><ul><li><em>The Panel of Cosimo III</em> is a 17th-century wood carving by English artist Grinling Gibbons.</li><li>Over the years, the carving has been damaged and some of the decorations have been lost.</li><li>The missing decorations were not restored for a long time because the original carving was extremely intricate and difficult to reproduce by hand.</li><li>Art restorers Mattia Mercante and Cristina Gigli use 3D printing in their work.</li><li>They were able to restore <em>The Panel of Cosimo III</em> by printing copies of existing decorations to replace the missing ones.</li></ul></div>",
+    "question_stem": "The student wants to explain an advantage of 3D printing for art restoration. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "By using 3D printing, art restorers can restore intricate details of artwork that are difficult to reproduce by hand.",
+      "B": "Some carvings that have been damaged are not restored for a long time because they are difficult to reproduce by hand.",
+      "C": "<em>The Panel of Cosimo III</em> is a 17th-century wood carving created by Grinling Gibbons which was restored by Mattia Mercante and Cristina Gigli using 3D printing.",
+      "D": "Art restorers use many techniques, such as 3D printing, in their work."
+    },
+    "choice_ids": {
+      "A": 44509,
+      "B": 44510,
+      "C": 44511,
+      "D": 44512
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  }
+]

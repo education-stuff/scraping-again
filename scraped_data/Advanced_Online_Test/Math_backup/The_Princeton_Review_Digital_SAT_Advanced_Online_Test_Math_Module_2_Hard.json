@@ -1,0 +1,434 @@
+[
+  {
+    "question_id": 12606,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:43.957805",
+    "url": "https://oneprep.xyz/question/12606/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<p>Hoping to gauge public support for an upcoming local referendum, a political pollster surveys a random sample of 560 registered voters within the municipality in question. Based on the results of the survey, the pollster predicts, with a 4.4% margin of error, that 60% of registered voters will support the referendum. Based on this information, which conclusion can most reasonably be drawn with respect to the upcoming referendum?</p>",
+    "answer_choices": {
+      "A": "4.4% of registered voters will support the referendum.",
+      "B": "60% of registered voters will support the referendum.",
+      "C": "It is likely that between 55.6% and 64.4% of registered voters will support the referendum.",
+      "D": "It is likely that less than 55.6% of registered voters will support the referendum."
+    },
+    "choice_ids": {
+      "A": 44857,
+      "B": 44858,
+      "C": 44859,
+      "D": 44860
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12607,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:44.679844",
+    "url": "https://oneprep.xyz/question/12607/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<p>What is the length of one side of a right triangle, in inches, if the length of the hypotenuse of the triangle is 12 inches and the length of the other side is 7 inches?</p>",
+    "answer_choices": {
+      "A": "<img align=\"middle\" alt=\"square root of 95\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/d4e01983-a78d-4fee-85e3-e36aac2e2ae5_Choice_1220620_6e9f5a6b-d9ee-4599-bfa8-41d612d88865.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"35\"/>",
+      "B": "<img align=\"middle\" alt=\"square root of 193\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/d4e01983-a78d-4fee-85e3-e36aac2e2ae5_Choice_1220621_1c9048d9-2229-4828-8ead-2c43d17287ae.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/>",
+      "C": "19",
+      "D": "95"
+    },
+    "choice_ids": {
+      "A": 44861,
+      "B": 44862,
+      "C": 44863,
+      "D": 44864
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12608,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:45.381943",
+    "url": "https://oneprep.xyz/question/12608/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "In the <em>xy</em>-plane, the graph of <em>y</em> = <em>f</em>(<em>x</em>) for the linear function <em>f </em>passes through the points (6, 26) and (12, 28). Which of the following equations defines function <em>f</em>?",
+    "answer_choices": {
+      "A": "<img align=\"middle\" alt=\"f left parenthesis x right parenthesis space equals space 1 third x space plus space 24\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/3252db51-3d9f-43cc-a4f1-3bd9f2164990_Choice_1220624_c8f23fc4-bccf-4c8c-bab6-d78efbf7e2ac.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"121\"/>",
+      "B": "<img align=\"middle\" alt=\"f left parenthesis x right parenthesis space equals space 3 x space minus space 8 over 3\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/3252db51-3d9f-43cc-a4f1-3bd9f2164990_Choice_1220625_50ed196f-89d1-485f-abef-7fe2e7715b66.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"112\"/>",
+      "C": "<em>f</em>(<em>x</em>) = 6<em>x</em> + 26",
+      "D": "<em>f</em>(<em>x</em>) = 12<em>x</em> + 28"
+    },
+    "choice_ids": {
+      "A": 44865,
+      "B": 44866,
+      "C": 44867,
+      "D": 44868
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12610,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:46.826043",
+    "url": "https://oneprep.xyz/question/12610/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "A baker can bake a maximum of 50 layers of cake in one day, including 10-layer wedding cakes and birthday cakes with either 2 layers or 3 layers. Which of the following inequalities represents the possible combinations of 2-layer birthday cakes and 3-layer birthday cakes that the baker can bake in one day if the baker bakes 1 wedding cake, <em>b</em> 2-layer birthday cakes, <em>c</em> 3-layer birthday cakes, and no other items that day?",
+    "answer_choices": {
+      "A": "2<em>b</em> + 3<em>c</em> ≥ 40",
+      "B": "2<em>b</em> + 3<em>c</em> ≤ 40",
+      "C": "3<em>b</em> + 2<em>c</em> ≥ 50",
+      "D": "3<em>b</em> + 2<em>c</em> ≤ 50"
+    },
+    "choice_ids": {
+      "A": 44869,
+      "B": 44870,
+      "C": 44871,
+      "D": 44872
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12611,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:47.553773",
+    "url": "https://oneprep.xyz/question/12611/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<div style=\"text-align: center;\">3<em>y</em> = 7<em>x</em></div>\n<div style=\"text-align: center;\"><em>y</em> – 5 = 4<em>x </em></div>\n<br/>Which ordered pair (<em>x</em>, <em>y</em>) is the solution to the given system of equations?",
+    "answer_choices": {
+      "A": "(–7, –3)",
+      "B": "(–3, –7)",
+      "C": "<img align=\"middle\" alt=\"open parentheses 1 comma space 3 over 7 close parentheses\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/8728a3f3-b24b-41d4-a748-6f626c4fdbcc_Choice_1220638_1e476423-5cb3-443c-bb5f-67fcfa29ad2c.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"50\"/>",
+      "D": "<img align=\"middle\" alt=\"open parentheses 7 over 3 comma space 1 close parentheses\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/8728a3f3-b24b-41d4-a748-6f626c4fdbcc_Choice_1220639_a6b83a19-e692-4ab9-9b28-325bb6c18713.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"50\"/>"
+    },
+    "choice_ids": {
+      "A": 44873,
+      "B": 44874,
+      "C": 44875,
+      "D": 44876
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12612,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:48.312850",
+    "url": "https://oneprep.xyz/question/12612/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<p style=\"text-align: center;\"><em>y </em>= <em>x</em><sup>2</sup> – 6<em>x </em>– 18<br/><em>y </em>= –<em>x</em> + 6<br/><br/></p>\n<p>A solution to the given system of equations can be expressed as (<em>a</em>, <em>b</em>). If <em>a</em> &lt; 0, what is the value of <em>a</em>?</p>",
+    "answer_choices": {
+      "A": "–18",
+      "B": "–6",
+      "C": "–3",
+      "D": "8"
+    },
+    "choice_ids": {
+      "A": 44877,
+      "B": 44878,
+      "C": 44879,
+      "D": 44880
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12613,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:49.056642",
+    "url": "https://oneprep.xyz/question/12613/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "Two employees at a jewelry store are weighing identical pieces of jewelry. The first employee weighs 4 pairs of earrings and 2 necklaces and obtains a weight of 38.8 grams. The second employee weighs 1 pair of earrings and 5 necklaces and obtains a weight of 42.1 grams. What is the weight, in grams, of 1 pair of earrings?",
+    "answer_choices": {
+      "A": "6.1",
+      "B": "6.5",
+      "C": "7.0",
+      "D": "7.2"
+    },
+    "choice_ids": {
+      "A": 44881,
+      "B": 44882,
+      "C": 44883,
+      "D": 44884
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12614,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:49.822538",
+    "url": "https://oneprep.xyz/question/12614/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<div style=\"text-align: center;\"><em>y</em> = 7(<em>x</em> + 13)<sup>2</sup> – 19</div>\n<div style=\"text-align: center;\"><em>y</em> = –13<br/><br/></div>\nAt how many points do the graphs of the given equations intersect in the <em>xy</em>-plane?",
+    "answer_choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "choice_ids": {
+      "A": 44885,
+      "B": 44886,
+      "C": 44887,
+      "D": 44888
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 12615,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:50.531398",
+    "url": "https://oneprep.xyz/question/12615/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "As part of an opening-day promotion, a hobby shop gave the same number of free trading cards to every customer who entered the store between 10:00 A.M. and 11:00 A.M. The relationship between the number of trading cards that the store started with, <em>t</em>, and the number of customers who entered the store between 10:00 A.M. and 11:00 A.M., <em>c</em>, can be expressed as <em>t </em>– 3<em>c </em>= 132. In this context, what is the best interpretation of the number 3?",
+    "answer_choices": {
+      "A": "Each customer received 3 trading cards.",
+      "B": "The shop had 3 trading cards remaining at 11:00 A.M.",
+      "C": "The shop started with 3 trading cards at 10:00 A.M.",
+      "D": "3 customers visited the store between 10:00 A.M. and 11:00 A.M."
+    },
+    "choice_ids": {
+      "A": 44889,
+      "B": 44890,
+      "C": 44891,
+      "D": 44892
+    },
+    "metadata": {},
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 12617,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:52.209339",
+    "url": "https://oneprep.xyz/question/12617/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<div style=\"text-align: center;\">–5(<em>x</em> + 14) = 5(14 – <em>x</em>)</div>\n<br/>How many solutions does the given equation have?",
+    "answer_choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "choice_ids": {
+      "A": 44893,
+      "B": 44894,
+      "C": 44895,
+      "D": 44896
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12619,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:53.644530",
+    "url": "https://oneprep.xyz/question/12619/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<p>Which of the following quadratic equations has exactly two real solutions?</p>",
+    "answer_choices": {
+      "A": "<em>x</em><sup>2</sup> – 6<em>x</em> + 9 = 0",
+      "B": "<em>x</em><sup>2</sup> – 2<em>x</em> + 3 = 0",
+      "C": "<em>x</em><sup>2</sup> + 2<em>x</em> – 3 = 0",
+      "D": "<em>x</em><sup>2</sup> + 6<em>x</em> + 9 = 0"
+    },
+    "choice_ids": {
+      "A": 44897,
+      "B": 44898,
+      "C": 44899,
+      "D": 44900
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12620,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:54.344409",
+    "url": "https://oneprep.xyz/question/12620/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<p style=\"text-align: center;\"><em></em><img align=\"middle\" alt=\"g left parenthesis x right parenthesis space equals open parentheses 0.35 close parentheses to the power of x over 5 end exponent\" height=\"39\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/149c16d5-2630-4f73-bf81-afa99a3f1291_a7b7f379-c021-4cda-be1b-2d73b02b6259.svg\" style=\"max-width: none; vertical-align: -5px;\" width=\"106\"/></p>\n<p><br/>The function <em>g</em> is defined by the given equation, which can be rewritten as <em></em><img align=\"middle\" alt=\"g left parenthesis x right parenthesis space equals space open parentheses 1 space minus space n over 100 close parentheses to the power of x\" height=\"43\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/149c16d5-2630-4f73-bf81-afa99a3f1291_0ee4c909-28db-4393-923a-8116a9aa3aa5.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"143\"/>, where <em>n</em> is a constant. Which of the following is closest to the value of <em>n</em>?</p>",
+    "answer_choices": {
+      "A": "5",
+      "B": "7",
+      "C": "13",
+      "D": "19"
+    },
+    "choice_ids": {
+      "A": 44901,
+      "B": 44902,
+      "C": 44903,
+      "D": 44904
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12623,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:56.446057",
+    "url": "https://oneprep.xyz/question/12623/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<div style=\"text-align: center;\"><img alt=\"The figure presents the graph of a line in the xy-plane. The line starts at the points with coordinates zero comma negative 6. The line moves up and to the right, passing through the point with coordinates one comma negative 3 and the point with coordinates 2 comma zero.\" height=\"402\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod2H_Art_Q17-r.jpg\" width=\"400\"/></div>\n<br/> The graph of <i>y </i>= <i>g</i>(<i>x</i>) – 14 is shown. If <i>a </i>is a positive constant and <i>b</i> is a negative constant, the function <i>g</i> could be defined by which of the following equations?",
+    "answer_choices": {
+      "A": "<em>g</em>(<em>x</em>) = –<em>a</em> – <em>bx</em>",
+      "B": "<em>g</em>(<em>x</em>) = –<em>a</em> + <em>bx</em>",
+      "C": "<em>g</em>(<em>x</em>) = <em>a</em> – <em>bx</em>",
+      "D": "<em>g</em>(<em>x</em>) = <em>a</em> + <em>bx</em>"
+    },
+    "choice_ids": {
+      "A": 44905,
+      "B": 44906,
+      "C": 44907,
+      "D": 44908
+    },
+    "metadata": {},
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 12624,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:57.238750",
+    "url": "https://oneprep.xyz/question/12624/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "A circle has center <em>O</em> with coordinates (<em>h</em>, <em>k</em>) when graphed in the <em>xy</em>-plane. Point <em>Y</em> lies on the circle and has coordinates (<em>h </em>+ <img align=\"middle\" alt=\"square root of 111\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_20f12570-d77f-4155-8688-272a8479f564.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/>, <em>k</em> – 2). If point <em>X</em> also lies on the circle, and the measure of angle <em>XOY </em>is 90º, what is the length of <img align=\"middle\" alt=\"top enclose X Y end enclose\" height=\"20\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_e208a27e-1ade-453f-98a7-5543a86b3b3f.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"24\"/>?",
+    "answer_choices": {
+      "A": "<img align=\"middle\" alt=\"115 square root of 3\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_Choice_1220676_22fed1da-ca24-482f-aaed-2443f4565743.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"53\"/>",
+      "B": "<img align=\"middle\" alt=\"115 square root of 2\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_Choice_1220677_8da135bc-ac8a-47e3-bd41-5c463ff27b73.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"53\"/>",
+      "C": "<img align=\"middle\" alt=\"2 square root of 111\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_Choice_1220678_77fb00b0-41ae-4d07-8ef2-2565b0999482.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"53\"/>",
+      "D": "<img align=\"middle\" alt=\"square root of 230\" height=\"23\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/12d216e0-f4a8-4102-a170-a60d63a2cfa0_Choice_1220679_d69f7117-0da4-4858-a2d4-0bd775e69fa3.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"44\"/>"
+    },
+    "choice_ids": {
+      "A": 44909,
+      "B": 44910,
+      "C": 44911,
+      "D": 44912
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12625,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:57.957997",
+    "url": "https://oneprep.xyz/question/12625/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<p>When the quantity <em>n</em> is decreased by 150%, the result is –90. What is the value of <em>n</em>?</p>",
+    "answer_choices": {
+      "A": "–135",
+      "B": "–60",
+      "C": "60",
+      "D": "180"
+    },
+    "choice_ids": {
+      "A": 44913,
+      "B": 44914,
+      "C": 44915,
+      "D": 44916
+    },
+    "metadata": {},
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 12626,
+    "exam_id": 421,
+    "exam_name": "The Princeton Review - Digital SAT Advanced Online Test - Math - Module 2 - Hard",
+    "test_series": "Advanced Online Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "scraped_at": "2025-07-07T00:56:58.659862",
+    "url": "https://oneprep.xyz/question/12626/?question_set=exam&exam_id=421",
+    "stimulus": "<div class=\"\"></div>",
+    "question_stem": "<div style=\"text-align: center;\"><img alt=\"The figure presents a scatterplot in the x y plane. The x axis is labeled with the numbers 0 through 14, in increments of 2. The y axis is labeled with the numbers 60 through 74, in increments of 2. There is a cluster of data points that trend downward and to the right, and the line of best fit, which passes through the point with approximate coordinates 2 comma 70 and the point with coordinates 12 comma 61, is also drawn.\" height=\"448\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_SATPrep_Online_Math_Mod2H_Art_Q22g.jpg\" width=\"552\"/></div>\n<br/> For data set A, the scatterplot shows the relationship between two variables, <i>x</i> and <i>y</i>. A line of best fit is also shown. Data set B is created by dividing the <i>y</i>-coordinate of each data point from data set A by 5.2. Which of the following is closest to the equation of a line of best fit for data set B?",
+    "answer_choices": {
+      "A": "<em>y</em> = 13.8 – 0.9<em>x</em>",
+      "B": "<em>y</em> = 13.8 – 0.2<em>x</em>",
+      "C": "<em>y</em> = 71.8 – 0.9<em>x</em>",
+      "D": "<em>y</em> = 71.8 – 0.2<em>x</em>"
+    },
+    "choice_ids": {
+      "A": 44917,
+      "B": 44918,
+      "C": 44919,
+      "D": 44920
+    },
+    "metadata": {},
+    "correct_answer": "B"
+  }
+]
