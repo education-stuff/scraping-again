@@ -2,6 +2,12 @@
 
 A comprehensive web scraper for extracting SAT practice questions from OnePrep.xyz (Princeton Review Digital SAT practice tests).
 
+## Codebase Documentation
+
+For a complete and detailed explanation of every file and script in this project, please see our comprehensive **[Codebase Documentation](./docs/README.md)**.
+
+---
+
 ## Overview
 
 This scraper extracts complete question data including:
