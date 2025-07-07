@@ -1,0 +1,32 @@
+{
+  "question_id": 3104,
+  "stimulus": "<div class=\"\"><p><span>Typically, pure water is not considered particularly ______, but a team of scientists led by Richard Zare has discovered how microdroplets of water can turn into caustic hydrogen peroxide. When microdroplets of water hit a solid surface, an electric charge jumps between the water and the solid, producing hydroxyl radicals that in turn combine with remaining oxygen to form hydrogen peroxide.</span></p></div>",
+  "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+  "answer_choices": {
+    "A": "viable<br/>\n<div></div>",
+    "B": "contaminated",
+    "C": "common<br/>\n<div></div>",
+    "D": "reactive<br/>\n<div></div>"
+  },
+  "answer_ids": {
+    "A": 10941,
+    "B": 10942,
+    "C": 10943,
+    "D": 10944
+  },
+  "metadata": {
+    "section": "English",
+    "domain": "Reading",
+    "skill": "Vocabulary"
+  },
+  "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n<p>This is a Vocabulary question, as it’s asking for a <em>logical and precise word or phrase </em>for the blank<em>.</em> Read the text and highlight what can help fill in the blank. The text states that <em>When</em> <em>microdroplets of water hit a solid surface, an electric charge </em>produces <em>hydroxyl radicals that in turn combine with remaining oxygen to form hydrogen peroxide. </em>This information describes a chain of events started by water, so a good phrase for the annotation box would be “likely to trigger something.”</p>\n<ul>\n<li>(A), (B), and (C) are wrong because <em>viable, contaminated, </em>and <em>common</em> don’t match “likely to trigger something.”<br/><br/></li>\n<li>(D) is correct because <em>reactive</em> matches “likely to trigger something.”</li>\n</ul>\n</div>",
+  "correct_answer": "D",
+  "exam_id": 45,
+  "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+  "test_series": "Prep Test 1",
+  "subject": "English",
+  "module_number": 1,
+  "difficulty": null,
+  "url": "https://oneprep.xyz/question/3104/?question_set=exam&exam_id=45",
+  "scraped_at": "2025-07-06T18:01:06.785448"
+}

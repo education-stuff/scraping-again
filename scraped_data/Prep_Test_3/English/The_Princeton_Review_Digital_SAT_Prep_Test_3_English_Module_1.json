@@ -1,0 +1,866 @@
+[
+  {
+    "question_id": 3341,
+    "stimulus": "Translating text between languages is not a simple practice of substituting each word in a sentence. In English, adjectives are usually placed in front of the nouns that they _______, but in Spanish, adjectives can be placed before or after nouns, which changes their meanings.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "interpret",
+      "B": "disrupt",
+      "C": "modify",
+      "D": "follow"
+    },
+    "answer_ids": {
+      "A": 11765,
+      "B": 11766,
+      "C": 11767,
+      "D": 11768
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3341/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:24.153923",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it asks for a logical and precise word or phrase for the blank. The blank describes the relationship between adjectives and nouns, so look for and highlight clues in the text about that relationship. The text mentions thatadjectives can be placed before or after nouns, which changes their meanings, so a good word for the blank to enter into the annotation box would be “changes” or “alters.”(A) is wrong because it goesBeyond the Text—different interpretations can produce different meanings, but tointerpretsomething does not mean to “change” it.(B) and (D) are wrong becausedisruptandfollowdon’t match “changes.\"(C) is correct becausemodifymatches “changes.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3342,
+    "stimulus": "Luxury goods brands have typically embraced a personal approach to their elite clientele, believing only a hands-on, in-person experience can convey the value of their distinctive products. Researcher Miao Wang has noted that leading manufacturers are now _______ technology, such as Virtual Reality headsets, to expand the consumer experience beyond established boundaries.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "utilizing",
+      "B": "shunning",
+      "C": "limiting",
+      "D": "allocating"
+    },
+    "answer_ids": {
+      "A": 11769,
+      "B": 11770,
+      "C": 11771,
+      "D": 11772
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3342/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:24.915394",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it asks for a logical and precise word or phrase for the blank. The blank describes what leading manufacturers are doing regarding technology, so look for and highlight clues in the text about this interaction. The text mentions that the typical approach for luxury good brands was a ­hands-on, in-person experience, but the companies now wantto expand the consumer experience beyond established boundaries. This contrast suggests that the manufacturers willnowuse technology after not doing so before, so a good word for the blank to enter into the annotation box would be “using” or “incorporating.”(A) is correct becauseutilizingmatches “using.”(B) and (C) are wrong becauseshunningandlimitingare theOppositeattitude that leading manufacturers now have towards technology—they now view it positively and are using it.(D) is wrong because it goesBeyond the Text—while the manufacturers are certainly using the technology, the text does not suggest how they might beallocating, or distributing, that technology or who they would be distributing technology to.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3343,
+    "stimulus": "University of Torino researchers Giada Cordoni and Ivan Norscia wanted to determine if the bystander effect—the decrease in likelihood of an individual to intervene in a conflict as the number of bystanders in a group increases—might apply to a group of social mammals, such as pigs. After observing strong indications of the effect in a group of pigs, the researchers declared that pigs are, indeed, _______ some of the same social behaviors that humans are.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "addicted to",
+      "B": "repelled by",
+      "C": "familiar with",
+      "D": "prone to"
+    },
+    "answer_ids": {
+      "A": 11773,
+      "B": 11774,
+      "C": 11775,
+      "D": 11776
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3343/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:25.674333",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it asks for a logical and precise word or phrase for the blank. The blank describes the connection between pigs and social behaviors that humans exhibit, so look for and highlight clues in the text about this connection. The text mention that the researchers observedstrong indicationsof the bystander effect in a group of pigs, so a good phrase for the blank to enter into the annotation box would be “likely to show” or “can exhibit.”(A) and (C) is wrong because they’re bothExtreme Language—the text only supports that pigs may exhibit some of the same social behaviors that humans do, not that the pigs areaddicted toorfamiliarwithany particular behavior.(B) is wrong becauserepelled byis theOppositeof “likely to show.”(D) is correct becauseprone tomatches “likely to show.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3344,
+    "stimulus": "The following text is excerpted from Edgar Allan Poe's 1845 story \"The Black Cat.\" The narrator talks about one of the many animals that he and his wife kept as pets.Pluto—this was the cat's name—was my favorite pet and playmate. I alone fed him, and heattendedme wherever I went about the house. It was even with difficulty that I could prevent him from following me through the streets.",
+    "question_stem": "As used in the text, what does the word \"attended\" most nearly mean?",
+    "answer_choices": {
+      "A": "Trailed",
+      "B": "Rejected",
+      "C": "Hunted",
+      "D": "Teased"
+    },
+    "answer_ids": {
+      "A": 11777,
+      "B": 11778,
+      "C": 11779,
+      "D": 11780
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3344/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:26.398256",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it asks for what “attended”most nearly meansin the text. Treat “attended” as if it were a blank—the blank describes the interaction between the narrator and his cat, so look for and highlight clues in the text about that interaction. The narrator states thatIt was even with difficulty that I could prevent him from following me through the streets, so a good word for the blank to enter into the annotation box would be “followed” or “walked after.”(A) is correct becauseTrailedmatches “followed.”(B) and (D) are wrong becauseRejectedandTeasedare theOppositetone of “followed,” which is used positively in this text.(C) is wrong becauseHuntedgoesBeyond the Text—the text does not describe any hunt or any activity that would take place in the wild, but rather, an interaction with a pet house cat.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3345,
+    "stimulus": "Responding to an increasing world population, the United Nations has focused on food security and the need for greater diversity in sustainable food sources. Traditional farming methods often add substantial amounts of greenhouse gases and negatively impact biodiversity. Among possible alternatives are “blue foods,” water-based foods such as seaweed, which have been farmed in countries such as China and Japan for centuries. Harvesting these foods on such a large scale, however, could change the ecosystems of coastlines, and further studies are needed to assess how transforming the diets of large populations would affect the planet.",
+    "question_stem": "Which choice best states the main purpose of the text?",
+    "answer_choices": {
+      "A": "It offers a viable plan to solve a potential global crisis and explains how the United Nations will lead the world towards greater food security.",
+      "B": "It clarifies the difference between “blue foods” and foods sourced from traditional methods that may negatively affect biodiversity.",
+      "C": "It discusses an emerging global food source problem and a potential solution, while noting one possible obstacle to that solution.",
+      "D": "It describes how China and Japan have advanced diets, but other countries will need to adjust their farming methods to meet the demands of growing populations."
+    },
+    "answer_ids": {
+      "A": 11781,
+      "B": 11782,
+      "C": 11783,
+      "D": 11784
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3345/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:27.145590",
+    "explanation": "✕ExplanationThis is a Purpose question, as it asks for themain purpose of the text. Read the text and highlight who or what the text is focusing on. The text focuses onblue foodsand their potential role in food security, stating thatHarvesting these foods on such a large scale…could change the ecosystems of coastlinesand thatfurther studies are needed. Therefore, a good main purpose of the text to enter into the annotation box would be “explain that blue foods need to be looked into more.”(A) is wrong becauseviableandsolveareExtreme Language—the text only supports that blue foods should be looked into; it does not endorse blue foods as a solution just yet.(B) is wrong because it’sRight Answer, Wrong Question—while the text does imply a difference between these two types of foods, themain purposeof the text is the potential positives and negatives of blue foods.(C) is correct because it’s consistent with the highlighting and annotation.(D) is wrong because it’sRecycled Language—it misusesChina,Japan,farming methods, andincreasing world populationfrom three different sentences of the text.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3346,
+    "stimulus": "The following text is excerpted fromThe Duke of Stockbridge,an 1879 novel by Edward Bellamy. In the text, the narrator describes a battle in Massachusetts during the American Revolutionary War, fought between the American Continental Army and the nearby British forces, commanded by General Burgoyne.Here is the tavern, a low two-story building, without porch or piazza, and entered by a door in the middle of its longest side.Over the door swings a sign, on which a former likeness of King George has, by a metamorphosis common at this period, been transformed into a soldier of the revolution, in Continental uniform of buff and blue.But just at this time its contemplation does not afford this patriotic tippler as much complacency as formerly, for Burgoyne is thundering at the passes of the Hoosacs, only fifty miles away, and King George may get his red coat back again, after all.",
+    "question_stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+    "answer_choices": {
+      "A": "It foreshadows how the outcome of a battle could shift the town’s fortunes.",
+      "B": "It provides a tangible example of how the local people demonstrate their support for the Revolution.",
+      "C": "It contrasts the respect shown for the monarchy with the disrespect shown to American soldiers.",
+      "D": "It draws attention to how the architectural style of the town’s buildings was directly influenced by its British rulers."
+    },
+    "answer_ids": {
+      "A": 11785,
+      "B": 11786,
+      "C": 11787,
+      "D": 11788
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3346/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:27.870198",
+    "explanation": "✕ExplanationThis is a Purpose question, as it asks for thefunction of the underlined sentence in the text as a whole. Read the text and focus on the sentences before and after the underlined sentence to understand its function. The sentence before introducesthe tavern, and the sentence after establishes a contrast regarding the tavern’s sign by using the wordBut. Therefore, a good function of the underlined sentence to enter into the annotation box would be “describe how sign looks now, may change again.”(A) is wrong because it’sRight Answer, Wrong Question—the battle and its potential consequences are only described in the final sentence of the text, not the underlined sentence.(B) is correct because it’s consistent with the highlighting and annotation—the underlined sentence describes the sign as being altered to showa soldier of the revolution.(C) is wrong because it’s theOppositeof what’s stated in the underlined sentence—if anything, the monarchy is being showndisrespect, notrespect, by having the King on the signtransformed into a soldier of the revolution.(D) is wrong because it goesBeyond the Text—while it’s true that the British style influenced many colonial buildings, the underlined sentence does not focus on anyarchitectural style.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3347,
+    "stimulus": "The following text is adapted from Henry James’s 1898 novellaThe Turn of the Screw.The speaker is a governess who, having been assigned to a new position, has just been introduced to the housekeeper as well as one of the girls that the governess will now be responsible for.I had no drop again till the next day, for I was carried triumphantly through the following hours by my introduction to the younger of my pupils. The little girl who accompanied Mrs. Grose appeared to me on the spot a creature so charming as to make it a great fortune to have to do with her. She was the most beautiful child I had ever seen, and I afterward wondered that my employer had not told me more of her.",
+    "question_stem": "Which choice best states the main purpose of the text?",
+    "answer_choices": {
+      "A": "To confirm that the girl is the younger of the two children the governess will be caring for",
+      "B": "To describe how excited the governess was to have been entrusted with the care of the little sister",
+      "C": "To argue that the children would prefer their parents to care for them",
+      "D": "To emphasize how charming, fortunate, and beautiful the sister is"
+    },
+    "answer_ids": {
+      "A": 11789,
+      "B": 11790,
+      "C": 11791,
+      "D": 11792
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3347/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:28.600137",
+    "explanation": "✕ExplanationThis is a Purpose question, as it asks for themain purpose of the text. Read the text and highlight who or what the text is focusing on. The text focuses onthe little girland that the governess finds the little girl socharmingas to make it a great fortune to have to do with her. Therefore, a good main purpose of the text to enter into the annotation box would be “explain that governess thinks highly of the girl.”(A) and (D) are wrong because they’re eachRight Answer, Wrong Question—each focuses on a fact or description from the text but misses that part of the main purpose is the governesses’ feelings towards the girl. Choice (D) is alsoRecycled Languageas it misusesfortunefrom the text.(B) is correct because it’s consistent with the highlighting and annotation.(C) is wrong because it goesBeyond the Text—it may be true in some cases, but the text does not discuss the preferences these children have for who cares for them.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3348,
+    "stimulus": "When asked to give up her first-class train seat, African American schoolteacher Ida Wells (1862–1931) refused. Claiming protection from the Civil Rights Act of 1875, which banned racial segregation in public accommodations, she protested and successfully sued the railroad company. When the Tennessee Supreme Court reversed the ruling, her resolve to fight for African American rights was further fueled by her adversity. For decades she wrote and edited articles for black publications condemning Jim Crow policies, fighting to reverse racist wrongful convictions, and even toured Britain as a lecturer, inspiring others to defend their rights under the law.",
+    "question_stem": "Which choice best describes the overall structure of the text?",
+    "answer_choices": {
+      "A": "The text discusses some of Wells’s accomplishments and then shows how they inspired major changes in Civil Rights legislation.",
+      "B": "The text details how Jim Crow policies in Tennessee specifically targeted women and then explains how the policies violated the Civil Rights Act.",
+      "C": "The text portrays how an American activist’s efforts were greatly aided by allies in Britain but then discusses how her efforts were hindered by opponents in America.",
+      "D": "The text describes a single confrontation and then explains how that confrontation may have influenced a person’s commitment to activism."
+    },
+    "answer_ids": {
+      "A": 11793,
+      "B": 11794,
+      "C": 11795,
+      "D": 11796
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3348/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:29.332334",
+    "explanation": "✕ExplanationThis is a Purpose question, as it asks for theoverall structure of the text. Read the text and highlight the connections between ideas in the text. The first sentence states thatAfrican American schoolteacher Ida Wells…refusedto give up her seat. The next sentences explains that Ida’s reasoning was theCivil Rights Act of 1875, and the last two sentences explain thather resolve to fight for African American rights was further fueled by her adversity. Therefore, a good overall structure of the text to enter into the annotation box would be “explain Ida’s refusal and her resolve to fight.”(A) is wrong because it’sHalf-Right—the second half of the text doesdiscuss some of Wells’s accomplishments, but the text does not indicate her work led to anymajor changes in Civil Rights legislation.(B) is wrong because it’sRecycled Language—it misusesJim Crow policies,Tennessee, andCivil Rights Actfrom different parts of the text, and the text never states that the Jim Crow policiesspecifically targeted women.(C) is also wrong because it’sRecycled Language—BritainandAmericaare misused from different parts of the text.(D) is correct because it’s consistent with the highlighting and annotation.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3349,
+    "stimulus": "The songs of male humpback whales typically develop and evolve slowly within discrete social groups. But researchers in the South Pacific have observed total replacement of song types from one neighboring humpback whale population to the next in rapid succession from French Polynesia to Ecuador, with the potential for complete circumpolar transmission in the Southern Hemisphere. The researchers have urged that humpback populations to the east of Ecuador be monitored for the song that first evolved in French Polynesia.",
+    "question_stem": "Which choice best states the main idea of the text?",
+    "answer_choices": {
+      "A": "Scientists have observed an unusual geographic spread of whale song that is worthy of monitoring.",
+      "B": "Researchers have been unable to document the first occurrence of the regional replacement of an evolved whale song.",
+      "C": "Whale migratory patterns cause humpback whale songs to disperse in an easterly direction in the Southern Hemisphere.",
+      "D": "As humpback whale songs spread from French Polynesia to Ecuador, they have become more complex and vocally interesting."
+    },
+    "answer_ids": {
+      "A": 11797,
+      "B": 11798,
+      "C": 11799,
+      "D": 11800
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Main Ideas"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3349/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:30.085373",
+    "explanation": "✕ExplanationThis is a Main Idea question, as it asks for themain idea of the text. Look for and highlight information that can help understand the main idea. The second sentence of the text offers a contrast to the opening sentence, stating thatresearchers in the South Pacific have observed total replacement of song types. Since the other sentences explain that this is unusual and should be looked into, the second sentence serves as the main idea. The correct answer should be as consistent as possible with the second sentence.(A) is correct because it’s consistent with the main idea of the text—it paraphrases everything that’s said in the last two sentences of the text.(B) is wrong because it’sOppositeandExtreme Language—researchers in the text have been able, notunable, to document regional replacement, but it’s not stated if this is thefirstoccurrence of replacement.(C) is wrong because it’sRecycled Language—it misuseshumpback whale,songs,east, andSouthern Hemispherefrom different parts of the text.(D) is wrong because it’sHalf-Right—the first half does describe the correct direction of song transmission, but it’s not supported in the text that the songs have becomemore complex and vocally interesting.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3350,
+    "stimulus": "Formed by an accumulation of algae and agricultural nutrients and chemicals, sargassum—a type of brown seaweed—contains alginate, a gelatinous substance that disintegrates naturally. Because of this property, alginate has shown to be useful in creating biodegradable packaging as well as building bricks that withstand earthquakes and strong winds better than traditional bricks. Due to these potential benefits, investors and entrepreneurs alike have shown interest in extracting alginate from sargassum despite the often-shifting locations from which sargassum can be harvested.",
+    "question_stem": "Which choice best states the text’s main idea?",
+    "answer_choices": {
+      "A": "The property of alginate to disintegrate naturally offsets its displeasing texture.",
+      "B": "Alginate is not suitable for the construction of buildings.",
+      "C": "The alginate produced by sargassum may aid in the production of packages and buildings.",
+      "D": "Sargassum has inspired investors to call for a synthetic version of alginate."
+    },
+    "answer_ids": {
+      "A": 11801,
+      "B": 11802,
+      "C": 11803,
+      "D": 11804
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Main Ideas"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3350/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:30.938407",
+    "explanation": "✕ExplanationThis is a Main Idea question, as it asks for the text’smain idea. Look for and highlight information that can help understand the main idea. The last sentence of the text states thatDue to these potential benefits, investors and entrepreneurs alike have shown interest in extracting alginate from sargassum despite the often-shifting locations from which sargassum can be harvested. Since the other sentences introduce sargassum and explain the benefits of alginate, which is obtained from sargassum, the last sentence serves as the main idea. The correct answer should be as consistent as possible with the last sentence.(A) and (D) are wrong because they goBeyond the Text—the texture of alginate may sounddispleasingbut the text does not call it such, and no group in the text calls fora synthetic version of alginateto be made, even if such alternatives are often created in the real world.(B) is wrong because it’s theOppositeof the text—the text describes alginate isusefulfor building rather thannot suitable.(C) is correct because it’s consistent with the main idea of the text—it paraphrases everything that’s said in the last sentence of the text.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3351,
+    "stimulus": "A team of researchers conducted an experiment that showed that expressions of gratitude can benefit social relationships and psychological conditions. The researchers organized study participants into two-person teams that had to complete a collaborative task, with some teams expressing gratitude to each other before beginning the task while others started working directly on the task. Based on biometric responses, the research team claims that expressions of gratitude during a stressful task cause a person to react more positively to the task as a whole.",
+    "question_stem": "Which quotation from a participant would best illustrate the researchers’ claim?",
+    "answer_choices": {
+      "A": "“The sense of accomplishment I felt at the end of the task was a lot like that feeling when you fix a car problem without a mechanic.”",
+      "B": "“My partner remained silent as we were working through the task.”",
+      "C": "“The task was daunting at first, but I knew I was only being given it for the sake of the study, so I relaxed and did the best I could.”",
+      "D": "“My teammate and I acknowledged each other’s contributions during the task, and this made it easier to complete.”"
+    },
+    "answer_ids": {
+      "A": 11805,
+      "B": 11806,
+      "C": 11807,
+      "D": 11808
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3351/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:31.697855",
+    "explanation": "✕ExplanationThis is a Claims question, as it asks for which choice wouldbest illustrate the researchers’ claim. Look for and highlight the claim in the text, which is thatexpressions of gratitude during a stressful task cause a person to react more positively to the task as a whole. The correct answer should address and be consistent with each aspect of this claim.(A), (B), and (C) are wrong because none of them include anyexpressions of gratitude.(D) is correct because theexpressions of gratitudecould be that the teammatesacknowledged each other’s contributions, and this made the taskeasier to complete.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3352,
+    "stimulus": "High blood pressure, or hypertension, contributes to cardiovascular disease and premature death. A group of researchers wanted to identify ways to lower the prevalence of hypertension by identifying causes of hypertension. They studied the effects of traffic noise (measured in decibels) and air pollution on rates of hypertension and reported the hazard ratio. For their study, the team conducted its research across three sites: Site 1 had lower-than-average air pollution, Site 2 had average air pollution, and Site 3 had higher-than-average air pollution. Increased hypertension was associated with exposure to traffic noise and was escalated by higher air pollution: for example, _______",
+    "question_stem": "Which choice most effectively uses data from the graph to complete the statement?",
+    "answer_choices": {
+      "A": "at decibel levels greater than 65, participants at Site 3 displayed a higher hazard ratio than that of participants at Site 1.",
+      "B": "at decibel levels between 55–60, participants at Site 3 displayed a hazard ratio that was equal to that of the participants at Site 2.",
+      "C": "at decibel levels less than 55, participants at Site 2 displayed a hazard ratio that was nearly equal to that of participants at Site 1.",
+      "D": "at decibel levels between 60–65, participants at Site 1 displayed a higher hazard ratio than that of participants at Site 2."
+    },
+    "answer_ids": {
+      "A": 11809,
+      "B": 11810,
+      "C": 11811,
+      "D": 11812
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Charts"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3352/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:32.428065",
+    "explanation": "✕ExplanationThis is a Charts question, as it asks fordata from the graphthat willcomplete the statement. Read the title, key, and variables from the bar graph. Then, read the text and highlight the claim or argument that references the information from the graph. The last sentence states thatIncreased hypertension was associated with exposure to traffic noise and escalated by higher air pollution. The correct answer should offer accurate information from the graph in support of this statement.(A) is correct because it’s consistent with the graph and the statement—it shows thathigher air pollutionproducesincreased hypertension, since hypertension levels are shown by the hazard ratio.(B) and (C) are wrong because they’reHalf-Right—each is consistent with the graph but irrelevant to the claim. The claim focuses on an increase, so one data point should be larger than the other, but both of these answers show an equality rather than an increase.(D) is wrong because it’s theOppositeof what can be seen in the graph—Site 1 has alowerrather than ahigherhazard ratio compared to Site 3 for 60-65 decibels.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3353,
+    "stimulus": "Annual On-Time Performance and Delayed Flight Statistics (2021-2022)20212022% IncreaseOn-time Arrivals983,3601,221,90324Arrival Delays125,197309,482147Flights Cancelled27,84363,734129Flights Diverted1,9723,34970Total Flight Operations1,138,3721,598,46840The Bureau of Transportation Statistics releases annual data on airlines’ on-time flights and flight delays. It reports on the number of total flight operations, as well as on-time arrivals, arrival delays, flights cancelled, and flights diverted. The data show an increase in flight situations, from on-time performance to delays, across all categories of flight situations in 2022. However, the increase in on-time arrivals was significantly less than the increase in arrival delays: from 2021 to 2022, _______",
+    "question_stem": "Which choice most effectively uses data from the table to complete the statement?",
+    "answer_choices": {
+      "A": "there was a 147% increase in arrival delays but only a 40% increase in all flight operations.",
+      "B": "there was a 24% increase in on-time arrivals but a 147% increase in arrival delays.",
+      "C": "there was a 40% increase in all flight operations but only a 24% increase in on-time arrivals.",
+      "D": "there was a 147% increase in arrival delays but only a 129% increase in cancelled flights"
+    },
+    "answer_ids": {
+      "A": 11813,
+      "B": 11814,
+      "C": 11815,
+      "D": 11816
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Charts"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3353/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:33.150831",
+    "explanation": "✕ExplanationThis is a Charts question, as it asks fordata from the tablethat willcomplete the statement. Read the title and variables from the table. Then, read the text and highlight the claim or argument that references the information from the table. The last sentence states thatthe increase in on-time arrivals was significantly less than the increase in arrival delays. The correct answer should offer accurate information from the table in support of this statement.(A), (C), and (D) are wrong because they’re not relevant to the claim—the correct answer should only referenceon-time arrivalsandarrival delays, not any other variables from the table.(B) is correct because it’s consistent with the table and statement, showing that the increase inon-time arrivalswassignificantly lessthan the increase inarrival delays.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3354,
+    "stimulus": "Mosaic art flourished during the Hellenistic period of Greece, and the Greek island of Delos contains about half of all surviving Hellenistic Greek mosaics. While art historian and archaeologist John Boardman purports that the only known mosaic artist to have his name recorded was Sosus, archaeologist Katherine Dunbabin asserts that a second artist also left his signature on his mosaic work as “Gnosis epoesen,” which translates to “Gnosis created.” Therefore, while Sosus remains the only mosaic artist whose name has been recorded in formal writing, _______",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "mosaic artists who added personal signatures to their works are considered more interesting by art historians than those who did not.",
+      "B": "some art historians and archaeologists focus too strongly on signatures to authenticate Hellenistic period mosaics.",
+      "C": "historians and archaeologists researching Hellenistic art may need to look beyond the written record for evidence of Hellenistic mosaic artists.",
+      "D": "signatures on mosaics can have a strong influence on the conclusions reached by art historians."
+    },
+    "answer_ids": {
+      "A": 11817,
+      "B": 11818,
+      "C": 11819,
+      "D": 11820
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Conclusions"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3354/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:33.891688",
+    "explanation": "✕ExplanationThis is a Conclusions question, as it asks for whatmost logically completes the text. Look for and highlight the main focus of the text, which is thatthe only know mosaic artist to have his name recorded was Sosus. Then, highlight any additional points made regarding this focus—the second sentence goes on to state thata second artist also left his signature on his mosaic work. Therefore, there are other mosaic artists besides Sosus even if Sosus is the only one recorded in writing. The correct answer should be as consistent as possible with this conclusion.(A) and (D) are wrong because they each goBeyond the Text—the text does not state which types of mosaic artists aremore interesting, nor do we know that signatures have astrong influenceon art historians. It is an archaeologist, not an art historian, that cites the signature referenced in the text.(B) is wrong because it’sRecycled Language—art historians, archaeologists,signature,Hellenistic period, andmosaicsare misused from different parts of the text.(C) is correct because it’s consistent with what the highlighted sentences say about other mosaic artists besides Sosus—the evidence for them could be in their mosaic signatures, rather than only in a formalwritten record.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3355,
+    "stimulus": "The Saman dance is one of the most popular dances in _______ Saman dances are normally performed during important occasions, such as national or religious holidays. The dance is done by a group of individuals who sing without any musical accompaniment.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "Indonesia.",
+      "B": "Indonesia and",
+      "C": "Indonesia,",
+      "D": "Indonesia"
+    },
+    "answer_ids": {
+      "A": 11821,
+      "B": 11822,
+      "C": 11823,
+      "D": 11824
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Connecting Clauses"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3355/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:34.637594",
+    "explanation": "✕ExplanationIn this Rules question, punctuation is changing in the answer choices. Look for independent clauses. The first part of the sentence saysThe Saman dance is one of the most popular dances in Indonesia, which is an independent clause. The second part saysSaman dances are normally performed during important occasions…,which is also an independent clause. Eliminate any answer that can’t correctly connect two independent clauses.(A) is correct because the period makes each independent clause its own sentence, which is fine.(B) is wrong because a coordinating conjunction (and) without a comma can’t connect two independent clauses.(C) is wrong because a comma without a coordinating conjunction (FANBOYS) can’t connect two independent clauses.(D) is wrong because some type of punctuation is needed in order to connect two independent clauses.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3356,
+    "stimulus": "There are different systems, known as romanization systems, for writing Mandarin Chinese in the Latin alphabet. While some systems use glyphs or numbers to indicate the four tones of _______ Gwoyeu Romatzyh system uses different spellings to convey the tones.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "Mandarin the",
+      "B": "Mandarin: the",
+      "C": "Mandarin. The",
+      "D": "Mandarin, the"
+    },
+    "answer_ids": {
+      "A": 11825,
+      "B": 11826,
+      "C": 11827,
+      "D": 11828
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Connecting Clauses"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3356/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:35.390888",
+    "explanation": "✕ExplanationIn this Rules question, punctuation is changing in the answer choices. Look for independent clauses. The first part of the sentence saysWhile some systems use glyphs or numbers to indicate the four tones of Mandarin, which is a dependent clause. The second part of the sentence saysthe Gwoyeu Romatzyh system uses different spellings to convey the tones, which is an independent clause. Eliminate any option that doesn’t correctly connect a dependent + an independent clause.(A) is wrong because in this case a comma is needed between the dependent and independent clauses.(B) and (C) are wrong because dependent + independent cannot be connected with punctuation other than a comma.(D) is correct because dependent + independent can be connected with a comma.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3357,
+    "stimulus": "Solace Provincial Park in Ontario, Canada, considered one of the most wild and isolated places in Ontario, contains a boreal forest and a chain of narrow _______ that appeal to backcountry canoeists.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "lakes, and",
+      "B": "lakes",
+      "C": "lakes,",
+      "D": "lakes—"
+    },
+    "answer_ids": {
+      "A": 11829,
+      "B": 11830,
+      "C": 11831,
+      "D": 11832
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Punctuation with Describing Phrases"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3357/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:36.123803",
+    "explanation": "✕ExplanationIn this Rules question, punctuation is changing in the answer choices. The punctuation appears before the wordthat, but phrases beginning with “that” are always Specifying Information, so no punctuation should be used. Eliminate answers that use punctuation.(A), (C), and (D) are wrong because no punctuation should be used prior tothat.(B) is correct because no punctuation should be used prior to a Specifying phrase starting withthat.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3358,
+    "stimulus": "The Cat’s Eye Nebula is part of the constellation Draco and was discovered by astronomer William Herschel in 1786. Later, amateur astronomer William Huggins analyzed the nebula’s spectrum _______ that nebulae are made of gas and not actual stars.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "to prove",
+      "B": "is proving",
+      "C": "proves",
+      "D": "proved"
+    },
+    "answer_ids": {
+      "A": 11833,
+      "B": 11834,
+      "C": 11835,
+      "D": 11836
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Complete Sentences"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3358/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:36.885347",
+    "explanation": "✕ExplanationIn this Rules question, verb forms are changing in the answer choices, so it’s testing sentence structure. The phrase after the wordspectrumdescribes why the astronomeranalyzedthe nebula. Eliminate any answer that doesn’t make the phrase clear and correct.(A) is correct because it states that the astronomeranalyzed the nebula’s spectrum to prove that nebulae are made of gas, which provides a clear and correct meaning.(B), (C), and (D) are wrong because they are all in “main verb” form, but the sentence already has a main verb (analyzed).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3359,
+    "stimulus": "Mapuche author Pedro Cayuqueo has authored investigative pieces analyzing the political conflict regarding his Indigenous community for both books and _______ he also authored a children’s book in 2022.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "newspapers",
+      "B": "newspapers,",
+      "C": "newspapers, and",
+      "D": "newspapers and"
+    },
+    "answer_ids": {
+      "A": 11837,
+      "B": 11838,
+      "C": 11839,
+      "D": 11840
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Connecting Clauses"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3359/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:37.616337",
+    "explanation": "✕ExplanationIn this Rules question, punctuation is changing in the answer choices. Look for independent clauses. The first part of the sentence saysMapuche author Pedro Cayuqueo has authored investigative pieces…, which is an independent clause. The second part sayshe also authored a children’s book in 2022, which is also an independent clause. Eliminate any answer that can’t correctly connect two independent clauses.(A) is wrong because some type of punctuation is needed in order to connect two independent clauses.(B) is wrong because a comma without a coordinating conjunction (FANBOYS) can’t connect two independent clauses.(C) is correct because it connects the independent clauses with a comma + a coordinating conjunction (and), which is acceptable.(D) is wrong because a coordinating conjunction (and) without a comma can’t connect two independent clauses.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3360,
+    "stimulus": "The dazzling light show of the aurora borealis is most easily observed in the Arctic and occurs when charged particles emitted from the Sun _______ with oxygen and nitrogen molecules in the Earth’s atmosphere, leading to the emission of visible light. These particle storms are concentrated around the planet’s magnetic poles; the southern equivalent is called the aurora australis.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "is colliding",
+      "B": "collides",
+      "C": "was colliding",
+      "D": "collide"
+    },
+    "answer_ids": {
+      "A": 11841,
+      "B": 11842,
+      "C": 11843,
+      "D": 11844
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Verbs"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3360/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:38.348543",
+    "explanation": "✕ExplanationIn this Rules question, verbs are changing in the answer choices, so it’s testing consistency with verbs. Find and highlight the subject,particles, which is plural, so a plural verb is needed. Write an annotation saying “plural.” Eliminate any answer that is not plural.(A), (B), and (C) are wrong because they are singular.(D) is correct because it’s plural.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3361,
+    "stimulus": "In 2010, physicists Andre Geim and Konstantin Novoselov were awarded a Nobel Prize for their discovery of graphene. Made up of a two-dimensional network of carbon atoms, _______ possible applications in emerging technologies in a variety of fields from sports equipment to electronics.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "Geim and Novoselov found that their discovery possesses a range of unusual properties and has",
+      "B": "graphene’s properties are unusual, and it has",
+      "C": "graphene possesses a range of unusual properties and has",
+      "D": "an unusual property of graphene is that it has"
+    },
+    "answer_ids": {
+      "A": 11845,
+      "B": 11846,
+      "C": 11847,
+      "D": 11848
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Modifiers"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3361/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:39.124904",
+    "explanation": "✕ExplanationIn this Rules question, the subjects of the answers are changing, which suggests it may be testing modifiers. Look for and highlight a modifying phrase:Made up of a two-dimensional network of carbon atoms. Whatever ismade up ofcarbon atoms needs to come immediately after the comma. Eliminate any answer that doesn’t start with something that can be made of carbon.(A) is wrong becauseGeim and Novoselovaren’t intended to be described as being made of carbon atoms.(B) is wrong becausegraphene’s propertiescan’t be made of carbon atoms.(C) is correct becausegraphenecan be made of carbon atoms.(D) is wrong becausean unusual propertycan’t be made of carbon atoms.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3362,
+    "stimulus": "Argentine scientist Karen Hallberg, a professor of physics, has noted that 92% of her graduate school classmates were male. _______ Hallberg has promoted the need to break down barriers for female scientists as well as for scientists from lower socioeconomic backgrounds.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Conversely,",
+      "B": "Besides,",
+      "C": "Furthermore,",
+      "D": "As a consequence,"
+    },
+    "answer_ids": {
+      "A": 11849,
+      "B": 11850,
+      "C": 11851,
+      "D": 11852
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3362/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:39.873628",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The first sentence states thatHallberg…noted that 92% of her graduate school classmates were male, and this sentence saysHallberg has promoted the need to break down barriers for female scientists. These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.(A) is wrong because it’s an opposite-direction transition.(B) and (C) are wrong because this sentence isn’t adding on to the previous point.(D) is correct becauseAs a consequenceaccurately suggests that Hallberg’s actions in this sentence are a consequence of the previous sentence.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3363,
+    "stimulus": "Named after the abolitionist Frederick Douglass, Garnet Douglass Baltimore was the first African American student to graduate from Rensselaer Polytechnic Institute with an engineering degree in 1881. While working on a lock on the Oswego Canal in New York, Baltimore experimented with different materials. _______ he developed a new method to test cement that was used for many years.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Actually,",
+      "B": "Eventually,",
+      "C": "Still,",
+      "D": "However,"
+    },
+    "answer_ids": {
+      "A": 11853,
+      "B": 11854,
+      "C": 11855,
+      "D": 11856
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3363/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:40.636488",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The preceding sentence states thatBaltimore experimented with different materials, and this sentence sayshe developed a new method to test cement that was used for many years. These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.(A) is wrong because this sentence isn’t correcting the previous idea.(B) is correct because the idea that his new method came after his experiments is logical within the text.(C) and (D) are wrong because they are opposite-direction transitions.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3364,
+    "stimulus": "While researching a topic, a student has taken the following notes:Anna Coble was an American biophysicist.She studied mathematics at Howard University.She studied biophysics at University of Illinois at Urbana-Champaign.She was the first Black woman to earn a doctorate in biophysics.She was the first Black woman to be hired at Howard University.",
+    "question_stem": "The student wants to highlight a similarity within Coble’s achievements. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "Anna Coble studied mathematics at Howard University; similarly, she was the first Black woman to earn a doctorate in biophysics.",
+      "B": "Despite being the first Black woman to earn a doctorate in biophysics, Anna Coble was the first Black woman to be hired at Howard University.",
+      "C": "Anna Coble studied biophysics at the University of Illinois at Urbana-Champaign and was the first Black woman to be hired at Howard University.",
+      "D": "American biophysicist Anna Coble achieved two notable firsts in her career: she was the first Black woman to earn a doctorate in biophysics and the first Black woman to be hired at Howard University."
+    },
+    "answer_ids": {
+      "A": 11857,
+      "B": 11858,
+      "C": 11859,
+      "D": 11860
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Rhetorical Synthesis"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3364/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:41.360243",
+    "explanation": "✕ExplanationThis is a Rhetorical Synthesis question, so follow the basic approach. Highlight the goal stated in the question:highlight a similarity within Coble’s achievements. Eliminate any answer that doesn’t fulfill this purpose.(A) and (C) are wrong because they each mention one of Coble’s achievements and don’thighlight a similarity in Coble’s achievements.(B) is wrong because it is a contrast, not asimilarity.(D) is correct becausetwo notable firstsshows that the achievements had asimilarity.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3365,
+    "stimulus": "While researching a topic, a student has taken the following notes:243 Ida is an asteroid discovered on September 29, 1884.It is located in the asteroid belt between Mars and Jupiter.TheGalileospacecraft visited 243 Ida on August 28, 1993.Scientist Ann Harch discovered a moon orbiting 243 Ida.Harch used an image taken byGalileoto discover this moon.This moon was named Dactyl.",
+    "question_stem": "The student wants to explain how a scientific discovery was made. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "Scientist Ann Harch discovered a moon orbiting 243 Ida; this moon was named Dactyl.",
+      "B": "Using an image taken by theGalileospacecraft on its visit to the asteroid 243 Ida, scientist Ann Harch discovered a moon orbiting the asteroid.",
+      "C": "On September 29, 1884, 243 Ida, an asteroid, was discovered in the asteroid belt between Mars and Jupiter.",
+      "D": "TheGalileospacecraft visited 243 Ida in the asteroid belt between Mars and Jupiter on August 28, 1993."
+    },
+    "answer_ids": {
+      "A": 11861,
+      "B": 11862,
+      "C": 11863,
+      "D": 11864
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Rhetorical Synthesis"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3365/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:42.104524",
+    "explanation": "✕ExplanationThis is a Rhetorical Synthesis question, so follow the basic approach. Highlight the goal stated in the question:explain how a scientific discovery was made. Eliminate any answer that doesn’t fulfill this purpose.(A) and (C) are wrong because they mention a scientific discovery but don’t explain how it was made.(B) is correct becauseUsing an image taken by the Galileo spacecraftexplainshowthe discoverywas made.(D) is wrong because it doesn’t mention ascientific discovery.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3366,
+    "stimulus": "While researching a topic, a student has taken the following notes:Esperanza Martínez-Romero is a Mexican scientist and professor.She studied biomedical research and started her career researching nitrogen-fixing bacteria.In 1991, she discovered thatRhizobium tropici, a strain of bacteria in theRhizobiagenus, helped deliver nitrogen to legumes, one of the most widely consumed plants in the world.Rhizobium tropicidelivered high levels of nitrogen even under stressful conditions, such as high temperatures or soil acidity.Farmers in many countries useRhizobium tropicias an inoculant on their crops to increase their yields.Increased use of the bacteria in farming can also support global food security and reduce the need for synthetic fertilizers.",
+    "question_stem": "The student wants to emphasize the significant positive effects of Martínez-Romero’s research. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "Rhizobium tropicidelivers nitrogen to legumes and increases crop yields.",
+      "B": "The use ofRhizobium tropicican increase crop yields, support global food security, and reduce the need for synthetic fertilizers.",
+      "C": "Farmers in many countries useRhizobium tropici, a strain of bacteria in theRhizobiagenus.",
+      "D": "Rhizobium tropicican increase crop yields even under stressful conditions, such as high temperatures and soil acidity."
+    },
+    "answer_ids": {
+      "A": 11865,
+      "B": 11866,
+      "C": 11867,
+      "D": 11868
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Rhetorical Synthesis"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3366/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:42.833380",
+    "explanation": "✕ExplanationThis is a Rhetorical Synthesis question, so follow the basic approach. Highlight the goal stated in the question:emphasize the significant positive effects of Martínez-Romero’s research.Eliminate any answer that doesn’t fulfill this purpose.(A) and (D) are wrong because only onepositive effectis mentioned, and it’s not clearly suggested to besignificant.(B) is correct because the list represents somesignificant positive effects.(C) is wrong because noeffectsof the research are mentioned.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3367,
+    "stimulus": "While researching a topic, a student has taken the following notes:Chéri Samba is a painter from the Democratic Republic of the Congo.His paintings typically include text in French and Lingala.Lingala is a Bantu language spoken in parts of the Democratic Republic of the Congo and the Republic of the Congo.Samba’s paintings are shown in the Centre Georges Pompidou in Paris and the Museum of Modern Art in New York.Samba uses art and text to emphasize poverty, corruption, and chaos in a humorous way.",
+    "question_stem": "The student wants to emphasize Samba’s aims to an audience unfamiliar with him. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "Chéri Samba, a painter from the Democratic Republic of the Congo, uses art and text to emphasize poverty, corruption, and chaos in a humorous way.",
+      "B": "Chéri Samba’s paintings typically include text in French and Lingala, which is a Bantu language spoken in parts of the Democratic Republic of the Congo and the Republic of the Congo.",
+      "C": "A painter from the Democratic Republic of the Congo, Chéri Samba has his works shown in the Centre Georges Pompidou in Paris and the Museum of Modern Art in New York.",
+      "D": "Samba uses art and text (in French and Lingala) to emphasize poverty, corruption, and chaos in a humorous way."
+    },
+    "answer_ids": {
+      "A": 11869,
+      "B": 11870,
+      "C": 11871,
+      "D": 11872
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Rhetorical Synthesis"
+    },
+    "exam_id": 55,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - English - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3367/?question_set=exam&exam_id=55",
+    "scraped_at": "2025-07-05T19:59:43.582879",
+    "explanation": "✕ExplanationThis is a Rhetorical Synthesis question, so follow the basic approach. Highlight the goals stated in the question:emphasize Samba’s aims to an audience unfamiliar with him. Eliminate any answer that doesn’temphasize Samba’s aimsin a way that assumes the audience isunfamiliar with him.(A) is correct because the phrase beginning withtoemphasizes Samba’saims, and the answer describes who Samba is since the audience isunfamiliar with him.(B) and (C) are wrong because they don’temphasize Samba’s aims.(D) is wrong because itemphasizes Samba's aimsin a way that assumes the audience is familiar with him, which they are not.close",
+    "correct_answer": ""
+  }
+]

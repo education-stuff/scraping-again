@@ -1,0 +1,656 @@
+[
+  {
+    "question_id": 3466,
+    "stimulus": "",
+    "question_stem": "Out of the 1,200 employees at a factory, 288 received a bonus last month. What percentage of the employees received a bonus last month?",
+    "answer_choices": {
+      "A": "4%",
+      "B": "24%",
+      "C": "76%",
+      "D": "91%"
+    },
+    "answer_ids": {
+      "A": 12221,
+      "B": 12222,
+      "C": 12223,
+      "D": 12224
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3466/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:00:57.559474",
+    "explanation": "✕ExplanationThe question asks for a percentage based on the information provided. Start by ballparking: half, or 50%, of 1,200 is 600. The number of employees who received a bonus, 288, is less than 600, so the correct answer must be less than 50%. Eliminate (C) and (D) because they are greater than 50%. Choice (A) is much smaller, so (B) is likely correct. To check, plug in 24%.Percentmeans out of 100, so 24% can be represented as. Multiply this by the total number of employees to get (1,200)= 288. This matches the number of employees who received a bonus. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3467,
+    "stimulus": "",
+    "question_stem": "Which of the following could be the equation of the graph shown in thexy-plane?",
+    "answer_choices": {
+      "A": "y= –2x– 2",
+      "B": "y= –2x+ 2",
+      "C": "y= 2x– 2",
+      "D": "y= 2x+ 2"
+    },
+    "answer_ids": {
+      "A": 12225,
+      "B": 12226,
+      "C": 12227,
+      "D": 12228
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3467/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:00:58.297438",
+    "explanation": "✕ExplanationThe question asks for an equation that represents a graph. One approach is to enter the equation from each answer choice into the built-in graphing calculator and see which graph looks like the line.Another approach is to compare features of the graph to the answer choices. The equations in the answer choices are all in the formy=mx+b, in whichmis the slope andbis they-intercept. They-intercept is they-coordinate of the point wherex= 0, which is at –2 on this graph. Eliminate (B) and (D) because they have positivey-intercepts. Compare the remaining answer choices. The difference between (A) and (C) is the sign of the slope. The line goes up from left to right, so it has a positive slope. Eliminate (A) because it has a negative slope.Using either method, the correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3468,
+    "stimulus": "",
+    "question_stem": "Which expression is equivalent to (ab2+ 4a2) – (–ab2+ 4a2)?",
+    "answer_choices": {
+      "A": "2ab2",
+      "B": "2ab2+ 8a2",
+      "C": "2a2+ 2b2",
+      "D": "2a2b2"
+    },
+    "answer_ids": {
+      "A": 12229,
+      "B": 12230,
+      "C": 12231,
+      "D": 12232
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3468/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:00:59.072320",
+    "explanation": "✕ExplanationThe question asks for an equivalent form of an expression. Use Bite-Sized Pieces and Process of Elimination to tackle this question. Start by combining the terms that haveab2. Subtract–ab2fromab2to get (ab2) – (–ab2) = 2ab2. Eliminate (C) and (D) because they do not include this term. Next, combine the terms that havea2. Subtract 4a2from 4a2to get 4a2– 4a2= 0. Eliminate (B) because it contains a term witha2. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3469,
+    "stimulus": "",
+    "question_stem": "An installer cut two lengths of rope for new water wells being installed on farm A and farm B. The two lengths of rope have a combined length of 102 meters. If the rope for farm A is 44 meters longer than the rope for farm B, how long is the rope for farm B?",
+    "answer_choices": {
+      "A": "14",
+      "B": "29",
+      "C": "58",
+      "D": "73"
+    },
+    "answer_ids": {
+      "A": 12233,
+      "B": 12234,
+      "C": 12235,
+      "D": 12236
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3469/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:00:59.781921",
+    "explanation": "✕ExplanationThe question asks for a value given a specific situation. Since the question asks for a specific value and the answers contain numbers in increasing order, plug in the answers. Rewrite the answer choices on the scratch paper and label them as “farm B rope length.” Next, start with a number in the middle and try (B), 29. The question states thatthe two lengths of rope have a combined length of 102 meters, so the length of the rope for farm A is 102 – 29 = 73 meters. The question also states thatthe rope for farm A is 44 meters longer than the rope for farm B. The rope for farm A is thus 29 + 44 = 73 meters. In both cases, when the length of the rope for farm B is 29 meters, the length of the rope for farm A is 73 meters, so this answer works. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3470,
+    "stimulus": "",
+    "question_stem": "xh(x)0–191–1025For the quadratic functionh, the table shows three values ofxand their corresponding values ofh(x) for quadratic functionh. Which equation definesh?",
+    "answer_choices": {
+      "A": "h(x) =x2+ 10x– 19",
+      "B": "h(x) = 2x2+ 7x– 19",
+      "C": "h(x) = 3x2+ 6x– 19",
+      "D": "h(x) = 5x2+ 4x– 19"
+    },
+    "answer_ids": {
+      "A": 12237,
+      "B": 12238,
+      "C": 12239,
+      "D": 12240
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3470/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:00.533634",
+    "explanation": "✕ExplanationThe question asks for the function that represents values given in a table. In function notation, the number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. Together, they represent points on a graph. One method is to enter each equation from the answer choices into the built-in calculator, then scroll and zoom as needed to see which graph contains the points (0, –19), (1, –10), and (2, 5). Only the graph of the equation in (C) contains all three points, so it must be correct.Another method is to plug in. The table provides three pairs of input and output values, and the correct equation must work for every pair of values. Plug in values from the table and eliminate functions that don’t work. Because 0 and 1 are likely to make more than one answer work, try the last row of the table and plugx= 2 andh(x) = 5 into the answer choices. Choice (A) becomes 5 = 22+ 10(2) – 19. Simplify to get 5 = 4 + 20 – 19, and then 5 = 5. This is true, but the correct answer must work for every pair of values, so plug inx= 1 andh(x) = –10 from the table. The equation in (A) becomes –10 = 12+ 10(1) – 19, then –10 = 1 + 10 – 19, and finally –10 = –8. This is not true, so eliminate (A).Next, plugx= 2 andh(x) = 5 into the equation in (B) to get 5 = 2(2)2+ 7(2) – 19, which becomes 5 = 2(4) + 14 – 19, then 5 = 8 + 14 – 19, and finally 5 = 3. Eliminate (B). Plugx= 2 andh(x) = 5 into the equation in (C) to get 5 = 3(2)2+ 6(2) – 19, which becomes 5 = 3(4) + 12 – 19, then 5 = 12 + 12 – 19, and finally 5 = 5. Keep (C) and try another pair of values. Plugx= 1 andh(x) = –10 into the equation in (C) to get –10 = 3(1)2+ 6(1) – 19, which becomes –10 = 3(1) + 6 – 19, then –10 = 3 + 6 – 19, and finally –10 = –10. To confirm that the equation in (C) is correct, plug inx= 0 andh(x) = –19 to get –19 = 3(0)2+ 6(0) – 19, which becomes –19 = 3(0) + 0 – 19. then –19 = 3 + 0 – 19, and finally–19 = –19. The equation in (C) works for all three pairs of values in the table, so it defines functionh. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3471,
+    "stimulus": "",
+    "question_stem": "If, what is the value of?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3471/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:01.360804",
+    "explanation": "✕ExplanationThe question asks for the value of an expression based on an equation. Start by cross-multiplying to get (y)(17) = (7)(y+ 30), which becomes 17y= 7y+ 210. Subtract 7yfrom both sides of the equation to get 10y= 210, and then divide both sides of the equation by 10 to gety= 21. Read carefully: the question asks for the value of. Plug iny= 21 to get= 3. The correct answer is 3.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3472,
+    "stimulus": "",
+    "question_stem": "Data Set 1566777899Data set 1 contains the 9 values shown in the table. Data set 2 is created by adding a value of 4 to data set 1. Which of the following statistical measures changes the least between data set 1 and data set 2?",
+    "answer_choices": {
+      "A": "The mean",
+      "B": "The range",
+      "C": "The standard deviation",
+      "D": "The median"
+    },
+    "answer_ids": {
+      "A": 12241,
+      "B": 12242,
+      "C": 12243,
+      "D": 12244
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3472/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:02.140914",
+    "explanation": "✕ExplanationThe question asks which measure will change the least when a new value is added to a data set. Work in Bite-Sized Pieces and test the answers one at a time. Data set 1 contains the values 5, 6, 6, 7, 7, 7, 8, 9, and 9. The question indicates thatdata set 2 is created by adding a value of 4 to data set 1,so data set 2 contains the values 4, 5, 6, 6, 7, 7, 7, 8, 9, and 9.Range is easy to calculate, so start there. Adding a value of 4 to data set 1 to create data set 2 changes the minimum value from 5 to 4. The maximum value remains unchanged, so the difference between the maximum and the minimum values changes by 5 – 4 = 1. The difference between the greatest and least values in a list is the range, so the range of data set 2 is 1 more than the range of data set 1.Work with the median next. The median of a list of numbers is the middle number when the numbers are arranged in order. In lists with an even number of numbers, the median is the average of the two middle numbers. Data set 1 contains 9 numbers, so its median is the number in the middle. Cross out values from each end to see that the median of data set 1 is 7. Data set 2 contains 10 numbers, so its median is the average of the 5th and 6th numbers. Count to see that the 5th and 6th numbers are both 7, so the median of data set 2 is also 7. The median does not change at all between data set 1 and data set 2, and nothing can change by less than 0, so (D) must be correct. In addition, the mean and standard deviation will both change when a new value of 4 is added, so they will change by more than the median did. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3473,
+    "stimulus": "",
+    "question_stem": "Note: Figure not drawn to scale.Linesnandpin the figure are parallel. What is the value ofkifh= 5a+ 6 andj= 9a– 26?",
+    "answer_choices": {
+      "A": "8",
+      "B": "46",
+      "C": "92",
+      "D": "134"
+    },
+    "answer_ids": {
+      "A": 12245,
+      "B": 12246,
+      "C": 12247,
+      "D": 12248
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3473/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:02.855831",
+    "explanation": "✕ExplanationThe question asks for the value of an angle on a figure. Use the Geometry Basic Approach. Redraw the figure and labels on the scratch paper. When a line intersects two parallel lines, two kinds of angles are created: big and small. All of the small angles are equal to each other, all of the big angles are equal to each other, and any small angle plus any big angle = 180°. Anglehand anglejare both small angles, soh=j. Sinceh= 5a+ 6 andj= 9a– 26, set these expressions equal to each other and solve to find the value ofa. The equation becomes 5a+ 6 = 9a– 26. Subtract 5afrom both sides of the equation to get 6 = 4a– 26. Add 26 to both sides of the equation to get 32 = 4a. Divide both sides of the equation by 4 to get 8 =a. Plug this value into either equation to get the measure of one small angle. The first equation becomesh= 5(8) + 6, thenh= 40 + 6, and finallyh= 46. Be careful: the question asks for the value ofk, which is a big angle. Since the measure of any small angle plus the measure of any big angle = 180°, the measure of big anglekis 180 – 46 = 134. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3474,
+    "stimulus": "",
+    "question_stem": "f(x) =The functionfis defined by the given equation, wherekis a constant. Iff(x) = 5 whenx= 30, what is the value off(x) whenx= 42?",
+    "answer_choices": {
+      "A": "6",
+      "B": "7",
+      "C": "10",
+      "D": "17"
+    },
+    "answer_ids": {
+      "A": 12249,
+      "B": 12250,
+      "C": 12251,
+      "D": 12252
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3474/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:03.577088",
+    "explanation": "✕ExplanationThe question asks for the value of a function. In function notation,f(x) =y. The number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. According to the question,f(x) = 5 whenx= 30, so plug these values into the function and solve fork. The function becomes 5 =. Multiply both sides of the equation bykto get 5k= 30, and then divide both sides of the equation by 5 to getk= 6. The question asks for the value off(x) whenx= 42, so plugx= 42 andk= 6 into the function, and solve forf(42). The function becomesf(42) =, orf(42) = 7. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3475,
+    "stimulus": "",
+    "question_stem": "Survey ResultsAnnuals159Perennials295A total of 454 gardeners selected at random were asked if they preferred perennials or annuals. The results of the survey are shown in the table above. According to these results, if 5,448 gardeners were choosing plants, how many more would prefer perennials than would prefer annuals?",
+    "answer_choices": {
+      "A": "136",
+      "B": "1,632",
+      "C": "1,908",
+      "D": "3,540"
+    },
+    "answer_ids": {
+      "A": 12253,
+      "B": 12254,
+      "C": 12255,
+      "D": 12256
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3475/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:04.313316",
+    "explanation": "✕ExplanationThe question asks for a value based on data. To find how many more gardeners out of 5,448 gardeners would prefer perennials to annuals, first subtract the survey results to get 295 – 159 = 136. This is not the final answer because it only represents the difference in a sample of 454 gardeners, not all 5,448 gardeners. Eliminate (A) because it does not answer the final question. Next, set up a proportion to find the number of gardeners out of the entire 5,448 who would prefer perennials to annuals. The proportion is. Cross-multiply to get 454(x) = (136)(5,448), or 454x= 740,928. Divide both sides of the equation by 454 to getx= 1,632. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3476,
+    "stimulus": "",
+    "question_stem": "The functionC(u) = 60u+ 300 models the total cost, in dollars, of producinguunits of a product. If the number of units is decreased by 20, by how much will the cost decrease, in dollars?",
+    "answer_choices": {
+      "A": "20",
+      "B": "320",
+      "C": "1,200",
+      "D": "1,500"
+    },
+    "answer_ids": {
+      "A": 12257,
+      "B": 12258,
+      "C": 12259,
+      "D": 12260
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3476/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:05.068944",
+    "explanation": "✕ExplanationThe question asks for a change in a value based on a function. In function notation, the number inside the parentheses is thex-value that goes into the function, and the value that comes out of the function is they-value. Since the question is about the relationship between variables, plug in two different values for the number of units,u, to determine the decrease in costC. Start by plugging in a number that makes the math easy and will be easy to decrease by 20, such as 30 units of the product. The equation becomesC(30) = 60(30) + 300, thenC(30) = 1,800 + 300, and finallyC(30) = 2,100. The question states thatthe number of units is decreased by 20, so plug 30 – 20 = 10 into the function. The equation becomesC(10) = 60(10) + 300, thenC(10) = 600 + 300, and finallyC(10) = 900. The cost decreased by 2,100 – 900 = 1,200 dollars. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3477,
+    "stimulus": "",
+    "question_stem": "In a sequence of numbers, each term is 10 greater than the preceding term. The first term is 15, andf(n) represents thenth term in the sequence. Which of the following functions models this situation?",
+    "answer_choices": {
+      "A": "f(n) =",
+      "B": "f(n) =",
+      "C": "f(n) = 15 + 10n",
+      "D": "f(n) = 15 + (n– 1)(10)"
+    },
+    "answer_ids": {
+      "A": 12261,
+      "B": 12262,
+      "C": 12263,
+      "D": 12264
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3477/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:05.808282",
+    "explanation": "✕ExplanationThe question asks for a function that models a specific situation. The question asks about the relationship between variables and there are variables in the answer choices, so plug in. The question states thatnrepresents thenth term in the sequence and that the first term is 15. Thus, whenn= 1,f(n) = 15. Plug these values into the answer choices and eliminate any that are not true. Choice (A) becomes 15 = 15(101 – 1), and then 15 = 15(100). Any number raised to the power of zero is 1, so this becomes 15 = 15(1), or 15 = 15. This is true, so keep (A), but check the remaining answer choices. Choice (B) becomes 15 = 15(101), then 15 = 15(10), and finally 15 = 150. This is not true, so eliminate (B). Choice (C) becomes 15 = 15 + 10(1), then 15 = 15 + 10, and finally 15 = 25; eliminate (C). Choice (D) becomes 15 = 15 + (1 – 1)(10). Simplify to get 15 = 15 + (0)(10), then 15 = 15 + 0, and finally 15 = 15. Keep (D).Use a second pair of values to check (A) and (D). The question states thateach term is 10 greater than the preceding term. If the first term is 15, the second term is 15 + 10 = 25. Thus, whenn= 2,f(n) = 25. Plug these values into the remaining answer choices. Choice (A) becomes 25 = 15(102 – 1), then 25 = 15(101), and finally 25 = 150; eliminate (A). Choice (D) becomes 25 = 15 + (2 – 1)(10). Simplify to get 25 = 15 + (1)(10), then 25 = 15 + 10, and finally 25 = 25; keep (D). The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3478,
+    "stimulus": "",
+    "question_stem": "If (px+ 5)(qx+ 3) = 8x2+rx+ 15 for all values ofx, andp+q= 6, what are two possible values forr?",
+    "answer_choices": {
+      "A": "2 and 4",
+      "B": "7 and 12",
+      "C": "22 and 26",
+      "D": "29 and 39"
+    },
+    "answer_ids": {
+      "A": 12265,
+      "B": 12266,
+      "C": 12267,
+      "D": 12268
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3478/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:06.547358",
+    "explanation": "✕ExplanationThe question asks for possible values of a constant in a quadratic. The question gives the quadratic in factored form equal to the quadratic in standard form, so use FOIL to expand the factored form on the left into standard form. The equation becomespqx2+ 3px+ 5qx+ 15 = 8x2+rx+ 15. Write the two sides of the equation on top of each other to see how the terms match up.pqx2+ 3px+ 5qx+ 158x2+rx+ 15Thus,pqx2= 8x2, 3px+ 5qx=rx, and 15 = 15. Work withpqx2= 8x2and divide both sides byx2to getpq= 8. The question states thatp+q= 6, so find two numbers that multiply to 8 and add up to 6. These are 2 and 4. Makep= 2 andq= 4, and work with thex-terms: 3(2)x+ 5(4)x=rx. Simplify to get 6x+ 20x=rx, and then 26x=rx. Divide both sides of the equation byxto get 26 =r. Only (C) includes 26 as a possible value ofr, so it must be correct. The other value in (C), 22, is the result of plugging inp= 4 andq= 2 and solving forr. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3479,
+    "stimulus": "",
+    "question_stem": "In the equation –2x2+ 32x–k= 0,kis a constant. What is the value ofmif the equation has exactly one real solution whenk=m+ 1?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3479/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:07.264812",
+    "explanation": "✕ExplanationThe question asks for the value of a constant that is related to a constant in a quadratic equation. To determine when the given quadratic has exactly one real solution, enter the equation into the built-in calculator, and then select the slider tool fork. Moving the slider to the right moves the vertex closer to thex-axis, so click on the slider tool to extend the range, and then keep sliding to the right until the vertex is on thex-axis, meaning there is one real solution. This happens whenk= 128. The question states thatk=m+ 1, so plug in 128 forkto get 128 =m+ 1. Subtract 1 from both sides of the equation to getm= 127. The correct answer is 127.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3480,
+    "stimulus": "",
+    "question_stem": "Oil from a completely full 55-gallon drum is poured into a number of identical right circular cylindrical buckets. Each bucket has a height of 1.5 feet and a radius of 0.5 feet. What is the greatest number of buckets that can be completely filled with oil from the drum?(Note: There are 0.133 cubic feet in 1 gallon).",
+    "answer_choices": {
+      "A": "6",
+      "B": "7",
+      "C": "9",
+      "D": "10"
+    },
+    "answer_ids": {
+      "A": 12269,
+      "B": 12270,
+      "C": 12271,
+      "D": 12272
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3480/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:08.017490",
+    "explanation": "✕ExplanationThe question asks for the greatest possible value in a situation based on the volumes of cylinders. Start by converting the amount of oil in the 55-gallon drum into cubic feet. The question provides the conversion between gallons and cubic feet, so set up a proportion, being sure to match up units. The proportion is. Cross-multiply to get (1)(x) = (0.133)(55), which becomesx= 7.315 cubic feet of oil in the drum. Next, calculate the volume of one cylindrical bucket. Write down the formula for the volume of a cylinder, either from memory or after looking it up on the reference sheet. The formula isV= πr2h. Plug in the given values of 1.5 for the height and 0.5 for the radius to getV= π(0.5)2(1.5), which becomesV= 0.375π, orV≈ 1.178 cubic feet. Divide the volume of the drum by the volume of one bucket to get≈ 6.21. The question asks forthe greatest number of buckets that can be completely filled with oil from the drum, which is 6. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3481,
+    "stimulus": "",
+    "question_stem": "A frog jumps out of the water to catch an insect. The frog’s height above the surface of the waterg(x), in inches,xseconds after it jumps can be represented by the functiong(x) = –3(x– 1)2+ 3, where 0 ≤x≤ 2. Which of the following statements is the best interpretation of thex-intercepts of the graph ofy= g(x) in thexy-plane?",
+    "answer_choices": {
+      "A": "The maximum height, in inches, of the frog’s jump",
+      "B": "The starting height, in inches, of the frog’s jump",
+      "C": "The time, in seconds, when the frog was at its maximum height",
+      "D": "The times, in seconds, when the frog was at the surface of the water"
+    },
+    "answer_ids": {
+      "A": 12273,
+      "B": 12274,
+      "C": 12275,
+      "D": 12276
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3481/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:08.745749",
+    "explanation": "✕ExplanationThe question asks for the interpretation of a feature of a graph in context. Start by reading the final question, which asks for the best interpretation of thex-intercepts of the graph. Graph the equation in the built-in graphing calculator to see that it is a parabola that opens downwards. Evaluate the answer choices one at a time, and eliminate any that do not describe thex-intercepts. Choice (A) refers to the maximum height. The maximum, or vertex, of a parabola is a single point at the top of the parabola, not two points where the parabola intersects thex-axis; eliminate (A). Choice (C) also refers to the maximum height, so eliminate (C). Choice (B) refers to the starting height, which is a single point, not two points; eliminate (B). Choice (D) refers to plural times, which could be two points. Additionally, the question states thatg(x) is thefrog’s height above the surface of the water, which means that thex-axis represents the surface of the water. Thus, thex-intercepts represent the two times when the frog was at the surface of the water. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3482,
+    "stimulus": "",
+    "question_stem": "The frequency table shows the numbers of hours of homework completed on an average school night by a random sample of 200 students in the junior class and 200 students in the senior class at a certain high school.Number of hoursJunior classSenior class125302807035060435355105If there are 600 students in the junior class and 400 students in the senior class, which of the following is an accurate prediction comparing the number of members of each class who complete four hours of homework on an average school night, based on the data from the random samples?",
+    "answer_choices": {
+      "A": "The total number of students who complete four hours of homework in the junior class is 35 more than in the senior class.",
+      "B": "The total number of students who complete four hours of homework in the senior class is 35 more than in the junior class.",
+      "C": "The total number of students who complete four hours of homework in the junior class is 200 more than in the senior class.",
+      "D": "The total number of students who complete four hours of homework is the same in both classes."
+    },
+    "answer_ids": {
+      "A": 12277,
+      "B": 12278,
+      "C": 12279,
+      "D": 12280
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3482/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:09.546413",
+    "explanation": "✕ExplanationThe question asks for a comparison based on data from a random sample. According to the table, 35 students in each class completed 4 hours of homework on an average school night. However, there are different numbers of students in the junior and senior classes, so use proportions to find the total number of students in each class who completed an average of 4 hours of homework on an average school night. There are 600 students in the junior class, so the proportion becomes=. Cross-multiply to get (200)(x) = (35)(600), which becomes 200x= 21,000. Divide both sides of the equation by 200 to getx= 105 students in the junior class who complete 4 hours of homework on an average school night. There are 400 students in the senior class, so the proportion becomes=. Cross-multiply to get (200)(x) = (35)(400), which becomes 200x= 14,000. Divide both sides of the equation by 200 to getx= 70 students in the senior class who complete 4 hours of homework on an average school night. The difference in the number of students completing 4 hours of homework per night in the two classes is 105 – 70 = 35. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3483,
+    "stimulus": "",
+    "question_stem": "What is the negative solution to the equation= 36?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3483/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:10.302570",
+    "explanation": "✕ExplanationThe question asks for a solution to an equation with absolute values. One method is to enter the the equation into the built-in graphing calculator. The values ofxare shown by vertical lines; scroll and zoom as needed to see that these cross thex-axis at –20 and 4. The question asks for the negative solution, which is –20.To solve algebraically, recall that, with an absolute value, the value inside the absolute value bars can be either positive or negative, so this equation has two possible solutions. To start solving forx, treat the absolute value symbols as a term and combine like terms to get 3|8 +x| = 36. Next, divide both sides of the equation by 3 to get |8 +x| = 12. The value in the absolute values barscould equal 12 or –12, so set 8 +xequal to each. When 8 +x= 12, subtract 8 from both sides of the equation to getx= 4. This is not the negative solution that the question asked for, so solve for the other solution. When 8 +x= –12, subtract 8 from both sides of the equation to getx= –20.Using either method, the correct answer is –20.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3484,
+    "stimulus": "",
+    "question_stem": "5y= 3 –ax–x+ 6=10y+ 5xThe given system of equations has infinitely many solutions. Ifais a constant, what is the value ofa?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3484/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:11.162673",
+    "explanation": "✕ExplanationThe question asks for the value of a constant in a system of equations. When two linear equations have infinitely many solutions, they are the same line and the equations are equal. Start by putting both equations in the same order. Addaxto both sides of the first equation to getax+ 5y= 3. Subtract 5xfrom both sides of the second equation to get –6x+ 6 = 10y, then subtract 10yfrom both sides of the equation to get –6x– 10y+ 6 = 0, and finally subtract 6 from both sides of the equation to get –6x– 10y= –6. Multiply both sides of the second equation by –1 to get 6x+ 10y= 6. Stack the two equations on top of each other to see how the terms match up.ax+   5y= 36x+ 10y= 6Since 5 and 3 are half of 10 and 6, respectively, multiply the first equation by 2 to get 2ax+ 10y= 6. Now the equations look like this:2ax+ 10y= 66x+ 10y= 6They-terms and the constants are now the same, so 2ax= 6x. Divide both sides of this equation by 2xto geta= 3. The correct answer is 3.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3485,
+    "stimulus": "",
+    "question_stem": "The equation of circlePin thexy-plane can be written asx2+y2– 6x+ 8y= –9. What is the radius of circleP?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Advanced Coordinate Geometry"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3485/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:11.911672",
+    "explanation": "✕ExplanationThe question asks for the radius of a circle given the equation of the graph in thexy-plane. The equation of a circle in standard form is (x–h)2+ (y–k)2=r2, where (h,k) is the center andris the radius. However, the equation of this circle is not in standard form, so look for another way to find the radius. One method is to complete the square for both terms in order to put the equation in standard form.A much simpler approach is to enter the equation into the built-in graphing calculator. Click on the two gray dots at the top and bottom of the circle. The points are (3, 0) and (3, –8). They have the samex-coordinate, so the distance between the two points, or the diameter, is the difference between they-coordinates: 0 – (–8) = 8. Be careful: the diameter of the circle is 8, but the question asks for the radius. The radius of a circle is half of the diameter, so the radius is 4. The correct answer is 4.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3486,
+    "stimulus": "",
+    "question_stem": "2x2+ 4x– 34 = 0Ifpis a constant and –1 +is a solution to the equation above, what is the value ofp?",
+    "answer_choices": {
+      "A": "2",
+      "B": "6",
+      "C": "36",
+      "D": "72"
+    },
+    "answer_ids": {
+      "A": 12281,
+      "B": 12282,
+      "C": 12283,
+      "D": 12284
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3486/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:12.692155",
+    "explanation": "✕ExplanationThe question asks for the value of a constant in the solution to a quadratic. The question asks for a specific value and the answers contain numbers in order, so plug in the answers. First, enter the quadratic into the built-in graphing calculator, then scroll and zoom as needed to find the solutions. Either enter the equation the way it is to see vertical lines at the solutions or leave out “= 0” to see a parabola. Either way, the coordinates of the solutions are (–5.243, 0) and (3.243, 0).Next, plug in each answer choice forpuntil one of them makes –1 +equal one of the solutions. Start with one of the middle numbers and try (B), 6. Enter –1 +into the calculator to get approximately 6.348. This is not equal to either of the solutions, so eliminate (B). The result was larger than either solution, so try (A), 2, next. Enter –1 +into the calculator to get approximately 3.243. The matches one of the solutions to the equation, so stop here. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3487,
+    "stimulus": "",
+    "question_stem": "A commercial printing service charges $17 to print 100 flyers, plus an additional fee per flyer for orders larger than 100. The total cost for 350 flyers is $42. Which functionfgives the total cost, in dollars, forxflyers, wherex≥ 100?",
+    "answer_choices": {
+      "A": "f(x) = 0.10x+ 7",
+      "B": "f(x) = 0.10x+ 17",
+      "C": "f(x) = 0.12x+ 17",
+      "D": "f(x) = 0.17x"
+    },
+    "answer_ids": {
+      "A": 12285,
+      "B": 12286,
+      "C": 12287,
+      "D": 12288
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "exam_id": 60,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3487/?question_set=exam&exam_id=60",
+    "scraped_at": "2025-07-05T20:01:13.427094",
+    "explanation": "✕ExplanationThe question asks for the function that represents a certain situation. In function notation, the number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. The question gives an input value of 100 flyers and an output value of $17. Plug these into the functions in the answer choices, and eliminate any that do not work. Choice (A) becomes 17 = 0.10(100) + 7, or 17 = 10 + 7, and then 17 = 17. This is true, so keep (A), but check the remaining answers. Choice (B) becomes 17 = 0.10(100) + 17, or 17 = 10 + 17, and then 17 = 27. This is not true, so eliminate (B). Choice (C) becomes 17 = 0.12(100) + 17, or 17 = 12 + 17, and then 17 = 29; eliminate (C). Choice (D) becomes 17 = 0.17(100), or 17 = 17; keep (D).Two answers worked with the first pair of values, so plug in a different value forx. The question states that the cost for 350 flyers is $42, so plug these input and output values into the remaining answers. Choice (A) becomes 42 = 0.10(350) + 7, or 42 = 35 + 7, and then 42 = 42; keep (A). Choice (D) becomes 42 = 0.17(350), or 42 = 59.5; eliminate (D). The correct answer is (A).close",
+    "correct_answer": "A"
+  }
+]

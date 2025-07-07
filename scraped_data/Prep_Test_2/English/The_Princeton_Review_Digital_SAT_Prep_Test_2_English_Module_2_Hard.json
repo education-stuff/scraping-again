@@ -1,0 +1,866 @@
+[
+  {
+    "question_id": 3248,
+    "stimulus": "In studying the ability to discern differences in pitch in music, psychologist Diana Deutsch found that native speakers of tonal languages, such as Mandarin or Cantonese, are more apt to recognize pitch differences than native speakers of non-tonal languages, such as English or French, as tonal languages _______ words and phrases using pitch changes, giving speakers of these languages heightened sensitivity.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "enunciate",
+      "B": "suggest",
+      "C": "define",
+      "D": "camouflage"
+    },
+    "answer_ids": {
+      "A": 11457,
+      "B": 11458,
+      "C": 11459,
+      "D": 11460
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3248/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:15.611277",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it asks for a logical and precise word or phrase for the blank. The blank describes how tonal languages interact with words and phrases using pitch changes, so look for and highlight clues in the text about this interaction. The text mentions thatnative speakers of tonal languages…are more apt to recognize pitch differences, which suggests that these native speakers might interact often with pitch differences in some way. Based on this context, a good word for the blank to enter into the annotation box would be “pronounce” or “say.”(A) is correct becauseenunciatematches “pronounce.”(B) and (D) are wrong becausesuggestandcamouflage(disguise) don’t match “pronounce.”(C) is wrong because it goes Beyond the Text—changing the pitch of words or phrases does not affect the way that the tonal languagesdefinethose words or phrases, and no definitions or meanings of words are discussed in the text.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3249,
+    "stimulus": "Groundbreaking research conducted by James Peebles and his team is motivated by their belief that though the importance of the properties of dark matter are widely accepted, there is an _______ the influence of dark matter on the universe that continues to elude the scientific community.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "acknowledgement of",
+      "B": "argument about",
+      "C": "understanding of",
+      "D": "allegiance to"
+    },
+    "answer_ids": {
+      "A": 11461,
+      "B": 11462,
+      "C": 11463,
+      "D": 11464
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3249/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:16.349299",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it asks for a logical and precise word or phrase for the blank. The blank describes an aspect of the influence of dark matter, so look for and highlight clues in the text about dark matter. The text mentions thatthe importance of the properties of dark matter are widely accepted, but the presence of the wordthoughindicates a contrast. Therefore, the thing thatcontinues to elude the scientific communityshould relate to knowledge about dark matter, so a good word for the blank to enter into the annotation box would be “knowledge” or “comprehension.”(A), (B), and (D) are wrong becauseacknowledgment of,argumentabout, andallegiance to(loyalty) don’t match “knowledge.”(C) is correct becauseunderstanding ofmatches “knowledge.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3250,
+    "stimulus": "Whether the success of a business venture, such as a startup or an established company, can be sustained long-term or is merely temporary is closely related to the concept of credibility and therefore necessitates a comprehensive understanding of the elements that contribute to a business’s ability to _______ trust among its potential consumers.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "invalidate",
+      "B": "fortify",
+      "C": "demarcate",
+      "D": "foster"
+    },
+    "answer_ids": {
+      "A": 11465,
+      "B": 11466,
+      "C": 11467,
+      "D": 11468
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3250/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:17.070101",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it asks for a logical and precise word or phrase for the blank. The blank describes what a business must do regarding trust, so look for and highlight clues in the text about businesses and trust. The text mentions thatthe success of a business venture…is closely related to the concept of credibility, so a good word for the blank to enter into the annotation box would be that business needs to “generate” or “build” trust.(A) is wrong becauseinvalidate(cancel) is theOppositeof what business must do regarding trust.(B) and (C) are wrong becausefortify(strengthen) anddemarcate(define) don’t match “generate.” The text does not support that trust is already present, as these are onlypotentialcustomers, not existing ones.(D) is correct becausefoster(grow) matches “build.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3251,
+    "stimulus": "Psychologist Angela Duckworth's studies found that individuals who possess high levels of perseverance are more likely to _______ their long-term objectives. Through her work, Duckworth found that the ability to sustain high levels of effort is as important as talent or intelligence in determining success.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "neglect",
+      "B": "analyze",
+      "C": "recall",
+      "D": "attain"
+    },
+    "answer_ids": {
+      "A": 11469,
+      "B": 11470,
+      "C": 11471,
+      "D": 11472
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3251/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:17.813022",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it asks for a logical and precise word or phrase for the blank. The blank describes what certain individuals are likely to do regarding long-term objectives, so look for and highlight clues in the text about these individuals. The text mentions that these individuals havehigh levels of perseveranceand havethe ability to sustain high levels of effort. Since perseverance and effort are connected withdetermining success, a good word for the blank to enter into the annotation box would be “achieve” or “complete.”(A) is wrong becauseneglectis theOppositeof “achieve.”(B) and (C) are wrong becauseanalyzeandrecall(remember) don’t match “achieve.”(D) is correct becauseattain(accomplish) matches “achieve.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3252,
+    "stimulus": "The following text is translated from “When Father Brought Home the Lamp,” an 1883 short story by Finnish author Juhani Aho. The narrator’s father has just decided he will set out on a journey the next morning to acquire a lamp, an item no other family in the village owns.And that same evening father brought in from the storehouse the big travelling chest in which grandfather, in his time, had stowed his provisions when he came from Uleaborg, and bade mother fill it with hay and lay a little cotton-wool in the middle of it.We children asked why they put nothing in the box but hay and a little wool in the middle, but she bade us hold our tongues, the whole lot of us.Father was in a better humor, and explained that he was going to bring a lamp from the storekeeper, and that it was of glass, and might be broken to bits if he stumbled or if the sledge bumped too much.",
+    "question_stem": "Which choice best states the function of the underlined sentence in the text as a whole?",
+    "answer_choices": {
+      "A": "It describes a point of curiosity regarding an object that the children would like explained.",
+      "B": "It demonstrates the conflicting emotions displayed by various members of the family.",
+      "C": "It clarifies the loving relationship between the children and their mother.",
+      "D": "It examines how the inquisitive nature of children can be encouraged by a parent."
+    },
+    "answer_ids": {
+      "A": 11473,
+      "B": 11474,
+      "C": 11475,
+      "D": 11476
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3252/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:18.558518",
+    "explanation": "✕ExplanationThis is a Purpose question, as it asks for thefunction of the underlined sentence in the text as a whole. Read the text and focus on the sentences before and after the underlined sentence to understand its function. The sentence before describes the contents ofthe big traveling chest, and the sentence after references the father’s explanation as to why the chest contains what it does. Therefore, a good function of the underlined sentence to enter into the annotation box would be “explain what children ask about chest.”(A) is correct because it’s consistent with the highlighting and annotation.(B) and (C) are wrong because they goBeyond the Text—each answer makes an assumption about relationship between the children and their mother that isn’t supported by the underlined sentence, in which the mother only tells the children to be quiet so the father can explain.(D) is wrong because it’s theOppositeof what happens in the text—the mother does not encourage the children to beinquisitive, or ask questions; she tells them to be quiet.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3253,
+    "stimulus": "The following text is from Jane Austen’s 1813 novelPride and Prejudice. The narrator is describing Elizabeth’s feelings toward Mr. Darcy.She began now to comprehend that he was exactly the man who, in disposition and talents, would most suit her. His understanding and temper, though unlike her own, would have answered all her wishes. It was an union that must have been to the advantage of both; by her ease and liveliness, his mind might have been softened, his manners improved; and from his judgement, information, and knowledge of the world, she must have received benefit of greater importance.",
+    "question_stem": "Which choice best states the main purpose of the text?",
+    "answer_choices": {
+      "A": "To describe Elizabeth’s determination to find a suitable romantic partner",
+      "B": "To highlight the benefits of having differing qualities from one’s partner",
+      "C": "To emphasize Elizabeth’s desires in a romantic relationship",
+      "D": "To demonstrate that Elizabeth finds her current relationship both enriching and confusing"
+    },
+    "answer_ids": {
+      "A": 11477,
+      "B": 11478,
+      "C": 11479,
+      "D": 11480
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3253/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:19.324239",
+    "explanation": "✕ExplanationThis is a Purpose question, as it asks for themain purpose of the text. Read the text and highlight who or what the text is focusing on. The text focuses onElizabeth’s feelings towards Mr. Darcy, which are thatIt was an union that must have been to the advantage of both. Therefore, a good main purpose of the text to enter into the annotation box would be “explain that they benefit from each other.”(A) and (C) are wrong because they goBeyond the Text—while it’s likely that Elizabeth hasdeterminationanddesirestowards romance, the text is about one specific relationship rather than a general pursuit and does not state what Elizabeth’s desires actually are.(B) is correct because it’s consistent with the highlighting and annotation.(D) is wrong because it’sHalf-Right—nothing in the text supports that Elizabeth finds her current relationshipconfusing.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3254,
+    "stimulus": "Novelist Wright Morris, who was also a photographer, complemented his written works with photographs that encapsulated the worlds and characters he created. In his novelThe HomePlace(1948), Morris included a series of photographs throughout the narrative. The images bring to life the people and places Morris described in the text, enhancing the reader’s immersion in the story. In that novel, Morris provides perspective on the themes of family, memory, and rural America–ideas that are all reinforced by the imagery contained within the novel.",
+    "question_stem": "Which choice best describes the overall structure of the text?",
+    "answer_choices": {
+      "A": "It details the photographs that make upThe Home Place, then explains how they relate to Morris’s convictions.",
+      "B": "It makes a claim about Morris, then offers an example that supports that claim.",
+      "C": "It describes Morris’s impact on the art of storytelling, then discusses Morris’s impact on other storytellers.",
+      "D": "It notes an artist’s unique style, then offers a counterexample of that style."
+    },
+    "answer_ids": {
+      "A": 11481,
+      "B": 11482,
+      "C": 11483,
+      "D": 11484
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3254/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:20.065900",
+    "explanation": "✕ExplanationThis is a Purpose question, as it asks for theoverall structure of the text. Read the text and highlight the connections between ideas in the text. The first sentence describes the work ofNovelist Wright Morrisand how hecomplemented his written works with photographs. The next three sentences offer a specific example in the novelThe Home Placeand itsperspective on the themes of family,memory, andrural America. Therefore, a good overall structure of the text to enter into the annotation box would be “introduce Morris’s work and give an example.”(A) is wrong because it’sHalf-Right—the first half of the answer is accurate, but the text does not discuss Morris’s specificconvictions, or beliefs, only the themes present in his photographs.(B) is correct because it’s consistent with the highlighting and annotation.(C) is wrong because while the text does discuss Morris’s storytelling, it never discusses anyother storytellers.(D) is wrong because it’sExtreme Language—Morris’s style is never described asunique, nor is acounterexampleoffered, just an example.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3255,
+    "stimulus": "Research conducted by neuroscientist Dr. Lisa Feldman Barrett suggests that emotions are based on the way that the brain interprets sensory inputs.Over a period of sixty days in 2004, Barrett and her team asked study participants to self-report their emotional experiences by ranking to what extent they felt base emotions such as anger, anxiety, and happiness.Researchers found that individuals who reported emotional states that accurately correlated with existing data concerning emotional state and heartbeat rhythm typically had lower levels of depression and anxiety compared to those who are less able to report specific emotional states.",
+    "question_stem": "Which choice best states the function of the underlined sentence in the overall structure of the text?",
+    "answer_choices": {
+      "A": "To highlight an obstacle the researchers had to overcome to conduct its study",
+      "B": "To summarize the findings of a research study",
+      "C": "To offer a concrete example that contextualizes the study’s findings",
+      "D": "To partially explain the method used in a research study"
+    },
+    "answer_ids": {
+      "A": 11485,
+      "B": 11486,
+      "C": 11487,
+      "D": 11488
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3255/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:20.802165",
+    "explanation": "✕ExplanationThis is a Purpose question, as it asks for thefunction of the underlined sentence in the text as a whole. Read the text and focus on the sentences before and after the underlined sentence to understand its function. The sentence before states thatemotions are based on the way the brain interprets sensory inputs, and the sentence after states that individuals who reported their emotions accurately (according to previous data)had lower levels of depression and anxiety. Since the sentence before describes a theory and the sentence after describes the results of an experiment meant to test that theory, a good function of the underlined sentence to enter into the annotation box would be “explain setup of experiment.”(A) and (C) are wrong because the highlighted sentence does not offer anobstacleor aconcrete examplerelated to the study.(B) is wrong because it’s aRight Answer, Wrong Question trap—this answer describes the information in the last sentence of the text rather than the underlined sentence.(D) is correct because it’s consistent with the highlighting and annotation.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3256,
+    "stimulus": "Text 1Many physicists believe in determinism, which states that reality is strictly physical and everything that happens results from physical forces. But if determinism is taken as fact and not theory, the choices we make become not our own decisions. Some psychologists have offered a somewhat comforting response to this hypothetical loss of free will: if we accept the concept that things are as they must be, we can reduce anxiety in our daily lives.Text 2When the philosophy of determinism was first standardized in the twentieth century, it was readily accepted by many within the scientific community. However, science journalist John Horgan argues that the human mind operates differently than the simplified way that scientists prefer their theories. Horgan has compared determinism to a rigid track laid down at the beginning of time but states that the human brain is too complex to accept that it cannot alter that track.",
+    "question_stem": "Based on the texts, what would the author of Text 2 most likely say about Text 1’s characterization of the psychologists’ response regarding determinism?",
+    "answer_choices": {
+      "A": "It is overly critical given the complexity of the human brain referenced by Horgan.",
+      "B": "It is logical given that Horgan has offered a comparison that may help individuals accept the theory.",
+      "C": "It is overly positive given the comments made about the complexity of the human brain by Horgan.",
+      "D": "It is surprising given that Horgan’s comments were readily accepted by the scientific community."
+    },
+    "answer_ids": {
+      "A": 11489,
+      "B": 11490,
+      "C": 11491,
+      "D": 11492
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Dual Texts"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3256/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:21.523151",
+    "explanation": "✕ExplanationThis is a Dual Texts question, which asks for whatthe author of Text 2wouldsay about Text 1’s characterization of the psychologists’ response to regarding determinism. Read Text 1 and highlight the author’s characterization of the psychologists’ response, which is that it’s asomewhat comforting response to this hypothetical loss of free will. Then, read Text 2 and highlight what Text 2 says about the same topic. The author of Text 2 states thatthe human brain is too complex to accept that it cannot alter that track.The two authors disagree on a human’s willingness to accept or be comfortable with determinism, so enter “Text 2 disagrees with Text 1” into the annotation box.(A) is wrong because it’s theOppositeof Text 1’s characterization of the response—Text 1’s considers the responsesomewhat comforting, notoverly critical.(B) is wrong because it’s theOppositeof the relationship between the texts—the two authors disagree, and the author of Text 2 believes the human brain would not accept determinism rather than considering itlogical.(C) is correct because it’s consistent with the relationship between the texts—the author of Text 2 does not believe that the human brain will find the concept of determinism comforting at all, or even accept it.(D) is wrong because it’sRecycled Language—it’s the theory of determinism that wasreadily acceptedby many according to the author of Text 2, notHorgan’s comments.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3257,
+    "stimulus": "Credited Literary Contributions of Zora Neale Hurston, Nella Larsen,Jessie Redmon Fauset, and Anita LoosIndividualYears activeNumber of creditedworks publishedZora Neale Hurston1921–19604 novels, 60 shortstories, 4 playsNella Larsen1928–19292 novels, 5 short storiesJessie RedmonFauset1921–19454 novels, 100–200works as editorAnita Loos1910–197010 novels, 100–200 shortstories, 60 screenplaysSome historians studying African-American women literary figures have focused on the early- to mid-1900s, when authors such as Zora Neale Hurston, Nella Larsen, Jessie Redmon Fauset, and Anita Loos were involved in one way or another with numerous literary works. Unfortunately, poor record keeping from this era makes it likely that the numbers of these four authors’ contributions to literary canon should not be considered comprehensive; it’s entirely possible, for example, that _______",
+    "question_stem": "Which choice most effectively uses the data from the table to complete the example?",
+    "answer_choices": {
+      "A": "Zora Neale Hurston wrote exactly 60 short stories and four novels.",
+      "B": "Nella Larsen wrote significantly fewer short stories than Zora Neale Hurston, who is credited with 60.",
+      "C": "Jessie Redmon Fauset’s four credited novels include those written after 1945.",
+      "D": "Anita Loos wrote more than 60 screenplays and Nella Larsen wrote more than five short stories."
+    },
+    "answer_ids": {
+      "A": 11493,
+      "B": 11494,
+      "C": 11495,
+      "D": 11496
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Charts"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3257/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:22.262098",
+    "explanation": "✕ExplanationThis is a Charts question, as it asks fordata from the tablethat willcomplete the example. Read the title and variables from the table. Then, read the text and highlight the claim or argument that references the information from the table. The end of the second sentence states thatpoor record keeping from this era makes it likely that the numbers…should not be considered comprehensive. In other words, the authors in the table may have produced more work than the numbers listed. The correct answer should offer accurate information from the graph in support of this claim.(A) and (B) are wrong because they’reHalf-Right—they’re consistent with the table but theOppositeof the claim, which states that the real totals may be greater than they appear.(C) is wrong because it’s theOppositeof what’s shown in the table—the claim only indicates that the number of contributions may be wrong, not that any of the authors workedafterthe years listed in the figure.(D) is correct because it’s consistent with the claim, which states that the authors may have contributed more works than what is shown in the table.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3258,
+    "stimulus": "Researchers Mary Johnson, John Davis, and Robert Smith have studied the effects of exercise on cognitive function in elderly individuals. To effectively conduct these studies, the researchers separate participants aged 65 and older into two groups: one group engaged in a regular exercise program, while the other group remained sedentary. After six months, the exercise group showed significant improvements in memory, attention, and overall cognitive performance compared to the sedentary group. Johnson, Davis, and Smith concluded that regular exercise can have a positive impact on cognitive abilities in older adults.",
+    "question_stem": "Which finding, if true, would most directly support Johnson, Davis, and Smith’s conclusion?",
+    "answer_choices": {
+      "A": "During periods of activity, elderly adults tend to get more sunshine and fresh air, both of which have a direct correlation to overall cognitive performance",
+      "B": "Overall cognitive performance is easier to ascertain in elderly populations that are physically active than in those that are not.",
+      "C": "Cognitive performance in both active and sedentary elderly populations have been found to normalize and be hardly discernible after 12 months of observation.",
+      "D": "Active elderly populations have been shown to slow, and sometimes reverse, the effects of aging on cognitive ability, while sedentary elderly populations tend to experience the cognitive effects of aging more rapidly."
+    },
+    "answer_ids": {
+      "A": 11497,
+      "B": 11498,
+      "C": 11499,
+      "D": 11500
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3258/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:22.977165",
+    "explanation": "✕ExplanationThis is a Claims question, as it asks which findingwould most directly support Johnson,Davis,and Smith’s conclusion. Look for and highlight the conclusion in the text, which is thatregular exercise can have a positive impact on cognitive abilities in older adults. The correct answer should be as consistent as possible with this conclusion.(A) is wrong because it goesBeyond the Text—while this may be true, the text’s conclusion is only in regards to exercise, not environmental factors such assunshine and fresh airthat may result from exercising outdoors.(B) is wrong because the conclusion is not about which group it iseasierto get data for, but about the positive impact of exercise on cognitive abilities.(C) is wrong because it’s theOppositeof the conclusion—if both active and sedentary populations have the same cognitive performance after 12 months, this would weaken the claim that exercise has apositive impact on cognitive abilities.(D) is correct because it’s consistent with the highlighted conclusion—slowing and reversing the effects of aging among active elderly populations would be apositive impact on cognitive abilities.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3259,
+    "stimulus": "Considering all homeowner’s insurance property claims, the Insurance Information Institute assessed the leading causes for property damage claims over a three-year period. According to its report, the Institute determined that the percentage by which different factors caused claims largely fluctuated over the period studied.",
+    "question_stem": "Which choice best describes data from the graph that support the Insurance Information Institute’s conclusion?",
+    "answer_choices": {
+      "A": "The percentage contribution of water damage and freezing to homeowner’s insurance property claims changed every year.",
+      "B": "The percentage of homeowner’s insurance property claims caused by fire and lightning remained unchanged during the three-year period.",
+      "C": "The percentage of homeowner’s insurance property claims caused by wind and hail was highest in 2019.",
+      "D": "The percentage of homeowner’s insurance property claims caused by wind and hail was higher than the percentage for fire and lightning or water damage and freezing in each year."
+    },
+    "answer_ids": {
+      "A": 11501,
+      "B": 11502,
+      "C": 11503,
+      "D": 11504
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Charts"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3259/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:23.696620",
+    "explanation": "✕ExplanationThis is a Charts question, as it asks fordata from the graph that support the Insurance Information Institute’s conclusion. Read the title, key, and variables from the table. Then, read the text and highlight the conclusion that references the information from the table. The last sentence states thatthe percentage by which different factors caused claims largely fluctuated over the period studied. The correct answer should offer accurate information from the table in support of this claim.(A) is correct because it’s consistent with the graph and conclusion—it shows a variable that hasfluctuatedfor all three years.(B) and (D) are wrong because they’re theOppositeof the graph or conclusion—the percentage of claims caused by fire and lightning damage did notremain unchangedduring the period, and (D) points out a consistent trend (that wind and hail was always highest,) while the conclusion refers to a fluctuation.(C) is wrong because it’s not relevant to the conclusion—focusing on a single year (2019) cannot illustrate a fluctuation, which requires at least two different years to be compared.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3260,
+    "stimulus": "Given thatFoxA, the primary gene that enables some insects to regenerate limbs or even entire bodies, also exists in humans, some biologists have posited that humans may also have the ability to regenerate limbs naturally if stimulated correctly. This concept is also bolstered by evidence that the supplemental genes that interact withFoxAduring the regeneration process are also found in humans.",
+    "question_stem": "Which finding, if true, would most directly weaken the biologists’ claim?",
+    "answer_choices": {
+      "A": "The process for determining the genetic makeup of insects is determined to be more effective when used to analyze other types of living organisms.",
+      "B": "The genetic makeup of most animal species containFoxA, but when analyzed they contain numerous other genes also found in insects.",
+      "C": "A genetically similar species to human beings is revealed to have the same ratio ofFoxAin its genetic sequence as do insects.",
+      "D": "A new study finds that only some of the supplemental genes necessary for aidingFoxAin the regeneration process are found in humans."
+    },
+    "answer_ids": {
+      "A": 11505,
+      "B": 11506,
+      "C": 11507,
+      "D": 11508
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3260/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:24.453106",
+    "explanation": "✕ExplanationThis is a Claims question, as it asks which choicewould most directly weaken the biologists’ claim. Look for and highlight the claim in the text, which is thathumans may also have the ability to regenerate limbs naturally. Note that the reason biologists believe humans could do so is that humans haveFoxAas well as thesupplemental genes that interact with FoxAto cause regeneration to occur. The correct answer should be as inconsistent as possible with the claim or the evidence, while still staying on the topic of the text.(A) is wrong because it’s not relevant to the claim—the focus of the claim is not on which group of organisms a process ismore effectivefor, but if humans have the necessary genes for regeneration.(B) and (C) are wrong because they’re theOppositeof what the question asks—each would strengthen, not weaken, the claim by displaying similarities in the genetic makeup of animals and humans to that of insects.(D) is correct because it would weaken the claim by suggesting that humans haveonly a few of the supplemental genes necessaryfor regeneration, not all of them.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3261,
+    "stimulus": "While studying art history, Neil MacGregor developed a belief that despite museums’ displays of objects from different civilizations, the power of objects to tell stories had not been fully explored. According to a museum expert, during his career as an influential art historian and curator, MacGregor sought to address this issue, not by organizing displays limited to a single culture as was the industry standard, but by presenting the objects as pieces of a larger story, so that people from diverse ethnicities might find the exhibit more accessible.",
+    "question_stem": "Which finding, if true, would most directly support the museum expert’s claim?",
+    "answer_choices": {
+      "A": "MacGregor organized the exhibitionLiving with Gods: People, Places, and Worlds Beyondnot to emphasize a particular religious belief but to demonstrate the diverse spiritual and religious beliefs.",
+      "B": "MacGregor curatedShakespeare: Staging the Worldin collaboration with the Royal Shakespeare Company, which explored the historical context during which Shakespeare’s plays were written.",
+      "C": "As director and curator for the British Museum, MacGregor curatedA History of the World In 100 Objects, which allowed visitors from around the world to explore human history through objects from the museum’s collection.",
+      "D": "MacGregor’s work as curator of the 2015 exhibitionAustraliaexplored themes such as indigenous heritage, colonization and environmental challenges in the context of contemporary Australian society."
+    },
+    "answer_ids": {
+      "A": 11509,
+      "B": 11510,
+      "C": 11511,
+      "D": 11512
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3261/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:25.185070",
+    "explanation": "✕ExplanationThis is a Claims question, as it asks which choicewould most directly support the museum expert’s claim. Look for and highlight the claim in the text, which is thatMacGregor sought to addresstheissue…by presenting the objects as pieces of a larger story, so that people from diverse ethnicities might find the exhibit more accessible. The correct answer should be as consistent as possible with this claim.(A) is wrong because it’sRecycled Language—the word “diverse” is meant to apply toethnicitiesrather thanspiritual and religious beliefs, and the text does not connect ethnicity to spiritual or religious beliefs, even if such connections may exist in the real world.(B) is wrong because it’s not relevant to the claim—there is no connection made in the text between the works of Shakespeare anddiverse ethnicities.(C) is correct because it’s consistent with each aspect of the highlighted claim.(D) is wrong because it goesBeyond the Textwith too specific of a focus—the answer only focuses on Australia and therefore does not addressdiverse ethnicities.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3262,
+    "stimulus": "A central challenge when studying the impact of leadership positions on everyday behavior is establishing a suitable control group. Any study aiming to investigate the impact of leadership positions on everyday behavior needs to compare individuals in positions of leadership to those who are not but who otherwise possess similar characteristics. Because it is often hard to anticipate who will rise to leadership positions, researchers _______",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "will find it challenging to execute an accurate comparative analysis",
+      "B": "struggle to find reputable data about the changes in behavior in those who currently hold leadership positions.",
+      "C": "can only conduct valid studies on individuals who have recently left leadership positions.",
+      "D": "should select a large control group of diverse people."
+    },
+    "answer_ids": {
+      "A": 11513,
+      "B": 11514,
+      "C": 11515,
+      "D": 11516
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Conclusions"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3262/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:25.946243",
+    "explanation": "✕ExplanationThis is a Conclusions question, as it asks for whatmost logically completes the text. Look for and highlight the main focus of the text, which is theimpact of leadership positions on everyday behavior. Then, highlight the main point made regarding this focus, which is thatit is often hard to anticipate who will rise to leadership positions. Therefore, the conclusion of the text should discuss how it’s difficult to investigate the impact of leadership positions. The correct answer should be as consistent as possible with this conclusion.(A) is correct because it’s consistent with what the highlighted sentences say about the challenges researchers will face.(B) is wrong because it’s theOppositeof the challenges the text indicates that researchers will face—the issue will be finding data on those who may become leaders, not data on those whocurrently hold leadership positions.(C) is wrong because it’sExtreme Language—the text never states thatonlythose who recently left leadership positions can be studied.(D) is wrong because it goesBeyond the Text—while studies always want large control groups, the focus in the text is on the challenges researchers face, not a general principle of conducting studies.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3263,
+    "stimulus": "Transcribed in the sixteenth century in Classical Quiché by an unknown Mayan scribe,Popol Vuhis one of the most significant surviving sources of ancient Mayan culture. The text reflects pre-colonial Mayan beliefs about cosmology, religion, and morality. Nonetheless, some of the passages inPopol Vuhincluded Catholic and European influence, which suggests that the Mayans may have had interactions with those religious and regional groups. Consequently, scholars contend that _______",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "any references to beliefs influenced cultural aspects of the Mayan civilization found in the text should be considered distinct from the original Mayan belief.",
+      "B": "while most of ancient Mayan culture and traditions predates colonialization, some elements of culture were shaped after contact with European and Catholic ideals.",
+      "C": "although the scribe who transcribedPopol Vuhwas fluent in Classical Quiché, they also had a functional knowledge of European languages.",
+      "D": "before colonization, Mayan beliefs about cosmology, religion, and morality were unique to the civilization."
+    },
+    "answer_ids": {
+      "A": 11517,
+      "B": 11518,
+      "C": 11519,
+      "D": 11520
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Conclusions"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3263/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:26.663431",
+    "explanation": "✕ExplanationThis is a Conclusions question, as it asks for whatmost logically completes the text. Look for and highlight the main focus of the text, which is that thePopol Vuh is one of the most significant surviving sources of ancient Mayan culture. Then, highlight the main point made regarding this focus, which is that whilePopol Vuhreflectspre-colonial Mayan beliefs, some of its passages includeCatholic and European influence. Therefore, the conclusion to the text should address these differing aspects of thePopol Vuh. The correct answer should be as consistent as possible with this conclusion.(A) is wrong because it’s theOppositeof what’s stated in the text—thePopol Vuhcontains many of the early Mayan beliefs, so it’s text should not be considereddistinctfrom the original Mayan belief.(B) is correct because it’s consistent with what the highlighted sentences say about thePopol Vuh.(C) is wrong because it’sRecycled Language—Europeanis misused from the second half of the text.(D) is wrong because it’sExtreme Language—it’s not stated whether the Mayan beliefs wereuniqueto the civilization or shared by other civilizations.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3264,
+    "stimulus": "Directed by filmmaker Tony Silver,Style Wars, a documentary about New York City street artists, _______ contrasting views on graffiti, including those of the artists themselves, who explain their motivations for creating art that is illegal.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "present",
+      "B": "have presented",
+      "C": "are presenting",
+      "D": "presents"
+    },
+    "answer_ids": {
+      "A": 11521,
+      "B": 11522,
+      "C": 11523,
+      "D": 11524
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Verbs"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3264/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:27.390560",
+    "explanation": "✕ExplanationIn this Rules question, verbs are changing in the answer choices, so it’s testing consistency with verbs. Find and highlight the subject,Style Wars, which is singular, as it isa documentary, so a singular verb is needed. Write an annotation saying “singular.” Eliminate any answer that is not singular.(A), (B), and (C) are wrong because they are plural.(D) is correct because it’s singular.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3265,
+    "stimulus": "Unlike all other waterfowl, the black-headed duck does not build a _______ it deposits its eggs into other birds’ nests, where they are incubated along with the parents’ own eggs. According to biologist John Eadie, the duck’s choice of coots for their host nests may be in response to the presence of egg-eating predators, since coots vigorously defend their clutches against predation.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "nest; instead,",
+      "B": "nest, instead;",
+      "C": "nest instead,",
+      "D": "nest, instead,"
+    },
+    "answer_ids": {
+      "A": 11525,
+      "B": 11526,
+      "C": 11527,
+      "D": 11528
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Connecting Clauses"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3265/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:28.117654",
+    "explanation": "✕ExplanationIn this Rules question, punctuation with a transition is changing in the answer choices. Look for independent clauses. The first part of the sentence saysUnlike all other waterfowl, the black-headed duck does not build a nest.There is an option to addinsteadto this independent clause, but it’s not contrasting with the previous idea as nothing came before. Eliminate options withinsteadin the first part.(A) is correct because it putsinsteadwith the second independent clause and puts a semicolon between the independent clauses.(B) is wrong because it putsinsteadwith the first independent clause.(C) and (D) are wrong because the sentence contains two independent clauses, which cannot be connected with commas alone.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3266,
+    "stimulus": "Chemist Stephanie Kwolek _______ tire materials for the DuPont chemical company when she unexpectedly found a new polymer with fibers that aligned themselves parallel to each other, making this polymer exceptionally strong; later trademarked as Kevlar, her discovery is now used in products from phones to body armor.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "will research",
+      "B": "was researching",
+      "C": "has been researching",
+      "D": "researches"
+    },
+    "answer_ids": {
+      "A": 11529,
+      "B": 11530,
+      "C": 11531,
+      "D": 11532
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Verbs"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3266/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:28.842239",
+    "explanation": "✕ExplanationIn this Rules question, verbs are changing in the answer choices, so it’s testing consistency with verbs. Find and highlight the subject,Stephanie Kwolek, which is singular, so a singular verb is needed. All of the answers work with a singular subject, so look for a clue regarding tense. The same sentence uses past tense verbs:foundandaligned. Highlight those verbs and write an annotation that says “past.” Eliminate any answer not in past tense.(A) is wrong because it’s in future tense.(B) is correct because it’s in past tense and correctly suggests that Kwolek found the polymer while in the process of doing the research.(C) is wrong because it’s not in past tense.(D) is wrong because it’s in present tense.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3267,
+    "stimulus": "Located on the eastern slopes of the Andes Mountains, the Yungas cloud forests of Bolivia are home to many endemic plants and animals. Herpetologist Teresa Camacho Badani led an expedition into the Yungas to collect specimens of an endangered species of _______ known only from a single individual found in 2009 and nicknamed Romeo, the Sehuencas water frog (Telmatobius yucarare) is now being bred in captivity in an effort to restore the population.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "amphibian previously",
+      "B": "amphibian but previously",
+      "C": "amphibian. Previously",
+      "D": "amphibian, previously"
+    },
+    "answer_ids": {
+      "A": 11533,
+      "B": 11534,
+      "C": 11535,
+      "D": 11536
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Connecting Clauses"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3267/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:29.581517",
+    "explanation": "✕ExplanationIn this Rules question, punctuation is changing in the answer choices. Look for independent clauses. The first part of the sentence saysHerpetologist Teresa Camacho Badani led an expedition…to collect specimens of an endangered species of amphibian, which is an independent clause. The second part sayspreviously known only from a single individual…the Sehuencas water frog…is now being bred in captivity in an effort to restore the population, which is also an independent clause. Eliminate any answer that can’t correctly connect two independent clauses.(A) is wrong because some type of punctuation is needed in order to connect two independent clauses.(B) is wrong because a coordinating conjunction (but) without a comma can’t connect two independent clauses.(C) is correct because the period makes each independent clause its own sentence, which is fine.(D) is wrong because a comma without a coordinating conjunction (FANBOYS) can’t connect two independent clauses.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3268,
+    "stimulus": "In 2022, a helicopter landed in Palm Springs, California, after completing a pioneering 24-mile _______ by a rechargeable battery and carrying a 50-pound weight (which was added in order to simulate the weight of a transport care system for organ transplants), the fully electric helicopter was copiloted by Martine Rothblatt and Ric Webb.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "flight, powered",
+      "B": "flight and powered",
+      "C": "flight powered",
+      "D": "flight. Powered"
+    },
+    "answer_ids": {
+      "A": 11537,
+      "B": 11538,
+      "C": 11539,
+      "D": 11540
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Connecting Clauses"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3268/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:30.320226",
+    "explanation": "✕ExplanationIn this Rules question, punctuation is changing in the answer choices. Look for independent clauses. The first part of the sentence states thatahelicopter landed…after completing a pioneering 24-mile flight,which is an independent clause. The second part sayspowered by a rechargeable battery and carrying a 50-pound weight…the fully electric helicopter was copiloted by Martine Rothblatt and Ric Webb,which is also an independent clause. Eliminate any answer that can’t correctly connect two independent clauses.(A) is wrong because a comma without a coordinating conjunction (FANBOYS) can’t connect two independent clauses.(B) is wrong because a coordinating conjunction (and) without a comma can’t connect two independent clauses.(C) is wrong because some type of punctuation is needed in order to connect two independent clauses.(D) is correct because the period makes each independent clause its own sentence, which is fine.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3269,
+    "stimulus": "TheVoyager 2spacecraft was launched by NASA in 1977 in order to take close-up pictures of Uranus and _______ find the furthest extent of the Solar System; and collect data about the interstellar space beyond the Solar System.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "Neptune, the previously unexplored outer planets;",
+      "B": "Neptune the previously unexplored outer planets,",
+      "C": "Neptune, the previously unexplored outer planets,",
+      "D": "Neptune; the previously unexplored outer planets,"
+    },
+    "answer_ids": {
+      "A": 11541,
+      "B": 11542,
+      "C": 11543,
+      "D": 11544
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Lists"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3269/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:31.043527",
+    "explanation": "✕ExplanationIn this Rules question, commas and semicolons are changing in the answer choices. The sentence already contains a semicolon near the end, and the part after this semicolon is not an independent clause, which suggests that the sentence contains a list separated by semicolons. Check the verb at the beginning of each item to see where the semicolons should be placed. The list consists of 1)take close-up pictures of Uranus and Neptune, the previously unexplored outer planets,2)find the furthest extent of the Solar System, and 3)collect data about the interstellar space beyond the Solar System.Eliminate any answer that doesn’t put semicolons between the list items.(A) is correct because it has a semicolon after the first item.(B) and (C) are wrong because they don’t have a semicolon after the first item, which ends withplanets.(D) is wrong because it puts the semicolon afterNeptune, separating it fromthe previously unexplored outer planets, a description that refers toUranus and Neptune.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3270,
+    "stimulus": "Ethiopian American artist Julie Mehretu paints by projecting a visual image such as an architectural blueprint or a photograph from a newspaper article onto a canvas and then converting the projection into abstract forms, working in a style that art _______ “a complex dance between abstraction and representation.”",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "journalist Maximiliáno Durón, calls,",
+      "B": "journalist Maximiliáno Durón calls",
+      "C": "journalist, Maximiliáno Durón, calls",
+      "D": "journalist, Maximiliáno Durón, calls,"
+    },
+    "answer_ids": {
+      "A": 11545,
+      "B": 11546,
+      "C": 11547,
+      "D": 11548
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Punctuation with Describing Phrases"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3270/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:31.791411",
+    "explanation": "✕ExplanationIn this Rules question, punctuation is changing in the answer choices. The punctuation appears near the wordjournalistand the person’s name. The wordjournalistis a title for Maximiliáno Durón, so no punctuation should be used. Eliminate answers that use punctuation.(A) is wrong because a comma shouldn’t be used between the subjectMaximiliánoDurónand its verbcalls.(B) is correct because titles before names have no punctuation.(C) and (D) are wrong because a comma isn’t used after a title.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3271,
+    "stimulus": "While a local legend credits French cheesemaker Marie Harel with the invention of Camembert cheese, she likely learned the technique from a priest, Abbot Charles-Jean Bonvoust, who passed along the recipe while in hiding during the French Revolution. _______ Harel will likely continue to receive recognition for the cheese, as her descendants created a large-scale cheese factory to mass-produce the variety to share with the rest of the world.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Nevertheless,",
+      "B": "Furthermore,",
+      "C": "Indeed,",
+      "D": "Consequently,"
+    },
+    "answer_ids": {
+      "A": 11549,
+      "B": 11550,
+      "C": 11551,
+      "D": 11552
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3271/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:32.525654",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The first sentence states thatlocal legend credits Marie Harel with the invention of Camembert cheese,thoughshe likely learned the technique from a priest, and this sentence states thatHarel will likely continue to receive recognition for the cheese. These ideas disagree, so an opposite-direction transition is needed. Make an annotation that says “disagree.” Eliminate any answer that doesn’t match.(A) is correct becauseNeverthelessis an opposite-direction transition and correctly implies that despite the fact that Harel may not have completely invented the cheese, she will still be recognized for it.(B), (C), and (D) are wrong because they are same-direction transitions.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3272,
+    "stimulus": "The Chicxulub crater, located in Mexico, was discovered by Antonio Camargo and Glen Penfield and is believed to be the result of a meteorite impact. Many researchers have found evidence to support the hypothesis that the impact caused the Cretaceous-Paleogene extinction event. _______ the surrounding areas contain shocked quartz that is only formed through high pressure and tektites that are often ejected from meteorites.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "As a result,",
+      "B": "However,",
+      "C": "In other words,",
+      "D": "Specifically,"
+    },
+    "answer_ids": {
+      "A": 11553,
+      "B": 11554,
+      "C": 11555,
+      "D": 11556
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3272/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:33.258806",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The preceding sentence states thatresearchers have found evidencefor the asteroid theory, and this sentence explains that theshocked quartzandtektitesin the areas provide evidence. These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.(A) is wrong because the evidence isn’t a result of a hypothesis; a hypothesis is based on evidence.(B) is wrong because it’s an opposite-direction transitions.(C) is wrong because this sentence isn’t a restatement of the preceding sentence.(D) is correct because this sentence specifies what kind ofevidencehas been found.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3273,
+    "stimulus": "Fingerprinting is often used to settle fraud cases, but a suspect could claim that he or she handled a piece of paper before the fraudulent material was printed on it. By placing a layer of gelatin over a fingerprint and reacting it in a vacuum chamber, the fingerprint will appear “masked” if it was placed before anything was printed on the paper. _______ using this new technique, court cases will have more reliable evidence regarding a suspect’s knowledge of the fraud that was committed.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Nevertheless,",
+      "B": "Thus,",
+      "C": "Similarly,",
+      "D": "However,"
+    },
+    "answer_ids": {
+      "A": 11557,
+      "B": 11558,
+      "C": 11559,
+      "D": 11560
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3273/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:34.017403",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The preceding sentence describes a new fingerprinting technique, and this sentence states that it can providemore reliable evidenceforcourt cases. These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.(A) and (D) are wrong because they are opposite-direction transitions.(B) is correct because this sentence draws a conclusion from the evidence in the previous sentences.(C) is wrong because this sentence does not describe a separate thing that is similar to something that was previously described.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3274,
+    "stimulus": "While researching a topic, a student has taken the following notes:Researchers have been investigating the effects of sports-related concussions on the brain.Biomarkers in the blood indicative of tissue injury were found in participants two weeks following their last injuries.Extensive white matter damage deeper in the brain was found in participants six months following their last injuries.Many participants had more than one sports-related concussion.",
+    "question_stem": "The student wants to make and support a generalization about sports-related concussions. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "There are short- and long-term consequences of a sports-related concussion on the brain: two weeks following injury there are biomarkers in the blood indicative of tissue injury, while six months following injury there is damage to the white matter deeper in the brain.",
+      "B": "There are many effects of sports-related concussions on the brain, especially in participants with more than one sports-related concussion.",
+      "C": "One example of a long-term consequence of sports-related concussions is the damage to white matter deeper in the brain found in participants six months following their last injury.",
+      "D": "Many participants had more than one sports-related concussion, and blood biomarkers showed signs of tissue injury two weeks following their sports-related concussions."
+    },
+    "answer_ids": {
+      "A": 11561,
+      "B": 11562,
+      "C": 11563,
+      "D": 11564
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Rhetorical Synthesis"
+    },
+    "exam_id": 51,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Hard",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3274/?question_set=exam&exam_id=51",
+    "scraped_at": "2025-07-05T19:58:34.732597",
+    "explanation": "✕ExplanationThis is a Rhetorical Synthesis question, so follow the basic approach. Highlight the goal(s) stated in the question:make and support a generalization about sports-related concussions.Eliminate any answer that doesn’t fulfill this purpose.(A) is correct becauseshort- and long-term consequencesis a generalization (a broader look at something), and the information after the colon supports this generalization.(B) is wrong because it makes ageneralizationbut doesn’tsupportit.(C) and (D) are wrong because they give specific details instead of ageneralization.close",
+    "correct_answer": ""
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "question_id": 3074,
+    "stimulus": "Shakespeare intentionally provided no stage directions for his playMacbethregarding whether to have Banquo’s ghost physically present on stage or simply to have Macbeth react fearfully to something invisible, thus providing future directors with the ______ to indulge their own artistic interpretations.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "confusion",
+      "B": "dedication",
+      "C": "instruction",
+      "D": "liberty"
+    },
+    "answer_ids": {
+      "A": 10821,
+      "B": 10822,
+      "C": 10823,
+      "D": 10824
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3074/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:06.486921",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it’s asking for alogical and precise word or phrasefor the blank.Read the text and highlight what can help fill in the blank. The text states thatShakespeare intentionally provided no stage directionsas to what should happen in a scene, so it’s logical that he meant forfuture directorsto use theirown artistic interpretations. A good word for the annotation box based on this information would be “freedom.”(A) and (B) are wrong becauseconfusionanddedicationdon’t match “freedom.”(C) is wrong because it is theOppositeof what the text states—Shakespeareprovided no stage directions.(D) is correct becauselibertymatches “freedom.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3075,
+    "stimulus": "German-Dutch paleontologist Ralph von Koenigswald was the first to discover the fossilized remains ofGigantopithecus blacki, a gargantuan ape believed to have lived during the Pleistocene Epoch. Because the fossils were exclusively found in caves in southern China, many experts believe that the species was ______ that region—that is, anyone claiming to have found remains ofGigantopithecuselsewhere would be mistaken.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "restricted to",
+      "B": "eliminated from",
+      "C": "common in",
+      "D": "unknown to"
+    },
+    "answer_ids": {
+      "A": 10825,
+      "B": 10826,
+      "C": 10827,
+      "D": 10828
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3075/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:07.225875",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it’s asking for alogical and precise word or phrasefor the blank.Read the text and highlight what can help fill in the blank. The text states that thefossils were exclusively found in caves in southern Chinaand thatanyone claiming to have foundremains ofGigantopithecus elsewherewould be mistaken.A good phrase for the annotation box based on this information would be “only in” that region.(A) is correct becauserestricted tomatches “only in.”(B) and (D) are wrong becauseeliminated fromandunknown toare theOppositeof “only in.”(C) is wrong becausecommon indoesn't match \"only in.\"close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3076,
+    "stimulus": "Computer scientist Ray Kurzweil ______ that although artificial intelligence will not displace human beings, it will undoubtedly become smarter than people within this generation. This possibility has been the domain of science fiction writers for decades, whose works explore the ramifications of just such a future.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "proves",
+      "B": "requires",
+      "C": "predicts",
+      "D": "denies"
+    },
+    "answer_ids": {
+      "A": 10829,
+      "B": 10830,
+      "C": 10831,
+      "D": 10832
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3076/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:08.017827",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it’s asking for alogical and precise word or phrasefor the blank.Read the text and highlight what can help fill in the blank. The text states thatartificial intelligence will not displace human beingsbutwill undoubtedly become smarter than people within this generation. The next sentence calls thisa possibility.A good word for the annotation box would be that Kurzweil “hypothesizes” what will happen.(A) is wrong becauseprovesisExtreme Language: it goes too far beyond “hypothesizes.”(B) and (D) are wrong becauserequiresanddeniesdon’t match “hypothesizes.”(C) is correct becausepredictsmatches “hypothesizes.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3077,
+    "stimulus": "In psychology, it’s critical not to generalize from the results of studies in which the subjects are not representative of the larger population. The infamous Stanford Prison Experiment ______ this principle: the participants, whose behavior supposedly demonstrated the “human” tendency towards alarming aggression in authoritarian situations, were a handful of male college-age individuals from the same private university in California rather than a diverse sampling of subjects.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "illustrates",
+      "B": "refutes",
+      "C": "supersedes",
+      "D": "critiques"
+    },
+    "answer_ids": {
+      "A": 10833,
+      "B": 10834,
+      "C": 10835,
+      "D": 10836
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3077/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:08.884236",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it’s asking for alogical and precise word or phrasefor the blank.Read the text and highlight what can help fill in the blank. The text states that the Stanford prison experimentsupposedly demonstratedan idea:supposedlymeans that the author does not think the experiment actually demonstrated that idea. The text also notes that the individuals were of the same backgroundrather thanrepresentinga diverse sampling of subjects.Since all of this supports the point made in the first sentence, a good word or phrase for the annotation box would be “shows” or “is an example of.”(A) is correct becauseillustratesmatches “shows.”(B) and (D) are wrong becauserefutesandcritiquesare theOppositetone of “shows.”(C) is wrong becausesupersedes, which means “overrides,” doesn’t match “shows.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3078,
+    "stimulus": "Neurologists know that prosopagnosia—the ______ to recognize faces—involves a specific lesion in the brain and can be caused by disease or head injury. However, prominent author Dr. Oliver Sacks believes that this “face blindness” also has a definite genetic component.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "capability",
+      "B": "incapacity",
+      "C": "tendency",
+      "D": "reluctance"
+    },
+    "answer_ids": {
+      "A": 10837,
+      "B": 10838,
+      "C": 10839,
+      "D": 10840
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3078/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:09.640069",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it’s asking for alogical and precise word or phrasefor the blank.Read the text and highlight what can help fill in the blank. The text states that prosopagnosia is also called“face blindness,”so a good word for the annotation box would be the “inability” to recognize faces.(A) and (C) are wrong becausecapabilityandtendencyare theOppositeof “inability.”(B) is correct becauseincapacitymatches “inability.”(D) is wrong becausereluctancesuggests not wanting to do something, which isn’t the same as “inability.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3079,
+    "stimulus": "The shark’s competitive advantage in the oceanic ecosystem is principally due to electroreception, or ability to detect electrical impulses. Marine biologists believe that this heightened ______ to electrical stimuli allows the shark to easily find its prey, for as fish swim through water, their movement produces minute electrical signals.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "allergy",
+      "B": "sensitivity",
+      "C": "indifference",
+      "D": "aversion"
+    },
+    "answer_ids": {
+      "A": 10841,
+      "B": 10842,
+      "C": 10843,
+      "D": 10844
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3079/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:10.396309",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it’s asking for alogical and precise word or phrasefor the blank.Read the text and highlight what can help fill in the blank. The text states that the shark has acompetitive advantage…due to electroreception, or ability to detect electrical impulses.A good phrase for the annotation box based on this information would be “detection ability.”(A) and (D) are wrong becauseallergyandaversionare theOppositeof the shark’s “ability” being acompetitive advantage.(B) is correct becausesensitivitymatches “detection ability.\"(D) is wrong becauseindifference, which means not having a preference, doesn’t match “detection ability.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3080,
+    "stimulus": "The Voynich manuscript was written on vellum dating from the fifteenth century in a script that is not found in any other source. Since cryptographers have yet to demonstrably decipher any portion of the text, the meaning and purpose of the Voynich manuscript remain ______.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "enigmatic",
+      "B": "venerable",
+      "C": "multifarious",
+      "D": "coherent"
+    },
+    "answer_ids": {
+      "A": 10845,
+      "B": 10846,
+      "C": 10847,
+      "D": 10848
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3080/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:11.159337",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it’s asking for alogical and precise word or phrasefor the blank.Read the text and highlight what can help fill in the blank. The text states thatcryptographers have yet to demonstrably decipher any portion of the text, so a good word for the annotation box to describethe meaning and purpose of the Voynich manuscriptwould be “mysterious.”(A) is correct becauseenigmaticmatches “mysterious.”(B) and (D) are wrong becausevenerableandcoherentdon’t match “mysterious.”(C) is wrong because it is aCould Be True trapWhilemultifarious,or complex, things can bemysterious, the words are not synonyms: mysterious things can be simple and complex things can be quite well known and understood.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3081,
+    "stimulus": "It is commonly believed that, in the complex ecosystem of the Nile River in Africa, the crocodile and the Egyptian plover bird have formed an ______ relationship: the crocodile opens its mouth and keeps it open while the bird instinctively eats the food particles remaining in the crocodile’s teeth, thus nourishing the bird while simultaneously promoting the crocodile’s dental health.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "interdependent",
+      "B": "inexplicable",
+      "C": "enthralling",
+      "D": "inarticulate"
+    },
+    "answer_ids": {
+      "A": 10849,
+      "B": 10850,
+      "C": 10851,
+      "D": 10852
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3081/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:11.908312",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it’s asking for alogical and precise word or phrasefor the blank.Read the text and highlight what can help fill in the blank. The text states after the colon that the relationship between the crocodile and bird nourishesthe bird while simultaneously promoting the crocodile’s dental health.A good phrase for the annotation box based on this information would be “mutually beneficial.”(A) is correct becauseinterdependentmatches “mutually beneficial.”(B), (C), and (D) are incorrect becauseinexplicable(puzzling),enthralling(fascinating), andinarticulate(unclear) don’t match “mutually beneficial.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3082,
+    "stimulus": "The following text is from Herman Melville’s 1924 short novelBilly Buddand pertains to Edward Vere, the captain of the ship on which Billy is sailing.Captain the Honorable Edward Fairfax Vere, to give his full title, was a bachelor of forty or thereabouts, a sailor of distinction even in a time prolific of renowned seamen. Though allied to the higher nobility, his advancement had not been altogether owing to influences connected with that circumstance. He had seen much service, been in various engagements, always acquitting himself as an officer mindful of the welfare of his men, but never tolerating an infraction of discipline; thoroughly versed in the science of his profession, and intrepid to the verge of temerity, though never injudiciously so.",
+    "question_stem": "According to the text, what is true of Captain Vere?",
+    "answer_choices": {
+      "A": "He dislikes many of the men who serve under him.",
+      "B": "He is proud of his aristocratic background.",
+      "C": "He is a capable and evenhanded naval officer.",
+      "D": "He prefers navy life to life outside the navy."
+    },
+    "answer_ids": {
+      "A": 10853,
+      "B": 10854,
+      "C": 10855,
+      "D": 10856
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Retrieval"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3082/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:12.679078",
+    "explanation": "✕ExplanationThis is a Retrieval question, as it saysAccording to the text.Read the text and highlight what is said about Captain Vere. The text states that he isasailor of distinction,wasmindful of the welfare of his men, but never tolerating an infraction of discipline, versed in the science of his profession, andintrepid.The correct answer should be as consistent with these qualities as possible.(A) is wrong because it is theOppositeof the text: Vere ismindfulof his men’s welfare.(B) is wrong because it isRecycled Language: this answer misusesnobilityfrom the text, which never states that Vere has anaristocratic background.(C) is correct because it is consistent with the Vere’s qualities in the text.(D) is wrong because the text doesn’t state which lifestyle Vereprefers.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3083,
+    "stimulus": "\"I Remember, I Remember\" is an 1844 poem by Thomas Hood. The poem conveys the speaker’s sadness that his life as an adult does not compare favorably to his childhood: ______",
+    "question_stem": "Which quotation from the poem most effectively illustrates the claim?",
+    "answer_choices": {
+      "A": "“The lilacs where the robin built, / And where my brother set / The laburnum on his birthday,— / The tree is living yet!”",
+      "B": "“I remember, I remember, / The house where I was born, / The little window where the sun / Came peeping in at morn.”",
+      "C": "“I remember, I remember, / The roses, red and white, / The vi'lets, and the lily-cups, / Those flowers made of light!”",
+      "D": "“It was a childish ignorance,/ But now 'tis little joy / To know I'm farther off from heav'n / Than when I was a boy.”"
+    },
+    "answer_ids": {
+      "A": 10857,
+      "B": 10858,
+      "C": 10859,
+      "D": 10860
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3083/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:13.428587",
+    "explanation": "✕ExplanationThis is a Claims question, as it asks for an illustration of the claim in the question. Read the text and highlight the claim made, which is that ­thepoem conveys the speaker’s sadness that his life as an adult does not compare favorably to his childhood.(A), (B), and (C) are wrong because they are allHalf-Right: each focuses on some element or description from the speaker’s childhood but makes no comparisons to the speaker’s adult life.(D) is correct because‘tis little joyis consistent with sadness andTo know I’m farther off from heav’n / Than when I was a boyis consistent with the speaker’s life as an adult not comparing favorably to childhood.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3084,
+    "stimulus": "Draculais an 1897 novel by Bram Stoker. In the story, English lawyer Jonathan Harker has traveled to Transylvania to conduct business with Count Dracula at his castle. In his journal, Harker conveys his belief that he has become Dracula’s prisoner: ______",
+    "question_stem": "Which quotation from Jonathan Harker’s journal most effectively illustrates the claim?",
+    "answer_choices": {
+      "A": "“What manner of man is this, or what manner of creature, is it in the semblance of man? I feel the dread of this horrible place overpowering me.”",
+      "B": "“My lamp seemed to be of little effect in the brilliant moonlight, but I was glad to have it with me, for there was a dread loneliness in the place which chilled my heart and made my nerves tremble.”",
+      "C": "“I start at my own shadow, and am full of all sorts of horrible imaginings. God knows that there is ground for my terrible fear in this accursed place!”",
+      "D": "“I rushed up and down the stairs, trying every door and peering out of every window I could find, but after a little the conviction of my helplessness overpowered all other feelings.”"
+    },
+    "answer_ids": {
+      "A": 10861,
+      "B": 10862,
+      "C": 10863,
+      "D": 10864
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3084/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:14.185791",
+    "explanation": "✕ExplanationThis is a Claims question, as it asks for an illustration of the claim in the question. Read the text and highlight the claim made, which is thatHarker conveys his belief that he has become Dracula’s prisoner.(A), (B), and (C) are wrong because while in each of them the speaker expresses negative emotions towards a place(dread, loneliness, fear), none of these answers support the idea that the speaker isDracula’s prisoner.(D) is correct because the speakerrushed up and down the stairs, trying every door and peering out of every windowand after this still has a feeling ofThis would be the best support toward the idea that the narrator is at least trapped or imprisoned.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3085,
+    "stimulus": "\"In Flanders Fields\" is a 1915 poem written by Lieutenant-Colonel John McCrae, a Canadian military officer who died three years later in World War I. The poem is meant to be a plea towards others to join the war effort, as is evident by the following lines: ______",
+    "question_stem": "Which quotation from \"In Flanders Fields\" most effectively illustrates the claim?",
+    "answer_choices": {
+      "A": "“Loved and were loved and now we lie / In Flanders fields”",
+      "B": "“In Flanders fields the poppies blow / Between the crosses row on row”",
+      "C": "“To you from failing hands we throw / The torch; be yours to hold it high”",
+      "D": "“We are the dead. Short days ago / We lived, felt dawn, saw sunset glow”"
+    },
+    "answer_ids": {
+      "A": 10865,
+      "B": 10866,
+      "C": 10867,
+      "D": 10868
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3085/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:14.922202",
+    "explanation": "✕ExplanationThis is a Claims question, as it asks for an illustration of the claim in the question. Read the text and highlight the claim made, which states that thepoem is meant to be a plea towards others to join the war effort.(A), (B), and (D) are wrong because none of these answers include any call to an individual or group to fight or take any action.(C) is correct because the answer describes atorchthat is being thrown to someone from those withfailing hands, with the hope that the new holder would hold the torch high. These lines best supporta plea towards otherseven if they don’t directly reference any war effort.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3086,
+    "stimulus": "The curator of a museum claims that a dress in his possession was worn by the wife of one of Lincoln’s generals at the presidential inauguration in 1865. Radiocarbon dating, which dates organic material with an error range of about thirty years in either direction, was performed on the sleeves of the dress, revealing that they date back to the 1975–2005 period. If both the curator’s claim and the radiocarbon dating analysis are correct, that would suggest that ______",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "the dress was made sometime between 1835 and 1895 and then damaged sometime after 1975.",
+      "B": "vintage dresses are more commonly recovered from the late twentieth and early twenty-first centuries than from the mid-nineteenth century.",
+      "C": "over one hundred years after the dress was made, its sleeves were replaced.",
+      "D": "the dress was made from material different from that used for most dresses in the nineteenth century."
+    },
+    "answer_ids": {
+      "A": 10869,
+      "B": 10870,
+      "C": 10871,
+      "D": 10872
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Conclusions"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3086/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:15.695235",
+    "explanation": "✕ExplanationThis is a Conclusions question as it asks for an answer thatlogically completes the text. Read the text and highlight the main ideas. The text states thatThe curator of a museum claimsthat the dress was wornat the presidential inauguration in 1865.Radiocarbon dating,on the other hand, reveals that thesleeves of the dress…date back to the 1975–2005 period.If both are assumed to be correct as the text says, the correct answer to the question must be consistent with both claims.(A) is wrong because it isRecycled Language: it’s applying theerror range of about thirty yearsto the year 1865, but the error range is mentioned when discussing radiocarbon dating in a completely separate part of the text.(B) is wrong because it is aCould Be True trap: as logical as it is that dresses would be recovered more frequently from modern times than from older times, the text does not state anything to this regard.(C) is correct because it shows how both claims could be correct, offering a possible reason for the contradictory statements made by the claims.(D) is wrong because the text never discusses what material was used to make the dress or whether it was different from the materials used for most other dresses.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3087,
+    "stimulus": "In the early 1900s, paleontologists largely believed that there were no undocumented prehistoric aquatic species that had survived to the present day because it would be impossible for such a species to have enough animals to sustain a breeding population while escaping detection in the modern era. However, a coelacanth, a large lobe-finned fish universally believed by scientists to have gone extinct sixty-six million years ago, was found off the coast of South Africa as recently as 1938. This event may suggest that ______",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "fewer coelacanths are required to sustain a breeding population than was previously thought.",
+      "B": "it is possible for a prehistoric species to go undiscovered for longer than expected.",
+      "C": "the scientists who determined that the coelacanth was extinct ignored critical evidence.",
+      "D": "the same environmental conditions that eliminated the dinosaurs nearly killed off the coelacanths."
+    },
+    "answer_ids": {
+      "A": 10873,
+      "B": 10874,
+      "C": 10875,
+      "D": 10876
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Conclusions"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3087/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:16.467540",
+    "explanation": "✕ExplanationThis is a Conclusions question as it asks for an answer thatlogically completes the text. Read the text and highlight the main ideas. The text states thatpaleontologists largely believed that there were no undocumented prehistoric aquatic species that had survived tothe early 1900s. However, just such a specieswas found off the coast of South Africa as recently as 1938.These two claims indicate that there is indeed at least one undocumented species that survived. The correct answer should be consistent with this idea.(A) is wrong because it isRecycled Language: this answer mentionsbreeding populationfrom the text, but no numbers regarding breeding population for the coelacanth are given.(B) is correct because thecoelacanthfrom the second sentence did indeed goundiscovered longer thanthe 1900s paleontologists expected it would—they had thought there wereno undocumented prehistoric aquatic speciesin their era.(C) is wrong because the text never states that the scientistsignoredany evidence.(D) is wrong because it is aCould Be True trap: it uses outside knowledge of when the dinosaurs went extinct to make an assumption regarding a similar fate for most coelacanths.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3088,
+    "stimulus": "Thedoor-in-the-facetechnique involves initially making an outrageous or unappealing request or offer, which the other person is highly likely to refuse, then following up with a more reasonable one. The subject is more likely to look favorably upon this second request or offer because it seems acceptable compared to the initial proposition. So, if an employee wants the best raise in annual salary from her boss that she can get, she might succeed by asking for a ______",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "50% raise, then asking for a 5% raise.",
+      "B": "3% raise, then asking for a 2% raise.",
+      "C": "10% raise, then asking for a 50% raise.",
+      "D": "3% raise, then asking for a 3% raise again."
+    },
+    "answer_ids": {
+      "A": 10877,
+      "B": 10878,
+      "C": 10879,
+      "D": 10880
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Conclusions"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3088/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:17.217191",
+    "explanation": "✕ExplanationThis is a Conclusions question, as it asks for an answer thatlogically completes the text. Read the text and highlight the main idea:The door-in-the-face technique involves initially making an outrageous or unappealing offer, which the other person is likely to refuse, then following up with a more reasonable one.The concluding sentence to the text must be consistent with this main idea.(A) is correct because the second amount requested is comparatively much smaller than the first.(B) is wrong because the first request of 3% is unlikely to be consideredoutrageouswhen compared to 2%.(C) is wrong because according to the door-in-the-face technique in the text, the moreoutrageousamount should be asked for first.(D) is wrong because the two amounts are the same and therefore neither one would be consideredoutrageouscompared to the other.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3089,
+    "stimulus": "The North American Free Trade Agreement (NAFTA) was an agreement among the United States, Canada, and Mexico that was in effect between 1994 and 2020. During this time, the number of manufacturing jobs in the United States and Canada declined, but the total number of manufacturing jobs in the countries covered by NAFTA increased. This suggests that, between 1994 and 2020, ______",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "the number of manufacturing jobs in Mexico increased by a greater amount than the combined decreases in the United States and Canada.",
+      "B": "NAFTA made it more difficult for manufacturers to establish factories in the United States and Canada.",
+      "C": "the cost of manufacturing goods in the area covered by NAFTA decreased.",
+      "D": "complex goods, such as automobiles and electronics, were increasingly manufactured in the United States, Canada, and Mexico."
+    },
+    "answer_ids": {
+      "A": 10881,
+      "B": 10882,
+      "C": 10883,
+      "D": 10884
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Conclusions"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3089/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:17.973134",
+    "explanation": "✕ExplanationThis is a Conclusions question, as it asks for an answer thatlogically completes the text. Read the text and highlight the main ideas. The focus of the text is onNAFTAand its relation tomanufacturing jobs.During the interval from 1994 to 2020, the second sentence states thatthe number of manufacturing jobs in the United States and Canada declined, but the total number of manufacturing jobs in the countries covered by NAFTA increased.Therefore, a logical conclusion would be to explain how this might be possible.(A) is correct because if an increase inthe number of manufacturing jobs in Mexico, which is also covered by NAFTA, was greater than thecombined decreases in the United States and Canada, this would explain the seemingly contradictory data in the second sentence.(B), (C), and (D) are wrong because none of them offers a reason as to how the number of manufacturing jobs in the United States and Canada declined, but the total number of manufacturing jobs in all three countries increased.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3090,
+    "stimulus": "American chef Alice Waters is well-known for opening the restaurant Chez Panisse, which ______ the farm-to-table movement by serving local and seasonal food.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "originating",
+      "B": "to originate",
+      "C": "having originated",
+      "D": "originated"
+    },
+    "answer_ids": {
+      "A": 10885,
+      "B": 10886,
+      "C": 10887,
+      "D": 10888
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Complete Sentences"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3090/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:18.765131",
+    "explanation": "✕ExplanationIn this Rules question, verb forms are changing in the answer choices, so it’s testing sentence structure. If the main verb is in the wrong form, the sentence won’t be complete. The subject of the clause iswhich, but the clause has no verb, so the verb in the answers must be the main verb of the clause. Eliminate any answer that does not produce a complete sentence.(A) and (C) are wrong because an -ingverb can’t be the main verb in a sentence.(B) is wrong because a “to” verb can’t be the main verb in a sentence.(D) is correct because it’s in the right form to make a complete sentence.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3091,
+    "stimulus": "American activists Dolores Huerta and Cesar Chavez founded the National Farm Workers Association in 1962 to defend the rights of farm workers through nonviolent organizing tactics, such as marches and boycotts. _______ organization merged with the Agricultural Workers Organizing Committee, led by Larry Itliong, to form United Farm Workers, a labor union that advocates on behalf of farm workers across the US.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "Its",
+      "B": "Their",
+      "C": "It’s",
+      "D": "They’re"
+    },
+    "answer_ids": {
+      "A": 10889,
+      "B": 10890,
+      "C": 10891,
+      "D": 10892
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Pronouns"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3091/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:19.583626",
+    "explanation": "✕ExplanationIn this Rules question, pronouns and apostrophes are changing in the answer choices, so it’s testing consistency with pronouns. Find and highlight the word that the pronoun refers back to:activists. This is plural, so in order to be consistent, a plural pronoun is needed. Make an annotation saying “plural.” Eliminate any answer that isn’t consistent withactivistsor is incorrectly punctuated.(A) and (C) are wrong becauseitsandit'sare singular.(B) is correct because it is plural and possessive.(D) is wrong because it means “they are.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3092,
+    "stimulus": "Researchers at the University of York found that people who are highly individualistic feel less connected to the natural world and engage in fewer activities to improve the environment; however, engaging with nature through activities such as walking and bird-watching can reconnect ______ to the natural world and encourage environmentally-friendly behaviors.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "it",
+      "B": "you",
+      "C": "one",
+      "D": "them"
+    },
+    "answer_ids": {
+      "A": 10893,
+      "B": 10894,
+      "C": 10895,
+      "D": 10896
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Pronouns"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3092/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:20.430807",
+    "explanation": "✕ExplanationIn this Rules question, pronouns are changing in the answer choices, so it’s testing consistency with pronouns. Find and highlight the word the pronoun refers back to,people, which is plural, so a plural pronoun is needed. Write an annotation saying “plural.” Eliminate any answer that isn’t consistent withpeople.(A) and (C) are wrong because they are singular.(B) is wrong becauseyouis not appropriate to refer to people in this context.(D) is correct becausethemis plural and is consistent withpeople.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3093,
+    "stimulus": "National flags are designed to best represent and symbolize the individual ______ when countries share a history or culture, their flags are designed to look similar, thus creating a flag family that shares colors, shapes, or other elements.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "country but",
+      "B": "country,",
+      "C": "country",
+      "D": "country, but"
+    },
+    "answer_ids": {
+      "A": 10897,
+      "B": 10898,
+      "C": 10899,
+      "D": 10900
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Connecting Clauses"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3093/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:21.220406",
+    "explanation": "✕ExplanationIn this Rules question, punctuation is changing in the answer choices, so look for independent clauses. The first part of the sentence saysNational flags are designed to best represent and symbolize the individual country, which is an independent clause. The second part of the sentence sayswhen countries share a history or culture, their flags are designed to look similar…, which is also an independent clause. Eliminate any answer that can’t correctly connect two independent clauses.(A) and (B) are wrong because neither a comma by itself nor a coordinating conjunction by itself can connect two independent clauses.(C) is wrong because it creates a run-on sentence.(D) is correct because a comma + a coordinating conjunction (FANBOYS) can connect two independent clauses.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3094,
+    "stimulus": "Scientists at the University of Illinois and the University of Lancaster observed that plants under very bright sunlight enter a protective mode for several minutes, during which they stop photosynthesizing and growing. If the crops were genetically modified to have a shorter time in protective mode, ______ The scientists resolved to find out.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "could the crop yield increase?",
+      "B": "the crop yield could increase?",
+      "C": "the crop yield could increase.",
+      "D": "could the crop yield increase."
+    },
+    "answer_ids": {
+      "A": 10901,
+      "B": 10902,
+      "C": 10903,
+      "D": 10904
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Complete Sentences"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3094/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:21.972291",
+    "explanation": "✕ExplanationIn this Rules question, periods and question marks are changing in the answer choices, so it’s testing questions versus statements. The last sentence saysThe scientists resolved to find out, which suggests that the previous sentence was a question. Eliminate answers that aren’t correctly written as questions.(A) is correct because it’s correctly written as a question.(B) is wrong because it has a question mark but is written as a statement.(C) and (D) are wrong because they are statements.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3095,
+    "stimulus": "Take Our Daughters and Sons to Work Day originally started as a day focused on engaging girls with the workforce, Take Our Daughters to Work Day. On the national day, the fourth Tuesday in April, parents and caregivers go to work with their children; shadowing their parents or caregivers ______ children real-world experience and ideas for potential future careers.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "offer",
+      "B": "have offered",
+      "C": "are offering",
+      "D": "offers"
+    },
+    "answer_ids": {
+      "A": 10905,
+      "B": 10906,
+      "C": 10907,
+      "D": 10908
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Verbs"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3095/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:22.687162",
+    "explanation": "✕ExplanationIn this Rules question, verbs are changing in the answer choices, so it’s testing consistency with verbs. Find and highlight the subject,shadowing, which is singular, so a singular verb is needed. Write an annotation saying “singular.” Eliminate any answer that is not singular.(A), (B), and (C) are wrong because they are plural.(D) is correct because it’s singular.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3096,
+    "stimulus": "In order to allow olive ridley turtles to lay eggs on Versova Beach in Mumbai, community activist Afroz Shah organized a large group of volunteers to remove over 11 million pounds of trash. The beach now allows community members to connect with the natural world and ______ a healthy habitat for olive ridley turtles to use after a twenty-year absence.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "provided",
+      "B": "providing",
+      "C": "provides",
+      "D": "provide"
+    },
+    "answer_ids": {
+      "A": 10909,
+      "B": 10910,
+      "C": 10911,
+      "D": 10912
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Complete Sentences"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3096/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:23.423504",
+    "explanation": "✕ExplanationIn this Rules question, verbs are changing in the answer choices, so it’s testing consistency with verbs. In this case, the verb is part of a list of two things that the beach does, the first of which isallows community members to connect with the natural world. Highlight the wordallows, which the verb in the answer should be consistent with. Eliminate any answer that isn’t consistent withallows.(A), (B), and (D) are wrong becauseprovided,providing, andprovidearen’t consistent withallows.(C) is correct becauseprovidesis in the same tense and form asallows.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3097,
+    "stimulus": "Yoga is an ancient discipline from India that aims to combine physical fitness with mental and spiritual control and calm and has expanded to become popular with many different cultures. ______ yoga is shifting into different forms to allow a wider range of people to participate. For example, accessible yoga provides opportunities for those with physical disabilities to access the health and mental benefits of the practice.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Nevertheless,",
+      "B": "Similarly,",
+      "C": "Thus,",
+      "D": "Currently,"
+    },
+    "answer_ids": {
+      "A": 10913,
+      "B": 10914,
+      "C": 10915,
+      "D": 10916
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3097/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:24.155482",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The first sentence saysYoga is an ancient discipline that… has expanded to become popular with many different cultures, and the next sentence saysyoga is shifting into different forms to allow a wider range of people to participate. These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.(A) is wrong because it is an opposite-direction transition.(B) is wrong because the second sentence is not about a separate but similar topic.(C) is wrong becausethusindicates a conclusion.(D) is correct becausecurrentlysuggests a change, which is consistent withyoga is shifting.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3098,
+    "stimulus": "Scientists often disagree about what traits to use to place newly discovered species in the tree of life and debate different ways to organize evolutionary relationships.Chimerarachne yingi,______ is an extinct arachnid species that is sometimes placed near modern spiders based on its acquisition of silk-spinning organs or near other arachnids based on its loss of a tail.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "as a result,",
+      "B": "in comparison,",
+      "C": "for example,",
+      "D": "still,"
+    },
+    "answer_ids": {
+      "A": 10917,
+      "B": 10918,
+      "C": 10919,
+      "D": 10920
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3098/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:24.926533",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The first sentence saysScientists often disagree about what traits to use to place newly discovered species in the tree of life, and the second sentence describes a species thatis sometimes placed near modern spiders based on its acquisition of silk-spinning organs or near other arachnids based on its loss of a tail. These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.(A) is wrong becauseas a resultsuggests a conclusion that is not stated in the text.(B) and (D) are wrong because they are opposite-direction transitions.(C) is correct becauseChimerarachne yingiis an example of the previous sentence.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3099,
+    "stimulus": "In 2011, a seismometer detected seismic activity from a magnitude 8.9 earthquake and automatically cut the power to all 30 bullet trains in Japan, potentially avoiding mass architectural damage to the tracks. ______ the cut to the power prevented citizens from being caught in a dangerous location during the earthquake and allowed riders to seek shelter.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "In addition,",
+      "B": "In comparison,",
+      "C": "For example,",
+      "D": "Specifically,"
+    },
+    "answer_ids": {
+      "A": 10921,
+      "B": 10922,
+      "C": 10923,
+      "D": 10924
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3099/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:25.665332",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The first sentence says that the seismometer’s detection potentially avoidedmass architectural damage, and the second sentence saysthe cut to the power prevented citizens from being caught in a dangerous location during the earthquake and allowed riders to seek shelter. These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.(A) is correct because allowingriders to seek shelteris another way the cut to power was beneficial.(B) is wrong because it is an opposite-direction transition.(C) and (D) are wrong because the second sentence is an additional point, not an example or specification.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3100,
+    "stimulus": "While researching a topic, a student has taken the following notes:The Endangered Species Act (ESA) was enacted in 1973 to recover species and prevent extinction.A species is listed under the ESA when it’s determined that the species needs protection and delisted when the population has recovered.Only 54 of the over 1,000 listed species have been delisted from the ESA, raising concerns about the effectiveness of the ESA.Erich Eberhard, David Wilcove, and Andrew Dobson conducted an analysis of population trends of species listed under the ESA.They found that most species had to wait multiple years before being listed and by then their populations were already so low that recovery was much more difficult.",
+    "question_stem": "The student wants to make a generalization about the kind of study conducted by Eberhard, Wilcove, and Dobson. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "Scientists have analyzed population trends to find out the impact of legal protections in the realm of conservation.",
+      "B": "Species listed under the ESA have low population levels when they are listed.",
+      "C": "Only 54 once-listed species have been delisted; many more species have not recovered and are still listed.",
+      "D": "Based on an analysis of population trends, Eberhard, Wilcove, and Dobson found that species listed under the ESA have very small populations when listed."
+    },
+    "answer_ids": {
+      "A": 10925,
+      "B": 10926,
+      "C": 10927,
+      "D": 10928
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Rhetorical Synthesis"
+    },
+    "exam_id": 44,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3100/?question_set=exam&exam_id=44",
+    "scraped_at": "2025-07-05T19:56:26.497585",
+    "explanation": "✕ExplanationThis is a Rhetorical Synthesis question, so follow the basic approach. Highlight the goal(s) stated in the question:make a generalization about the kind of study conducted by Eberhard, Wilcove, and Dobson. Eliminate any answer that doesn’tmake a generalization.(A) is correct because it provides ageneralization about the kind of studyconducted by the scientists: analyzingpopulation trends to find out the impact of legal protections.(B), (C), and (D) are wrong because they don’t provide ageneralization, or a broader way of explaining the type of study.close",
+    "correct_answer": ""
+  }
+]

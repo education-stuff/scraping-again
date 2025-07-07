@@ -1,0 +1,656 @@
+[
+  {
+    "question_id": 3444,
+    "stimulus": "",
+    "question_stem": "The scatterplot shows the relationship between body weight and brain weight for 9 species of animal.Based on the scatterplot, what is the brain weight, in grams, of the species that has the greatest body weight?",
+    "answer_choices": {
+      "A": "70",
+      "B": "90",
+      "C": "125",
+      "D": "140"
+    },
+    "answer_ids": {
+      "A": 12153,
+      "B": 12154,
+      "C": 12155,
+      "D": 12156
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3444/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:40.826274",
+    "explanation": "✕ExplanationThe question asks for a value on a graph. First, check the units on each axis of the scatterplot. Body weight is on thex-axis, so find the species with the greatest body weight by finding the point that is the farthest to the right. This is the point above the body weight of about 125 on thex-axis. Brain weight is on they-axis, so look left from that point to they-axis, using the mouse pointer or the edge of the scratch paper as a ruler. The value on they-axis for the point with a body weight of 125 on thex-axis is 140, so the species with the greatest body weight has a brain weight of 140 grams. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3445,
+    "stimulus": "",
+    "question_stem": "What is they-intercept of the graph shown?",
+    "answer_choices": {
+      "A": "(0, 4)",
+      "B": "(0, 12)",
+      "C": "(4, 0)",
+      "D": "(12, 4)"
+    },
+    "answer_ids": {
+      "A": 12157,
+      "B": 12158,
+      "C": 12159,
+      "D": 12160
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3445/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:41.709344",
+    "explanation": "✕ExplanationThe question asks for they-intercept of a graph. They-intercept of a graph is defined as the point where the graph crosses they-axis. This happens whenx= 0. Findx= 0 on the graph and move straight up—using the mouse pointer or the edge of the scratch paper as a ruler—to see that the graph crosses they-axis aty= 4. Points on a graph are represented as ordered pairs in the form (x,y), with thex-value first and they-value second, so the point at they-intercept is (0, 4). The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3446,
+    "stimulus": "",
+    "question_stem": "If 9x= 54, what is the value of 12x?",
+    "answer_choices": {
+      "A": "45",
+      "B": "57",
+      "C": "72",
+      "D": "162"
+    },
+    "answer_ids": {
+      "A": 12161,
+      "B": 12162,
+      "C": 12163,
+      "D": 12164
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3446/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:42.734977",
+    "explanation": "✕ExplanationThe question asks for the value of an expression based on an equation. There isn’t a straightforward way to get from 9xto 12x, so start by isolatingx. Divide both sides of the equation by 9 to getx= 6. Next, substitute 6 forxin the expression 12xto get 12(6) = 72. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3447,
+    "stimulus": "",
+    "question_stem": "When three times a numbernis added to 3, the result is the numberp. Which equation represents the relationship betweennandp?",
+    "answer_choices": {
+      "A": "3n=p",
+      "B": "3n= 3p",
+      "C": "3n– 3 =p",
+      "D": "3n+ 3 =p"
+    },
+    "answer_ids": {
+      "A": 12165,
+      "B": 12166,
+      "C": 12167,
+      "D": 12168
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3447/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:43.440776",
+    "explanation": "✕ExplanationThe question asks for an equation that represents a given situation. Translate the information in Bite-Sized Pieces and eliminate after each piece. All of the answer choices contain 3n, which correctly translatesthree times a number n, so move on and translateisadded to 3as + 3. Eliminate (A), (B), and (C) because they do not include + 3. Choice (D) also correctly translatesthe result is the number pas =p. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3448,
+    "stimulus": "",
+    "question_stem": "An insect crawls 30 inches in 15 minutes. If the insect continues to crawl at the same rate, how many inches will it crawl in 1 hour?",
+    "answer_choices": {
+      "A": "8",
+      "B": "120",
+      "C": "200",
+      "D": "450"
+    },
+    "answer_ids": {
+      "A": 12169,
+      "B": 12170,
+      "C": 12171,
+      "D": 12172
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3448/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:44.163289",
+    "explanation": "✕ExplanationThe question asks for a measurement and gives conflicting units. Set up a proportion to determine how many inches the insect will crawl in 1 hour. There are 60 minutes in 1 hour, so replace 1 hour with 60 minutes to make the units match up. The proportion becomes=. To solve forx, cross-multiply to get (15)(x) = (30)(60), which becomes 15x= 1,800. Divide both sides of the equation by 15 to getx= 120. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3449,
+    "stimulus": "",
+    "question_stem": "A rectangle has a length of 25 units and a width of 13 units. What is the perimeter of the rectangle, in units?",
+    "answer_choices": {
+      "A": "38",
+      "B": "76",
+      "C": "325",
+      "D": "1,444"
+    },
+    "answer_ids": {
+      "A": 12173,
+      "B": 12174,
+      "C": 12175,
+      "D": 12176
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3449/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:44.973605",
+    "explanation": "✕ExplanationThe question asks for a measurement of a geometric figure. Use the Geometry Basic Approach. Start by drawing a rectangle on the scratch paper. Next, label the figure with information from the question. In a rectangle, opposite sides are equal, so this rectangle has two sides that are 25 units long and two sides that are 13 units long. The drawing should look something like this:The perimeter of a geometric shape is the sum of the lengths of the sides. Add all four side lengths to get 13 + 25 + 13 + 25 = 76. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3450,
+    "stimulus": "",
+    "question_stem": "In quadrilateralDEFG, angleDmeasures 43°, angleEmeasures 35°, and angleGmeasures 75°. What is the measure of angleF?",
+    "answer_choices": {
+      "A": "27º",
+      "B": "120º",
+      "C": "173º",
+      "D": "207º"
+    },
+    "answer_ids": {
+      "A": 12177,
+      "B": 12178,
+      "C": 12179,
+      "D": 12180
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3450/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:45.693967",
+    "explanation": "✕ExplanationThe question asks for a measurement on a geometric figure. The measures of the four angles of any quadrilateral add up to 360 degrees, so write an equation: 43° + 35° +F+ 75° = 360°. Add up the numbers on the left side of the equation to get 153° +F= 360°. Subtract 153° from both sides of the equation to getF= 207°. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3451,
+    "stimulus": "",
+    "question_stem": "If 4x– 12 = 28, what is the value ofx– 3?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3451/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:46.439399",
+    "explanation": "✕ExplanationThe question asks for the value of an expression based on an equation. When a Digital SAT question asks for the value of an expression, there is usually a straightforward way to solve for the expression without needing to completely isolate the variable. Since 4xis 4 timesxand –12 is 4 times –3, divide both sides of the equation by 4 to getx– 3 = 7. The correct answer is 7.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3452,
+    "stimulus": "",
+    "question_stem": "If thex-intercept of the graph shown is (a, 0), what is the value ofa?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3452/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:47.168266",
+    "explanation": "✕ExplanationThe question asks for a value based on a graph. Specifically, the question asks for the value of thex-coordinate at thex-intercept on the graph of a parabola. This is the point at whichy= 0 and the graph intersects thex-axis. Look on the graph for the point on the parabola at which theycoordinate equals 0 and the graph touches thex-axis. This point is (–4, 0), so thex-value is –4. The correct answer is –4.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3453,
+    "stimulus": "",
+    "question_stem": "v(t) = 17 + 2.5tThe given function models the velocityv(t) of a particle, in meters per second, after accelerating fortseconds. After how many seconds is the velocity 67 meters per second?",
+    "answer_choices": {
+      "A": "20",
+      "B": "33.6",
+      "C": "67",
+      "D": "184.5"
+    },
+    "answer_ids": {
+      "A": 12181,
+      "B": 12182,
+      "C": 12183,
+      "D": 12184
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3453/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:47.891493",
+    "explanation": "✕ExplanationThe question asks for a value given a function that models a specific situation. The question states that the functionv(t) = 17 + 2.5tmodels the velocityv(t) aftertseconds, and provides a velocity of 67 meters per second. Plug in 67 forv(t) and solve fort. The function becomes 67 = 17 + 2.5t. Subtract 17 from both sides of the equation to get 50 = 2.5t. Divide both sides of the equation by 2.5 to get 20 =t. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3454,
+    "stimulus": "",
+    "question_stem": "Commutes by public transitDoes not commute by public transitTotalLess than 1 hour224668At least 1 hour293362Total5179130The table shows data from a survey of 130 people about their average daily commute times. If one person from the survey is chosen at random, what is the probability that the person commutes using public transit?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 12185,
+      "B": 12186,
+      "C": 12187,
+      "D": 12188
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3454/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:48.621386",
+    "explanation": "✕ExplanationThe question asks for a probability based on data in a table. Probability is defined as.Read the table carefully to find the numbers to make the probability. There are 130 total people, so that is thetotal#of outcomes. Of these 130 people, 51 commute by public transit, so that is the# of outcomes that fit requirements. Therefore, the probability that a person chosen at random commutes using public transit is. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3455,
+    "stimulus": "",
+    "question_stem": "If the expression (6x2– 7x+ 5) – 3(x2– 5x+ 4) is written in the formax2+bx+c, what is the value ofa?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3455/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:49.339259",
+    "explanation": "✕ExplanationThe question asks for a value in an expression. Sinceais the coefficient ofx2, work with thex2terms and ignore everything else. Rewrite the expression with only thex2terms to get (6x2) – 3(x2), which becomes 6x2– 3x2. Subtract to coefficients to get 3x2. Thus,a= 3. The correct answer is 3.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3456,
+    "stimulus": "",
+    "question_stem": "Number of studentsNumber of hoursGroup 1Group 20025125802805035035435105100The frequency table shows the number of hours spent studying each night, on average, by 200 students in group 1 and 200 students in group 2. Which of the following is a true statement about the mean numbers of hours that the students in group 1 and group 2 spent studying each night?",
+    "answer_choices": {
+      "A": "There is not enough information to compare the mean numbers of hours that the two groups of students spent studying.",
+      "B": "The mean number of hours that the students in group 1 spent studying is equal to the mean number of hours that the students in group 2 spent studying.",
+      "C": "The mean number of hours that the students in group 1 spent studying is less than the mean number of hours that the students in group 2 spent studying.",
+      "D": "The mean number of hours that the students in group 1 spent studying is greater than the mean number of hours that the students in group 2 spent studying."
+    },
+    "answer_ids": {
+      "A": 12189,
+      "B": 12190,
+      "C": 12191,
+      "D": 12192
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3456/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:50.090613",
+    "explanation": "✕ExplanationThe question asks for the best comparison of the means, or averages, for two groups shown in a frequency table. For averages, use the formulaT = AN,in whichTis theTotal,Ais theAverage, andNis theNumber of things. The question states that each group has 200 students, so that is theNumber of things. Since theNumber of thingsis the same, the group with the greater total will have the greater average. Use the frequency table to ballpark theTotal. A frequency table has two columns: the left-hand column contains the values, and the right-hand column contains the number of times each value occurs, or its frequency. In group 1, for example, 25 students studied for an average of 1 hour per night and 80 students studied for an average of 2 hours per night. In group 2, on the other hand, 25 students studied for an average of 0 hours per night and 80 students studied for an average of 1 hour per night. This pattern is consistent throughout the table, with the same number of students studying for 1 hour less in group 2 than in group 1. Thus, the mean for group 1 is greater than the mean for group 2, which matches (D).It is also possible to find theTotalusing the frequency table. Multiply each value by the number of times it occurs and add the results. For group 1, multiply 0 × 0, 1 × 25, 2 × 80, 3 × 50, 4 × 35, and 5 × 10. Add the results to get 0 + 25 + 160 + 150 + 140 + 50 = 525. Plug 525 for theTotaland 200 for theNumber of thingsinto the average formula to get 525 = (A)(200). Divide both sides of the equation by 200 to getA= 2.625. The same calculations for values in group 2 give aTotalof 325 and anAverageof 1.625. The average for group 1 is greater than the average for group 2.Using either method, the correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3457,
+    "stimulus": "",
+    "question_stem": "The central angle of a circle measuresradians. What is the measure of this angle, in degrees?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3457/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:50.811222",
+    "explanation": "✕ExplanationThe question asks for the measure of an angle and gives conflicting units. Either write down a conversion between radians and degrees from memory or open the reference sheet, which states that thenumber of degrees of arc in a circle is 360and that thenumber of radians of arc in a circle is 2π. Thus, 360 degrees = 2π radians. This reduces to the other conversion, which is 180 degrees = π radians. Set up a proportion, being sure to match up units. The proportion is=. Cross-multiply to get (π)(x) = (180). Simplify to get πx= 80π, then divide both sides of the equation by π to getx= 80. The correct answer is 80.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3458,
+    "stimulus": "",
+    "question_stem": "5x– 4y= 36–x–y= 0Which of the following ordered pairs (x,y) is a solution to the given system of equations?",
+    "answer_choices": {
+      "A": "(–5, 4)",
+      "B": "(–4, 4)",
+      "C": "(4, –4)",
+      "D": "(5, –4)"
+    },
+    "answer_ids": {
+      "A": 12193,
+      "B": 12194,
+      "C": 12195,
+      "D": 12196
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3458/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:51.542194",
+    "explanation": "✕ExplanationThe question asks for the solution to a system of equations. One method is to enter both equations into the built-in graphing calculator, then scroll and zoom as needed to find the point(s) of intersection. The graph shows one point of intersection at (4, –4), which is (C).Another approach is to plug in the answers. Rewrite the answer choices on the scratch paper and label them “(x,y).” Start with (A) and plugx= –5 andy= 4 into the first equation. The equation becomes 5(–5) – 4(4) = 36, or –25 – 16 = 36, and then –41 = 36. This is not true, so eliminate (A). A positive value ofxwill make the left side of the first equation greater, so try (C) next. Plugx= 4 andy= –4 into the first equation to get 5(4) – 4(–4) = 36, which becomes 20 + 16 = 36, and then 36 = 36. This is true, but the solution must work in both equations. Plug the point in (C) into the second equation to get –4 – (–4) = 0, which becomes –4 + 4 = 0 or 0 = 0. This is also true, so (4, –4) is a solution to the system of equations.Using either method, the correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3459,
+    "stimulus": "",
+    "question_stem": "Dave was fined by a library for returning overdue books. Each week after he received the fine, he paid the library a fixed amount until the fine was paid. The equationC= 12 – 1.5wrepresents the amountC, in dollars, that Dave oweswweeks after being charged the fine. If the equation were graphed in thexy-plane, what would be the best interpretation of they-intercept of the line?",
+    "answer_choices": {
+      "A": "The amount that Dave owed the library before he started paying the fine",
+      "B": "The amount charged by the library for each week the books were overdue",
+      "C": "The number of books that Dave returned overdue",
+      "D": "The amount that Dave paid each week"
+    },
+    "answer_ids": {
+      "A": 12197,
+      "B": 12198,
+      "C": 12199,
+      "D": 12200
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3459/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:52.299017",
+    "explanation": "✕ExplanationThe question asks for the interpretation of a feature of a graph in context. Start by reading the final question, which asks for the best interpretation of they-intercept of the graph. Put the given equation into slope-intercept form by swapping the two terms on the right side of the equation:C= –1.5w+ 12. In slope-intercept form,y=mx+b,bis they-intercept. Thus, 12 would be they-intercept if this equation were graphed.Now, label the parts of the equation with the information given, and eliminate answers that do not match the labels. Sincewrepresents the number of weeks and 12 is not multiplied byw, 12 is not related to weeks. Eliminate (B) and (D) because they refer to weeks. SinceCrepresents an amount in dollars, the right side of the equation must also be an amount in dollars. Eliminate (C) because it refers to a number of books, not an amount. To check, plug in 0 forwand the equation becomesC= –1.5(0) + 12, orC= 12. This means that Dave owed the library 12 dollars at week 0 before he started paying the fine. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3460,
+    "stimulus": "",
+    "question_stem": "The functionf(x) is defined byf(x) =x2– 88. Ifcis a constant andf(c) = 108, which of the following is a possible value ofc?",
+    "answer_choices": {
+      "A": "",
+      "B": "14",
+      "C": "20",
+      "D": "98"
+    },
+    "answer_ids": {
+      "A": 12201,
+      "B": 12202,
+      "C": 12203,
+      "D": 12204
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3460/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:53.044825",
+    "explanation": "✕ExplanationThe question asks for a value given a function. In function notation, the number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. The question provides an output value of 108, and the answers have numbers that could represent thex-value, so plug in the answers. Rewrite the answer choices on the scratch paper and label them “x.” Start with one of the middle numbers and try (B), 14. Plug 14 into the function forxto getf(14) = 142– 88, which becomesf(14) = 196 – 88, and thenf(14) = 108. This matches the output value given in the question, so stop here. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3461,
+    "stimulus": "",
+    "question_stem": "The scatterplot shows the relationship between the variablesxandy. Which of the following equations could represent the line of best fit shown?",
+    "answer_choices": {
+      "A": "y= –12.4x– 31",
+      "B": "y= –12.4x+ 31",
+      "C": "y= 12.4x– 31",
+      "D": "y= 12.4x+ 31"
+    },
+    "answer_ids": {
+      "A": 12205,
+      "B": 12206,
+      "C": 12207,
+      "D": 12208
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3461/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:53.768544",
+    "explanation": "✕ExplanationThe question asks for an equation that represents a graph.One method is to use the built-in graphing calculator. Enter each of the equations in the answer choices into the graphing calculator and see which line looks most like the line of best fit of the scatterplot given.Another method is to translate the information into Bite-Sized Pieces and eliminate after each piece.The answer choices are all in slope-intercept form,y=mx+b, in whichmis the slope andbis the y-intercept.They-intercept is the point wherex= 0, which is between 30 and 35 on this graph. Eliminate (A) and (C) because they have negativey-intercepts. Compare the remaining answer choices. The difference between (B) and (D) is the sign of the slope. The line of best fit goes down from left to right, so it has a negative slope. Eliminate (D) because it has a positive slope.Using either method, the correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3462,
+    "stimulus": "",
+    "question_stem": "Satya ate a breakfast sandwich and an order of fried potatoes and consumed a total of 910 calories. If the breakfast sandwich contained 240 more calories than the fried potatoes, how many calories did the breakfast sandwich contain?",
+    "answer_choices": {
+      "A": "335",
+      "B": "430",
+      "C": "575",
+      "D": "670"
+    },
+    "answer_ids": {
+      "A": 12209,
+      "B": 12210,
+      "C": 12211,
+      "D": 12212
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3462/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:54.495517",
+    "explanation": "✕ExplanationThe question asks for a specific amount based on other information. The question asks for a specific value, and the answer choices contain numbers in order, so plug in the answers. Rewrite the answers on the scratch paper, and label them “breakfast sandwich calories.” Start with one of the middle numbers and try (B), 430. The question states that the breakfast sandwich and the order of fried potatoes containeda total of 910 calories, so the order of fried potatoes contained 910 – 430 = 480 calories. The question also states thatthe breakfast sandwich contained 240 more calories than the fried potatoes. If the fried potatoes contained 480 calories, the breakfast sandwich contained 480 + 240 = 720 calories. This does not match the 430 calories for the breakfast sandwich in (B), so eliminate (B).It might be difficult to determine whether a larger or smaller value is needed, so pick a direction and try (C), 575. If the breakfast sandwich contained 575 calories, the fried potatoes contained 910 – 575 = 335 calories. If the fried potatoes contained 335 calories, the breakfast sandwich contained 335 + 240 = 575 calories. The numbers of calories match after both calculations, so 575 is the correct number of calories in the breakfast sandwich. The correctanswer is (C).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3463,
+    "stimulus": "",
+    "question_stem": "The graph of a line in thexy-plane is shown. The point (2,y) is on the line. What is the value ofy?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 12213,
+      "B": 12214,
+      "C": 12215,
+      "D": 12216
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3463/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:55.255731",
+    "explanation": "✕ExplanationThe question asks for the value of a constant in the coordinates of a point on a line. The constantyrepresents they-value whenx= 2. The numbers in the answer choices are too close together for ballparking to be effective. Instead, use the two points shown on the graph to find the slope of the line. Plug the points (0, 5) and (6, 9) into the formulaslope=. The formula becomesslope=, orslope=, and thenslope=. Use the slope formula again, this time with one of the known points and the point that includesy. Use the points (2,y) and (6, 9), and the formula becomesslope=, orslope=. Set this equal to the slope from the first two points to get=. Cross-multiply to get (4)(2) = (9 –y)(3), which becomes 8 = 27 – 3y. Add 3yto both sides of the equation to get 3y+ 8 = 27, and then subtract 8 from both sides of the equation to get 3y= 19. Divide both sides of the equation by 3 to gety=. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3464,
+    "stimulus": "",
+    "question_stem": "x2+y2– 5x– 3y=When graphed in thexy-plane, the given equation is a circle with radiusr. What is the value ofr?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Advanced Coordinate Geometry"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3464/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:56.044934",
+    "explanation": "✕ExplanationThe question asks for the radius of a circle given the equation of the graph in thexy-plane. The equation of a circle in standard form is (x–h)2+ (y–k)2=r2, where (h,k) is the center andris the radius. However, the equation of this circle is not in standard form, so look for another way to find the radius. One method is to complete the square for both terms in order to put the equation in standard form.A much simpler approach is to enter the equation into the built-in graphing calculator. Click on the two dots at the top and bottom of the circle that form the diameter. The points are (2.5, 6.5) and (2.5, –3.5). They have the samex-coordinate, so the distance between the two points, or the diameter, is the difference between they-coordinates: 6.5 – (–3.5) = 10. Be careful: the diameter of the circle is 10, but the question asks for the radius. The radius of a circle is half of the diameter, so the radius is 5. The correct answer is 5.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3465,
+    "stimulus": "",
+    "question_stem": "The parabola with the equationy=ax2+bx+c, wherea,b, andcare constants, is graphed on thexy-plane. If the parabola passes through the point (–1, –1), which of the following must be true?",
+    "answer_choices": {
+      "A": "a–b+c= –1",
+      "B": "a–b–c= –1",
+      "C": "a+b= 1",
+      "D": "b–c= –1"
+    },
+    "answer_ids": {
+      "A": 12217,
+      "B": 12218,
+      "C": 12219,
+      "D": 12220
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 59,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3465/?question_set=exam&exam_id=59",
+    "scraped_at": "2025-07-05T20:00:56.811646",
+    "explanation": "✕ExplanationThe question asks for a true equation consisting of values in a quadratic. The question gives a quadratic equation in standard form and a point on the parabola that results from graphing that equation, so plug the point into the equation. Plug inx= –1 andy= –1, and the equation becomes –1 =a(–1)2+b(–1) +c, and then –1 =a–b+c. Swap the two sides of the equation to geta–b+c= –1. This matches the equation in (A), which must be true. The correct answer is (A).close",
+    "correct_answer": "A"
+  }
+]

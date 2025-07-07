@@ -1,0 +1,866 @@
+[
+  {
+    "question_id": 3221,
+    "stimulus": "The electric vehicle market experienced a surged in popularity in the 2010s, with sales increasing from just a few thousand at the start of the decade to more than two million by the end of the decade. As more countries implement policies to reduce carbon emissions, experts _______ that electric vehicle sales will continue to eclipse previous records each year.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "project",
+      "B": "guarantee",
+      "C": "reject",
+      "D": "deny"
+    },
+    "answer_ids": {
+      "A": 11349,
+      "B": 11350,
+      "C": 11351,
+      "D": 11352
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3221/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:57:55.563639",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it asks for a logical and precise word or phrase for the blank. The blank describes what experts think about electric vehicle sales, so look for and highlight clues in the text about electric vehicle sales. The text mentions that the marketsurged in popularity, and sales increasedfrom just a few thousand at the start of the decade to more than two million by the end of the decade. Since the text does not give any information that suggests this trend will change, a good word for the blank to enter into the annotation box would be “predict” or “assume” that sales will continue to increase.(A) is correct becauseprojectmatches “predict.”(B) is wrong becauseguaranteeisExtreme Language—the experts do not say a continued increase will definitely happen.(C) and (D) are wrong becauserejectanddenyare theOppositeof “predict.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3222,
+    "stimulus": "According to psychologists, mindfulness—the simple practice of being present and fully engaged in the moment—can improve physical and cognitive function. The _______ of mindfulness have been found to lead to improvements in overall well-being.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "benefits",
+      "B": "drawbacks",
+      "C": "basics",
+      "D": "physics"
+    },
+    "answer_ids": {
+      "A": 11353,
+      "B": 11354,
+      "C": 11355,
+      "D": 11356
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3222/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:57:56.294722",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it asks for a logical and precise word or phrase for the blank. The blank describes a characteristic of mindfulness, so look for and highlight clues in the text about mindfulness. The text mentions mindfulnesscan improve physical and cognitive functionandlead to improvements in overall well-being, so a good word for the blank to enter into the annotation box would be “advantages” or “positives.”(A) is correct becausebenefitsmatch “advantages.”(B) is wrong becausedrawbacksare theOppositeof “advantages.”(C) is wrong becausebasicsdoesn’t match “advantages.”(D) is wrong becausephysicsisRecycled Language—it misusesphysicalfrom the text.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3223,
+    "stimulus": "Astrophysicist Kip Thorne received the Nobel Prize in Physics for his work to detect ripples in space-time, confirming one of the last major predictions of Albert Einstein's general theory of relativity. This discovery both _______ our understanding of the universe and provided astronomers with a firmer ground upon which to make further inquiries.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "confused",
+      "B": "clarified",
+      "C": "revolutionized",
+      "D": "belittled"
+    },
+    "answer_ids": {
+      "A": 11357,
+      "B": 11358,
+      "C": 11359,
+      "D": 11360
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3223/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:57:57.017302",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it asks for a logical and precise word or phrase for the blank. The blank describes how a discovery affected our understanding of the universe, so look for and highlight clues in the text about the discovery. The text mentions that Thorne’s work confirms one of Einstein’s predictions and that itprovided astronomers with a firmer ground, so a good word for the blank to enter into the annotation box would be “improved” or “made clearer.”(A) and (D) are wrong becauseconfusedandbelittled(put down or insulted) are theOppositetone of “improved,” which is positive.(B) is correct becauseclarifiedmatches “improved” or “made clearer.”(C) is wrong becauserevolutionizedisExtreme Language—Thorne’s work confirmed something that was already predicted rather than completely changing how we understand the universe.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3224,
+    "stimulus": "The Navajo Nation, a sovereign Native American territory occupying parts of Arizona, Utah, and New Mexico, has its own judicial system. The judicial branch consists of different courts, with judges appointed by the Nation president and confirmed by the Navajo Nation Council, and is responsible for protecting the civil rights of Navajo citizens and _______ the established principles of the constitution.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "copying",
+      "B": "maintaining",
+      "C": "determining",
+      "D": "dismissing"
+    },
+    "answer_ids": {
+      "A": 11361,
+      "B": 11362,
+      "C": 11363,
+      "D": 11364
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3224/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:57:57.770827",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it asks for a logical and precise word or phrase for the blank. The blank describes the interaction between the Navajo Nation Council and established principles of the constitution, so look for and highlight clues in the text about the Council’s role. The text mentions that the Councilis responsible for protecting the civil rights of Navajo citizens, so a good word for the blank to enter into the annotation box would be “protecting” or “upholding.”(A) is wrong becausecopyingdoesn’t match “protecting.”(B) is correct becausemaintainingmatches “protecting” or “upholding.”(C) is wrong becausedetermininggoesBeyond the Text—the text doesn’t support that the Council creates or establishes the principles of the constitution, just that it protects what’s already there.(D) is wrong becausedismissingis theOppositetone of “protecting,” which is positive.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3225,
+    "stimulus": "In 2019, an international team of scientists led by Victor Vescovo _______ four new species of gelatinous animals in the Mariana Trench, the deepest point in the world’s oceans. This finding gave marine biologists further information regarding the diversity of animals that live and thrive in the extreme ocean depths.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "reintroduced",
+      "B": "discounted",
+      "C": "discovered",
+      "D": "explored"
+    },
+    "answer_ids": {
+      "A": 11365,
+      "B": 11366,
+      "C": 11367,
+      "D": 11368
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3225/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:57:58.481901",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it asks for a logical and precise word or phrase for the blank. The blank describes the interaction between Vescovo and the four new species of gelatinous animals, so look for and highlight clues in the text about this interaction. The text mentions that Vescovo’s work was afinding, so a good word for the blank to enter into the annotation box would be “found” or “documented.”(A) is wrong becausereintroduceddoesn’t match “found.”(B) is wrong becausediscounted(disregarded) is theOppositeof “found.”(C) is correct becausediscoveredmatches “found.\"(D) is wrong because exploring something might lead to a finding or discovery but would not be a finding or discovery itself.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3226,
+    "stimulus": "Psychologist Kurt Gray led a 2019 study demonstrating that human emotions are often _______ animals by the humans observing them. The findings from this study suggest that humans can empathize with a broader diversity of creatures than previously believed.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "conflated with",
+      "B": "demanded of",
+      "C": "united with",
+      "D": "attributed to"
+    },
+    "answer_ids": {
+      "A": 11369,
+      "B": 11370,
+      "C": 11371,
+      "D": 11372
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3226/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:57:59.231015",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it asks for a logical and precise word or phrase for the blank. The blank describes how human emotions might be applied to animals by humans, so look for and highlight clues in the text about this interaction. The text mentions thathumans can empathize with a broader diversity of creatures than previously believed. Since empathy deals with sharing feelings, a good word for the blank to enter into the annotation box would be “given to” or “assigned.”(A) and (C) are wrong becauseconflated with(combined into) andunited withdon’t match “given to.”(B) is wrong becausedemanded ofisExtreme Language—the text doesn’t state that humans require or force animals to have human emotions.(D) is correct becauseattributed tomatches “given to.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3227,
+    "stimulus": "Female emperor penguins do not care for their own eggs. Instead, after the female lays her egg, she transfers the egg to the male’s care.The male emperor penguin uses a fold of skin called a brood pouch to balance the egg on his feet and keep it warm.During the two-month window in which the male penguin cares for the egg amidst often harsh conditions, the female penguin sets out to feed and replenish her energy reserves, thus enabling her to return to the colony and care for the chick once it hatches.",
+    "question_stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+    "answer_choices": {
+      "A": "It explains how female penguins are able to leave their egg and restore their energy to care for their young.",
+      "B": "It introduces a physical feature of male penguins alluded to earlier in the text.",
+      "C": "It describes the harsh conditions under which the male penguin cares for the egg.",
+      "D": "It offers information about how male penguins carry out the function described in the text."
+    },
+    "answer_ids": {
+      "A": 11373,
+      "B": 11374,
+      "C": 11375,
+      "D": 11376
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3227/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:57:59.949375",
+    "explanation": "✕ExplanationThis is a Purpose question, as it asks for thefunction of the underlined sentence in the text as a whole. Read the text and focus on the sentences before and after the underlined sentence to understand its function. The sentence before states that the female emperor penguintransfers the egg to the male’s care, and the sentence after continues to explain the male’s care of the egg. Therefore, a good function of the underlined sentence to enter into the annotation box would be “explain how male cares for egg.”(A) and (C) are wrong because they’re bothRight Answer, Wrong Question—these answers describe the information in the last sentence of the text rather than the underlined sentence.(B) is wrong because thephysical feature of male penguinsis only first introduced in the underlined sentence, notearlier in the text.(D) is correct because it’s consistent with the highlighting and annotation.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3228,
+    "stimulus": "The following text is adapted from Susan Glaspell’s 1917 short story “A Jury of Her Peers.” The women in the story, Mrs. Peters and Mrs. Hale, discover an important clue about a murder case with which they have become involved.And then again the eyes of the two women met--this time clung together in a look of dawning comprehension, of growing horror. Mrs. Peters looked from the dead bird to the broken door of the cage. Again their eyes met. And just then there was a sound at the outside door. Mrs. Hale slipped the box under the quilt pieces in the basket, and sank into the chair before it. Mrs. Peters stood holding to the table. The county attorney and the sheriff came in from outside.",
+    "question_stem": "Which choices best states the main purpose of the text?",
+    "answer_choices": {
+      "A": "To describe the features of the quilt that set it apart from other quilts",
+      "B": "To detail the women’s sudden realization and reaction to that realization",
+      "C": "To demonstrate the women’s dislike towards the county attorney",
+      "D": "To indicate which possession the women most strongly cherish"
+    },
+    "answer_ids": {
+      "A": 11377,
+      "B": 11378,
+      "C": 11379,
+      "D": 11380
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3228/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:00.681725",
+    "explanation": "✕ExplanationThis is a Purpose question, as it asks for themain purpose of the text. Read the text and highlight who or what the text is focusing on. The text focuses onMrs. Haleand Mrs. Petersas well as their actions after their eyes met in a look ofdawning comprehension. Therefore, a good main purpose of the text to enter into the annotation box would be “describe what women did figuring something out.”(A) and (D) are wrong because they each focus on the quilt or a possession, neither of which is the focus of the text.(B) is correct because it’s consistent with the highlighting and annotation.(C) is wrong because it goesBeyond the Text—the text does not offer what the women think of the county attorney.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3229,
+    "stimulus": "Text 1It can be argued that there is a sharp disparity between traditional music composition and the use of computer-based technology to compose music. Computer-based programs remove the requirement for certain musical compositional skills, and the program offers shortcuts and features that can help a computer-based “composer” resolve issues within the composition instantaneously.Text 2While composing music digitally may seem as if it only requires a few clicks of the mouse, it does not require fewer skills than does traditional music composition. Computer-based composers must know both the foundations of music theory and the intricacies of the programs that they use to create their works. Rather than merely booting up a computer, these composers almost always build their melodies as a traditional composition first, and then transpose the work onto the computer for further editing—in the end, their final products require just as much experimentation as traditional compositions.",
+    "question_stem": "Based on the texts, how would the author of Text 2 most likely respond to the claims of the author of Text 1?",
+    "answer_choices": {
+      "A": "By conceding that computer-based composers don’t spend time learning the foundations of music theory",
+      "B": "By emphasizing that the performance of a musical work is more important than the vehicle used for its creation",
+      "C": "By clarifying that it is much easier to produce notes using a traditional instrument than it is using a mouse",
+      "D": "By stating that computer-based compositions still require some traditional skills even if the medium of creation is less traditional"
+    },
+    "answer_ids": {
+      "A": 11381,
+      "B": 11382,
+      "C": 11383,
+      "D": 11384
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Dual Texts"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3229/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:01.406273",
+    "explanation": "✕ExplanationThis is a Dual Texts question, which asks howthe author of Text 2wouldrespond to the claims of the author of Text 1. Read Text 1 and highlight the author’s claim, which is thatcomputer-based programs remove the requirement for certain musical compositional skills. Then, read Text 2 and highlight what Text 2 says about the same topic. The author of Text 2 states thatComputer-based composers must know both the foundations of music theory and the intricacies of the programs that they use to create their works.The two authors disagree on their shared topic, so enter “Text 2 disagrees with Text 1” into the annotation box.(A) is wrong because it’s theOppositeof Text 2’s point—the author of Text 2 states that computer-based composers do indeed need to knowthe foundations of music theory.(B) is wrong because neither author discussesperformancesor calls those performancesmore important.(C) is wrong because it’sExtreme Language—while the author of Text 2 implies that computer-based composition is not easy, it’s never supported that making music with a traditional instrument ismuch easier.(D) is correct because it’s consistent with the relationship between the texts.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3230,
+    "stimulus": "Electric cars are vehicles powered by electricity stored in onboard batteries and offer a clean and efficient alternative to traditional internal combustion engine vehicles. Electric vehicle sales are still a small percentage of total vehicle sales, but each of the five major electric car manufacturers posted strong numbers in 2018. For example, _______",
+    "question_stem": "Which choice most effectively uses data from the graph to complete the text?",
+    "answer_choices": {
+      "A": "BYD Auto had more than 250,000 electric vehicle sales.",
+      "B": "Nissan had between 50,000 and 100,000 electric vehicle sales.",
+      "C": "Tesla had fewer than 200,000 electric vehicle sales.",
+      "D": "BMW and Volkswagen Group each had between 100,000 and 150,000 electric vehicle sales."
+    },
+    "answer_ids": {
+      "A": 11385,
+      "B": 11386,
+      "C": 11387,
+      "D": 11388
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Charts"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3230/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:02.160268",
+    "explanation": "✕ExplanationThis is a Charts question, as it asks fordata from the graphthat willcomplete the text. Read the title, key, and variables from the bar graph. Then, read the text and highlight the claim or argument that references the information from the graph. The end of the second sentence states thateach of the five major electric car manufacturers posted strong numbers in 2018. The correct answer should offer accurate information from the graph in support of this claim.(A), (C), and (D) are wrong because they’re theOppositeof the information in the graph—the numbers in these answers are inconsistent with the values for BYD Auto, Tesla, and Volkswagen.(B) is correct because it’s consistent with the graph.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3231,
+    "stimulus": "“The Set of China” is an 1835 short story by Eliza Leslie. In the story, the narrator describes Mr. Gummage as being an art teacher who actively encourages his students to improve upon the fundamentals that he teaches: _______",
+    "question_stem": "Which quotation from “The Set of China” most effectively illustrates the claim?",
+    "answer_choices": {
+      "A": "“Mr. Gummage immediately supplied her with two bristle brushes, and sundry little shallow earthen cups, each containing a modicum of some sort of body color, massicot, flake-white, etc., prepared by himself and charged at a quarter of a dollar apiece, and which he told her she would want when she came to do landscapes and figures.”",
+      "B": "“All the dark shadows in every part of the picture were done with a mixture of Persian blue and bistre, and of these two colors there was consequently a vast consumption in Mr. Gummage's school.”",
+      "C": "“Mr. Gummage's style was to put in the sky, water and distances with opaque paints, and the most prominent objects with transparent colors. This was probably the reason that his foregrounds seemed always to be sunk in his backgrounds.”",
+      "D": "“The model was scarcely considered as a guide, for he continually told his pupils that they must try to excel it; and he helped them to do so by making all his skies deep red fire at the bottom, and dark blue smoke at the top; and exactly reversing the colors on the water, by putting red at the top and the blue at the bottom.”"
+    },
+    "answer_ids": {
+      "A": 11389,
+      "B": 11390,
+      "C": 11391,
+      "D": 11392
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3231/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:02.878966",
+    "explanation": "✕ExplanationThis is a Claims question, as it asks which choicemost effectively illustrates the claim. Look for and highlight the claim in the text, which is that Mr. Gummage is anart teacher who actively encourages his students to improve upon the fundamentals that he teaches. The correct answer should address and be consistent with each aspect of this claim.(A), (B), and (C) are wrong because they’re eachHalf-Right—each of these answers expresses some aspect of Mr. Gummage’s art style or teaching style, but none of them show him actively encouraginghis students to improve upon the fundamentals.(D) is correct because it states that Mr. Gummage’s model was merelya guideand that hecontinually told his pupils that they must try to excel it, and he helped them to do so. All of this is consistent with the highlighted claim.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3232,
+    "stimulus": "“Stopping by Woods on a Snowy Evening” is a 1923 poem by Robert Frost, which presents a frozen lake on a winter evening while the snow falls. Frost describes his prioritization of personal obligations over admiring the beauty of the winter scene, writing: _______",
+    "question_stem": "Which quotation from “Stopping by Woods on a Snowy Evening” most effectively illustrates the claim?",
+    "answer_choices": {
+      "A": "“He will not see me stopping here / To watch his woods fill up with snow”",
+      "B": "“The woods are lovely, dark and deep / But I have promises to keep”",
+      "C": "“The only other sound’s the sweep / Of easy wind and downy flake”",
+      "D": "“Between the woods and frozen lake / The darkest evening of the year”"
+    },
+    "answer_ids": {
+      "A": 11393,
+      "B": 11394,
+      "C": 11395,
+      "D": 11396
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3232/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:03.621470",
+    "explanation": "✕ExplanationThis is a Claims question, as it asks which choicemost effectively illustrates the claim. Look for and highlight the claim in the text, which is thatFrost describes his prioritization of personal obligations over admiring the beauty of the winter scene. The correct answer should address and be consistent with each aspect of this claim.(A), (C), and (D) are wrong because they’re eachHalf-Right—each answer describes an aspect of the winter scene but does not state that the speaker is prioritizing hispersonal obligationsover any of the scene’s aspects.(B) is correct because it’s consistent with the claim—it references the beauty of the winter scene, but then clarifies that Frost is focused on the promises he has to keep instead.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3233,
+    "stimulus": "Number of Citations of Eight Plant Species in Low and High Vegetation AreasPlant speciesNumber of citations in Area INumber of citations in Area IIC. pyramidale3546S. tuberosa2745C. blanctenianus3143M. glaziovi1143Z. joazeiro3043M. urundeuva2741M. tenuiflora440S. obtusifolium3238Sonaly Silva da Cunha et. al examined two Brazilian semiarid areas to investigate which plant species were collected by agro-pastoralists (people who live in communities centered around livestock and agriculture) during their foraging expeditions. The researchers predicted that if vegetation were uniform across both areas examined, the average number of citations per species would be 30. The agro-pastoralists cited the number of each of eight species found in an area with low vegetation cover (Area I) and an area with high vegetation cover (Area II). Based on these results, the researchers claim that agro-pastoralists living in Area II were able to gather significant quantities of all eight species due to the area’s high vegetation cover.",
+    "question_stem": "Which choice best describes data from the table that support the researchers’ claim?",
+    "answer_choices": {
+      "A": "For all of the different plant species, the number of citations from Area II was higher than the researchers’ predicted average.",
+      "B": "For all eight plant species, there were fewer than 50 citations from Area II.",
+      "C": "The plant species with the lowest number of citations in Area II wasC. pyramidale.",
+      "D": "ForM. glazioviandS. obtusifolium,the number of citations from Area I was significantly higher than the researchers’ predicted average."
+    },
+    "answer_ids": {
+      "A": 11397,
+      "B": 11398,
+      "C": 11399,
+      "D": 11400
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Charts"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3233/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:04.340402",
+    "explanation": "✕ExplanationThis is a Charts question, as it asks fordata from the table that supports the researchers’ claim. Read the title and variables from the table. Then, read the text and highlight the claim that references the information from the table. The last sentence states thatthe researchers claim that agro-pastoralists living in Area I were able to gather significant quantities of all eight species due to the area’s high vegetation cover. The correct answer should offer accurate information from the table in support of this claim.(A) is correct because it’s consistent with the table and highlighting—note that the predicted average in the text was 30, and all citations from Area II are above this number.(B) is wrong because it’sHalf-Right—it’s consistent with the table but stating thatthere were fewercitations is theOppositeof the claim’s point regarding the collection ofsignificant quantities, which suggests the correct answer should be discussing the numbers as higher or greater than something, not lower or fewer.(C) and (D) are wrong because they’re theOppositeof the information given in the table—C. pyramidalehad the highest number of citations from Area II, not thelowest, andM. glazioviandS. obtusiflosium’s citations from Area I were much lower than the predicted average of 30, notsignificantly higher.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3234,
+    "stimulus": "\"Hieroglyphics” is a 1902 essay by Arthur Machen, a Welsh author and critic. In the essay, Machen addresses the reader as if the two were having a conversation, during which Machen challenges a comparison regarding literary quality that he believes the reader has made: _______",
+    "question_stem": "Which quotation from “Hieroglyphics” most effectively illustrates the claim?",
+    "answer_choices": {
+      "A": "“There is no more madness inthatnotion than in the other one—that one has only to print an amusing, interesting, life-like, or pathetic tale to make it into fine literature.”",
+      "B": "“I am afraid, that in your heart of hearts, you still believe that the ‘Odyssey’ is fine literature, and that ‘Pride and Prejudice’ is fine literature, though the ‘Odyssey’ is ‘better’ than ‘Pride and Prejudice.’ It is that ‘better’ that I want to get out of your head, that monstrous fallacy of comparing Westminster Abbey with the charming old houses in Queen Square.”",
+      "C": "“Did any cook ever think that he could change a turkey into a bird of paradise by careful attention to thefarseand the sauce? The farmer might as well expect to breed early phœnixes for Leadenhall Market by the simple process of lighting a bonfire in the farmyard. The young ducks would jump into the blaze, and the transformation would be the work of a second!”",
+      "D": "“At least I hope you would see, though, as I told you a few weeks ago, I doubt very much whether many people realise the distinction between the ‘Odyssey’ and a political pamphlet. The general opinion, I expect, is that both belong to the same class, though the Greek poem is much more ‘important’ than the pamphlet.”"
+    },
+    "answer_ids": {
+      "A": 11401,
+      "B": 11402,
+      "C": 11403,
+      "D": 11404
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3234/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:05.055519",
+    "explanation": "✕ExplanationThis is a Claims question, as it asks which choicemost effectively illustrates the claim. Look for and highlight the claim in the text, which is thatMachen challenges a comparison regarding literary quality that he believes the reader has made. The correct answer should address and be consistent with each aspect of this claim.(A) and (D) are wrong because they’reHalf-Right—both answers reference a comparison, but neither answer has Machen indicating that he believes the reader has made the comparison. Machen himself makes or addresses the comparisons in these answers without indicating the reader makes them as well.(B) is correct because it’s consistent with the claim—it both references a comparison and has Machen specifically addressingyou, the reader, as having made the comparison.(C) is wrong because thecookand thefarmerin this answer are not directly compared, nor does Machen state that the reader makes any comparison.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3235,
+    "stimulus": "The Inca Empire existed from the thirteenth to sixteenth century in what is now the Andes Mountains in South America. The high altitude and harsh, dry climate kept the Incans relatively safe from external threats but made farming challenging. So, they created a system of terraces that allowed them to grow crops on the mountainside and practiced preserving their crops by “freeze-drying” the crops in the cold, overnight temperatures. These methods worked well enough to produce enough crops to not only support a large population but also _______",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "to store crops despite adverse conditions.",
+      "B": "to harvest crops during all times of year.",
+      "C": "to prolong the life spans of its citizens.",
+      "D": "to protect their crops from snow and freezing temperatures."
+    },
+    "answer_ids": {
+      "A": 11405,
+      "B": 11406,
+      "C": 11407,
+      "D": 11408
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Conclusions"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3235/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:05.796163",
+    "explanation": "✕ExplanationThis is a Conclusions question, as it asks for whatmost logically completes the text. Look for and highlight the main focus of the text, which is theInca Empireand the challenges that they facedfarming. Then, highlight the main point made regarding this focus, which is thatthey created a system of terraces that allowed them to grow crops…and practiced preserving their crops. Since the last sentence already references the first part of this evidence, growing crops, the most likely conclusion is that the second half of the last sentence will talk aboutpreservingcrops. The correct answer should be as consistent as possible with this conclusion.(A) is correct because it’s consistent with what the highlighted sentences say about growing and preserving crops.(B) is wrong becauseallisExtreme Language—it’s not stated by the text during which periods the Incas harvested crops.(C) is wrong because it goesBeyond the Text—while it’s logical that consistent food sources prolong life spans, there is no evidence for such a connection in the text.(D) is wrong because it’sRecycled Language—it misusesfreezeand the concept ofcoldfrom the third sentence of the text.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3236,
+    "stimulus": "In a study of the relationship between sleep and memory consolidation—the process by which memories are embedded in our subconscious after initial acquisition–neuroscientist Matthew Walker and his team measured the brain activity of sleeping participants. They discovered that memory consolidation happens during deep sleep as the brain replays memories and stores them more effectively. They also found that the amount and quality of sleep are vital to memory consolidation. Consequently, an increased amount of high-quality sleep is likely to _______",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "decrease an individual’s ability to access the subconscious mind.",
+      "B": "decrease an individual’s ability to achieve deep sleep.",
+      "C": "increase an individual’s ability to recognize connections between similar memories.",
+      "D": "increase an individual’s ability to better retain memories."
+    },
+    "answer_ids": {
+      "A": 11409,
+      "B": 11410,
+      "C": 11411,
+      "D": 11412
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Conclusions"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3236/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:06.524069",
+    "explanation": "✕ExplanationThis is a Conclusions question, as it asks for whatmost logically completes the text. Look for and highlight the main focus of the text, which isthe relationship between sleep and memory consolidation. Then, highlight the main point made regarding this focus, which is thatmemory consolidation happens during deep sleep as the brain replays memories and stores them more effectivelyand that theamount and quality of sleep are vital to memory consolidation. Therefore, the conclusion to the text should focus on this positive connection between quality and amount of deep sleep and memory consolidation. The correct answer should be as consistent as possible with this conclusion.(A) and (B) are wrong because they’re each theOppositeof the relationship between sleep and memory consolidation stated in the text—increased sleep should not produce any decreases, or drawbacks.(C) is wrong because it’sHalf-Right—while there should be an increase, the text does not discuss anyconnectionsbetween similar memories, just the embedding and storage of memories.(D) is correct because it’s consistent with what the highlighted sentences say about memory consolidation.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3237,
+    "stimulus": "Using different parts of his body and incorporating sound effects into his final pieces, sculptor and performance artist Kevin Beasley creates his sculptures _______ found materials (such as clothes) and casting materials (such as resin and foam).",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "with:",
+      "B": "with",
+      "C": "with,",
+      "D": "with—"
+    },
+    "answer_ids": {
+      "A": 11413,
+      "B": 11414,
+      "C": 11415,
+      "D": 11416
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "No Punctuation"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3237/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:07.246109",
+    "explanation": "✕ExplanationIn this Rules question, punctuation is changing in the answer choices. The punctuation appears after the prepositionwith, but there shouldn’t be punctuation after a preposition, so eliminate answers with punctuation.(A), (C), and (D) are wrong because a preposition shouldn’t be followed by punctuation.(B) is correct because no punctuation should be used here.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3238,
+    "stimulus": "Abuwtiyuw was an Egyptian royal hunting dog that lived in the Sixth Dynasty and is thought to have been one of the first domesticated animals. A stone depicting gifts donated for the dog’s funeral was discovered in 1935, and researchers _______ that these gifts provide evidence that Abuwtiyuw was mummified.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "to believe",
+      "B": "believing",
+      "C": "believe",
+      "D": "having believed"
+    },
+    "answer_ids": {
+      "A": 11417,
+      "B": 11418,
+      "C": 11419,
+      "D": 11420
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Complete Sentences"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3238/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:08.004441",
+    "explanation": "✕ExplanationIn this Rules question, verb forms are changing in the answer choices, so it’s testing sentence structure. The subject of the sentence isresearchers, and there is no main verb, so the answer must provide the main verb. Eliminate any answer that isn’t in the correct form to be the main verb.(A) is wrong because a “to” verb can’t be the main verb in a sentence.(B) and (D) are wrong because an -ingverb can’t be the main verb in a sentence.(C) is correct because it’s in the right form to be the main verb.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3239,
+    "stimulus": "Journalist Rob Capriccioso founded the publicationIndigenous Wireto combat the lack of Indigenous representation in the media. He aims to write hard-hitting articles that share the _______ in an authentic and realistic way.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "experiences’ of Native American tribe member’s",
+      "B": "experience’s of Native American tribe members",
+      "C": "experience’s of Native American tribe members’",
+      "D": "experiences of Native American tribe members"
+    },
+    "answer_ids": {
+      "A": 11421,
+      "B": 11422,
+      "C": 11423,
+      "D": 11424
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Nouns"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3239/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:08.742820",
+    "explanation": "✕ExplanationIn this Rules question, apostrophes with nouns are changing in the answer choices. Determine whether each word possesses anything. The members possess the experiences, but the experiences don’t possess anything. Eliminate any answer that doesn’t match this.(A), (B), and (C) are wrong becauseexperiencesshouldn’t be possessive.(D) is correct becauseexperiencesisn’t possessive, andmembersshouldn’t be possessive either because the wordofalready shows possession.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3240,
+    "stimulus": "Artificial organic dyes, such as phthalocyanines, are used in a wide range of industries, but they are often made using solvents that are harmful to the environment. A team at Aalto University _______ a better method: using solid-state synthesis to minimize the use of dangerous solvents.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "to recommend",
+      "B": "recommends",
+      "C": "recommending",
+      "D": "having recommended"
+    },
+    "answer_ids": {
+      "A": 11425,
+      "B": 11426,
+      "C": 11427,
+      "D": 11428
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Complete Sentences"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3240/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:09.466459",
+    "explanation": "✕ExplanationIn this Rules question, verb forms are changing in the answer choices, so it’s testing sentence structure. The subject of the sentence isteam, and there is no main verb, so the answer must provide the main verb. Eliminate any answer that isn’t in the correct form to be the main verb.(A) is wrong because a “to” verb can’t be the main verb in a sentence.(B) is correct because it’s in the right form to be the main verb.(C) and (D) are wrong because an -ingverb can’t be the main verb in a sentence.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3241,
+    "stimulus": "Comets, objects made of ice and dust that orbit the Sun, can be visible to the naked eye. Some comets, such as Halley’s Comet, can be seen more than once in a _______ others, such as Comet Shoemaker-Levy 9, are visible only once.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "lifetime, while",
+      "B": "lifetime: while",
+      "C": "lifetime. While",
+      "D": "lifetime; while"
+    },
+    "answer_ids": {
+      "A": 11429,
+      "B": 11430,
+      "C": 11431,
+      "D": 11432
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Connecting Clauses"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3241/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:10.187036",
+    "explanation": "✕ExplanationIn this Rules question, punctuation is changing in the answer choices. Look for independent clauses. The first part of the sentence saysSome comets, such as Halley’s Comet, can be seen more than once in a lifetime, which is an independent clause. The second part of the sentence sayswhile others, such as Comet Shoemaker-Levy 9, are visible only once,which is a dependent clause. Eliminate any option that doesn’t correctly connect an independent + a dependent clause.(A) is correct because independent + dependent can be connected with a comma.(B), (C), and (D) are wrong because independent + dependent cannot be connected with punctuation other than a comma.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3242,
+    "stimulus": "The Myriad year clock, one of the Japanese clocks known aswadokei, is a universal clock powered by elastic energy. Once the spring inside of it is fully wound, the clock can power _______ for one year without needing another winding.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "themselves",
+      "B": "it",
+      "C": "itself",
+      "D": "them"
+    },
+    "answer_ids": {
+      "A": 11433,
+      "B": 11434,
+      "C": 11435,
+      "D": 11436
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Pronouns"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3242/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:11.028097",
+    "explanation": "✕ExplanationIn this Rules question, pronouns are changing in the answer choices, so it’s testing consistency with pronouns. Find and highlight the word the pronoun refers back to,the clock,which is singular, so a singular pronoun is needed. Write an annotation saying “singular.” Eliminate any answer that isn’t singular or doesn’t clearly refer back tothe clock.(A) and (D) are wrong because they are plural.(B) is wrong because the worditsuggests something other than theclockbeing powered, but it’s not clear what that would be.(C) is correct becauseitselfis singular and is consistent withthe clock.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3243,
+    "stimulus": "May Berenbaum of the University of Illinois’s Department of Entomology _______ a research seminar on chemical ecology when she developed an interest in honey and its role in the lives of bees. She later proved that honey contains chemical compounds that help bees resist illness and live longer.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "was attending",
+      "B": "attends",
+      "C": "has been attending",
+      "D": "will attend"
+    },
+    "answer_ids": {
+      "A": 11437,
+      "B": 11438,
+      "C": 11439,
+      "D": 11440
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Verbs"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3243/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:11.767821",
+    "explanation": "✕ExplanationIn this Rules question, verbs are changing in the answer choices, so it’s testing consistency with verbs. Find and highlight the subject,May Berenbaum, which is singular, so a singular verb is needed. All of the answers work with a singular subject, so look for a clue regarding tense. This sentence uses the past tense verbdeveloped. Highlight that verb and write an annotation that says “past.” Eliminate any answer not in past tense.(A) is correct because it’s in past tense, and this specific tense correctly suggests that her interest developed during the seminar.(B) is wrong because it’s in present tense.(C) is wrong because it’s not in past tense.(D) is wrong because it’s in future tense.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3244,
+    "stimulus": "Sheela Gowda is an Indian artist who creates pieces focused on processes, such as people working everyday jobs. Trained as a painter at the Royal College of Art in London, Gowda expanded into sculpting methods in response to India’s shifting political dynamics. She has portrayed Indian political themes in her work. _______ Gowda has incorporated themes of dangerous labor practices and the unfair treatment of women into her pieces.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Regardless,",
+      "B": "In contrast,",
+      "C": "Indeed,",
+      "D": "In addition,"
+    },
+    "answer_ids": {
+      "A": 11441,
+      "B": 11442,
+      "C": 11443,
+      "D": 11444
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3244/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:12.642697",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The preceding sentence saysShe has portrayed Indian political themes in her work,and this sentence provides some additional things Gowdahas incorporated.These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.(A) and (B) are wrong because they are opposite-direction transitions.(C) is wrong becauseIndeedwould reinforce the previous idea, but this sentence instead includes some additional aspects of Gowda’s work.(D) is correct because this sentence provides additional information about Gowda’s art.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3245,
+    "stimulus": "Autism is often associated with unique speech patterns, and some of these patterns can be identified reliably throughout different languages. In a study, speech rhythm, or the volume and timing of speech, could identify participants with autism reliably across English- and Cantonese-speaking groups. _______ speech intonation, or the variation of the pitch of speech, could only reliably identify participants with autism in the English-speaking group.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "In addition,",
+      "B": "For example,",
+      "C": "By contrast,",
+      "D": "Still,"
+    },
+    "answer_ids": {
+      "A": 11445,
+      "B": 11446,
+      "C": 11447,
+      "D": 11448
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3245/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:13.374889",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The previous sentence states thatspeech rhythm…could identify participants with autism reliably across English- and Cantonese-speaking groups,and this sentence states thatspeech intonation…could only reliably identify participants with autism in the English-speaking group.These ideas disagree, so an opposite-direction transition is needed. Make an annotation that says “disagree.” Eliminate any answer that doesn’t match.(A) and (B) are wrong because they are same-direction transitions.(C) is correct becauseBy contrastis an opposite-direction transition.(D) is wrong because whileStillis an opposite-direction transition, it doesn’t draw a contrast between two things as is needed here.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3246,
+    "stimulus": "There have been numerous attempts to allow greater input by America voters with regard to participating in a war. A failed amendment to the Constitution was proposed in 1916 that would have mandated a public referendum to declare war, with anyone voting “yes” being required to enlist and serve. _______ another proposal was made in 1935 and again in 1940 to require a public vote to declare war unless the country had been attacked first.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Specifically,",
+      "B": "Similarly,",
+      "C": "For instance,",
+      "D": "In sum,"
+    },
+    "answer_ids": {
+      "A": 11449,
+      "B": 11450,
+      "C": 11451,
+      "D": 11452
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3246/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:14.108848",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The preceding sentence saysA failed amendment…was proposed in 1916 that would have mandated a public referendum to declare war,and this sentence states thatanother proposal was made in 1935 and again in 1940 to require a public vote to declare war.These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.(A) is wrong because this sentence isn’t making the previous information more specific.(B) is correct because this sentence provides a similar proposal from other years.(C) is wrong because this sentence isn’t an example of something that came before.(D) is wrong because this sentence isn’t a conclusion based on the previous sentence.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3247,
+    "stimulus": "While researching a topic, a student has taken the following notes:Terrance Hayes is an American poet.He created the “golden shovel” poetic form in which the last word of each line in the poem forms part or all of an existing poem.He was inspired by the work of poet Gwendolyn Brooks.His poemThe Golden Shoveluses the words from Brooks’s poemWe Real Cool.The “golden shovel” form was named afterThe Golden Shovel, the first to use this form.",
+    "question_stem": "The student wants to provide an explanation and example of a “golden shovel” poem. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "The title of the poemThe Golden Shovelis also the name of the poetic form poet Terrance Hayes created.",
+      "B": "Terrance Hayes, who wroteThe Golden Shovel, created the “golden shovel” poetic form.",
+      "C": "Terrance Hayes created the “golden shovel” poetic form, inspired by the work of poet Gwendolyn Brooks, in which the last word of each line forms part or all of an existing poem, as seen in his poemThe Golden Shovel.",
+      "D": "The “golden shovel” poetic form, created by American poet Terrance Hayes, was inspired by the work of poet Gwendolyn Brooks."
+    },
+    "answer_ids": {
+      "A": 11453,
+      "B": 11454,
+      "C": 11455,
+      "D": 11456
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Rhetorical Synthesis"
+    },
+    "exam_id": 50,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - English - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3247/?question_set=exam&exam_id=50",
+    "scraped_at": "2025-07-05T19:58:14.816350",
+    "explanation": "✕ExplanationThis is a Rhetorical Synthesis question, so follow the basic approach. Highlight the goal(s) stated in the question:provide an explanation and example of a “golden shovel” poem. Eliminate any answer that doesn’t fulfill this purpose.(A), (B), and (D) are wrong because they don’tprovide an explanationof what this type of poem is.(C) is correct because it explains what thepoetic formis and provides anexample.close",
+    "correct_answer": ""
+  }
+]

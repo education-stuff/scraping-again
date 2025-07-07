@@ -1,0 +1,568 @@
+[
+  {
+    "question_id": 3738,
+    "stimulus": "",
+    "question_stem": "`sqrt(4x+17) = sqrt((x+5)^2)`What is the smallest solution to the given equation?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3738/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:19.611814",
+    "explanation": "✕ExplanationSquare both sides to get `4x+ 17 = (x+5)^2`. Simplify to get `4x + 17 = x^2 + 10x + 25`. Simplify further to get `0 = x^2 + 6x + 8 = (x + 4)(x + 2)`. Solve for `x` and get `x = -4` or `x = -2`, so the smaller is -4.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3739,
+    "stimulus": "",
+    "question_stem": "Ice has a density of 0.92 grams per cubic centimeter. An ice block is a rectangular prism whose width is 18 centimeters, length is 24 centimeters, and height is 5 centimeters. To the nearest whole number, what is the mass, in grams, of the rectangular prism?",
+    "answer_choices": {
+      "A": "1828",
+      "B": "1987",
+      "C": "2160",
+      "D": "2348"
+    },
+    "answer_ids": {
+      "A": 13121,
+      "B": 13122,
+      "C": 13123,
+      "D": 13124
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3739/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:20.396955",
+    "explanation": "✕ExplanationDensity is weight over volume (the heavier something is or the smaller the volume, the higher the density), or `\"density\" = \"weight\" / \"volume\"`. The volume is `18 * 24 * 5 = 2,160` cubic centimeters, so the equation is `0.92 = x / 2,160`. Solving for `x`, the weight is 1987.2 grams, which is 1987 grams to the nearest whole number.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3740,
+    "stimulus": "",
+    "question_stem": "For `x > 0`, the function `f` is defined as follows:$f(x)$ equals $-169.2\\%$ of $x$Which of the following could describe this function?",
+    "answer_choices": {
+      "A": "Decreasing exponential",
+      "B": "Decreasing linear",
+      "C": "Increasing exponential",
+      "D": "Increasing linear"
+    },
+    "answer_ids": {
+      "A": 13125,
+      "B": 13126,
+      "C": 13127,
+      "D": 13128
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3740/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:21.137232",
+    "explanation": "✕Explanation$f(x) = -169.2\\% * x$ is equivalent to $f(x) = -1.692 * x$, a linear function with a power of 1.Alternatively, you can graph $f(x) = -169.2\\% * x$ on the calculator and see that the graph is decreasing (going down) and linear.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3741,
+    "stimulus": "",
+    "question_stem": "The rational function `f` is defined by an equation in the form `f(x)= a / (x-b)`, where `a` and `b` are constants. The partial graph of `y = f(x)` is shown. If `g(x) = f(x - 2)`, which equation could define function `g`?",
+    "answer_choices": {
+      "A": "`g(x) = 6/(x-3)`",
+      "B": "`g(x) = 6/(x-5)`",
+      "C": "`g(x) = 6/(x-1)`",
+      "D": "`g(x) = (x-3)/8`"
+    },
+    "answer_ids": {
+      "A": 13129,
+      "B": 13130,
+      "C": 13131,
+      "D": 13132
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3741/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:21.878528",
+    "explanation": "✕ExplanationThe easiest way is to first plug the 4 equations into the graphing calculator. `f(x)` looks just like choice A. Remember that `g(x) = f(x-2)` means shifting the graph to the right by 2 units, which is the blue graph.You can also pick an easy point from the original graph—for example, (6, 2) is a point on the graph. Substituting the point into `f(x)`, you get `6 = a / (6-b)`. Even though you don’t know what `a` and `b` are, you know that `g(x) = f(x-2)`, which means `g(x)` looks just like `f(x)` but moved 2 units to the right. Realizing from choices A, B, and C that `g(x)` probably looks like `6 / (x - \"something\")`, we can try to make `a=6` since the denominator for the fraction in `g(x)` is 6. That means `b = 3` for `f(x)` to work: substituting `f(x) = 2`, `x=6`, `a=6` and `b=3`, you get `f(x) = 2 = 6/(6-3)`. By graphing `f(x) = 6/(x-3)`, you see that it indeed is `f(x)`. Next, remember `g(x) = f(x-2)`, so `f(x-2) = 6/((x-2)-3) = 6/(x-5)`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3742,
+    "stimulus": "",
+    "question_stem": "Which expression is equivalent to `(x-2)/(xy) + (x+3)/(x^2y+2xy)`?",
+    "answer_choices": {
+      "A": "`(2x+1)/(x^2y+3xy)`",
+      "B": "`(x^2 + x -1)/(x^2y + 2xy)`",
+      "C": "`(x^2+x-6)/(x^2y + 2xy)`",
+      "D": "`(x^2+x-6)/(x^3y^2 + 5x^2y +6xy)`"
+    },
+    "answer_ids": {
+      "A": 13133,
+      "B": 13134,
+      "C": 13135,
+      "D": 13136
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3742/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:22.628317",
+    "explanation": "✕ExplanationFactoring the denominator in the second term gives `(x-2)/(xy) + (x+3)/(xy(x+2))`. In order to add, you need the same denominator, so the first term can be multiplied by `(x+2)/(x+2)` to get `((x-2)(x+2))/((xy)(x+2)) + (x+3)/(xy(x+2))`. Adding the two factions get `((x-2)(x+2) + (x+3))/(xy(x+2))`. Distributing and simplifying the top gives `(x^2 - 4x + x + 3)/(xy(x+2)) = (x^2 + x -1)/((xy(x+2))`, and distributing the bottom gives `(x^2 + x -1)/(x^2y + 2xy)`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3743,
+    "stimulus": "",
+    "question_stem": "The table shows the results of a poll. A total of 82 students selected at random were asked which candidate would they vote for in the upcoming student government election. According to the poll, if 492 people vote in the election, by how many votes would Adam Rodriguez be expected to win?",
+    "answer_choices": {
+      "A": "6",
+      "B": "22",
+      "C": "36",
+      "D": "64"
+    },
+    "answer_ids": {
+      "A": 13137,
+      "B": 13138,
+      "C": 13139,
+      "D": 13140
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3743/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:23.403945",
+    "explanation": "✕ExplanationIn the smaller sample of 82 students, Adam is expected to win by 6 votes. The total number of people who will be voting (492) is 6 times the small sample of 82 students who are asked in the poll. Therefore multiplying the number of winning votes in the small sample (6) by 6 times gives 36.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3744,
+    "stimulus": "",
+    "question_stem": "The graph of `x^2+4x+y^2-6y=12` in the `xy`-plane is a circle. What is the length of the circle’s radius?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3744/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:24.234371",
+    "explanation": "✕ExplanationEven though you can use “complete the squares” to change the original equation to `(x+2)^2+(y-3)^2=25(x+2)^2 + (y-3)^2 = 25` and get the radius as `r^2=25r^2 = 25` and `r=5r = 5`, you should use the calculator to graph `x^2+4x+y^2-6y=12x^2 + 4x + y^2 - 6y = 12`. By just looking at it, you can see that the diameter goes from `x=\"-\"7x=\"-\"7` to `x=3x=3` (radius is the purple line below), which is 10 units, so the radius is `102=510/2 = 5`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3745,
+    "stimulus": "",
+    "question_stem": "John runs a bookstore and received a shipment of 1,200 books. He wants to set aside $15\\%$ of the books to use for promotional giveaways. How many books will John set aside for promotional giveaways?",
+    "answer_choices": {
+      "A": "120",
+      "B": "150",
+      "C": "180",
+      "D": "200"
+    },
+    "answer_ids": {
+      "A": 13141,
+      "B": 13142,
+      "C": 13143,
+      "D": 13144
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3745/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:24.980643",
+    "explanation": "✕ExplanationTo find the number of books John will set aside, we need to calculate $15\\%$ of the total number of books he received. $15\\%$ of 1,200 books can be found by multiplying 1,200 by $15\\%$ (or 0.15). $15\\%$ of 1,200 = 0.15 * 1,200 = 180.Therefore, Johnclose",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3746,
+    "stimulus": "",
+    "question_stem": "What is the y-intercept of the graph shown?",
+    "answer_choices": {
+      "A": "(0, 0)",
+      "B": "(0, -1)",
+      "C": "(0, 1)",
+      "D": "(1, 0)"
+    },
+    "answer_ids": {
+      "A": 13145,
+      "B": 13146,
+      "C": 13147,
+      "D": 13148
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3746/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:25.749265",
+    "explanation": "✕Explanationy-intercept is where the graph intersects the y-axis (vertical axis). It intersects at (0, -1).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3747,
+    "stimulus": "",
+    "question_stem": "A car is driving along a straight road at a constant speed. The equation `d = 50t` gives the distance `d`, in meters from a reference point, that the car will be `t` seconds after passing the point. How many meters from the reference point will the car be 4 seconds after passing the point?",
+    "answer_choices": {
+      "A": "50",
+      "B": "100",
+      "C": "150",
+      "D": "200"
+    },
+    "answer_ids": {
+      "A": 13149,
+      "B": 13150,
+      "C": 13151,
+      "D": 13152
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3747/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:26.504667",
+    "explanation": "✕ExplanationThe equation `d = 50t` represents the relationship between the distance `d` and time `t` for the car. By substituting `t = 4` into the equation, we can find the value of d at that time.`d = 50 * 4 = 200`Therefore, the car will be 200 meters from the reference point 4 seconds after passing it.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3748,
+    "stimulus": "",
+    "question_stem": "Which expression is equivalent to `5x - (3x - 2x)`?",
+    "answer_choices": {
+      "A": "`x`",
+      "B": "`4x`",
+      "C": "`6x`",
+      "D": "`7x`"
+    },
+    "answer_ids": {
+      "A": 13153,
+      "B": 13154,
+      "C": 13155,
+      "D": 13156
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3748/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:27.231344",
+    "explanation": "✕ExplanationTo simplify the given expression, we perform the subtraction within the parentheses first and then combine like terms.`20w − (4w + 3w)` can be rewritten as `20w - 4w - 3w`.Combining like terms, we have `20w - 7w`, which simplifies to `13w`.Therefore, the expression `20w − (4w + 3w)` is equivalent to `13w`. The correct answer is B) `13w`.close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3749,
+    "stimulus": "",
+    "question_stem": "`y = x^2 − 8x + 16`The given equation relates the variables `x` and `y`. For what value of `x` does the value of `y` reach its minimum?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3749/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:27.943232",
+    "explanation": "✕ExplanationTo find the value of `x` where the value of `y` reaches its minimum, we need to determine the vertex of the quadratic equation. The vertex of a quadratic equation in the form `y = ax^2 + bx + c` is given by the x-coordinate of the vertex, which can be found using the formula `x = -b / (2a)`.In this equation, `a = 1`, `b = -8`, and `c = 16`. Plugging these values into the formula, we get:`x = -(-8) / (2 * 1)``x = 8 / 2``x = 4`Therefore, the value of `x` at which `y` reaches its minimum is 4.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3750,
+    "stimulus": "",
+    "question_stem": "In triangle `XYZ`, the measure of angle `Y` is `83°` and the measure of angle `Z` is `39°`. What is the measure of angle `X`?",
+    "answer_choices": {
+      "A": "`58°`",
+      "B": "`57°`",
+      "C": "`101°`",
+      "D": "`139°`"
+    },
+    "answer_ids": {
+      "A": 13157,
+      "B": 13158,
+      "C": 13159,
+      "D": 13160
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3750/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:28.700157",
+    "explanation": "✕ExplanationIn a triangle, the sum of the three interior angles is always `180°`. To find the measure of angle `X`, we need to subtract the measures of angles `Y` and `Z` from `180°`.`180° - 83° - 39° = 58°`Therefore, the measure of angle `X` in triangle `XYZ` is `58°`. The correct answer is A) `58°`.close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3751,
+    "stimulus": "",
+    "question_stem": "`x = 6``y = x^2 + 5`The graphs of the equations in the given system of equations intersect at the point `(x, y)` in the xy-plane. What is the value of `y`?",
+    "answer_choices": {
+      "A": "11",
+      "B": "29",
+      "C": "41",
+      "D": "42"
+    },
+    "answer_ids": {
+      "A": 13161,
+      "B": 13162,
+      "C": 13163,
+      "D": 13164
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3751/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:29.417982",
+    "explanation": "✕ExplanationIn the given system of equations, we are given that `x = 6`. To find the value of `y`, we substitute this value of `x` into the equation `y = x^2 + 5`:`y = (6)^2 + 5 = 36 + 5 = 41`Therefore, the value of `y` when `x = 6` is 41. The correct answer is C) 41.close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3752,
+    "stimulus": "",
+    "question_stem": "The scatterplot shows the relationship between two variables,xandy. A line of best fit is also shown.Which of the following equations best represents the line of best fit shown?",
+    "answer_choices": {
+      "A": "`y = -2 + 0.83x`",
+      "B": "`y = -2 - 0.83x`",
+      "C": "`y = 2 + 0.83x`",
+      "D": "`y = 2 - 0.83x`"
+    },
+    "answer_ids": {
+      "A": 13165,
+      "B": 13166,
+      "C": 13167,
+      "D": 13168
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3752/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:30.148191",
+    "explanation": "✕ExplanationThe equation of the graph consists of its y-intercept (+2) and slope (+0.83, because it's going up).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3753,
+    "stimulus": "",
+    "question_stem": "The function `g` is defined by `g(x) = 5 sqrt(x)`. For what value of `x` does `g(x) = 25`?",
+    "answer_choices": {
+      "A": "1",
+      "B": "5",
+      "C": "25",
+      "D": "125"
+    },
+    "answer_ids": {
+      "A": 13169,
+      "B": 13170,
+      "C": 13171,
+      "D": 13172
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3753/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:30.875612",
+    "explanation": "✕ExplanationIn the given equation `g(x) = 5 sqrt(x)`, we are looking for the value of `x` that makes `g(x)` equal to 25. To find this value, we can set up the equation:`5 sqrt(x) = 25`To isolate `x`, we divide both sides of the equation by 5:`sqrt(x) = 5`To solve for `x`, we square both sides of the equation:`x = 5^2``x = 25`Therefore, the value of `x` that makes `g(x)` equal to 25 is 25.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3754,
+    "stimulus": "",
+    "question_stem": "A circle has center O, and points P and Q lie on the circle. In triangle OPQ, the measure of ∠POQ is 110°. What is the measure of ∠OQP, in degrees?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3754/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:31.598089",
+    "explanation": "✕ExplanationIn triangle `OPQ`, we are given that the measure of `∠POQ` is `110°`. Since we know that points `P` and `Q` lie on the circle, they must both be radii. That is, the sides of the triangle `OP` and `OQ` measure the same length and therefore the measure of  `∠OPP` and `∠OQP` must be the same.To find the measure of  `∠OQP` we subtract the given angle from `180°` (the sum of the angles in a triangle).`(180-110)/2 = 70/2 = 35`. The measure of  `∠OQP` is 35 degrees?close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3755,
+    "stimulus": "",
+    "question_stem": "`x(x + 2)−48 = 3x(x−8)`What is the sum of the solutions to the given equation?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3755/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:32.438776",
+    "explanation": "✕ExplanationTo find the sum of the solutions to the given equation, we need to solve the equation and find the values of `x` that satisfy it. Simplifying the equation, we have:`x^2 + 2x − 48 = 3x^2 − 24x`Combining like terms and rearranging, we get:`2x^2 - 26x + 48 = 0`Now, we can factor the quadratic equation:`x^2 - 13x +24 = 0`Solving the quadratic equation we get:`x = (13 + sqrt(73))/2` and `x = (13 - sqrt(73))/2`Adding them together the `+sqrt(73) and -sqrt(73)` cancel out. Hence the sum is `(13+13)/2 = 13`close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3756,
+    "stimulus": "",
+    "question_stem": "A rectangular prism has dimensions of 12 centimeters, 5 centimeters, and 8 centimeters. What is the volume, in cubic centimeters, of the rectangular prism?",
+    "answer_choices": {
+      "A": "60",
+      "B": "80",
+      "C": "240",
+      "D": "480"
+    },
+    "answer_ids": {
+      "A": 13173,
+      "B": 13174,
+      "C": 13175,
+      "D": 13176
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3756/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:33.162060",
+    "explanation": "✕ExplanationExplanation: The volume of a rectangular prism is given by the formula `\"V\" = \"lwh\"`, where `l`, `w`, and `h` represent the length, width, and height, respectively.In this case, the length (`l`) is 12 centimeters, the width (`w`) is 5 centimeters, and the height (`h`) is 8 centimeters.Substituting these values into the formula, we have:`V = (12 cm) * (5 cm) * (8 cm) V = 480 cm^3`Therefore, the volume of the rectangular prism is 480 cubic centimeters. The correct answer is D) 480.close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3757,
+    "stimulus": "",
+    "question_stem": "`p(t) = 75,000(1.04)^t`The given function `p` models the population of a city `t` years after a census. Which of the following functions best models the population of the city `m` months after the census?",
+    "answer_choices": {
+      "A": "`r(m) = 75,000/12 (1.04)^m`",
+      "B": "`r(m) = 75,000(1.04/12)^m`",
+      "C": "`r(m) = 75,000(1.04/12)^(m/12)`",
+      "D": "`r(m) = 75,000(1.04)^(m/12)`"
+    },
+    "answer_ids": {
+      "A": 13177,
+      "B": 13178,
+      "C": 13179,
+      "D": 13180
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3757/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:33.873927",
+    "explanation": "✕ExplanationExplanation: To model the population `m` months after the census, we need to consider that there are 12 months in a year. Since the given function `p(t)` models the population in years, we need to adjust the formula to account for the number of months.Looking at the options, we can see that option C) `r(m) = 75,000(1.04)^(m/12)` best models the population of the city `m` months after the census. The term `(1.04)^(m/12)` accounts for the adjustment in the growth rate over the duration of `m` months.Therefore, the correct answer is C) `r(m) = 75,000(1.04)^(m/12)`.close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3758,
+    "stimulus": "",
+    "question_stem": "`3x + 4y = 17``2x + 5y = 9`The solution to the given system of equations is `(x, y)`. What is the value of `y`?",
+    "answer_choices": {
+      "A": "-1",
+      "B": "3",
+      "C": "2",
+      "D": "5"
+    },
+    "answer_ids": {
+      "A": 13181,
+      "B": 13182,
+      "C": 13183,
+      "D": 13184
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3758/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:34.636941",
+    "explanation": "✕ExplanationTo find the value of `y`, we need to solve the given system of equations.We can solve the system by using the method of substitution or elimination. Let's use the method of elimination to solve the system.Multiplying the first equation by 2 and the second equation by 3, we have:`6x + 8y = 34``6x + 15y = 27`Subtracting the second equation from the first equation, we get:`(6x + 8y) - (6x + 15y) = 34 - 27``-7y = 7`Dividing both sides of the equation by -7, we have:`y = -1`Therefore, the value of `y` for the given system of equations is -1. The correct answer is A) -1.close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3759,
+    "stimulus": "",
+    "question_stem": "The minimum value of `y` is 8 less than 4 times another number `m`. Which inequality shows the possible values of `y`?",
+    "answer_choices": {
+      "A": "`y <= 4m - 8`",
+      "B": "`y >= 4m - 8`",
+      "C": "`y <= 8 - 4m`",
+      "D": "`y >= 8 - 4m`"
+    },
+    "answer_ids": {
+      "A": 13185,
+      "B": 13186,
+      "C": 13187,
+      "D": 13188
+    },
+    "metadata": {},
+    "exam_id": 71,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3759/?question_set=exam&exam_id=71",
+    "scraped_at": "2025-07-05T20:04:35.369622",
+    "explanation": "✕ExplanationTo determine the inequality that represents the possible values of `y`, we need to consider the given information.The minimum value of `y` is 8 less than 4 times another number `m`. This can be represented as:`y >= 4m - 8`The inequality `y >= 4m - 8` indicates that `y` is greater than or equal to 4 times `m` minus 8.Therefore, the correct answer is B) `y >= 4m - 8`.close",
+    "correct_answer": "B"
+  }
+]

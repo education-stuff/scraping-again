@@ -1,0 +1,646 @@
+[
+  {
+    "question_id": 3025,
+    "stimulus": "",
+    "question_stem": "The expression 5<em>a</em><sup>3</sup> – 3<em>a</em><sup>3</sup> + 6<em>a</em><sup>2</sup> is equivalent to which of the following expressions?",
+    "answer_choices": {
+      "A": "2<em>a</em><sup>3</sup> + 6<em>a</em><sup>2</sup>",
+      "B": "5<em>a</em><sup>3</sup> + 3<em>a</em><sup>2</sup>",
+      "C": "6<em>a</em><sup>2</sup> – 15<em>a</em><sup>6</sup>",
+      "D": "8<em>a</em><sup>2</sup>"
+    },
+    "answer_ids": {
+      "A": 10649,
+      "B": 10650,
+      "C": 10651,
+      "D": 10652
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for an equivalent form of an expression. Use Bite-Sized Pieces and Process of Elimination to tackle this question. Start by combining the terms that have <em>a</em><sup>3</sup>. Subtract the coefficients to get 5<em>a</em><sup>3</sup> – 3<em>a</em><sup>3</sup> = 2<em>a</em><sup>3</sup>. Eliminate (B), (C), and (D) because they do not include this term. Choice (A) also correctly leaves 6<em>a</em><sup>2</sup> by itself because no other terms have an exponent of 2. The correct answer is (A).\n                        </div>",
+    "correct_answer": "A",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3025/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:22.224035"
+  },
+  {
+    "question_id": 3026,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\">\n<table border=\"1\" style=\"width: 26.7459%; border-collapse: collapse; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr>\n<td style=\"width: 13.2987%;\"><em>x</em></td>\n<td style=\"width: 13.4472%;\"><em>g</em>(<em>x</em>)</td>\n</tr>\n<tr>\n<td style=\"width: 13.2987%;\">2</td>\n<td style=\"width: 13.4472%;\">–4</td>\n</tr>\n<tr>\n<td style=\"width: 13.2987%;\">3</td>\n<td style=\"width: 13.4472%;\">–2</td>\n</tr>\n<tr>\n<td style=\"width: 13.2987%;\">4</td>\n<td style=\"width: 13.4472%;\">0</td>\n</tr>\n<tr>\n<td style=\"width: 13.2987%;\">5</td>\n<td style=\"width: 13.4472%;\">2</td>\n</tr>\n</tbody>\n</table>\n</div>\n<br/>The table shows four values of <em>x</em> and their corresponding values of <em>g</em>(<em>x</em>) for function <em>g</em>. Which equation defines function <em>g</em>?",
+    "answer_choices": {
+      "A": "<em>g</em>(<em>x</em>) = <em>x</em> – 6",
+      "B": "<em>g</em>(<em>x</em>) = 2<em>x</em> – 8",
+      "C": "<em>g</em>(<em>x</em>) = 3<em>x</em> – 12",
+      "D": "<em>g</em>(<em>x</em>) = 4<em>x</em> – 12"
+    },
+    "answer_ids": {
+      "A": 10653,
+      "B": 10654,
+      "C": 10655,
+      "D": 10656
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the equation that defines a function. In function notation, the number inside the parentheses is the <em>x</em>-value that goes into the function, or the input, and the value that comes out of the function is the <em>y</em>-value, or the output. The table provides several pairs of input and output values, so plug those into the answer choices and eliminate answers that don’t work. Pairs of values that include 0 often make more than one answer work, and negative numbers can be tricky to work with, so start with the fourth pair of values. Plug <em>x</em> = 5 and <em>g</em>(<em>x</em>) = 2 into each answer choice. Choice (A) becomes 2 = 5 – 6, or 2 = –1. This is not true, so eliminate (A). Choice (B) becomes 2 = 2(5) – 8, or 2 = 2. This is true, so keep (B), but check the remaining answers. Choice (C) becomes 2 = 3(5) – 12, or 2 = 3; eliminate (C). Choice (D) becomes 2 = 4(5) – 12, or 2 = 8; eliminate (D). The correct answer is (B).\n                        </div>",
+    "correct_answer": "B",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3026/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:23.052035"
+  },
+  {
+    "question_id": 3027,
+    "stimulus": "",
+    "question_stem": "Yesterday, Tiki cycled 13 fewer miles than Irina. If the two of them cycled a total of 51 miles yesterday, how many miles did Irina cycle?",
+    "answer_choices": {
+      "A": "19",
+      "B": "32",
+      "C": "38",
+      "D": "64"
+    },
+    "answer_ids": {
+      "A": 10657,
+      "B": 10658,
+      "C": 10659,
+      "D": 10660
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for a value given a specific situation. Since the question asks for a specific value and the answers contain numbers in increasing order, plug in the answers. Rewrite the answer choices on the scratch paper and label them “miles Irina cycled.” Start with one of the values in the middle and try (B), 32. The question states that <em>Tiki cycled 13 fewer miles than Irina</em>. If Irina cycled 32 miles, Tiki cycled 32 – 13 = 19 miles. The question also states that <em>the two of them cycled a total of 51 miles</em>. If Irina cycled 32 miles and Tiki cycled 19 miles, they cycled a combined 32 + 19 = 51 miles. This matches the information in the question, so stop here. The correct answer is (B).\n                        </div>",
+    "correct_answer": "B",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3027/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:24.180314"
+  },
+  {
+    "question_id": 3028,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\">8<em>x</em> – 5<em>y</em> = 27</div>\n<div style=\"text-align: center;\">5<em>x</em> + 10<em>y</em> = 30</div>\n<br/>The solution set of the given system of equations is (<em>x</em>, <em>y</em>). What is the value of <em>y</em>?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the value of the y-coordinate of the solution to a system of equations. One method is to enter both equations into the built-in graphing calculator, then scroll and zoom as needed to find the point of intersection. The lines intersect at (4, 1), so the <em>y</em>-coordinate is 1. To solve the system for the <em>y</em>-coordinate algebraically, find a way to make the <em>x</em>-coordinates disappear when stacking and adding the equations. Compare the <em>x</em>-terms: a common multiple of 8 and 5 is 40. Multiply the entire first equation by 5 to get 40<em>x</em> – 25<em>y</em> = 135. Multiply the entire second equation by –8 to get the same coefficient with opposite signs on the <em>x</em>-terms. The second equation becomes –40<em>x</em> – 80<em>y</em> = –240. Now stack and add the two equations. <br/><br/>\n<div style=\"text-align: center;\">     40<em>x</em> – 25<em>y</em> =   135<br/><span style=\"text-decoration: underline;\">+ –40<em>x</em> – 80<em>y</em> = –240</span><br/>           –105<em>y</em> = –105</div>\n<br/>Divide both sides of the resulting equation by –105 to get <em>y</em> = 1. Using either method, the correct answer is 1.\n                        </div>",
+    "correct_answer": "",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3028/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:25.127981"
+  },
+  {
+    "question_id": 3029,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\"><em>g</em>(<em>x</em>) = 2<em>x</em><sup>2</sup> – <em>kx</em> + 14</div>\n<br/>Function <em>g</em> is defined by the given equation. If the graph of function g in the <em>xy</em>-plane contains the point (4, –2), what is the value of <em>k</em>?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the value of a constant in a function. In function notation, the number inside the parentheses is the <em>x</em>-value that goes into the function, or the input, and the value that comes out of the function is the <em>y</em>-value, or the output. The question provides a point on the graph, which means that an input value of 4 has an output value of –2. Plug<em> x</em> = 4 and <em>g</em>(<em>x</em>) = –2 into the function to get –2 = 2(4)<sup>2</sup> – 4<em>k</em> + 14. Simplify the right side of the equation to get –2 = 2(16) – 4<em>k</em> + 14, then –2 = 32 – 4<em>k</em> + 14, and then –2 = 46 – 4<em>k</em>. Subtract 46 from both sides of the equation to get –48 = –4<em>k</em>, and then divide both sides of the equation by –4 to get 12 = <em>k</em>. The correct answer is 12.\n                        </div>",
+    "correct_answer": "",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3029/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:26.063976"
+  },
+  {
+    "question_id": 3030,
+    "stimulus": "",
+    "question_stem": "The total rainfall, in inches, for a certain county from 2010 to 2020 can be modeled by the equation <em>y</em> = –0.14<em>x</em> + 7.8, where <em>x</em> is the number of years since 2010 and <em>y</em> is the total annual rainfall. Which of the following is the best interpretation of the number –0.14 in this context?",
+    "answer_choices": {
+      "A": "The total annual rainfall in 2010",
+      "B": "The total annual rainfall in 2020",
+      "C": "The difference between the total rainfall in 2010 and the total rainfall in 2020",
+      "D": "The decrease in average rainfall per year from 2010 to 2020"
+    },
+    "answer_ids": {
+      "A": 10661,
+      "B": 10662,
+      "C": 10663,
+      "D": 10664
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the interpretation of a term in context. Start by reading the final question, which asks for the meaning of –0.14. Rewrite the equation on the scratch paper. Then label the parts of the equation with the information given, and eliminate answers that do not match the labels. The question states that <em>x represents the number of years since 2010</em>, and that <em>y is the total annual rainfall</em>. Thus, –0.14 has something to do with each year. Eliminate (A) and (B) because the total annual rainfall in one year is represented by <em>y</em>, not by <em>x</em>. Eliminate (C) because it is the difference between the <em>y</em>-value for 2010 and the<em> y</em>-value for 2020. Choice (D) describes something that occurs every year, and –0.14 is multiplied by the number of years, so this fits the information in the question. The correct answer is (D).\n                        </div>",
+    "correct_answer": "D",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3030/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:26.941372"
+  },
+  {
+    "question_id": 3031,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\">3<em>y</em> &lt; 7</div>\n<div style=\"text-align: center;\"><em>x</em> &lt; 3<em>y</em> + 4</div>\n<br/>If the point (<em>x</em>, <em>y</em>) is a solution to the given system of inequalities, what is the greatest possible integer value of <em>x</em>?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the greatest possible <em>x</em>-value of the solution to a system of inequalities. According to the first inequality, 3<em>y</em> cannot be greater than 7. Plug in 7 for 3<em>y</em> in the second inequality to get <em>x</em> &lt; 7 + 4, which becomes <em>x</em> &lt; 11. The  question asks for the greatest integer value of <em>x</em>, and the greatest integer less than 11 is 10. The correct answer is 10.\n                        </div>",
+    "correct_answer": "",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3031/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:27.751653"
+  },
+  {
+    "question_id": 3032,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\">–3<em>x</em> + 4<em>y</em> = 5</div>\n<br/>In the <em>xy</em>-plane, the graph of which of the following equations is perpendicular to the graph of the given equation?",
+    "answer_choices": {
+      "A": "3<em>x</em> + 6<em>y</em> = 5",
+      "B": "3<em>x</em> + 8<em>y</em> = 2",
+      "C": "4<em>x</em> + 3<em>y</em> = 5",
+      "D": "4<em>x</em> + 6<em>y</em> = 5"
+    },
+    "answer_ids": {
+      "A": 10665,
+      "B": 10666,
+      "C": 10667,
+      "D": 10668
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the equation of a line that is perpendicular to the given line. Perpendicular lines have slopes that are negative reciprocals. The given equation and the equations in the answer choices are all in standard form, <em>Ax</em> + <em>By</em> = <em>C</em>. When a linear equation is in standard form, the slope is<img align=\"middle\" alt=\"negative A over B\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/62e2968b-8114-4005-83c2-4d2941f92f15_5b4e3f63-f549-4aac-976f-e042dde873c0.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"34\"/>. The slope of the first equation is <img align=\"middle\" alt=\"negative fraction numerator negative 3 over denominator 4 end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/62e2968b-8114-4005-83c2-4d2941f92f15_2cd16624-1c8b-4f41-bd5f-1bed48b3587c.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"44\"/> , or <img align=\"middle\" alt=\"3 over 4\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/62e2968b-8114-4005-83c2-4d2941f92f15_c79f8c6e-76e9-4a5e-9f85-19e3f2e4751c.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/>. The slope of a line perpendicular to this line will be <img align=\"middle\" alt=\"negative 4 over 3\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/62e2968b-8114-4005-83c2-4d2941f92f15_c6fd40be-0ce5-4513-b26b-c775d715d827.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"31\"/>. Determine the slope of each answer choice to see which one matches this value. For (A), the slope is <img align=\"middle\" alt=\"negative 3 over 6\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/62e2968b-8114-4005-83c2-4d2941f92f15_ddcda040-4c6a-446a-b962-3c7e7c18031d.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"31\"/>, or <img align=\"middle\" alt=\"negative 1 half\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/62e2968b-8114-4005-83c2-4d2941f92f15_bca2495c-e57d-45ad-a65c-09736c821f56.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"31\"/>. This is not equal to the target slope of <img align=\"middle\" alt=\"negative 4 over 3\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/62e2968b-8114-4005-83c2-4d2941f92f15_bbf1f0d8-9bde-499b-9166-d7bd78e15c12.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"31\"/>, so eliminate (A). For (B), the slope is <img align=\"middle\" alt=\"negative 3 over 8\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/62e2968b-8114-4005-83c2-4d2941f92f15_123a9da7-6095-404c-9736-9c2f58c87ff2.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"31\"/>; eliminate (B). For (C), the slope is <img align=\"middle\" alt=\"negative 4 over 3\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/62e2968b-8114-4005-83c2-4d2941f92f15_23f62b5d-4314-4150-964e-35aa3f1925c2.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"31\"/>, which matches the target slope, so stop here. The correct answer is (C).\n                        </div>",
+    "correct_answer": "C",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3032/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:28.561014"
+  },
+  {
+    "question_id": 3033,
+    "stimulus": "",
+    "question_stem": "Banerji currently owns 6,500 baseball cards. He is gradually selling his collection and estimates that the number of cards he owns will decrease by 20 percent every 6 months. Which of the following functions best models Banerji’s estimate of the number of baseball cards, <em>B</em>, he will own m months from now?",
+    "answer_choices": {
+      "A": "<em>B</em>(<em>m</em>) = 6,500<img align=\"middle\" alt=\"open parentheses 0.2 close parentheses to the power of m over 6 end exponent\" height=\"38\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/7e357a28-b45d-4d3e-8f4a-2482ed14b030_Choice_1017135_ca17c368-60c1-4909-b9da-f5f95d335f1b.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"51\"/>",
+      "B": "<em>B</em>(<em>m</em>) = 6,500<img align=\"middle\" alt=\"open parentheses 0.2 close parentheses to the power of 6 m end exponent\" height=\"22\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/7e357a28-b45d-4d3e-8f4a-2482ed14b030_Choice_1017136_1fc9643a-d15c-448e-8ea0-236be1dbb5f7.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"52\"/>",
+      "C": "<em>B</em>(<em>m</em>) = 6,500<img align=\"middle\" alt=\"open parentheses 0.8 close parentheses to the power of m over 6 end exponent\" height=\"38\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/7e357a28-b45d-4d3e-8f4a-2482ed14b030_Choice_1017137_b6c4d73f-a3c4-4fb3-bfed-76ca698f59b3.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"51\"/>",
+      "D": "<em>B</em>(<em>m</em>) = 6,500<img align=\"middle\" alt=\"open parentheses 0.8 close parentheses to the power of 6 m end exponent\" height=\"22\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/7e357a28-b45d-4d3e-8f4a-2482ed14b030_Choice_1017138_7485de89-e5b8-4dd3-a471-a34b6a0b2f63.svg\" style=\"max-width: none; vertical-align: -4px;\" width=\"52\"/>"
+    },
+    "answer_ids": {
+      "A": 10669,
+      "B": 10670,
+      "C": 10671,
+      "D": 10672
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for an equation that represents a specific situation. The number of baseball cards in the collection is decreasing by a certain percent over time, so this question is about exponential decay. Write down the growth and decay formula, which is <em>final amount</em> = (<em>original amount</em>)(1 ± <em>rate</em>)<sup><em>number of changes</em></sup>. The question states that the <em>original amount</em> is 6,500, and all of the answers include this piece. The question also states that the number <em>will decrease by 20 percent</em>. This is the <em>rate</em>, and 20% in decimal form is 0.2. Because the number of cards is decreasing, the value inside the parentheses is (1 – <em>rate</em>), which is (1 – 0.2) = 0.8. Eliminate (A) and (B) because they have the wrong value inside the parentheses. The number of cards decreases once every 6 months, and the exponents in the answer choices are in terms of <em>m</em> months. Plug in a value for <em>m</em>. After 12 months, the number of cards in the collection will decrease twice, so when <em>m</em> = 12, the<em> number of changes</em> is 2. Plug <em>m</em> = 12 into the exponent in (C) to get <img align=\"middle\" alt=\"12 over 6\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/7e357a28-b45d-4d3e-8f4a-2482ed14b030_ae73b8ea-52c8-4801-a1a3-9e4b908a90f0.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"27\"/> = 2; keep (C). Plug <em>m</em> = 12 into the exponent in (D) to get 6(12) = 72; eliminate (D). The correct answer is (C).\n                        </div>",
+    "correct_answer": "C",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3033/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:29.324407"
+  },
+  {
+    "question_id": 3034,
+    "stimulus": "",
+    "question_stem": "The volume of a cube is <em>v</em> = <img align=\"middle\" alt=\"1 over 8\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/30153d2b-03a9-4a20-845e-be06a3cceec4_3d94babc-5008-4eb8-8b94-86fe86d256da.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/><em>c</em><sup>3</sup>, where <em>c</em> is a positive constant. Which of the following gives the surface area of the cube?",
+    "answer_choices": {
+      "A": "6<img align=\"middle\" alt=\"open parentheses c over 2 close parentheses squared\" height=\"43\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/24d63066-1c75-4024-96d3-284f4d18c092_Choice_812397_392cec42-2808-4ec0-b109-449dfcd7f2a2.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"39\"/>",
+      "B": "6<img align=\"middle\" alt=\"open parentheses c squared over 2 close parentheses\" height=\"44\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/24d63066-1c75-4024-96d3-284f4d18c092_Choice_1017276_9eb49c4a-6f6c-46cf-a11e-a937949aa3b2.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"39\"/>",
+      "C": "6<em>c</em><sup>2</sup>",
+      "D": "12<em>c</em><sup>2</sup>"
+    },
+    "answer_ids": {
+      "A": 10673,
+      "B": 10674,
+      "C": 10675,
+      "D": 10676
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the surface area of a geometric figure. Use the Geometry Basic Approach. Draw a cube as best as possible, and then write down the relevant formulas. Write down the formula for the volume of a cube, either from memory or after looking it up on the reference sheet. The reference sheet doesn’t give the formula for the volume of a cube, but it does give the volume of a rectangular solid: <em>V</em> = <em>lwh</em>. All three sides of a cube are the same length, so the formula becomes <em>V</em> = <em>s</em><sup>3</sup>. There is a variable in the question and the answers, so plug a value for <em>c</em> into the equation given in the question to find the volume of the cube. Plug in <em>c</em> = 4 to get <em>V</em> = <img align=\"middle\" alt=\"1 over 8\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/30153d2b-03a9-4a20-845e-be06a3cceec4_7fa855c6-8ff4-4ccc-9d0b-073c80c56cb5.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/>(4)<sup>3</sup>, then <em>V</em> = <img align=\"middle\" alt=\"1 over 8\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/30153d2b-03a9-4a20-845e-be06a3cceec4_f1d7ff7c-4df4-4680-97bf-1c5c9f2d6618.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/>(64), and finally <em>V</em> = 8. Plug this volume into the volume formula for a cube to solve for the side length: 8 = <em>s</em><sup>3</sup>. Take the positive cube root of both sides of the equation to get 2 = <em>s</em>. Label this on the figure. <br/><br/>The surface area of a geometric figure is the sum of the areas of its sides. Since a cube has 6 sides that are identical squares, and the formula for the area of a square is <em>A</em> = <em>s</em><sup>2</sup>, the formula for the surface area of a cube is <em>SA</em> = 6<em>s</em><sup>2</sup>. Plug the side length of 2 into the surface area formula to get <em>SA</em> = 6(2)<sup>2</sup> = 6(4) = 24. This is the target value; write it down and circle it. Now plug <em>c</em> = 4 into the answer choices and eliminate any that do not match the target value. Choice (A) becomes 6<img align=\"middle\" alt=\"open parentheses 4 over 2 close parentheses squared\" height=\"43\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/30153d2b-03a9-4a20-845e-be06a3cceec4_b9310f91-fe19-4aff-b7a3-4ba8ef6aeccf.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"39\"/> = 6(2)<sup>2</sup> = 6(4) = 24. This matches the target value, so keep (A), but check the remaining answers just in case. Choice (B) becomes 6<img align=\"middle\" alt=\"open parentheses 4 squared over 2 close parentheses\" height=\"44\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/30153d2b-03a9-4a20-845e-be06a3cceec4_a1ae8d99-b495-4005-a4fa-a96b37aa0692.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"39\"/> = 6<img align=\"middle\" alt=\"open parentheses 16 over 2 close parentheses\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/30153d2b-03a9-4a20-845e-be06a3cceec4_11edee17-872b-459c-aa24-806ad49a8cf3.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"41\"/> = 6(8) = 48. This does not match the target value, so eliminate (B). Choice (C) becomes 6(4)<sup>2</sup> = 6(16) = 96; eliminate (C). Choice (D) will have an even larger result than (C), so eliminate (D). The correct answer is (A).\n                        </div>",
+    "correct_answer": "A",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3034/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:30.229847"
+  },
+  {
+    "question_id": 3035,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\"><em>y</em> = (<em>x</em> – 7)(3<em>x</em> + 4)</div>\n<div style=\"text-align: center;\"><em>x</em> = 3<em>y</em> – 1</div>\n<br/>At how many points do the graphs of the given equations intersect in the <em>xy</em>-plane?",
+    "answer_choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "answer_ids": {
+      "A": 10677,
+      "B": 10678,
+      "C": 10679,
+      "D": 10680
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the number of solutions to a system of equations. The most efficient method is to enter both equations into the built-in graphing calculator, then scroll and zoom as needed to see how many times, if at all, the two graphs intersect. There are two points of intersection, at (–1.329, –0.11) and (7.107, 2.702), so the equation has two real solutions. The correct answer is (B).\n                        </div>",
+    "correct_answer": "B",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3035/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:31.101793"
+  },
+  {
+    "question_id": 3036,
+    "stimulus": "",
+    "question_stem": "Jessica owns a store that sells only laptops and tablets. Last week, her store sold 90 laptops and 210 tablets. This week, the sales, in number of units, of laptops increased by 50 percent, and the sales, in number of units, of tablets increased by 30 percent. By what percentage did total sales, in units, in Jessica’s store increase?",
+    "answer_choices": {
+      "A": "20 percent",
+      "B": "25 percent",
+      "C": "36 percent",
+      "D": "80 percent"
+    },
+    "answer_ids": {
+      "A": 10681,
+      "B": 10682,
+      "C": 10683,
+      "D": 10684
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for a change in value expressed as a percentage. One method is to ballpark. The number of units sold of both products increased, one by 50% and the other by 30%, so the total increase must be between 30% and 50%. Only (C) is within this range, so it must be correct. <br/><br/>Another method is to translate the English to math in Bite-Sized Pieces. One piece of information says that the sales of laptops <em>increased by 50%</em> this week. Since <em>percent</em> means out of 100, translate 50% as <img align=\"middle\" alt=\"50 over 100\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/d196c6ae-a4eb-4fad-8bc1-3f87c5ff7fbe_f6d3ad9f-ed4e-45d5-baad-e7c4a68a9254.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"36\"/>, and find 50% of the 90 laptops sold: <img align=\"middle\" alt=\"50 over 100\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/d196c6ae-a4eb-4fad-8bc1-3f87c5ff7fbe_aac7992a-f543-4952-ab35-da1fbc5846ce.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"36\"/>(90) = 45. Add this to the number of laptops sold last week to get 90 + 45 = 135. Another piece of information says that the store sold 210 tablets last week, and that the sales of tablets <em>increased by 30%</em>. Follow the same steps to get 210 + <img align=\"middle\" alt=\"30 over 100\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/d196c6ae-a4eb-4fad-8bc1-3f87c5ff7fbe_fbba770f-d9b1-4661-88cb-bbf89898c253.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"36\"/>(210) = 210 + 63 = 273. The total number of units sold this week is 135 + 273 = 408. Add the number of laptops and tablets sold last week to get a total number of units sold last week of 90 + 210 = 300. Now, plug in the answer choices to see which percent increases the sales from 300 to 408. Start with (B), 25%. A 25% increase from 300 is 300 + <img align=\"middle\" alt=\"25 over 100\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/d196c6ae-a4eb-4fad-8bc1-3f87c5ff7fbe_8672b520-3033-4b89-bb0e-422d98107bfd.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"36\"/>(300) = 300 + 75 = 375. This is not 408, so eliminate (B). The result was too small, so also eliminate (A) and try (C) next. A 36% increase from 300 is 300 + <img align=\"middle\" alt=\"36 over 100\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/d196c6ae-a4eb-4fad-8bc1-3f87c5ff7fbe_90ef89e2-d1d0-4166-be5b-87c5aa02b55c.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"36\"/>(300) = 300 + 108 = 408. This matches the information in the question, so stop here. <br/><br/>Using either method the correct answer is (C).\n                        </div>",
+    "correct_answer": "C",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3036/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:31.848305"
+  },
+  {
+    "question_id": 3037,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\">–2(5 – 9<em>x</em>) = 6(3<em>x</em> + 4)</div>\n<br/>The given equation has how many solutions?",
+    "answer_choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "answer_ids": {
+      "A": 10685,
+      "B": 10686,
+      "C": 10687,
+      "D": 10688
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the number of solutions to an equation. Distribute on both sides of the equation to get –10 + 18<em>x</em> = 18<em>x</em> + 24. Subtract 18<em>x</em> from both sides of the equation to get –10 = 24. This is not true, so the equation has no solutions. <br/><br/>Another approach is to enter each expression in a separate entry field in the built-in graphing calculator to see that the lines are parallel and never intersect. <br/><br/>Using either method, the correct answer is (D).\n                        </div>",
+    "correct_answer": "D",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3037/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:32.565463"
+  },
+  {
+    "question_id": 3038,
+    "stimulus": "",
+    "question_stem": "The mean weight of 6 people in an elevator is 160.5 pounds. If the person with the lowest weight gets off, the mean weight of the remaining 5 people becomes 168 pounds. What is the weight, in pounds, of the person with the lowest weight?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for a value based on means, or averages. For averages, use the formula <em>T</em> = <em>AN</em>, in which <em>T</em> is the <em>Total</em>, <em>A</em> is the <em>Average</em>, and <em>N</em> is the <em>Number of things</em>. When there are 6 people on the elevator, the <em>average</em> is 160.5 and the <em>number of things</em> is 6, so the equation becomes <em>T</em> = (160.5) (6), or <em>T</em> = 963. When the person with the lowest weight gets off the elevator, the <em>average</em> is 168 and the <em>number of things</em> is 5. The average equation becomes <em>T</em> = (168)(5), or <em>T</em> = 840. To find the weight of the person with the lowest weight, subtract the two totals to get 963 – 840 = 123. The correct answer is 123.\n                        </div>",
+    "correct_answer": "",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3038/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:33.318799"
+  },
+  {
+    "question_id": 3039,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\">4<em>x</em><sup>2</sup> – 5<em>x</em> = <em>k</em></div>\n<br/>In the given equation,<em> k</em> is a constant. If the equation has two real solutions, which of the following could be the value of<em> k</em>?",
+    "answer_choices": {
+      "A": "–4",
+      "B": "–3",
+      "C": "–2",
+      "D": "–1"
+    },
+    "answer_ids": {
+      "A": 10689,
+      "B": 10690,
+      "C": 10691,
+      "D": 10692
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the value of a constant in a quadratic. One method is to enter the equation into the built-in graphing calculator, then plug in each answer choice for <em>k</em> until one of them shows a graph with two solutions. Only –1 does this, so (D) is correct. <br/><br/>To determine when a quadratic equation has two real solutions algebraically, use the discriminant. The discriminant is the part of the quadratic formula under the square root sign and is written as <em>D</em> = <em>b</em><sup>2</sup> – 4<em>ac</em>. When the discriminant is positive, the quadratic has exactly two real solutions; when the discriminant is 0, the quadratic has exactly one real solution; and when the discriminant is negative, the quadratic has no real solutions. Thus, the discriminant of this quadratic must equal a positive number. First, put the quadratic in standard form, which is <em>ax</em><sup>2</sup> + <em>bx</em> +<em> c</em> = 0, by subtracting <em>k</em> from both sides of the equation to get 4<em>x</em><sup>2</sup> – 5<em>x</em> – <em>k</em> = 0. Now that the quadratic is in standard form, <em>a</em> = 4, <em>b</em> = –5, and <em>c</em> = <em>–k</em>. Plug these into the discriminant formula to get <em>D</em> = (–5)<sup>2</sup> – 4(4)(–<em>k</em>), or <em>D</em> = 25 + 16<em>k</em>. Since there are two real solutions, 25 + 16<em>k</em> &gt; 0. Subtract 25 from both sides of the inequality to get 16<em>k</em> &gt; –25, then divide both sides of the inequality by 16 to get<em> k</em> &gt; –1.5625. The only answer choice greater than –1.5625 is –1. <br/><br/>Using either method, the correct answer is (D).\n                        </div>",
+    "correct_answer": "D",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3039/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:34.062163"
+  },
+  {
+    "question_id": 3040,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\"><em>x</em><sup>2</sup> = <em>y</em></div>\n<div style=\"text-align: center;\">6<em>x</em> + 9 = –3(2<em>y</em> – 3)<br/><br/></div>\nIf (<em>x</em>, <em>y</em>) is a solution to the given system of equations and <em>x</em> < 0, what is the value of <em>xy</em>?",
+    "answer_choices": {
+      "A": "–3",
+      "B": "–2",
+      "C": "–1",
+      "D": "1"
+    },
+    "answer_ids": {
+      "A": 10693,
+      "B": 10694,
+      "C": 10695,
+      "D": 10696
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the product of the two coordinates of the solution to a system of equations. One method is to enter both equations into the built-in graphing calculator, then scroll and zoom as needed to find the points of intersection. The graph shows one point of intersection at (0, 0), but the question states that <em>x</em> &lt; 0. The other point of intersection is at (–1, 1). Thus, <em>x</em> = –1, <em>y</em> = 1, and <em>xy</em> = –1. <br/><br/>To solve algebraically, substitute <em>x</em><sup>2</sup> for <em>y</em> in the second equation to get 6<em>x</em> + 9 = –3(2<em>x</em><sup>2</sup> – 3). Simplify the right side of the equation to get 6<em>x</em> + 9 = –6<em>x</em><sup>2</sup> + 9. Subtract 9 from both sides of the equation to get 6<em>x</em> = –6<em>x</em><sup>2</sup>. Divide both sides of the equation by –6<em>x</em> to get –1 = <em>x</em>. Plug <em>x</em> = –1 into the first equation to solve for <em>y:</em> (–1)<sup>2</sup> = <em>y</em>, so <em>y</em> = 1. Finally, solve for <em>xy</em>: (–1)(1) = –1. <br/><br/>Using either method, the correct answer is (C).\n                        </div>",
+    "correct_answer": "C",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3040/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:34.820875"
+  },
+  {
+    "question_id": 3041,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\"><img alt=\"The figure presents triangle ABC. Side AC is the base. A line is drawn from point B to base AC, forming a right angle wth the base.\" height=\"174\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_image_2023-08-01_202222683.png\" width=\"342\"/></div>\n<br/>In triangle <em>ABC</em>, sin(<em>A</em>) = cos(<em>C</em>). If angle <em>A</em> measures 6<em>m</em> – 9 degrees and angle <em>C</em> measures 8<em>m</em> – 6 degrees, what is the value of <em>m</em>?",
+    "answer_choices": {
+      "A": "5.4",
+      "B": "7.5",
+      "C": "10.5",
+      "D": "13.5"
+    },
+    "answer_ids": {
+      "A": 10697,
+      "B": 10698,
+      "C": 10699,
+      "D": 10700
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for a value given information about trigonometric functions. Use the Geometry Basic Approach. Redraw the figure, and then label it with information from the question. The question asks for a specific value and the answers contain numbers in increasing order, so plug in the answers. Rewrite the answer choices and label them “<em>m</em>.” Start with one of the middle numbers and try (B), 7.5. If <em>m</em> = 7.5, the measure of angle <em>A</em> is 6(7.5) – 9 = 45 – 9 = 36; label this on the figure. The measure of angle <em>C</em> is 8(7.5) – 6 = 60 – 6 = 54; label this on the figure. Use a calculator in degree mode to get sin(36) ≈ 0.588 and cos(54) ≈ 0.588. The values are equal, which matches the information in the question, so stop here. The correct answer is (B).\n                        </div>",
+    "correct_answer": "B",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3041/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:35.550099"
+  },
+  {
+    "question_id": 3042,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\"><img alt=\"The figure presents dot plots for two sets of data. The left dot plot is labeled Data Set 1 and the right dot plot is labeled Data set 2. The data points for the dot plots are listed as follows. Data Set 1. 3, three data points. 4, three data points. 5, three data points. 6, two data points. 7, two data points. 8, one data point. 9, one data point. Data Set 2. 8, one data point. 9, zero data points. 10, one data point. 11, three data points. 12, six data points. 13,four data points.\" height=\"157\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_image_2023-08-01_202700301.png\" width=\"400\"/></div>\n<br/>The dot plots represent 15 values in data set 1 and 15 values in data set 2. Which of the following statements about the standard deviations and ranges of the two data sets is true?",
+    "answer_choices": {
+      "A": "The standard deviation of data set 1 is less than the standard deviation of data set 2, and the range of data set 1 is greater than the range of data set 2.",
+      "B": "The standard deviation of data set 1 is less than the standard deviation of data set 2, and the range of data set 1 is equal to the range of data set 2.",
+      "C": "The standard deviation of data set 1 is greater than the standard deviation of data set 2, and the range of data set 1 is equal to the range of data set 2.",
+      "D": "The standard deviation of data set 1 is greater than the standard deviation of data set 2, and the range of data set 1 is greater than the range of data set 2."
+    },
+    "answer_ids": {
+      "A": 10701,
+      "B": 10702,
+      "C": 10703,
+      "D": 10704
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for a true statement based on the data. Use Bite-Sized Pieces and Process of Elimination to tackle this question. The answer choices compare the ranges of the two data sets, and range is the difference between the greatest value and the least value, so start there. The range of the values in data set 1 is 9 – 3 = 6, and the range of the values in data set 2 is 13 – 8 = 5. Eliminate (B) and (C) because they say the ranges are equal when the range of data set 1 is greater than the range of data set 2. Standard deviation is a measure of the spread of a group of numbers. A group of numbers close together has a small standard deviation, whereas a group of numbers spread out has a large standard deviation. The values in data set 1 are spread out almost equally among the numbers, whereas the values in data set 2 are clustered around 12. Thus, the standard deviation of data set 1 is greater than the standard deviation of data set 2. Eliminate (A) because it says that the standard deviation of data set 1 is greater than that of data set 2. The correct answer is (D).\n                        </div>",
+    "correct_answer": "D",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3042/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:36.317651"
+  },
+  {
+    "question_id": 3043,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\"><img align=\"middle\" alt=\"1 half\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/215ff11d-c49f-4eb4-849a-d995cdcb7511_3193ef72-386a-4bc5-9fc1-1a9a31f1d371.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/><em>x</em> + <em>ay</em> = 16</div>\n<div style=\"text-align: center;\">4<em>y</em> = 48 – <em>bx</em></div>\n<br/>In the given system of equations, <em>a</em> and <em>b</em> are constants. If there are infinitely many solutions to this system, what is the value of <em>a</em> + <em>b</em>?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the sum of two constants in a system of linear equations. When two linear equations have infinitely many solutions, the two equations are the same line. Therefore, make the two equations look the same. First, put the equations in the same order by adding <em>bx</em> to both sides of the second equation to get <em>bx</em> + 4<em>y</em> = 48. Next, multiply the entire first equation by 3 to make both equations equal 48. The first equation becomes <img align=\"middle\" alt=\"3 over 2\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/215ff11d-c49f-4eb4-849a-d995cdcb7511_13bc1af1-f927-4864-a220-de414ae5b9d6.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/><em>x</em> + 3<em>ay</em> = 48. Set the <em>x</em>-terms equal to each other to get <img align=\"middle\" alt=\"3 over 2\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/215ff11d-c49f-4eb4-849a-d995cdcb7511_315fdc99-2321-4d2c-b689-429592f2ae1a.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/><em>x</em> = <em>bx</em>. Divide both sides of this equation by <em>x</em> to get <img align=\"middle\" alt=\"3 over 2\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/215ff11d-c49f-4eb4-849a-d995cdcb7511_433faa70-5242-4611-96b8-6eeecb86e2ae.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/> = <em>b</em>. Set the <em>y</em>-terms equal to each other to get 3<em>ay</em> = 4<em>y</em>. Divide both sides of this equation by 3<em>y</em> to get <em>a</em> = <img align=\"middle\" alt=\"4 over 3\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/215ff11d-c49f-4eb4-849a-d995cdcb7511_f7dac30a-17d6-4039-a590-ccfe09cf425f.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/>. Finally, add <em>a</em> and <em>b</em>: <img align=\"middle\" alt=\"3 over 2\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/215ff11d-c49f-4eb4-849a-d995cdcb7511_4d70f603-ebdb-4157-b134-4277324decb8.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/> + <img align=\"middle\" alt=\"4 over 3\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/215ff11d-c49f-4eb4-849a-d995cdcb7511_7ad18045-c9a5-4040-89e3-c987e294a458.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/>. Either use a calculator or a common denominator of 6 to get <em>a</em> + <em>b</em> = <img align=\"middle\" alt=\"17 over 6\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/215ff11d-c49f-4eb4-849a-d995cdcb7511_39e42e94-4ab6-43e5-b5f1-fa8b2d7803fd.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"27\"/>. The answer can also be entered in the fill-in box in decimal form, entering digits until there is no more room, as 2.833. The correct answer is <img align=\"middle\" alt=\"17 over 6\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/215ff11d-c49f-4eb4-849a-d995cdcb7511_baff32d5-ae17-4fb4-b309-b3042d95af42.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"27\"/> or 2.833.\n                        </div>",
+    "correct_answer": "",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3043/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:37.033057"
+  },
+  {
+    "question_id": 3044,
+    "stimulus": "",
+    "question_stem": "In the equation 43<em>x</em><sup>2</sup> + (43<em>d</em> + <em>e</em>)<em>x</em> + <em>de</em> = 0, <em>d</em> and <em>e</em> are positive constants. If the sum of the solutions to the given equation is <em>k</em>(43<em>d</em> + <em>e</em>), where <em>k</em> is a constant, what is the value of <em>k</em>?",
+    "answer_choices": {
+      "A": "<img align=\"middle\" alt=\"negative 1 over 45\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/af2b0fb4-e7a1-48a1-b846-9173c70eb774_Choice_1017171_48efbb40-3edc-40e2-8b95-90c90226de2e.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"40\"/>",
+      "B": "<img align=\"middle\" alt=\"negative 1 over 43\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/af2b0fb4-e7a1-48a1-b846-9173c70eb774_Choice_1017172_20baa530-94a8-4cba-8ef6-d80c21c4ee79.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"40\"/>",
+      "C": "43",
+      "D": "45"
+    },
+    "answer_ids": {
+      "A": 10705,
+      "B": 10706,
+      "C": 10707,
+      "D": 10708
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the value of a constant in an equation. When a quadratic is in standard form, which is <em>ax</em><sup>2</sup> + <em>bx</em> + <em>c</em>, the shortcut to find the sum of the solutions is –<img align=\"middle\" alt=\"b over a\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/af2b0fb4-e7a1-48a1-b846-9173c70eb774_c9e383d9-a894-4938-aebf-d9f440e53f67.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"19\"/>. In this quadratic, <em>a</em> = 43 and <em>b</em> = (43<em>d</em> + <em>e</em>), so the sum of the solutions is <img align=\"middle\" alt=\"negative fraction numerator open parentheses 43 d plus e close parentheses over denominator 43 end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/af2b0fb4-e7a1-48a1-b846-9173c70eb774_fdac31a2-efba-429e-9ace-79da9ab5cf5c.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"85\"/>. The question states that the sum of the solutions can also be written as <em>k</em>(43<em>d</em> + <em>e</em>), so set these values equal to each other: <img align=\"middle\" alt=\"negative fraction numerator open parentheses 43 d plus e close parentheses over denominator 43 end fraction\" height=\"42\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/af2b0fb4-e7a1-48a1-b846-9173c70eb774_a4d77144-cd36-4ff1-8c73-b3b2f3a730e8.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"85\"/> = <em>k</em>(43<em>d</em> + <em>e</em>). Multiply both sides of the equation by 43 to get –(43<em>d</em> + <em>e</em>) = 43<em>k</em>(43<em>d</em> + <em>e</em>). Divide both sides of the equation by (43<em>d</em> + <em>e</em>) to get –1 = 43<em>k</em>. Finally, divide both sides of the equation by 43 to get <img align=\"middle\" alt=\"negative 1 over 43\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/af2b0fb4-e7a1-48a1-b846-9173c70eb774_4646c0a2-0483-4881-bf1d-b6fbe5f2fd94.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"40\"/> = <em>k</em>. The correct answer is (B).\n                        </div>",
+    "correct_answer": "B",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3044/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:37.781116"
+  },
+  {
+    "question_id": 3045,
+    "stimulus": "",
+    "question_stem": "<div style=\"text-align: center;\"><img alt=\"The figure shows a three-dimensional capsule formed from a cylinder with a hemisphere on either end. The length of the cylinder is 12 feet. The radius of the hemispheres is 3 feet.\" height=\"165\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_image_2023-08-01_204537985.png\" width=\"408\"/></div>\n<br/>A capsule with the measurements shown in the figure is built from a cylinder and two halves of a sphere. Which of the following is the volume, in cubic feet, of the capsule?",
+    "answer_choices": {
+      "A": "108π",
+      "B": "126π",
+      "C": "144π",
+      "D": "180π"
+    },
+    "answer_ids": {
+      "A": 10709,
+      "B": 10710,
+      "C": 10711,
+      "D": 10712
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for the volume of a geometric figure. Find the volume of each piece of the capsule separately, and then add the volumes together. Use the Geometry Basic Approach. The figure is already drawn and labeled, but redraw it on the scratch paper if that makes it easier to see what’s going on. Write down the relevant formulas, either from memory or after looking them up on the reference sheet. The formula for the volume of a cylinder is <em>V</em> = π<em>r</em><sup>2</sup><em>h</em>, and the formula for the volume of a sphere is <em>V</em> = <img align=\"middle\" alt=\"4 over 3\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/deb5e871-472d-444c-90d7-4dd4dbdfb7b6_abc303ac-3aeb-4526-9ba4-4af5ec57ed08.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/>π<em>r</em><sup>3</sup>. The radius of the cylinder is given on the figure as 3, and the height is given as 12, so the volume of the cylinder is <em>V</em> = π(3)<sup>2</sup>(12), which becomes <em>V</em> = π(9)(12), and then <em>V</em> = 108π. The two ends of the capsule make up one complete sphere, and the radius of the sphere is given on the figure as 3. The volume of the complete sphere is <em>V</em> = <img align=\"middle\" alt=\"4 over 3\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/deb5e871-472d-444c-90d7-4dd4dbdfb7b6_c4b67519-cbd2-46a8-a9e4-b0a4405d4b31.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/>π(3)<sup>3</sup>, which becomes <em>V</em> = <img align=\"middle\" alt=\"4 over 3\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/deb5e871-472d-444c-90d7-4dd4dbdfb7b6_bec4f1ce-22df-42f7-bee3-6b439cc0f0d4.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"18\"/>π(27), and then <em>V</em> = 36π. The volume of the entire capsule is 108π + 36π = 144π. The correct answer is (C).\n                        </div>",
+    "correct_answer": "C",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3045/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:38.532913"
+  },
+  {
+    "question_id": 3046,
+    "stimulus": "",
+    "question_stem": "In the <em>xy</em>-plane, the graph of 4<em>x</em><sup>2</sup> + 20<em>x</em> + 4<em>y</em><sup>2</sup> – 12<em>y</em> = 110 is a circle. What is the radius of the circle?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Advanced Coordinate Geometry"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for radius of a circle given an equation for its graph. The most efficient approach is to enter the equation into the built-in graphing calculator. Click on the gray dots at the maximum and minimum <em>y</em>-values to find the two ends of the diameter. The maximum <em>y</em>-value is at (–2.5, 7.5), and the minimum <em>y</em>-value is at (–2.5, –4.5). Since the two points have the same <em>x</em>-coordinate, the distance between them is the diameter of the circle. Find the difference to get a diameter of 7.5 – (–4.5) = 12. The radius of a circle is half the diameter, so the radius is 6. The correct answer is 6.\n                        </div>",
+    "correct_answer": "",
+    "exam_id": 42,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - Math - Module 2 - Hard",
+    "test_series": "Free Practice Test",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3046/?question_set=exam&exam_id=42",
+    "scraped_at": "2025-07-06T18:03:39.269962"
+  }
+]

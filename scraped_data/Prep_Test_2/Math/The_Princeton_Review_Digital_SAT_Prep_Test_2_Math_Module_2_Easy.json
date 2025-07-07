@@ -1,0 +1,656 @@
+[
+  {
+    "question_id": 3297,
+    "stimulus": "",
+    "question_stem": "An automobile factory makes 1,200 vehicles in 1 day. If the factory operates continuously for 1weekat this rate, how many vehicles will it make?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3297/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:58:51.566016",
+    "explanation": "✕ExplanationThe question asks for a value given a rate. Begin by reading the question to find information about the rate. The question states that the factorymakes 1,200 vehicles in 1 day, but asks for the number of vehicles in 1week. There are 7 days in 1 week, so set up a proportion, being sure to match up the units. The proportion is. Cross-multiply to get (1)(x) = (1,200)(7), which becomesx= 8,400. Leave out the comma when entering the answer in the fill-in box. The correct answer is 8400.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3298,
+    "stimulus": "",
+    "question_stem": "If 10a= 30, what is the value of 9a?",
+    "answer_choices": {
+      "A": "27",
+      "B": "40",
+      "C": "270",
+      "D": "360"
+    },
+    "answer_ids": {
+      "A": 11633,
+      "B": 11634,
+      "C": 11635,
+      "D": 11636
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3298/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:58:52.326339",
+    "explanation": "✕ExplanationThe question asks for the value of an expression based on an equation. There isn’t a straightforward way to get from 10ato 9a, so start by isolatinga. Divide both sides of the equation by 10 to geta= 3. Next, substitute 3 forain the expression 9ato get 9(3) = 27. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3299,
+    "stimulus": "",
+    "question_stem": "Talula baked 340 cookies and gave 20% of them to her neighbors. How many of the cookies did Talula give to her neighbors?",
+    "answer_choices": {
+      "A": "14",
+      "B": "34",
+      "C": "54",
+      "D": "68"
+    },
+    "answer_ids": {
+      "A": 11637,
+      "B": 11638,
+      "C": 11639,
+      "D": 11640
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3299/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:58:53.052758",
+    "explanation": "✕ExplanationThe question asks for a value based on a percentage. Translate the English to math in Bite-Sized Pieces. The question states that Talulabaked 340 cookies and gave 20% of them to her neighbors.Percentmeans out of 100, so translate 20% as. Translateofas times. Thus, 20% of 340 becomes= 68 cookies that Talula gave to her neighbors. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3300,
+    "stimulus": "",
+    "question_stem": "h(x) = 11x– 5The functionhis defined by the given equation. Whenx= 6, what is the value ofh(x)?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3300/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:58:53.770753",
+    "explanation": "✕ExplanationThe question asks for the value of a function. In function notation, the number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. The question provides an input value, so plugx= 6 into the function to geth(6) = 11(6) – 5. Simplify to geth(6) = 66 – 5, and thenh(6) = 61. The correct answer is 61.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3301,
+    "stimulus": "",
+    "question_stem": "The distribution of 469 dogs that visited a dog park over an 11-day period is shown in the bar graph. How many dogs visited this dog park on day 7?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3301/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:58:54.497486",
+    "explanation": "✕ExplanationThe question asks for a value based on a graph. First, check the units on each axis of the bar graph.Daysare on thex-axis, andnumber of dogsis on they-axis. The question asks about day 7, so find 7 on thex-axis. Look at the top of the bar for day 7, and then look left to they-axis, using the mouse pointer or the edge of the scratch paper as a ruler. The top of the bar for day 7 is at 50. Thus, 50 dogs visited the dog park on day 7. The correct answer is 50.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3302,
+    "stimulus": "",
+    "question_stem": "The graph shown intercepts thex-axis at (x, 0). What is the value ofx?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3302/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:58:55.273488",
+    "explanation": "✕ExplanationThe question asks for a value based on a graph. Specifically, the question asks for the value ofxat thex-intercept on the graph of a parabola. This is the point at whichy= 0 and the graph intersects thex-axis. Look on the graph for the point on the parabola at which they-coordinate equals 0 and the graph touches thex-axis. This point is (–5, 0), so thex-value is –5. The correct answer is –5.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3303,
+    "stimulus": "",
+    "question_stem": "Which of the following expressions is equivalent to 14a+ 7ab2?",
+    "answer_choices": {
+      "A": "2a(7 + 7b2)",
+      "B": "7a(2 +b2)",
+      "C": "7a(a+ 14b)",
+      "D": "7b(2ab)"
+    },
+    "answer_ids": {
+      "A": 11641,
+      "B": 11642,
+      "C": 11643,
+      "D": 11644
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3303/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:58:56.038770",
+    "explanation": "✕ExplanationThe question asks for an equivalent form of an expression. There are variables in the answer choices, so plugging in is an option. However, that might get messy with two variables and exponents, so the other option is to factor. Both 14 and 7 are divisible by 7, and both terms havea, so factor 7aout of both terms. Divide 14aby 7ato get 2, and divide 7ab2by 7ato getb2. The expression becomes 7a(2 +b2). The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3304,
+    "stimulus": "",
+    "question_stem": "Rectangle A has a length of 80 and a width of 24. What is the perimeter of rectangle A?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3304/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:58:56.767298",
+    "explanation": "✕ExplanationThe question asks for a measurement of a geometric figure. Use the Geometry Basic Approach. Start by drawing a rectangle on the scratch paper, then label the figure with the given information. Label one pair of opposite sides as 80 and the other pair of opposite sides as 24. The perimeter of a geometric shape is the sum of the lengths of the sides. Add all four side lengths to get 80 + 24 + 80 + 24 = 208. The correct answer is 208.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3305,
+    "stimulus": "",
+    "question_stem": "The point with coordinates (3,n) lies on the line shown. What is the value ofn?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 11645,
+      "B": 11646,
+      "C": 11647,
+      "D": 11648
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3305/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:58:57.475930",
+    "explanation": "✕ExplanationThe question asks for the value of a constant in the coordinates of a point on a line. The constantnrepresents they-value whenx= 3. First, see if any answers can be eliminated by ballparking. Find 3 on thex-axis, and then move up from there to the line, using the mouse pointer or scratch paper as a ruler. Move left from there to they-axis to see that they-value is between 3 and 4. Check all four answer choices on a calculator: they are all between 3 and 4, so nothing can be eliminated. Instead, use the two points shown on the graph to find the slope of the line. The points are (0, 5) and (12, 0). Use those two points to calculate the slope of the line using the formulaslope=. The formula becomesslope=, orslope=. Use the slope formula again, this time with one of the known points and the point that includesn. Use the points (3,n) and (12, 0), and the formula becomesslope=, orslope=. Set this equal to the slope from the first two points to get. Cross-multiply to get (–9)(–5) = (n)(12), or 45 = 12n. Divide both sides of the equation by 12 to get=n. Both numbers in the fraction are multiples of 3, so reduce the fraction to get=n. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3306,
+    "stimulus": "",
+    "question_stem": "A magician has a hat with 18 cards inside. The face of each card has a number from 1 to 18 written on it, with a different number on each card. If the magician takes out a single card, what is the probability that the number written on it isnot6?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 11649,
+      "B": 11650,
+      "C": 11651,
+      "D": 11652
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3306/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:58:58.202163",
+    "explanation": "✕ExplanationThe question asks for a probability based on a situation. Probability is defined as.Read carefully to find the numbers that make up the probability. The question states that there are18 cards, so that is the total number of possible outcomes. Each card has a different number, so out of the 18 cards, 1 of them has a 6 written on it. Thus, there are 18 – 1 = 17 cards that donothave a 6 written on them, and the number of outcomes that give you what you want is 17. Therefore, the probability that a single card doesnothave a 6 written on it in. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3307,
+    "stimulus": "",
+    "question_stem": "The functiongis defined byg(x) = –2x2. What is the value ofg(3)?",
+    "answer_choices": {
+      "A": "–18",
+      "B": "–12",
+      "C": "–10",
+      "D": "–6"
+    },
+    "answer_ids": {
+      "A": 11653,
+      "B": 11654,
+      "C": 11655,
+      "D": 11656
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3307/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:58:58.940409",
+    "explanation": "✕ExplanationThe question asks for the value of a function. In function notation, the number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. The question provides an input value, so plugx= 3 into the function to getg(3) = –2(3)2. Simplify to getg(3) = –2(9), and theng(3) = –18. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3308,
+    "stimulus": "",
+    "question_stem": "Note: Figure not drawn to scale.In the figure shown, linebintersects parallel linespandr. What is the value ofd?",
+    "answer_choices": {
+      "A": "16",
+      "B": "32",
+      "C": "74",
+      "D": "148"
+    },
+    "answer_ids": {
+      "A": 11657,
+      "B": 11658,
+      "C": 11659,
+      "D": 11660
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3308/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:58:59.671376",
+    "explanation": "✕ExplanationThe question asks for the value of an angle on a figure. Use the Geometry Basic Approach. Redraw the figure on the scratch paper, and add the labels. When a line intersects two parallel lines, two kinds of angles are created: big and small. All the small angles are equal to each other, all the big angles are equal to each other, and any small angle plus any big angle = 180°. The angle markedd° is a small angle, and the angle marked 148° is a big angle. Thus,d+ 148 = 180. Subtract 148 from both sides of the equation to getd= 32. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3309,
+    "stimulus": "",
+    "question_stem": "Which of the following equations could define the line of best fit for the scatterplot shown?",
+    "answer_choices": {
+      "A": "y= −13 − 0.7x",
+      "B": "y= −13 + 0.7x",
+      "C": "y= 13 – 0.7x",
+      "D": "y= 13 + 0.7x"
+    },
+    "answer_ids": {
+      "A": 11661,
+      "B": 11662,
+      "C": 11663,
+      "D": 11664
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3309/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:59:00.414497",
+    "explanation": "✕ExplanationThe question asks for an equation that represents a graph. One approach is to enter the equation from each answer choice into the built-in graphing calculator and see which graph looks most like the line of best fit of the scatterplot.Another approach is to compare features of the graph to the answer choices. The equations in the answer choices are all close to the formy=mx+b, in whichmis the slope andbis they-intercept, except themxandbterms are reversed. They-intercept is they-coordinate of the point wherex= 0, which is between 12 and 14 on this graph. Eliminate (A) and (B) because they have negativey-intercepts. Compare the remaining answer choices. The difference between (C) and (D) is the sign of the slope. The line of best fit descends from left to right, so it has a negative slope. Eliminate (D) because it has a positive slope.Using either method, the correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3310,
+    "stimulus": "",
+    "question_stem": "There are 20 values in data set R, represented by the dot plot shown. Data set S is created by subtracting 8 from each of the values in data set R. Which of the following correctly compares the ranges and the means of data sets R and S?",
+    "answer_choices": {
+      "A": "The range of data set S is less than the range of data set R, and the mean of data set S is equal to the mean of data set R.",
+      "B": "The range of data set S is less than the range of data set R, and the mean of data set S is less than the mean of data set R.",
+      "C": "The range of data set S is equal to the range of data set R, and the mean of data set S is equal to the mean of data set R.",
+      "D": "The range of data set S is equal to the range of data set R, and the mean of data set S is less than the mean of data set R."
+    },
+    "answer_ids": {
+      "A": 11665,
+      "B": 11666,
+      "C": 11667,
+      "D": 11668
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3310/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:59:01.151330",
+    "explanation": "✕ExplanationThe question asks which answer correctly compares the data represented by a dot plot to the data from a related data set. Range is easy to calculate, if necessary, so start there. Subtracting 8 from each value will not change the range because the greatest value and the least value will both decrease by 8, which means the difference between them will be the same in data set S as it is in data set R. Eliminate (A) and (B) because they say that the ranges are different, not equal. Mean is a measure of center, and the center will change when the values change. Subtracting 8 from every value will make the mean less, so the mean of data set S is less than the mean of data set R. Eliminate (C) because it says that the two means are equal. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3311,
+    "stimulus": "",
+    "question_stem": "During a video game session, a player scored a total of 1,000 points forccooperative missions andssolo missions. The equation 20c+ 25s= 1,000 represents this situation. Which of the following is the best interpretation of the number 25 in this context?",
+    "answer_choices": {
+      "A": "The player completed 25 cooperative missions during this session.",
+      "B": "The player scored 25 points for each cooperative mission during this session.",
+      "C": "The player completed 25 solo missions during this session.",
+      "D": "The player scored 25 points for each solo mission during this session."
+    },
+    "answer_ids": {
+      "A": 11669,
+      "B": 11670,
+      "C": 11671,
+      "D": 11672
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3311/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:59:01.873235",
+    "explanation": "✕ExplanationThe question asks for the interpretation of a number in context. Start by reading the final question, which asks for the meaning of the number 25. Then label the parts of the equation with the information given. The question states thatcrepresents cooperative missions andsrepresents solo missions. The number 25 is multiplied bys, so it must have something to do with solo missions. Eliminate (A) and (B) because they are about cooperative missions, not solo missions. Sincesalready represents the number of solo missions, 25 cannot represent the same thing; eliminate (C), so (D) must be correct. The question also states that 1,000 is the total points scored, so it makes sense that the two coefficients on the left side of the equation represent numbers of points per mission. Because 25 is multiplied bys, it represents the number of points per solo mission. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3312,
+    "stimulus": "",
+    "question_stem": "The functiongis defined by the given equation. Ifg(x) = 5, what is the value ofx?",
+    "answer_choices": {
+      "A": "10",
+      "B": "25",
+      "C": "50",
+      "D": "100"
+    },
+    "answer_ids": {
+      "A": 11673,
+      "B": 11674,
+      "C": 11675,
+      "D": 11676
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3312/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:59:02.597810",
+    "explanation": "✕ExplanationThe question asks for the value of a function. In function notation, the number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. The question provides an output value of 5, and the answers have numbers that could represent thex-value, so plug in the answers. Start with one of the middle numbers and try (B), 25. Plug 25 into the function forxto getg(25) =, which becomesg(25) =, and theng(25) = 2.5. This does not match the output value given in the question, so eliminate (B). The result was too small, so also eliminate (A). Another perfect square is likely to result in an integer output, so try (D), 100, next. Plug 100 into the function forxto getg(100) =, which becomesg(100) =, and theng(100) = 5. This matches the output value given in the question, so stop here. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3313,
+    "stimulus": "",
+    "question_stem": "y=x2– 7x= –7When graphed in thexy-plane, the given equations intersect at the point (x,y). What is the value ofy?",
+    "answer_choices": {
+      "A": "–21",
+      "B": "–7",
+      "C": "42",
+      "D": "49"
+    },
+    "answer_ids": {
+      "A": 11677,
+      "B": 11678,
+      "C": 11679,
+      "D": 11680
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3313/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:59:03.332908",
+    "explanation": "✕ExplanationThe question asks for the value of a variable in a system of equations. The second equation gives the value ofx, so plug in –7 forxin the first equation to gety= (–7)2–7. Simplify the right side of the equation—keeping in mind that a negative number squared becomes positive—to gety= 49 – 7, and theny= 42. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3314,
+    "stimulus": "",
+    "question_stem": "A partial graph ofy=f(x) in thexy-plane is shown. Which of the following is the value off(0)?",
+    "answer_choices": {
+      "A": "–5",
+      "B": "",
+      "C": "0",
+      "D": "5"
+    },
+    "answer_ids": {
+      "A": 11681,
+      "B": 11682,
+      "C": 11683,
+      "D": 11684
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3314/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:59:04.057921",
+    "explanation": "✕ExplanationThe question asks for the value of a function. In function notation,y=f(x). The number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. The question asks for the value off(0), which meansx= 0 and the question is asking for they-intercept. Findx= 0 on the graph and move straight down to see that the graph crosses they-axis at (0, –5). Whenx= 0,y= –5. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3315,
+    "stimulus": "",
+    "question_stem": "Which of the following equations defines a line in thexy-plane that has a slope ofand passes through the point (12, –7)?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "y= 12x– 7"
+    },
+    "answer_ids": {
+      "A": 11685,
+      "B": 11686,
+      "C": 11687,
+      "D": 11688
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3315/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:59:04.794333",
+    "explanation": "✕ExplanationThe question asks for the equation of a line. All of the answer choices are linear equations in slope-intercept form,y=mx+b, wheremis the slope andbis they-intercept. The question states that the graphhas a slope of.Therefore,m=.Eliminate (C) and (D) because they have the wrong slope. The question also states that the linepasses through the point(12, –7), so plugx= 12 andy= –7 into the two remaining answer choices. Choice (A) becomes –7 =– 9, then –7 = 2 – 9, and finally –7 = –7. This is true, so keep (A) but check (B) just in case. Choice (B) becomes –7 =– 7, then –7 = 2 – 7, and finally –7 = –5. This is not true; eliminate (B). The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3316,
+    "stimulus": "",
+    "question_stem": "How many distinct real solutions does the equation 4x2– 8x– 5 = 0 have?",
+    "answer_choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "answer_ids": {
+      "A": 11689,
+      "B": 11690,
+      "C": 11691,
+      "D": 11692
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3316/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:59:05.499188",
+    "explanation": "✕ExplanationThe question asks for the number of solutions to a quadratic equation. One method is to use the built-in graphing calculator. Enter the equation without the “= 0” part to see a parabola, and then scroll and zoom to see how many times, if any, the parabola intersects thex-axis. There are two points of intersection, at (–0.5, 0) and (2.5, 0), so there are exactly two real solutions, and the answer is (B).To determine the number of solutions algebraically, use the discriminant. The discriminant is the part of the quadratic formula under the square root sign and is written asD=b2– 4ac. When the discriminant is positive, the quadratic has exactly two real solutions; when the discriminant is 0, the quadratic has exactly one real solution; and when the discriminant is negative, the quadratic has no real solutions. The quadratic is given in standard form,ax2+bx+c= 0, soa= 4,b= –8, andc= –5. The discriminant isD= (–8)2– 4(4)(–5), which becomesD= 64 + 80, and thenD= 144. This is positive, so there are exactly two real solutions.Using either method, the correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3317,
+    "stimulus": "",
+    "question_stem": "A jar contains a total of 37 red and blue tokens used to play a game. The mass of one red token is 90 grams, and the mass of one blue token is 120 grams. If the combined mass of the tokens is 3,810 grams, how many of the tokens in the jar are blue?",
+    "answer_choices": {
+      "A": "5",
+      "B": "16",
+      "C": "21",
+      "D": "32"
+    },
+    "answer_ids": {
+      "A": 11693,
+      "B": 11694,
+      "C": 11695,
+      "D": 11696
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3317/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:59:06.198158",
+    "explanation": "✕ExplanationThe question asks for a value given a specific situation. Since the question asks for a specific value and the answers contain numbers in increasing order, plug in the answers. Rewrite the answer choices on the scratch paper and label them as “number of blue tokens.” Next, start with a number in the middle and try (B), 16. The question states that thejar contains a total of 37 red and blue tokens. If there are 16 blue tokens, there are 37 – 16 = 21 red tokens. The question also states thatthe mass of one red token is 90 grams, so 21 red tokens have a mass of (21)(90) = 1,890 grams. The question also states thatthe mass of one blue token is 120 grams, so 16 blue tokens have a mass of (16)(120) = 1,920 grams. Add the total grams of the red and blue tokens to get 1,890 + 1,920 = 3,810 grams. This matches the combined mass given in the question, so stop here. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3318,
+    "stimulus": "",
+    "question_stem": "Circle R is defined by the equation (x+ 3)2+y2= 64. If circle S is the result of shifting the graph of circle R to the right 7 units in thexy-plane, what is the equation of circle S?",
+    "answer_choices": {
+      "A": "(x+ 3)2+ (y– 7)2= 64",
+      "B": "(x+ 3)2+ (y+ 7)2= 64",
+      "C": "(x– 4)2+y2= 64",
+      "D": "(x+ 10)2+y2= 64"
+    },
+    "answer_ids": {
+      "A": 11697,
+      "B": 11698,
+      "C": 11699,
+      "D": 11700
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Advanced Coordinate Geometry"
+    },
+    "exam_id": 53,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3318/?question_set=exam&exam_id=53",
+    "scraped_at": "2025-07-05T19:59:06.923298",
+    "explanation": "✕ExplanationThe question asks for the equation of a circle that has been shifted in thexy-plane. The equation of a circle in standard form is (x–h)2+ (y–k)2=r2, where (h,k) is the center andris the radius. Shifting a circle to the right 7 units does not change the radius, and all of the equations in the answer choices are equal to 64, so focus on the center. Moving a circle left or right does not change they-value. Eliminate (A) and (B) because the (y–k)2portion of the equation is different. To move a circle left or right, change thex-value. In circle R, (x–h) = (x+ 3), so –h= 3 andh= –3. Since thex-value of the center of circle R is –3, thex-coordinate of the center of circle S, which is shifted to the right 7 units, is –3 + 7 = 4. Thus, the value ofhin circle S is 4. The term (x– 4)2must appear in the correct answer, so eliminate (D). To check, enter the equation of circle R and the equation in (C) for circle S into the built-in graphing calculator, and confirm that circle S is 7 units to the right of circle R. The correct answer is (C).close",
+    "correct_answer": "C"
+  }
+]

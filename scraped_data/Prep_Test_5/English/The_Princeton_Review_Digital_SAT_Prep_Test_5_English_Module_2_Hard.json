@@ -1,0 +1,698 @@
+[
+  {
+    "question_id": 3689,
+    "stimulus": "",
+    "question_stem": "A ball is thrown from the window of a building. The equation `h = -0.5t^2 + 2t + 6` represents this situation, where `h` is the height of the ball above the ground, in meters, `t` seconds after it is thrown. Which number represents the height, in meters, from which the ball was thrown?",
+    "answer_choices": {
+      "A": "-0.5",
+      "B": "0",
+      "C": "2",
+      "D": "6"
+    },
+    "answer_ids": {
+      "A": 12969,
+      "B": 12970,
+      "C": 12971,
+      "D": 12972
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3689/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:43.112461",
+    "explanation": "✕ExplanationAt the initial moment when the ball is thrown, `t = 0`. At `t = 0`, height = `h` = 6.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3690,
+    "stimulus": "",
+    "question_stem": "`f(x) = 2x^2 - 20x + 6`The given equation defines the function `f`. For what value of `x` does `f(x)` reach its minimum?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3690/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:43.842801",
+    "explanation": "✕ExplanationA quadratic graph reaches its minimum at `x=-b/2a = 20/2*2=5`.Calculator: Just graph the equation in the calculator and look at the lowest point, which is x=5.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3691,
+    "stimulus": "",
+    "question_stem": "The function `f(b) = 2b^2 + 12b` gives the area of a trapezoid in square inches (`in^2`) if the first base is `b` inches, its second base is 6 inches, and its height is `4b` inches. Which of the following is the best representation of `f(12) = 432`?",
+    "answer_choices": {
+      "A": "If the first base of the trapezoid is `12` inches, then the height of the trapezoid is `432 ft^2`.",
+      "B": "If the first base of the trapezoid is `12` inches, then the area of the trapezoid is `432 ft^2`.",
+      "C": "If the first base of the trapezoid is `432` inches, then the height of the trapezoid is `12 ft`.",
+      "D": "If the first base of the trapezoid is `432` inches, then the area of the trapezoid is `12 ft^2`."
+    },
+    "answer_ids": {
+      "A": 12973,
+      "B": 12974,
+      "C": 12975,
+      "D": 12976
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3691/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:44.581090",
+    "explanation": "✕ExplanationEven though you can calculate the area of the trapezoid with `area = 1/2 * (b1 + b2) * h` and get `1/2 * (b + 6) * 4b = 2b^2 + 12b`, you don’t need to, because the question already gives you the final calculation. In fact, the first sentence of the question already tells you the answer: `b`, which is 12, is the length of the first base, and `f(b)`, which is 432, gives you the area of the trapezoid.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3692,
+    "stimulus": "",
+    "question_stem": "The circle shown has centerO, circumference100π, and diametersPRandQS. The length of arcPSis 4 times the length of arcPQ. What is the length of arcQR?",
+    "answer_choices": {
+      "A": "20π",
+      "B": "25π",
+      "C": "40π",
+      "D": "50π"
+    },
+    "answer_ids": {
+      "A": 12977,
+      "B": 12978,
+      "C": 12979,
+      "D": 12980
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3692/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:45.309499",
+    "explanation": "✕ExplanationThe diameter is `π = 100`, and the radius is `1100 / 2 = 50`. Since a diameter cuts its circle into equal halves, the sum of arc PS and arc PQ is the length of half of a circle, which is PQ is the length of half of a circle, which is `100π / 2 = 50π`. If the length of arc . If the length of arc PS is 4 times the length of arc is 4 times the length of arc PQ, that means arc , that means arc PS can be represented as can be represented as 4x and arc and arc PQ as as x. Putting . Putting 4x, , x, and 50π50π together, `4x + x = 50π`, so `x = 10π`. Since the arc QR is opposite from arc PS and divided by the 2 diameters, they have the same length, so QR is also `4x = 40π`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3693,
+    "stimulus": "",
+    "question_stem": "An airline has B777 planes that has a capacity of 423 seats. These planes contain business class seats, which the airline charges 250 dollars per seat, economy seats, which it charges 115 dollars per seat. If the airplane’s revenue for one full flight is $\\$54,585$, how many economy seats are there on a B777 plane?",
+    "answer_choices": {
+      "A": "44",
+      "B": "88",
+      "C": "335",
+      "D": "379"
+    },
+    "answer_ids": {
+      "A": 12981,
+      "B": 12982,
+      "C": 12983,
+      "D": 12984
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3693/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:46.048257",
+    "explanation": "✕ExplanationWe don’t know how many business and economy seats are there, so they are unknowns, and we can say there are x economy class seats since we are looking for economy seats in the end. If there are x economy seats and 423 seats in total, then there are 423 - x business seats. Thus, the revenue for all business seats is `250 xx (423 - x)`, while the revenue for all economy seats is 1`115 xx x`, and the total revenue is `115 xx x`, and the total revenue is `250 xx (423 - x) + 115` `115 xx x = ` $\\$54,585$.  `105,750 - 250x + 115x = 54585` `x = 379`close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3694,
+    "stimulus": "",
+    "question_stem": "The function `f` is defined by `f(x) = 35 - 7x`. The graph of `y = f(x)` in the `xy`-plane has an `x`-intercept at `(a, 0)` and a `y`-intercept at `(0, b)`, where `a` and `b` are constants. What is the value of `a + b`?",
+    "answer_choices": {
+      "A": "21",
+      "B": "35",
+      "C": "40",
+      "D": "42"
+    },
+    "answer_ids": {
+      "A": 12985,
+      "B": 12986,
+      "C": 12987,
+      "D": 12988
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3694/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:46.775556",
+    "explanation": "✕ExplanationAt `(a, 0)` on the graph (where `y` is 0), `0 = 35 - 7a`, so `a = 5`. At `(0, b)` on the graph (where `x` is 0), `b = 35 - 7(0) = 35`. `a + b = 5 + 35 = 40`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3695,
+    "stimulus": "",
+    "question_stem": "One of the factors of `3x^3 + 33x^2 + 54x` is `x + a,` where a is a constant. What is the smallest possible value of a?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3695/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:47.502229",
+    "explanation": "✕ExplanationFactoring out the common factor of 3x3x in all 3 terms, the expression becomes `(3x)(x2+11x+18)(3x)(x^2 + 11x + 18)`. You can further factor it into `(3x)(x+2)(x+9)(3x)(x + 2)(x + 9). (x+a)(x + a) `must be `(x+2)(x + 2) ` or `(x+9)(x + 9)` since the first factor (3x) has 3 and not 1 as the coefficient for x. With these two possible options for (x + a), the smallest possible value for a is is 2.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3696,
+    "stimulus": "",
+    "question_stem": "`y = x^2 + 4x + c``y = 10`In the given system of equations, `c` is a positive constant. The system has exactly one distinct real solution. What is the value of `c`?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3696/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:48.218450",
+    "explanation": "✕ExplanationFrom the second equation, we know `y = 10`. In the first equation, we can substitute 10 into `y`, get `10 = x^2 + 4x + c` and further simplify it into `0 = x^2 + 4x + (c - 10)`. For a quadratic equation to have just 1 solution, the two factors must be the same, such as `(x + 5)` and `(x + 5)`. Since coefficient of the `x` term (which is `4` from `4x` in the equation) is the sum of the 2 constants in the factors (`5` in the `(x + 5)` example above), dividing the `4` in `4x` by `2` gives you `2`, which means the factors are `(x + 2)` and `(x + 2)`. Multiplying them, we get `(x + 2)(x + 2) = x^2 + 4x + 4`, and the equation above was `0 = x^2 + 4x + (c - 10)`. Putting these two equations together, `4 = (c - 10)`, so `c = 14.`close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3697,
+    "stimulus": "",
+    "question_stem": "For the function g, the value of g(x) decreases by 46%for every increase in the value of x by 11. If `g(0) = 23`, which equation defines g ?",
+    "answer_choices": {
+      "A": "`g(x) = 0.64(23)^x`",
+      "B": "`g(x) = 0.46(23)^x`",
+      "C": "`g(x) = 23(0.54)^x`",
+      "D": "`g(x) = 23(0.46)^x`"
+    },
+    "answer_ids": {
+      "A": 12989,
+      "B": 12990,
+      "C": 12991,
+      "D": 12992
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3697/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:48.992061",
+    "explanation": "✕ExplanationWith every change in x, the new g(x) should decrease by 46%,which is 1`1 - 0.46 = 0.54` decreasing times of the original (think: decreasing 100 by 46%means means 100 becomes becomes `100 xx 0.54 = 54`. At the starting point (x = 0), `g(0) = 23`,so is the coefficient. g(x) decreases whenever x so increases by 1, so x is the exponent. Everything together gets you `g(x) = 23(0.54)^x`close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3698,
+    "stimulus": "",
+    "question_stem": "The graph of `y = f(x) + 6` is shown. Which equation defines function `f`?",
+    "answer_choices": {
+      "A": "`f(x) = (1/3)x - 8`",
+      "B": "`f(x) = (1/3)x - 2`",
+      "C": "`f(x) = (1/3)x + 4`",
+      "D": "`f(x) = (1/3)x + 6`"
+    },
+    "answer_ids": {
+      "A": 12993,
+      "B": 12994,
+      "C": 12995,
+      "D": 12996
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3698/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:49.739761",
+    "explanation": "✕ExplanationThe graph has a slope of `1/3` and a `y`-intercept of -2, so the graph has an equation of `y = (1/3)x - 2`. The question says the graph can also be expressed by `y = f(x) + 6`, so that means `f(x) + 6 = (1/3)x - 2`, which can be written as `f(x) = (1/3)x - 2 - 6 = (1/3)x - 8`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3699,
+    "stimulus": "",
+    "question_stem": "`AB = 10``BC = 26``AC = 24`The side lengths of right triangle `ABC` are given. Triangle `ABC` is similar to triangle `DEF` , where A corresponds to D and C corresponds to F. What is the value of `tan(F)`?",
+    "answer_choices": {
+      "A": "`5/13`",
+      "B": "`5/12`",
+      "C": "`13/5`",
+      "D": "`12/5`"
+    },
+    "answer_ids": {
+      "A": 12997,
+      "B": 12998,
+      "C": 12999,
+      "D": 13000
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3699/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:50.501225",
+    "explanation": "✕Explanation`tan(F) = Opp/Adj = DE / DF = 10/24 = 5/12`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3700,
+    "stimulus": "",
+    "question_stem": "Louis can type at a speed of 102 words per minute, and a typing game requires the player to type `w` words in each game. Which equation best represents the number minutes, `M`, that Louis needs to spend to play the typing game twice?",
+    "answer_choices": {
+      "A": "`M = 102w`",
+      "B": "`M = w/102`",
+      "C": "`M = w/51`",
+      "D": "`M = 204w`"
+    },
+    "answer_ids": {
+      "A": 13001,
+      "B": 13002,
+      "C": 13003,
+      "D": 13004
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3700/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:51.232199",
+    "explanation": "✕ExplanationIf Louis can type 102 words per minute and there are `w` words to type, then it will take him `w/102` minutes. (If algebra is confusing, substitute simple numbers: assume `w = 56`, that means there are 56 words, and Louis can finish typing in 1/2 minute, which makes `w/102 = 56/102 = 1/2` correct). To play 2 games, he needs 2 times the time, so multiply `w/102` by 2 and get `w/51`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3701,
+    "stimulus": "",
+    "question_stem": "There are 60 participants in a raffle drawing for a cash prize. A sample of the participants was selected at random and asked whether they intend to spend the cash prize or deposit it in the bank. Of those surveyed,$25\\%$ responded that they intend to deposit it in the bank. Based on this survey, which of the following is the best estimate of the total number of participants who intend to save the cash prize in the bank?",
+    "answer_choices": {
+      "A": "15",
+      "B": "25",
+      "C": "40",
+      "D": "45"
+    },
+    "answer_ids": {
+      "A": 13005,
+      "B": 13006,
+      "C": 13007,
+      "D": 13008
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3701/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:52.105259",
+    "explanation": "✕Explanation$25\\%$ out of 60 will deposit the cash prize in the bank, and $25\\%$ of 60 is $25\\%$ * 60 = 0.25 * 60 = 15 people.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3702,
+    "stimulus": "",
+    "question_stem": "Louis earns 11 dollars an hour from working in the school library and earns 20 dollars an hour from working as a tutor. He works `l` hours at the library and `t` hours as a tutor and earned a total of 492 dollars. Which equation represents this situation?",
+    "answer_choices": {
+      "A": "`(1/11)l + 20t = 492`",
+      "B": "`(1/11)l + 20t = 108240`",
+      "C": "`11l + 20t = 492`",
+      "D": "`11l + 20t = 108240`"
+    },
+    "answer_ids": {
+      "A": 13009,
+      "B": 13010,
+      "C": 13011,
+      "D": 13012
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3702/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:52.827711",
+    "explanation": "✕Explanation`l` hours for 11 dollars an hour earns him `l * 11 = 11l` dollars. `t` hours for 20 dollars an hour earns him `t * 20 = 20t` dollars. Together, it’s 492: `11l + 20t = 492`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3703,
+    "stimulus": "",
+    "question_stem": "The scatterplot shows the relationship between two variables, x and y. A line of best fit is also shown.Which of the following equations best represents the line of best fit shown?",
+    "answer_choices": {
+      "A": "`y = 1.5 + 0.67x`",
+      "B": "`y = 1.5 - 0.67x`",
+      "C": "`y = -1.5 + 0.67x`",
+      "D": "`y = -1.5 - 0.67x`"
+    },
+    "answer_ids": {
+      "A": 13013,
+      "B": 13014,
+      "C": 13015,
+      "D": 13016
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3703/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:53.556837",
+    "explanation": "✕ExplanationThe y-intercept is 1.5, and the slope is about 3/2, so the equation is `y = 0.67 x + 1.5`, which is A.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3704,
+    "stimulus": "",
+    "question_stem": "The graph of `y = f(x)` is shown in the `xy`-plane. What is the value of `f(0)`?",
+    "answer_choices": {
+      "A": "-2",
+      "B": "-1.5",
+      "C": "0",
+      "D": "1.5"
+    },
+    "answer_ids": {
+      "A": 13017,
+      "B": 13018,
+      "C": 13019,
+      "D": 13020
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3704/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:54.299007",
+    "explanation": "✕Explanation`f(0)` is where the graph intersects the `y`-axis. It intersects at the point `(0, -1.5)`, so `f(0) = -1.5.`close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3705,
+    "stimulus": "",
+    "question_stem": "Which expression is equivalent to `(s^2 a^4 t^-6)(s^3 a^-2 t^-1)`, where `s`, `a`, and `t` are positive?",
+    "answer_choices": {
+      "A": "`s^5 a^2 t^-7`",
+      "B": "`s^2 a^4 t^-1`",
+      "C": "`s^6 a^-8 t^6`",
+      "D": "`s^8 a^16 t^6`"
+    },
+    "answer_ids": {
+      "A": 13021,
+      "B": 13022,
+      "C": 13023,
+      "D": 13024
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3705/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:55.050524",
+    "explanation": "✕ExplanationWhen you multiply two exponential terms with the same base, you keep the base and add the exponents and become `s^(2 + 3) a^(4 - 2) t^(-6 - 1)`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3706,
+    "stimulus": "",
+    "question_stem": "49, 49, 52, 59, 59, 60, 64, 65, 66, 67What is the median of the data shown?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3706/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:55.790652",
+    "explanation": "✕ExplanationMedian is the middle number when arranged in order. Since there are an even amount of data points, the median is the average of the middle two data points.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3707,
+    "stimulus": "",
+    "question_stem": "`4y = 16``-x + 3y = -30`The solution to the given system of equations is `(x, y)`. What is the value of `x + y`?",
+    "answer_choices": {
+      "A": "-46",
+      "B": "-42",
+      "C": "42",
+      "D": "46"
+    },
+    "answer_ids": {
+      "A": 13025,
+      "B": 13026,
+      "C": 13027,
+      "D": 13028
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3707/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:56.554048",
+    "explanation": "✕ExplanationSolve for `y` in the first equation and get `y = 4`. Solve for `x` in the second equation and get `x = 42`. `x + y = 42 + 4 = 46`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3708,
+    "stimulus": "",
+    "question_stem": "`p(w) = 0.8w + 5.30`The function `p(w)` models the cost, in dollars, of producing `w` widgets in a factory. According to the model, what is the cost, in dollars, for producing each additional widget?",
+    "answer_choices": {
+      "A": "0.8",
+      "B": "4.5",
+      "C": "5.3",
+      "D": "6.1"
+    },
+    "answer_ids": {
+      "A": 13029,
+      "B": 13030,
+      "C": 13031,
+      "D": 13032
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3708/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:57.284288",
+    "explanation": "✕Explanation0.8 is the coefficient for the term `0.8w`, where `w` is the number of widgets created. Therefore, for each additional widget, the total cost, `p(w)`, will be increased by 0.8.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3709,
+    "stimulus": "",
+    "question_stem": "`4/(5z) = (15 + c)/(10d)`The given equation relates the positive numbers `c`, `d`, and `z`. Which equation correctly expresses `z` in terms of `c` and `d`?",
+    "answer_choices": {
+      "A": "`z = (3 + c) / (2d)`",
+      "B": "`z = 8d / (15 + c)`",
+      "C": "`z = (15 + c) / (10d)`",
+      "D": "`z = `20c + 200d + 3000`"
+    },
+    "answer_ids": {
+      "A": 13033,
+      "B": 13034,
+      "C": 13035,
+      "D": 13036
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3709/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:58.013204",
+    "explanation": "✕ExplanationCross multiply gets you `(5z)(15 + c) = 4(10d)`. Dividing `(15 + c)` on both sides gets you `5z = 4(10d) / (15 + c)`. Dividing `5` gets you `z = 4(10d) / (5(15 + c))`. Lastly, simplify to get `z = 40d / (5(15 + c)) = 8d / (15 + c)`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3710,
+    "stimulus": "",
+    "question_stem": "`x < 20``x + 2y < 8`The point `(-20, y)` is a solution to the system of inequalities in the `xy`-plane. Which of the following could be the value of `y`?",
+    "answer_choices": {
+      "A": "13",
+      "B": "15",
+      "C": "17",
+      "D": "19"
+    },
+    "answer_ids": {
+      "A": 13037,
+      "B": 13038,
+      "C": 13039,
+      "D": 13040
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3710/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:58.744043",
+    "explanation": "✕ExplanationWith `x = -20`, `-20 + 2y < 8`, `2y < 28`, `y < 14`. Therefore, only choice A is less than 14.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3711,
+    "stimulus": "",
+    "question_stem": "Out of 360 students in the grade year, $60\\%$ are male. How many of the students in the grade year are male?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3711/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:03:59.480500",
+    "explanation": "✕Explanation$60\\%$ of 360 = 0.6 * 360 = 216.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3712,
+    "stimulus": "",
+    "question_stem": "The function `f` is defined by `f(x) = -2x`. For what value of `x` does `f(x) = 16`?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3712/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:04:00.205068",
+    "explanation": "✕Explanation`-2x = 16`, `x = -8`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3713,
+    "stimulus": "",
+    "question_stem": "Which expression is equivalent to `(8(x + 3) − 2(x + 3)) / (3x + 9)`, where x > -3 ?",
+    "answer_choices": {
+      "A": "`2`",
+      "B": "`2(x + 3)`",
+      "C": "`8(x + 3) / 3`",
+      "D": "`(16x^2 + 18x + 9) / (3x + 9)`"
+    },
+    "answer_ids": {
+      "A": 13041,
+      "B": 13042,
+      "C": 13043,
+      "D": 13044
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3713/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:04:00.930130",
+    "explanation": "✕ExplanationWith `x > -3`, the denominator `(3x + 9)` will not be 0, so we can just simplify the expression. Factoring out `(x + 3)` at the top and factoring out 3 at the bottom and get `((8 - 2)(x + 3)) / (3(x + 3))`. Cross out `(x + 3)` at the top and bottom to get `6 / 3 = 2`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3714,
+    "stimulus": "",
+    "question_stem": "Line `l` is defined by `24y + 6x = 4`. Line `m` is perpendicular to line `l` in the `xy`-plane. What is the slope of line `m`?",
+    "answer_choices": {
+      "A": "`-4`",
+      "B": "`-1/4`",
+      "C": "`1/4`",
+      "D": "`4`"
+    },
+    "answer_ids": {
+      "A": 13045,
+      "B": 13046,
+      "C": 13047,
+      "D": 13048
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3714/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:04:01.666816",
+    "explanation": "✕ExplanationRearrange the equation of `l` to get `24y = -6x + 4` and `y = (-6 / 24)x + (4 / 24) = (-1/4)x + 1/6. A perpendicular line has a slope that is the negative reciprocal of the original slope `-1/4`, so it’s `4`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3715,
+    "stimulus": "",
+    "question_stem": "`f(t) = 5040(1.74)^t`The given function f models the number of users a website at the end of each year, where `t` represents the number of years its first 6 years since the end of 2020, and `0 <= t <= 6`. If `y = f(t)` is graphed in the `ty`-plane, which of the following is the best interpretation of the `y`-intercept of the graph in this context?",
+    "answer_choices": {
+      "A": "The minimum estimated number of users for the website at the end of the 6 years since the end of 2020 was 139,870.",
+      "B": "The maximum estimated number of users for the website at the end of the 6 years since the end of 2020 was 5,040.",
+      "C": "The estimated number of users for the website at the end of 2020 was 5,040.",
+      "D": "The estimated number of users for the website at the end of 2020 was 139,870."
+    },
+    "answer_ids": {
+      "A": 13049,
+      "B": 13050,
+      "C": 13051,
+      "D": 13052
+    },
+    "metadata": {},
+    "exam_id": 69,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3715/?question_set=exam&exam_id=69",
+    "scraped_at": "2025-07-05T20:04:02.408218",
+    "explanation": "✕ExplanationThe coefficient in the equation, 5,040, refers to the initial value, where `t = 0`, which is the number of users in year 0 (in the beginning of the graph, which is at the end of 2020).close",
+    "correct_answer": ""
+  }
+]

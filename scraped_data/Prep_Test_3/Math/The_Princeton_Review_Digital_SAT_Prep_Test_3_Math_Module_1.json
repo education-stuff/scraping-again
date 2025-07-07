@@ -1,0 +1,646 @@
+[
+  {
+    "question_id": 3422,
+    "stimulus": "",
+    "question_stem": "Which expression is equivalent to (x– 3)(x+ 5)?",
+    "answer_choices": {
+      "A": "x2– 2x– 15",
+      "B": "x2– 2x+ 15",
+      "C": "x2+ 2x– 15",
+      "D": "x2+ 2x+ 15"
+    },
+    "answer_ids": {
+      "A": 12089,
+      "B": 12090,
+      "C": 12091,
+      "D": 12092
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3422/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:24.632679",
+    "explanation": "✕ExplanationThe question asks for an equivalent form of an expression. There are variables in the answer choices, so plug in. Makex= 2 to keep the math simple. The expression becomes (2 – 3)(2 + 5). Simplify to get (–1)(7), and then –7. This is the target value; write it down and circle it. Now plugx= 2 into the answer choices and eliminate any that do not match the target value. Choice (A) becomes (2)2– 2(2) – 15, then 4 – 4 – 15, and finally –15. This does not match the target value, so eliminate (A). Choice (B) becomes (2)2– 2(2) + 15, then 4 – 4 + 15, and finally 15; eliminate (B). Choice (C) becomes (2)2+ 2(2) – 15, then 4 + 4 – 15, and finally –7. This matches the target value, so keep (C), but check (D) just in case. Choice (D) becomes (2)2+ 2(2) + 15, then 4 + 4 + 15, and finally 23; eliminate (D).It is also possible to answer the question by using FOIL to expand the quadratic from factored form into standard form, being very careful with signs.Using either method, the correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3423,
+    "stimulus": "",
+    "question_stem": "In triangleRST, angleSis a right angle and angleThas a measure of 34°. What is the measure of angleR, in degrees?",
+    "answer_choices": {
+      "A": "34",
+      "B": "56",
+      "C": "124",
+      "D": "146"
+    },
+    "answer_ids": {
+      "A": 12093,
+      "B": 12094,
+      "C": 12095,
+      "D": 12096
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3423/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:25.359201",
+    "explanation": "✕ExplanationThe question asks for the value of the measure of an angle on a geometric figure. Use the Geometry Basic Approach. Start by drawing a right triangle on the scratch paper, then label angleSas 90° and angleTas 34°. All triangles contain 180°, so the third angle of triangleRSTmeasures 180° – 90° – 34° = 56°. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3424,
+    "stimulus": "",
+    "question_stem": "The volume of an ideal gas can be modeled by the equationV= 50n, whereVis the volume in liters andnis the amount of the substance, measured in moles. Based on this equation, what is the volume, in liters, of a sample that contains 1,200 moles?",
+    "answer_choices": {
+      "A": "6,000",
+      "B": "24,000",
+      "C": "36,000",
+      "D": "60,000"
+    },
+    "answer_ids": {
+      "A": 12097,
+      "B": 12098,
+      "C": 12099,
+      "D": 12100
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3424/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:26.076455",
+    "explanation": "✕ExplanationThe question asks for a value given a specific situation. The question provides an equation that relates volume,V, in liters, and amount,n, in moles. Since the question asks for the volume in liters when the sample contains 1,200 moles, plug in 1,200 fornand solve forV. The equation becomesV= 50(1,200), orV= 60,000. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3425,
+    "stimulus": "",
+    "question_stem": "The owner of a tech firm wanted to determine the number of charging stations for electric vehicles to install in its parking lot. The owner looked at a random sample of the 800 vehicles in the lot one workday and determined that 14% of the vehicles were electric. Based on this sample, how many vehicles in the lot could the firm reasonably conclude were electric?",
+    "answer_choices": {
+      "A": "15",
+      "B": "112",
+      "C": "688",
+      "D": "800"
+    },
+    "answer_ids": {
+      "A": 12101,
+      "B": 12102,
+      "C": 12103,
+      "D": 12104
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3425/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:26.803216",
+    "explanation": "✕ExplanationThe question asks for a value based on a random sample. Since 14% of the vehicles in the sample are electric, apply that percentage to all 800 vehicles in the lot.Percentmeans out of 100, so translate 14% as. Taking the percent of a number translates to multiplication, so 14% of 800 becomes(800). Use scratch paper or a calculator to do the math to get(800) = 112 of the vehicles in the lot are electric. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3426,
+    "stimulus": "",
+    "question_stem": "A weightlifter is training for a competition and wants to increase the heaviest lift of each day by a constant amount. If the heaviest lift on day 6 is 180 pounds and the heaviest lift on day 24 is 225 pounds, by how many pounds did the weightlifter’s heaviest daily lift increase each day, on average, from day 6 to day 24?",
+    "answer_choices": {
+      "A": "2.5",
+      "B": "12.5",
+      "C": "22.5",
+      "D": "45"
+    },
+    "answer_ids": {
+      "A": 12105,
+      "B": 12106,
+      "C": 12107,
+      "D": 12108
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3426/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:27.665587",
+    "explanation": "✕ExplanationThe question asks for a value given a specific situation. Since the question includes the wordaverage, use the formulaT=AN, whereTis theTotal,Ais theAverage, andNis theNumber of things. To find the total increase in weight, subtract the starting weight from the final weight to get 225 – 180 = 45 pounds. This is theTotal. Since the question asks for the average increase in weightfrom day 6 to day 24, theNumber of thingsis 24 – 6 = 18 days. The average formula becomes 45 = (A)18. Divide both sides of the equation by 18 to get 2.5 =A. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3427,
+    "stimulus": "",
+    "question_stem": "(k–2nr5)(k3n6r2)Which expression is equivalent to the given expression, wherek> 0,n> 0, andr> 0?",
+    "answer_choices": {
+      "A": "k–12n15r2",
+      "B": "k–6n6r10",
+      "C": "kn7r7",
+      "D": "k3nr11"
+    },
+    "answer_ids": {
+      "A": 12109,
+      "B": 12110,
+      "C": 12111,
+      "D": 12112
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3427/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:28.368384",
+    "explanation": "✕ExplanationThe question asks for an equivalent form of an expression. Although there are variables in the answer choices, plugging in on this question would be difficult given all the variables and exponents. Instead, use Bite-Sized Pieces and Process of Elimination to tackle this question. Ther-terms look easiest to deal with, so start there. When dealing with exponents, remember the MADSPM rules. The MA part of the acronym indicates that Multiplying matching bases means to Add the exponents. Add the exponents on ther-terms to get (r5)(r2) =r5 + 2=r7. Eliminate (A), (B), and (D) because they do not includer7. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3428,
+    "stimulus": "",
+    "question_stem": "Which of the following statements is true regarding the standard deviations of data sets 1 and 2?",
+    "answer_choices": {
+      "A": "The standard deviation of data set 1 is less than the standard deviation of data set 2.",
+      "B": "The standard deviation of data set 1 is greater than the standard deviation of data set 2.",
+      "C": "The standard deviation of data set 1 is equal to the standard deviation of data set 2.",
+      "D": "There is not enough information to compare the standard deviations of data sets 1 and 2."
+    },
+    "answer_ids": {
+      "A": 12113,
+      "B": 12114,
+      "C": 12115,
+      "D": 12116
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3428/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:29.097988",
+    "explanation": "✕ExplanationThe question asks for a comparison of the standard deviations of two data sets. Standard deviation is a measure of the spread of a group of numbers. A group of numbers close together has a small standard deviation, whereas a group of numbers spread out has a large standard deviation. The numbers in each data set are consecutive and evenly spaced, so the shape of the graph can be used to compare the standard deviations. Imagine a curve above both dot plots: the curve above the dot plot of data set 1 will be steeper and more clustered around the center, while the curve above the dot plot of data set 2 will be flatter and less clustered around the center. Thus, the standard deviation of data set 1 is less than the standard deviation of data set 2. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3429,
+    "stimulus": "",
+    "question_stem": "A record collector is looking to buycclassic albums andmmodern albums. The equation 35c+ 20m= 750 represents this situation if the record collector spends a total of $750 on albums. How much more, in dollars, does one classic album cost than one modern album?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3429/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:29.817568",
+    "explanation": "✕ExplanationThe question asks for a value given a specific situation. Translate the information in Bite-Sized Pieces. One piece of information states that the record collector will buyc classic albums and m modern albums, and another piece states thatthe record collector spends a total of $750 on albums. Since the sum of 35cand 20mequals the total amount spent, andcandmare numbers of albums, 35 and 20 must be the amount spent on one classic album and one modern album, respectively. To determine how much more a classic album costs than a modern album, subtract 20 from 35 to get 35 – 20 = 15. The correct answer is 15.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3430,
+    "stimulus": "",
+    "question_stem": "y= 4x2– 12x+cy= –4The given system of equations has no real solutions. Ifcis a constant, which of the following is a possible value ofc?",
+    "answer_choices": {
+      "A": "–0.5",
+      "B": "2.5",
+      "C": "5",
+      "D": "6"
+    },
+    "answer_ids": {
+      "A": 12117,
+      "B": 12118,
+      "C": 12119,
+      "D": 12120
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3430/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:30.569072",
+    "explanation": "✕ExplanationThe question asks for the value of a constant in a system of equations. One method is to enter both equations into the built-in calculator, then plug in values forcfrom the answer choices. Use the slider that pops up in the calculator or enter the possible values ofcone at a time. Whenc= ­–0.5, the graph shows 2 solutions; eliminate (A). Whenc= 2.5, the graph shows 2 solutions; eliminate (B). Whenc= 5, the graph shows one solution; eliminate (C). Whenc= 6, the graph shows 0 solutions, so (D) must be correct.To solve forcalgebraically, notice that the equations are both equal toy, so set them equal to each other. The new equation becomes –4 = 4x2– 12x+c. Put the quadratic in standard form by setting one side equal to 0. Add 4 to both sides of the equation to get 0 = 4x2– 12x+ 4 +c. The question states thatthe given system of equations has no real solutions, so use the discriminant. The discriminant is the part of the quadratic formula under the square root sign, and it can be written asD=b2– 4ac. When the discriminant is positive, the quadratic has exactly two real solutions; when the discriminant is 0, the quadratic has exactly one real solution; and when the discriminant is negative, the quadratic has no real solutions. In this case, the quadratic has no real solutions, so the discriminant must be negative.With the equation in standard form, which isax2+bx+c= 0,a= 4,b= –12, andc= (4 +c). Plug these values into the discriminant formula to getD= (–12)2– 4(4)(4 +c), orD =144 – 16(4 +c). Distribute to getD= 144 – 64 – 16c, and thenD= 80 – 16c. The discriminant must be negative, so 80 – 16c< 0. Add 16cto both sides of the inequality to get 80 < 16c, then divide both sides of the inequality by 16 to get 5 <c. Out of the answer choices, only (D) is greater than 5, so it is a possible value ofc.Using either method, the correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3431,
+    "stimulus": "",
+    "question_stem": "Note: Figure not drawn to scale.In the figure shown,Ois the center of the circle anda= 120. If the area of the circle is 72, what is the area of the shaded region?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3431/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:31.293329",
+    "explanation": "✕ExplanationThe question asks for the area of part of a geometric figure. Use the Geometry Basic Approach. Start by redrawing the figure on the scratch paper, then label angleaas 120°. All circles contain 360°, so angleais=of the circle. That means that the area of the shaded region isof the area of the circle. The question states thatthe area of the circle is 72, so the area of the shaded region is(72) = 24. The correct answer is 24.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3432,
+    "stimulus": "",
+    "question_stem": "How many distinct real solutions does the equation 2x2+ 12x+ 6 = 0 have?",
+    "answer_choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "answer_ids": {
+      "A": 12121,
+      "B": 12122,
+      "C": 12123,
+      "D": 12124
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3432/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:32.018271",
+    "explanation": "✕ExplanationThe question asks for the number of solutions to a quadratic equation. One method is to enter the equation into the built-in graphing calculator, then scroll and zoom as needed to see how many times, if at all, the resulting graph intersects thex-axis. The graph shows two points of intersection, at (–5.449, 0) and (–0.551, 0), so the equation has two real solutions and (B) is correct.To determine the number of solutions to a quadratic algebraically, use the discriminant. The discriminant is the part of the quadratic formula under the square root sign and is written asD=b2– 4ac. When the discriminant is positive, the quadratic has exactly two real solutions; when the discriminant is 0, the quadratic has exactly one real solution; and when the discriminant is negative, the quadratic has no real solutions. The quadratic is already in standard form, which isax2+bx+c= 0. Thus,a= 2,b= 12, andc= 6. Plug these values into the discriminant formula to getD= (12)2– 4(2)(6). Simplify to getD= 144 – 48, orD= 96. This is positive, so the quadratic has two real solutions.Using either method, the correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3433,
+    "stimulus": "",
+    "question_stem": "In thexy-plane, linelpasses through the pointsand. What is the slope of linel?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3433/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:32.748311",
+    "explanation": "✕ExplanationThe question asks for the slope of a line with the coordinates of two points given. Find the slope by using the formulaslope=. Plug thex- andy-values from the given points into the slope formula to getslope=, which becomesslope=orslope=. The decimal form, which is .75, would also be accepted as correct. The correct answer isand equivalent forms.close",
+    "correct_answer": "a"
+  },
+  {
+    "question_id": 3434,
+    "stimulus": "",
+    "question_stem": "Lineskandlare parallel in thexy-plane, and linekis defined by –5y– 15x= 3. What is the slope of linel?",
+    "answer_choices": {
+      "A": "–3",
+      "B": "",
+      "C": "",
+      "D": "3"
+    },
+    "answer_ids": {
+      "A": 12125,
+      "B": 12126,
+      "C": 12127,
+      "D": 12128
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3434/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:33.512175",
+    "explanation": "✕ExplanationThe question asks for the slope of a line. The question states thatlines k and l are parallel, which means they have the same slope. The question gives the equation of linek, so find the slope of that line. First, convert the equation of linekinto slope-intercept form,y=mx+b, in whichmis the slope andbis they-intercept. Add 15xto both sides of the equation to get –5y= 15x+ 3. Divide both sides of the equation by –5 to gety= –3x–. The slope of linekis thus –3.It is also possible to convert the equation of linekinto standard form by switching the two terms on the left to get –15x– 5y= 3. In standard form,Ax+By=C, the slope is. In this case,A= –15 andB= –5, so the slope of linekis= –3. Since lineskandlhave the same slope, the slope of linelis also –3.Using either form of a linear equation, the correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3435,
+    "stimulus": "",
+    "question_stem": "Time(hours)Number of bacteria01,000,0002100,000410,00061,00081001010The table shows the estimated number of bacteria in a laboratory culture over a span of 10 hours. What type of function best models the relationship between the number of bacteria and time?",
+    "answer_choices": {
+      "A": "Decreasing exponential",
+      "B": "Decreasing linear",
+      "C": "Increasing exponential",
+      "D": "Increasing linear"
+    },
+    "answer_ids": {
+      "A": 12129,
+      "B": 12130,
+      "C": 12131,
+      "D": 12132
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3435/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:34.230762",
+    "explanation": "✕ExplanationThe question asks for a description of a function that models a specific situation. Compare the answer choices. Two choices say the function is increasing, and two say it is decreasing. The values in the table for the number of bacteria get smaller as the values for time get bigger, so the function is decreasing. Eliminate (C) and (D) because they describe an increasing function. The difference between (A) and (B) is whether the function is linear or exponential. Determine this by testing pairs of values from the table. When the time increases by 2 hours from 0 to 2, the number of bacteria decreases by 1,000,000 – 100,000 = 900,000. When the time increases by 2 hours from 2 to 4, the number of bacteria decreases by 100,000 – 10,000 = 90,000. The value decreased by 900,000 during the first 2 hours and by 90,000 during the next 2 hours. A linear function would change by the same amount over each interval, so eliminate (B). The relationship between the number of bacteria and time is exponential. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3436,
+    "stimulus": "",
+    "question_stem": "Functionfis defined byf(x) = –2x2+ 8x– 7. For what value ofxdoesf(x) reach its maximum?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3436/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:34.959025",
+    "explanation": "✕ExplanationThe question asks for the value ofxwhen a quadratic function reaches its maximum. A parabola reaches its minimum or maximum value at its vertex, so find thex-coordinate of the vertex. One method is to enter the equation into the built-in graphing calculator, then scroll and zoom as needed to find the vertex. The vertex is at (2, 1), so the value of thex-coordinate is 2.To solve algebraically, find the value ofh, which is thex-coordinate of the vertex (h,k). When a quadratic is in standard form, which isax2+bx+c, thex-coordinate of the vertex can be found using the formula. In this quadratic,a= –2 andb= 8, so the formula becomes. Solve to get, orh= 2.Using either method, the correct answer is 2.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3437,
+    "stimulus": "",
+    "question_stem": "Ifx+ 3 is a factor ofx2+kx+ 2k, wherekis a constant, what is the value ofk?",
+    "answer_choices": {
+      "A": "",
+      "B": "–3",
+      "C": "3",
+      "D": "9"
+    },
+    "answer_ids": {
+      "A": 12133,
+      "B": 12134,
+      "C": 12135,
+      "D": 12136
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3437/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:35.704484",
+    "explanation": "✕ExplanationThe question asks for the value of a constant in a quadratic. The question states thatx+ 3 is a factor of the quadratic. Ifx+ 3 is a factor,xis a solution. Setx+ 3 equal to 0 to solve for the solution:x+ 3 = 0. Subtract 3 from both sides of the equation to getx= –3. A solution to a quadratic makes the quadratic equal 0, so plug in –3 forxand set the quadratic equal to 0 to get (–3)2+ (–3)k+ 2k= 0, which becomes 9 – 3k+ 2k= 0. Combine like terms to get 9 –k= 0. Addkto both sides of the equation to get 9 =k. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3438,
+    "stimulus": "",
+    "question_stem": "A model builder is constructingbof the same big ship model andsof the same small ship model. Each big ship model has 150 parts, and each small ship model has 80 parts. If the model builder uses a total of 2,600 parts, which of the following equations could represent the number of big and small ship models the model builder constructs?",
+    "answer_choices": {
+      "A": "(b+s)(150 + 80) = 2,600",
+      "B": "(150 +b)(80 +s) = 2,600",
+      "C": "150b+ 80s= 2,600",
+      "D": "80b+ 150s= 2,600"
+    },
+    "answer_ids": {
+      "A": 12137,
+      "B": 12138,
+      "C": 12139,
+      "D": 12140
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3438/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:36.442249",
+    "explanation": "✕ExplanationThe question asks for an equation that represents a specific situation. Translate the information in Bite-Sized Pieces and eliminate after each piece. One piece of information says that themodel builder is constructing b of the same big ship model, and another piece says thateach big ship model has 150 parts. The total number of parts used for the big ship models can be represented by 150b. Eliminate (B) and (D) because they do not include this term. When (A) is expanded, it includes the term 150bbut also includes 150sand 80b, which do not match the information in the question; eliminate (A). Choice (C) correctly translates the total number of parts used for the small ship models as 80sand correctly sets the total numbers of parts used for each type of model equal to the overall total number of parts. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3439,
+    "stimulus": "",
+    "question_stem": "AngleCof triangleABCis a right angle. If sin(A) =, what is the value of sin(B)?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3439/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:37.147036",
+    "explanation": "✕ExplanationThe question asks for the value of a trigonometric function. Use the Geometry Basic Approach. Begin by drawing a right triangle and labeling the vertices. Label angleCwith the right angle symbol. The drawing should look something like this:Next, write out SOHCAHTOA to remember the trig functions. The SOH part defines the sine as, and the question states that sin(A) =. Label the side opposite angleAas 35, and label the hypotenuse as 37. The drawing now looks like this:Now use the Pythagorean Theorem,a2+b2=c2, to find the length of the third side. Plug in the known side lengths to geta2+ 352= 372, which becomesa2+ 1,225 = 1,369. Subtract 1,225 from both sides of the equation to geta2= 144. Take the square root of both sides of the equation to geta= 12. Label sideACon the figure with this measurement.Finally, write downagain and find the correct values to calculate sin(B). The side opposite angleBis 12 and the hypotenuse is 37, so sin(B) =. The correct answer isor its decimal equivalent of .3243.close",
+    "correct_answer": "o"
+  },
+  {
+    "question_id": 3440,
+    "stimulus": "",
+    "question_stem": "A globe in the shape of a sphere has a radius of 3.5 inches and a mass of 907 grams. To the nearest whole number, what is the density of the globe, in grams per cubic inch?",
+    "answer_choices": {
+      "A": "1",
+      "B": "5",
+      "C": "130",
+      "D": "198"
+    },
+    "answer_ids": {
+      "A": 12141,
+      "B": 12142,
+      "C": 12143,
+      "D": 12144
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3440/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:37.856541",
+    "explanation": "✕ExplanationThe question asks for the density of a sphere. Use the Geometry Basic Approach. Start by drawing a sphere on the scratch paper as best as possible, and then label the radius as 3.5. No other information about the sphere is given, so use the units to determine where to start. The question asks for the density in grams per cubic inch and gives the mass in grams, so look for a way to find a value in cubic inches. The radius of the sphere is given in inches, so the volume of the sphere will be in cubic inches. Write down the formula for the volume of a sphere, either from memory or after looking it up on the reference sheet. The formula isV=. Plug in the given radius to getV=, orV≈ 179.6 cubic inches. The mass in grams divided by the volume in cubic inches equals the density in grams per cubic inch. This happens to be the formula for density, which can be written as. Plug in the known values to get, orD≈ 5.05. The nearest whole number is 5. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3441,
+    "stimulus": "",
+    "question_stem": "The graph of linejin thexy-plane has ay-intercept of –8 and contains the point (4, 4). The graph of linekcontains the points (1, 5) and (5, –3). If linesjandkintersect at the point (s,t), what is the value ofs?",
+    "answer_choices": {
+      "A": "1",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer_ids": {
+      "A": 12145,
+      "B": 12146,
+      "C": 12147,
+      "D": 12148
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3441/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:38.597292",
+    "explanation": "✕ExplanationThe question asks for thex-coordinate of the point of intersection of two lines. Start by writing an equation for each line in slope-intercept form,y=mx+b, in whichmis the slope andbis they-intercept. The question states that they-intercept of linejis –8, sob= –8. That also means that linejhas a point at (0, –8) in addition to the point given at (4, 4). Use the formulaslope=to find the slope of linej. Plug thex- andy-values from the given points into the slope formula to getslope=, which becomesslope=and thenslope= 3. The slope-intercept form of linejisy= 3x– 8.Use the two-point slope formula again for linek, using the two points given, to getslope=, which becomesslope=and thenslope= –2. Plug this slope and one of the given points into the slope-intercept equation. Use the point (1, 5) to get 5 = –2(1) +b, which becomes 5 = –2 +b. Add 2 to both sides of the equation to get 7 =b. The slope-intercept form of linekisy= –2x+ 7.Enter the equations of both lines into the built-in graphing calculator, then scroll and zoom as needed to find the point of intersection. The lines intersect at (3, 1), sos= 3.It is also possible to find thex-coordinate of the point of intersection algebraically by setting the right sides of both slope-intercept equations equal to each other and solving forx, which is 3. Using either method, the correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3442,
+    "stimulus": "",
+    "question_stem": "A student’s score on a standardized test is projected to increase bya% for every 4 practice tests the student takes. The functionrepresents this situation, wherepis the number of practice tests the student takes. What is the value ofa?",
+    "answer_choices": {
+      "A": "0.25",
+      "B": "1.2",
+      "C": "2",
+      "D": "20"
+    },
+    "answer_ids": {
+      "A": 12149,
+      "B": 12150,
+      "C": 12151,
+      "D": 12152
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3442/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:39.340882",
+    "explanation": "✕ExplanationThe question asks for the value of a percent increase given a function that represents a specific situation. The value of the function is increasing by a certain percent, so this question is about exponential growth. Write down the growth and decay formula:final amount= (original amount)(1 ±rate)number of changes. Thenumber of changesis given in terms of practice tests, but the question asks about the increaseforevery 4 practice tests.Plug in 4 forpin the function to get, which becomesS(p) = 1,200(1.2)1. The test score is increasing once, so 1.2 = 1 +rate. Subtract 1 from both sides of this equation to get 0.2 =rate. The question asks fora%, which is the rate as a percentage, so multiply 0.2 by 100 to get 20%. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3443,
+    "stimulus": "",
+    "question_stem": "The equationhas infinitely many solutions. Ifcandkare constants andc>k, what is the value ofk?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 58,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 3 - Math - Module 1",
+    "test_series": "Prep Test 3",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3443/?question_set=exam&exam_id=58",
+    "scraped_at": "2025-07-05T20:00:40.102375",
+    "explanation": "✕ExplanationThe question asks for a value given an equation. A linear equation has infinitely many solutions when thex-terms are the same and the constants are the same. The question asks for the value ofk, which is part of a constant, so focus on the constants and ignore thex-terms. Distribute on the right side of the equation to getas the constant, and set that equal to the constant on the left side of the equation:. Multiply both sides of this equation by 3 to get, and then divide both sides of the equation by 2 to get, or. The answer can also be entered in decimal form, .66 or 0.66. The correct answer isand equivalent forms.close",
+    "correct_answer": "a"
+  }
+]

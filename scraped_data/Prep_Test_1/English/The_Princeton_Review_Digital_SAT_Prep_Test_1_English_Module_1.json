@@ -1,0 +1,866 @@
+[
+  {
+    "question_id": 3047,
+    "stimulus": "The Chilean volcano Calabozos is located in __________ area. Therefore, the risk of loss of human life in the event of an eruption is minimal.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "a hazardous",
+      "B": "an active",
+      "C": "a mountainous",
+      "D": "a remote"
+    },
+    "answer_ids": {
+      "A": 10713,
+      "B": 10714,
+      "C": 10715,
+      "D": 10716
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3047/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:46.094751",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it’s asking for alogical and precise word or phrasefor the blank.Read the text and highlight what can help fill in the blank. The text states thatthe risk of loss of human life in the event of an eruption is minimal,so the area surrounding Calabozos must not be very inhabited. A good word for the annotation box based on this information would be “isolated.”(A) and (B) are wrong becausehazardousandactivedon’t match “isolated.”(C) is wrong becausemountainousis aCould Be True trap: mountainous regions are often isolated, but the text does not support that the area surrounding Calabozos has any other mountains besides the volcano itself.(D) is correct becauseremotematches “isolated.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3048,
+    "stimulus": "Contemporaries of American modernist poet H.D. focused only on her important contributions to the Imagist movement in the 1920s, taking ______ view of her work. However, she wrote in a variety of forms and genres, from short, lyrical works to complex, booklength poems.",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "an expansive",
+      "B": "a limited",
+      "C": "an imaginative",
+      "D": "a complicated"
+    },
+    "answer_ids": {
+      "A": 10717,
+      "B": 10718,
+      "C": 10719,
+      "D": 10720
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3048/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:46.812043",
+    "explanation": "✕ExplanationThis is a Vocabulary question, as it’s asking for alogical and precise word or phrasefor the blank.Read the text and highlight what can help fill in the blank. The text states that H.D.wrote in a variety of forms and genres,yet her contemporariesfocused only on her important contributions to the Imagist movement.Therefore, a good phrase for the annotation box based on this information would be that the contemporaries’ view was “narrow.”(A) is wrong becauseexpansiveis theOppositeof “narrow.”(B) is correct becauselimitedmatches “narrow.”(C) and (D) are wrong becauseimaginativeandcomplicateddon’t match “narrow.”close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3049,
+    "stimulus": "Since the 1950s, scientists have known that rapid eye movement, or REM, occurs when someone is sleeping.Previous studies attempting to determine the meaning of these eye movements have been unsuccessful in part because these studies relied on human subjects recalling the content of their dreams. A recent study by physiologists Yuta Senzai and Massimo Scanziani has avoided this issue by studying dreaming mice instead. Their results suggest that REM is correlated to changes in direction during the dream.",
+    "question_stem": "Which choice best describes the function of the second sentence in the overall structure of the text?",
+    "answer_choices": {
+      "A": "It names a problem in the approach taken by Senzai and Scanziani.",
+      "B": "It introduces the difficulty that the study by Senzai and Scanziani was designed to bypass.",
+      "C": "It presents the findings of studies done prior to the study by Senzai and Scanziani.",
+      "D": "It clarifies how others studying REM sleep interpret the study by Senzai and Scanziani."
+    },
+    "answer_ids": {
+      "A": 10721,
+      "B": 10722,
+      "C": 10723,
+      "D": 10724
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3049/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:47.565991",
+    "explanation": "✕ExplanationThis is a Purpose question, as it’s asking for thefunctionof a sentence. Read the text and highlight what can help understand the function of the second sentence. In the second sentence,Previous studies… have been unsuccessful because these studies relied on human subjects.In the third sentence, it states thatA recent study by physiologists Yuta Senzai and Massimo Scanziani has avoided this issue by studying dreaming mice instead. Therefore, the second sentence must be describing an issue that the scientists in the third sentence avoided. Write “explain issue with previous studies” in the annotation box.(A) is wrong because is theOppositeof what the text supports:previous studiesran into aproblem,but the study byYutaSenzai and Massimo Scanziani has avoided this issue.(B) is correct because it’s consistent with the relationship between the second and third sentences.(C) is wrong because it isHalf-Right: the sentence mentions the studies before Senzai and Scanziani’s but does notpresent the findingsof those studies.(D) is wrong because the text does not discuss anyone interpreting Senzai and Scanziani’s study.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3050,
+    "stimulus": "Electroreception is the ability of an animal to sense the flow of electricity around it by using specialized organs known as electroreceptors. Most species known to use electroreception are fish, including many sharks, elephant fishes, and eels.However, electroreception is not limited to fish.Monotremes, a group of mammals that includes the platypus and some echidnas, have electroreceptors on or near their mouths to help locate prey. There is also some evidence that bees can detect static electricity on flowers.",
+    "question_stem": "Which choice best describes the function of the third sentence in the overall structure of the text?",
+    "answer_choices": {
+      "A": "It generalizes the phenomenon discussed beyond fishes.",
+      "B": "It offers another explanation of electroreception that is different from the explanation of how electroreception is used by fishes.",
+      "C": "It provides more examples of animals with electroreception.",
+      "D": "It explains how electroreception evolved in monotremes and bees."
+    },
+    "answer_ids": {
+      "A": 10725,
+      "B": 10726,
+      "C": 10727,
+      "D": 10728
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3050/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:48.296438",
+    "explanation": "✕ExplanationThis is a Purpose question, as it’s asking for thefunctionof a sentence. Read the text and highlight what can help understand the function of the third sentence. In the third sentence, it states thatelectroreception is not limited to fish.Write “explain it’s not just fish” in the annotation box.(A) is correct because it’s consistent with the highlighting and annotation.(B) is wrong because it’sHalf-Right: the fourth sentence explains how monotremes use electroreception, but the earlier sentences do not explain how fish use electroreception, just that they have it.(C) is wrong because it isRight Answer, Wrong Question: the fourth and possibly the fifth sentence give moreexamplesof animals with electroreception, not the third sentence, which is what the question asks about.(D) is wrong because the text does not explainhow electroreception evolvedin any of the animals discussed.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3051,
+    "stimulus": "Text 1An animal is said to have a theory of mind when it is able to act according to the mental states of other individuals. Psychologists David Premack and Guy Woodruff studied whether chimpanzees have such a theory of mind. They showed videos of human actors struggling with various problems. The chimpanzees were able to select photographs that showed the best tool to solve each actor’s problem.Text 2Biologist Daniel J. Povinelli and psychologists Kurt E. Nelson and Sarah T. Boysen have argued that previous research into whether chimpanzees have a theory of mind have not adequately addressed alternative explanations for the chimpanzees’ behaviors. Specifically, it may be the case that chimpanzees are following learned behaviors in a known environment, rather than applying a theory of mind in a novel situation.",
+    "question_stem": "Based on the texts, how would Povinelli, Nelson, and Boysen (Text 2) most likely respond to Premack and Woodruff (Text 1)?",
+    "answer_choices": {
+      "A": "They would argue that nonhuman primates other than chimpanzees, such as baboons and gorillas, may also have a theory of mind.",
+      "B": "They would argue that the chimpanzees would be able to solve the problems themselves without referencing the photographs by struggling with the situation themselves and eventually determining the correct solution.",
+      "C": "They would encourage Premack and Woodruff to show the same videos and photographs to other nonhuman primates and compare the other nonhuman primates’ reactions to the chimpanzees’ reactions.",
+      "D": "They would suggest that placing the chimpanzee subjects in novel environments, such as rooms distinct from the chimpanzees' regular enclosures, may help better ascertain whether chimpanzees have a theory of mind."
+    },
+    "answer_ids": {
+      "A": 10729,
+      "B": 10730,
+      "C": 10731,
+      "D": 10732
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Dual Texts"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3051/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:49.047595",
+    "explanation": "✕ExplanationThis is a Dual Texts question, as it asks how the scientists in Text 2 wouldmost likely respondto those in Text 1. Read Text 1 and highlight the claim made by Premack and Woodruff regarding a theory of mind: after seeing videos of human actors struggling with various problems,the chimpanzees were able to select photographs that showed the best tool to solve each actor’s problem.Read Text 2 and highlight Povinelli, Nelson, and Boysen’s response to the same idea:it may be the case that chimpanzees are following learned behaviors in a known environment, rather than applying a theory of mind in a novel situation.Write in the annotation box for the highlighting in Text 2 that “Text 2 offers an alternate explanation.”(A) and (C) are wrong because neither text discusses any othernonhuman primatesbesides chimpanzees.(B) is wrong because it isRecycled Language: it’s the human subjects in Text 1 that are described asstrugglingwith a problem and Text 2 never suggests that the chimpanzees could solve problems by struggling through the problems on their own.(D) is correct because it would address the scientists in Text 2’s main objection to the claim in Text 1: by placing the chimpanzeesin novel environmentsthat theywould have been unlikely to encounterpreviously, Premack and Woodruff could better determine whether the chimpanzees have a theory of mind rather than are justfollowing learned behaviors in a known environment.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3052,
+    "stimulus": "The following text is from Oscar Wilde’s 1890 novelThe Picture of Dorian Gray. Dorian is seeing his portrait, painted by Basil Hallward, for the first time.Dorian made no answer, but passed listlessly in front of his picture and turned towards it. When he saw it he drew back, and his cheeks flushed for a moment with pleasure. A look of joy came into his eyes, as if he had recognized himself for the first time. He stood there motionless and in wonder, dimly conscious that Hallward was speaking to him, but not catching the meaning of his words. The sense of his own beauty came on him like a revelation. He had never felt it before.",
+    "question_stem": "According to the text, what is true about Dorian?",
+    "answer_choices": {
+      "A": "Dorian is distracted by the beauty of the painting.",
+      "B": "Dorian believes that what Hallward is saying is unimportant.",
+      "C": "Dorian does not recognize his own image.",
+      "D": "Dorian is prone to embarrassment."
+    },
+    "answer_ids": {
+      "A": 10733,
+      "B": 10734,
+      "C": 10735,
+      "D": 10736
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Retrieval"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3052/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:49.919992",
+    "explanation": "✕ExplanationThis is a Retrieval question, as it saysAccording to the text.Read the text and highlight what is said about Dorian. The text mentions thathis cheeks flushed for a moment with pleasureandA look of joy came into his eyesupon seeing his picture. He knows thatHallward was speaking to him, buthe wasnot catching the meaning of his words.Lastly,Thesense of his own beauty came on him like a revelation.The correct answer should be consistent with as many of these ideas as possible.(A) is correct because it exactly describes what is occurring in the text. Dorian cannot focus on what Hallward is saying because of the beauty of his own picture.(B) is wrong because it isExtreme Language: Dorian can’t focus on what Hallward is saying, but the text never goes so far as to state that Dorian thinks it’sunimportant.(C) is wrong because it is theOppositeof the text: not only does Dorianrecognize his own image,but he is also immensely pleased by it.(D) is wrong because nothing about how easily Dorian gets embarrassed is mentioned in the text.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3053,
+    "stimulus": "The following text is from Frederick Marryat’s 1847 novelThe Children of the New Forest.The old forester lay awake the whole of this night, reflecting how he should act relative to the children; he felt the great responsibility that he had incurred, and was alarmed when he considered what might be the consequences if his days were shortened. What would become of them—living in so sequestered a spot that few knew even of its existence—totally shut out from the world, and left to their own resources?",
+    "question_stem": "Based on the text, what is true about the children?",
+    "answer_choices": {
+      "A": "They are isolated from people other than the old forester.",
+      "B": "They are completely unable to take care of themselves.",
+      "C": "The old forester is resentful of having to take care of them.",
+      "D": "They attempt to help the old forester with his responsibilities."
+    },
+    "answer_ids": {
+      "A": 10737,
+      "B": 10738,
+      "C": 10739,
+      "D": 10740
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Retrieval"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3053/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:50.661027",
+    "explanation": "✕ExplanationThis is a Retrieval question, as it saysBased on the text.Read the text and highlight what is said about the children. The text states that the old forester wonderedWhat would become of them(the children)—living in so sequestered a spot that few even knew of its existence—totally shut out from the world, and left to their own resources?The correct answer should be as consistent with this description of the children as possible.(A) is correct becauseisolated from people other than the old foresteris consistent withtotally shut out from the world.(B) is wrong because it isExtreme Language: while the forester is worried about what would happen to the children if left alone, the text does not indicate that the children would becompletely unableto take care of themselves.(C) is wrong because it is theOppositeof the forester’s feelings toward the children: he feels responsible for them, notresentfulof them.(D) is wrong because it isRecycled Language: the answer misuses the wordresponsibilityfrom the text and never indicates that the children help the forester with his tasks.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3054,
+    "stimulus": "The following text is Baron George Gordon Byron’s poem “Answer to ——’s Professions of Affection,” written around 1814. The poem is addressed to an unknown person.In hearts like thine ne’er may I hold a placeTill I renounce all sense, all shame, all grace—That seat,—like seats, the bane of Freedom’s realm,But dear to those presiding at the helm—Is basely purchased, not with gold alone;Add Conscience, too, this bargain is your own—‘T is thine to offer with corrupting artThe rotten borough of the human heart.",
+    "question_stem": "What is the main idea of the text?",
+    "answer_choices": {
+      "A": "The speaker is expressing disapproval towards the unknown person.",
+      "B": "The speaker is unimportant to the unknown person.",
+      "C": "The speaker is thinking of purchasing a seat.",
+      "D": "The speaker holds a place in the heart of the unknown person."
+    },
+    "answer_ids": {
+      "A": 10741,
+      "B": 10742,
+      "C": 10743,
+      "D": 10744
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Main Ideas"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3054/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:51.410164",
+    "explanation": "✕ExplanationThis is a Main Idea question, as it asks for themain ideaof the text. Read the text and highlight the main phrases or lines that all of the other sentences seem to support. The citation states that the author is addressing an unknown person. The opening two lines state that the author will neverhold a placein this person’s (thine) heart until the author renouncesall sense, all shame, all grace.The author also states at the end of the poem that this individual will make anoffer with corrupting art / The rotten borough of the human heart.The main idea would be that author’s feelings towards this individual in this poem are negative, and the correct answer should be consistent with this.(A) is correct because it is consistent with the main idea anddisapproval towards the unknown personis expressed several times in the poem.(B) and (D) are wrong because the poem never states what the unknown person feels toward the author, just what the author feels toward the unknown person. (D) is alsoRecycled Languageand warps the meaning of the opening line of the text.(C) is wrong because it isRecycled Language: the author is not referring to a literal seat. Rather, the seat is a metaphor for the place the speaker may hold in the unknown person’s heart.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3055,
+    "stimulus": "Sepsis is a life-threatening condition caused by the body’s response to an infection. These infections are typically bacterial but may be fungal, parasitic, or viral. The body’s response to these infections leads to increased inflammation and organ damage. This damage in turn results in a weakened immune system, which increases the likelihood of reinfection. In a recent study, a team of doctors and pharmacologists led by Shubham Soni claims that administering ketone esters can reduce inflammation and immune system weakening caused by sepsis.",
+    "question_stem": "Which finding from the team led by Soni, if true, would most directly support its claim?",
+    "answer_choices": {
+      "A": "Patients with sepsis who were administered ketone esters had fewer signs of inflammation and less organ damage than those administered standard antibiotics.",
+      "B": "When administered, ketone esters are known to increase blood ketone levels, which in turn are a source of energy for the brain.",
+      "C": "Both those patients administered ketone esters and those administered standard antibiotics did not have reduced inflammation when treated with medication intended to reduce fever.",
+      "D": "Those sepsis patients administered ketone esters had reduced inflammation but greater organ damage than those administered standard antibiotics."
+    },
+    "answer_ids": {
+      "A": 10745,
+      "B": 10746,
+      "C": 10747,
+      "D": 10748
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3055/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:52.137403",
+    "explanation": "✕ExplanationThis is a Claims question, as it asks for what answer would support Soni and his team’s claim. Read the text and highlight the claim made by Soni’s team, which is thatadministering ketone esters can reduce inflammation and immune system weakening caused by sepsis.(A) is correct because it showsketone estersto be more effective at reducing inflammation and reducing damage to organs (which the text states are connected to immune system response) than at least one other treatment,standard antibiotics.(B) is wrong because it does not address the items mentioned in the claim, referencingblood ketone levelsandenergyrather thaninflammationand theimmune systemororgan damage.(C) is wrong because the text does not mentionmedication intended to reduce feveror how such medication would affect the performance ofketone esters.(D) is wrong because it isHalf-Right: patients treated withketone estersshould havereduced inflammation, but they should havelessorgan damage, notgreaterorgan damage, than those treated with other treatments, such as standard antibiotics.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3056,
+    "stimulus": "Horses’ Responses to Novel Objects Based on Number of HandlersOnly OneHandlerMultipleHandlersNo reluctance45%25%Mild reluctance42%49%Strong reluctance13%26%Horses have been domesticated for thousands of years. Therefore, they show great sensitivity to the emotions of humans. Biologist Océane Liehrmann from the University of Turku, Finland, led a team of researchers in a study of horses to determine the effect of the number of handlers (either only one person or multiple people) on the horses’ responses to a novel object. The researchers determined that horses with only one handler were less reluctant to interact with the novel object than were horses with multiple handlers. For example, 45% of horses with only one handler had no reluctance when interacting with a novel object while __________",
+    "question_stem": "Which choice most effectively uses data from the table to complete the example?",
+    "answer_choices": {
+      "A": "13% of horses with only one handler had strong reluctance.",
+      "B": "25% of horses with multiple handlers had no reluctance.",
+      "C": "26% of horses with multiple handlers had strong reluctance.",
+      "D": "42% of horses with only one handler had mild reluctance."
+    },
+    "answer_ids": {
+      "A": 10749,
+      "B": 10750,
+      "C": 10751,
+      "D": 10752
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Charts"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3056/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:52.905984",
+    "explanation": "✕ExplanationThis is a Charts question as it asks aboutdata from the tablethat will complete an example. Read the table first and note the title and terms on the table. Then, read the text and look for a claim and example that mentions those same terms. The fourth sentence states thathorses with only one handler were less reluctant to interact with the novel object than were horses with multiple handlers.The example states that45% of horses with only one handler had no reluctance when interacting with a novel object,so a good completion of this example would compare that statistic to a statistic regardingmultiple handlerswhile remaining consistent with the claim in the fourth sentence.(A) and (D) are wrong because they don’t mentionmultiple handlers,which are needed to be consistent with the text’s claim.(B) is correct because it shows that horses withmultiple handlersonly hadno reluctancetoward interacting with the novel object 25% of the time, whereas horses with only one handler showed no reluctance 45% of the time, making them less reluctant overall as the claim states.(C) is wrong because the claim and the first half of the example address no reluctance rather than strong reluctance. It’s best to compare two items from the same row or same column to complete comparisons, depending on what the problem is looking for.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3057,
+    "stimulus": "Indian Lok Sabha Results by Percentage of Seats Won, 1999–2019Party19992004200920142019Bharatiya Janata Party33%25%21%52%56%Indian National Congress21%27%38%8%10%Communist Party of India(Marxist)6%8%4%7%4%Other40%40%37%33%30%India is the largest democracy in the world, with over 614 million people voting in the 2019 election for the Lok Sabha, the parliament of the federal government. In the early years of Indian independence, from the first election in 1951–52 through the eighth Lok Sabha in 1984, each election resulted in one party winning the majority of seats. However, starting with the 1989 election, the party with the largest number of seats failed to win more than half of the total seats. This trend was eventually broken by the Bharatiya Janata Party, which ______",
+    "question_stem": "Which choice most effectively uses data from the graph to illustrate the claim?",
+    "answer_choices": {
+      "A": "went from holding the second most seats among the top 3 parties in parliament in 2004 and 2009 to holding a majority of seats in 2014 and 2019.",
+      "B": "reached its highest percentage of seats the same year that the Indian National Congress had its lowest percentage of seats over the same time period.",
+      "C": "won a lower percentage of seats in the 2009 election than in the 2004 election.",
+      "D": "had a lower percentage of seats than the Indian National Congress in 2004 but a higher percentage of seats than the Indian National Congress in 1999."
+    },
+    "answer_ids": {
+      "A": 10753,
+      "B": 10754,
+      "C": 10755,
+      "D": 10756
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Charts"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3057/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:53.643625",
+    "explanation": "✕ExplanationThis is a Charts question as it asks aboutdata from the tablethat will illustrate a claim. Read the table first and note the title and variables. Then, read the text and look for a claim that mentions those same terms. The fourth sentence states thatstarting with the 1989 election, the party which won the largest number of seats failed to win more than half of the total seats. The final sentence claims thatThis trend was eventually broken by the Bharatiya Janata Party. The correct answer should offer evidence from the table that supports the Bharatiya Janata Party breaking the trend described in the fourth sentence.(A) is correct because it is consistent with the table for those years and shows the Bharatiya Janata Party holding both the largest number of seatsanda majority of the totalseats.(B), (C), and (D) are wrong because none of them mention the Bharatiya Janata Party winning a majority, ormore than half of the total seats, as stated in the text.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3058,
+    "stimulus": "Changes in Indicators of Fatty Liver Diseasein Vitamin B12 and Placebo GroupsIndicatorVitamin B12 GroupControl Groupsteatosis values (dB/cm/MHz)–0.41–0.30fibrosis values (kPa)–0.350.10fasting blood glucose (mg/dl)–5.00–1.50fasting serum insulin (μU/ml)–1.46–0.21homeostasis model assessment ofinsulin resistance (HOMA-IR)–0.230.06Fatty liver disease (FLD) occurs when excess fat builds up in the liver. While there are often few or no symptoms of FLD, if left untreated, it can lead to cirrhosis or liver cancer. Because FLD is often asymptomatic, doctors and researchers rely on indicators such as steatosis (retention of fat in the liver), fibrosis (scarring), blood glucose (sugar), serum insulin, and insulin resistance to measure and track the development of FLD. A group of researchers led by radiologist Hamid Reza Talari hypothesized that those who take vitamin B12 would experience improvements in fibrosis and insulin resistance when compared to a control group over the same time period.",
+    "question_stem": "Which choice best describes data from the table that support the researchers' hypothesis?",
+    "answer_choices": {
+      "A": "Those in the control group had decreases in their steatosis values and fasting blood glucose but had increases in fibrosis values and HOMA-IR.",
+      "B": "Those in the vitamin B12 group had decreases in fibrosis values and HOMA-IR levels, whereas those in the control group had increases in these same values.",
+      "C": "Both those in the vitamin B12 group and the control group had decreases in their steatosis values.",
+      "D": "Those in the control group had a decrease in their fasting blood glucose, but those in the vitamin B12 group had an increase in their fasting blood glucose."
+    },
+    "answer_ids": {
+      "A": 10757,
+      "B": 10758,
+      "C": 10759,
+      "D": 10760
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Charts"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3058/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:54.406446",
+    "explanation": "✕ExplanationThis is a Charts question as it asks aboutdata from the tablethat will support a hypothesis. Read the table first and note the title and terms. Then, read the text and look for a hypothesis that mentions those same terms. The last sentence states thatA group of researchers…hypothesized that those who take vitamin B12 would experience improvements in fibrosis and insulin resistance when compared to a control group over the same time period.The correct answer should use data from the table to support this idea.(A) is wrong because it talks only about the control group and not the vitamin B12 group.(B) is correct because it references both groups and is consistent with the relationship between those groups stated by the claim in the text.(C) and (D) are wrong because neither mentions the termsfibrosisandinsulin resistancethat were referenced by the claim.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3059,
+    "stimulus": "Mean Levels of Carbon Monoxide (ppm),November 18–26, 1966CityDay of the Month of November181920212223242526Newark, NJ161415212328322721New York, NY4312367138Philadelphia, PA6000169106Washington, D.C.423000000The air pollution produced in an area is only one factor in that area’s air quality. Weather patterns, in particular wind and the movement of air masses, can affect the concentration of pollutants such as carbon monoxide. During a smog event that occurred in the northeastern United States in November 1966, levels of carbon monoxide were recorded in Newark, New Jersey, the origin of the smog event, as well as neighbouring city New York, NY, and more distant cities such as Philadelphia, PA, and Washington, D.C. The localized nature of weather patterns during this event can be seen by comparing Newark, NJ, and New York, NY, with ______",
+    "question_stem": "Which choice most effectively uses data from the table to complete the statement?",
+    "answer_choices": {
+      "A": "Washington, D.C., on the 18th and the 19th.",
+      "B": "Philadelphia, PA, on the 23rd and the 25th.",
+      "C": "Philadelphia, PA, on the 24th and the 26th.",
+      "D": "Washington, D.C., on the 23rd and the 24th."
+    },
+    "answer_ids": {
+      "A": 10761,
+      "B": 10762,
+      "C": 10763,
+      "D": 10764
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Charts"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3059/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:55.154919",
+    "explanation": "✕ExplanationThis is a Charts question as it asks aboutdata from the tablethat will complete a statement. Read the table first and note the title and terms. Then, read the text and look for a statement that mentions those same terms. The last sentence states thatThe localized nature of weather patterns during this event can be seen by comparing Newark, NJ, and New York, NY, with ______.The correct answer should complete this statement regarding localized weather patterns by showing a difference in mean levels of carbon monoxide in Newark and New York when compared to a more distant city.(A), (B), and (C) are wrong because the mean levels of carbon monoxide shown for Washington, D.C., and Philadelphia, PA, on the dates in each answer are similar or identical to the levels in New York, NY, on those dates. Farther cities from Newark showing similar levels to neighboring cities to Newark would not show thelocalized nature of weather patterns duringthe smog event.(D) is correct because Washington, D.C., shows zero carbon monoxide recorded on those dates, while Newark and New York show positive carbon monoxide levels on those dates.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3060,
+    "stimulus": "Neurons respond to stimuli from sensory organs or other neurons. Learning occurs when neurons change how they respond to stimuli based on previous experience, which is a property of memory. Electrical engineers seek to replicate similar processes in their development of computer memory. Recently, research by electrical engineer Mohammad Samizadeh Nikoo has demonstrated that vanadium dioxide (VO2) has a similar memory property to that of neurons, suggesting that ______",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "VO2could be used in the development of computer memory.",
+      "B": "neurons use VO2when forming memories.",
+      "C": "VO2can learn to respond to stimuli from sensory organs.",
+      "D": "electrical engineers can now use neurons to develop computer memory."
+    },
+    "answer_ids": {
+      "A": 10765,
+      "B": 10766,
+      "C": 10767,
+      "D": 10768
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Conclusions"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3060/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:55.923584",
+    "explanation": "✕ExplanationThis is a Conclusions question as it asks for an answer thatlogically completes the text. Read the text and highlight the main ideas. The text states thatneurons change how they respond to stimuli based on previous experienceand thatelectrical engineers seek to replicate similar processes in their development of computer memory.Lastly,electrical engineerMohammad Samizadeh Nikoo has demonstrated that vanadium dioxide(VO2)has a similar memory property to that of neurons.The correct answer should be consistent with these ideas and establish a logical link between them.(A) is correct because it establishes a link between VO2from the last sentence and the computer memory that electrical engineers are trying to work on from the second sentence.(B) and (C) are wrong because both areRecycled Language. For (B), it’s never stated that neurons use VO2in any way, just that they have a similar memory property. (C) takes the wordsneurons,VO2,andstimuli from sensory organsand combines them in a way not supported by the text.(D) is wrong because it usesExtreme and Recycled Language: it is VO2,not neurons, that may be helpful for computer memory. Furthermore, the text supports this as only a possibility, whereas the answer states that the engineerscan now use it.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3061,
+    "stimulus": "Uruguayan-Spanish author Carmen Posadas has written the children’s booksJuego de Niños(Child’s Play) andLa Cinta Roja(The Red Ribbon). Currently, ______ available in over fifty countries and thirty languages.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "some are",
+      "B": "this is",
+      "C": "they are",
+      "D": "it is"
+    },
+    "answer_ids": {
+      "A": 10769,
+      "B": 10770,
+      "C": 10771,
+      "D": 10772
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Pronouns"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3061/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:56.677469",
+    "explanation": "✕ExplanationIn this Rules question, pronouns are changing in the answer choices, so it’s testing consistency with pronouns. Find and highlight the word the pronoun refers back to,books, which is plural, so a plural pronoun is needed. Write an annotation saying “plural.” Eliminate any answer that isn’t consistent withbooks.(A) is wrong becausesomedoesn’t refer back to a specific thing.(B) and (D) are wrong because they are singular.(C) is correct becausetheyis plural and is consistent withbooks.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3062,
+    "stimulus": "During a meeting, a group of twelve young deaf people shared their feelings of isolation and their desire for support. In 1988, the group worked together to form Action Deaf Youth, an ______ provides services and programs for deaf children and youth throughout Northern Ireland.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "organization, that",
+      "B": "organization",
+      "C": "organization that",
+      "D": "organization,"
+    },
+    "answer_ids": {
+      "A": 10773,
+      "B": 10774,
+      "C": 10775,
+      "D": 10776
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Punctuation with Describing Phrases"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3062/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:57.462980",
+    "explanation": "✕ExplanationIn this Rules question, commas and the wordthatare changing in the answers, which suggests that the question is testing the construction of describing phrases. The first part of the sentence saysIn 1988, the group worked together to form Action Deaf Youth,which is an independent clause followed by a comma. Eliminate any answer that isn’t consistent with the first part of the sentence.(A) is wrong because a phrase starting with “that” is Specifying and never follows a comma.(B) and (D) are wrong because they both create a run-on sentence.(C) is correct because it creates a Specifying phrase withthatand no punctuation.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3063,
+    "stimulus": "In 1986, after a 56-day expedition, Ann Bancroft became the first woman to reach the North Pole. Her experience as a physical education teacher and her leadership of the first all-female team to cross the ice to the South ______ her to create a foundation that supports girls in pursuing their dreams.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "Pole to inspire",
+      "B": "Pole that inspired",
+      "C": "Pole, inspiring",
+      "D": "Pole inspired"
+    },
+    "answer_ids": {
+      "A": 10777,
+      "B": 10778,
+      "C": 10779,
+      "D": 10780
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Complete Sentences"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3063/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:58.211037",
+    "explanation": "✕ExplanationIn this Rules question, verb forms are changing in the answer choices, so it’s testing sentence structure. If the main verb is in the wrong form, the sentence won’t be complete. The subject of the sentence isHer experience, but there is no main verb, so one is needed. Eliminate any answer that does not produce a complete sentence.(A) is wrong because a “to” verb can’t be the main verb in a sentence.(B) is wrong because it lacks a main verb and thus creates an incomplete sentence.(C) is wrong because an -ingverb can’t be the main verb in a sentence.(D) is correct becauseinspiredis in the right form to be the main verb and make a complete sentence.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3064,
+    "stimulus": "American artist Simone Leigh creates art in various mediums, including sculptures, video, and ______ the themes and images in her artwork, Leigh has emphasized that Black women are her primary audience and that they would be familiar with the allusions in her work.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "performance. Discussing",
+      "B": "performance discussing",
+      "C": "performance and discussing",
+      "D": "performance, discussing"
+    },
+    "answer_ids": {
+      "A": 10781,
+      "B": 10782,
+      "C": 10783,
+      "D": 10784
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Connecting Clauses"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3064/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:58.947642",
+    "explanation": "✕ExplanationIn this Rules question, punctuation is changing in the answer choices, so look for independent clauses. The first part of the sentence saysAmerican artist Simone Leigh creates art in various mediums, including sculptures, video, and performance, which is an independent clause. The second part saysdiscussing the themes and images in her artwork, Leigh has emphasized that Black women are her primary audience…, which is also an independent clause. Eliminate any answer that can’t correctly connect two independent clauses.(A) is correct because a period is appropriately used after an independent clause.(B) is wrong because it creates a run-on sentence.(C) and (D) are wrong because neither a comma by itself nor a coordinating conjunction by itself can connect two independent clauses.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3065,
+    "stimulus": "Japanese origamist Akira Yoshizawa is considered the grandmaster of origami, creating more than 50,000 models as well as wet-folding, the most well-known of his invented techniques. ______ dampening the paper before folding, leading to origami models with rounder and more sculpted looks.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "It involves",
+      "B": "They involve",
+      "C": "One involves",
+      "D": "These involve"
+    },
+    "answer_ids": {
+      "A": 10785,
+      "B": 10786,
+      "C": 10787,
+      "D": 10788
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Pronouns"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3065/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:55:59.694281",
+    "explanation": "✕ExplanationIn this Rules question, pronouns are changing in the answer choices, so it’s testing consistency with pronouns. Find and highlight the word the pronoun refers back to,wet-folding, which is singular, so a singular pronoun is needed. Write an annotation saying “singular.” Eliminate any answer that isn’t consistent withwet-folding.(A) is correct becauseitis singular and is consistent withwet-folding.(B) and (D) are wrong because they are plural.(C) is wrong becauseonedoesn’t refer back to a specific thing.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3066,
+    "stimulus": "Chinese artist Xu Bing is known for his art installations that showcase his printmaking skills and his creative use of languages and texts. His 1991 installationA Bookfrom the Sky, for example, consists of volumes and scrolls printed with characters he invented, while his 2004 installationThe Glassy Surface of a______ uses the text of Henry David Thoreau’s Walden to create the illusion of a lake.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "Lake:",
+      "B": "Lake",
+      "C": "Lake,",
+      "D": "Lake–"
+    },
+    "answer_ids": {
+      "A": 10789,
+      "B": 10790,
+      "C": 10791,
+      "D": 10792
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "No Punctuation"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3066/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:56:00.430104",
+    "explanation": "✕ExplanationIn this Rules question, punctuation is changing in the answer choices. Look for independent clauses. The first part of the sentence saysHis 2004 installation The Glassy Surface of a Lake. The verb (uses) comes right after this. A single punctuation mark can’t separate a subject and a verb, so eliminate answers with punctuation.(A), (C), and (D) are wrong because a single punctuation mark can’t come between a subject and a verb.(B) is correct because no punctuation should be used here.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3067,
+    "stimulus": "Developed along with the swing style of jazz music in the 1920s, swing dance is a group of social dances that once comprised hundreds of styles. Not all of the styles survived beyond that time ______ the dances that are still popular today include Lindy Hop, Balboa, Collegiate Shag, and Charleston.",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "period; however,",
+      "B": "period, however;",
+      "C": "period, however,",
+      "D": "period, however"
+    },
+    "answer_ids": {
+      "A": 10793,
+      "B": 10794,
+      "C": 10795,
+      "D": 10796
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Connecting Clauses"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3067/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:56:01.209693",
+    "explanation": "✕ExplanationIn this Rules question, punctuation with a transition is changing in the answer choices. The first part of the sentence saysNot all of the styles survived beyond that time. There is an option to addhoweverto this independent clause, and since it is contrasting with the previous idea, eliminate options that don’t includehoweverin the first part or are incorrectly punctuated.(A) is wrong because it doesn’t puthoweverwith the first independent clause.(B) is correct becausehoweveris part of the first independent clause.(C) and (D) are wrong because a comma can’t be used to connect two independent clauses.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3068,
+    "stimulus": "Evolutionary biologist Jonathan Calede may have discovered the oldest amphibious beaver species in the world. Calede first compared measurements of the beaver’s ankle to those of almost 350 other rodent species to learn more about how it moved. ______ Calede dated the species to approximately 30 million years ago based on its location between rock and ash layers.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "For example,",
+      "B": "In conclusion,",
+      "C": "Next,",
+      "D": "In fact,"
+    },
+    "answer_ids": {
+      "A": 10797,
+      "B": 10798,
+      "C": 10799,
+      "D": 10800
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3068/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:56:01.949549",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The previous sentence saysCalede first compared measurements of the beaver’s ankle, and the next sentence saysCalede dated the species to approximately 30 million years ago. These ideas are different steps Calede took, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.(A) is wrong becausefor exampleintroduces an example not stated in the text.(B) is wrong becausein conclusionintroduces a conclusion not present in the text.(C) is correct becausenextintroduces another step in a sequence.(D) is wrong becausein factis used to give more detail, which is not present.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3069,
+    "stimulus": "Male and female American citizens had starkly different roles during World War II. Men served as soldiers or took part in the workforce to create weapons and other wartime materials. ______ women were responsible for maintaining the home and supporting the men. Some women also ventured into the workforce for the first time, and the famous “We Can Do It” poster featuring “Rosie the Riveter” was created to motivate women to pursue this new role.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Besides,",
+      "B": "Instead,",
+      "C": "Likewise,",
+      "D": "Meanwhile,"
+    },
+    "answer_ids": {
+      "A": 10801,
+      "B": 10802,
+      "C": 10803,
+      "D": 10804
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3069/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:56:02.723702",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The previous part of the paragraph saysMale and female American citizens had starkly different roles during World War IIand lists the roles of men, and this sentence sayswomen were responsible for maintaining the home and supporting the men. These ideas disagree, so an opposite-direction transition is needed. Make an annotation that says “disagree.” Eliminate any answer that doesn’t match.(A) and (C) are wrong because they are same-direction transitions.(B) is wrong becauseinsteadintroduces an alternative, but the paragraph discusses the different roles of men and women, not alternative roles for men.(D) is correct becausemeanwhileshows that women had different roles during the same time period.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3070,
+    "stimulus": "While treatment for hearing loss is typically associated with the ears, some patients with damaged ear structures are not able to use traditional cochlear implants. ______ researchers are working to develop hearing aids anchored to patients’ bones in order to combat hearing loss through vibrations in the skull.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Secondly,",
+      "B": "In addition,",
+      "C": "Finally,",
+      "D": "Hence,"
+    },
+    "answer_ids": {
+      "A": 10805,
+      "B": 10806,
+      "C": 10807,
+      "D": 10808
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3070/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:56:03.477425",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The first sentence sayssome patients with damaged ear structures are not able to use traditional cochlear implants, and the next sentence tells whatresearchers are workingon as a result of this problem. These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.(A) is wrong because there is no first step in the paragraph.(B) is wrong because the last sentence is not an addition to the previous sentence.(C) is wrong becausefinallyis used to indicate the last step or a conclusion.(D) is correct becausehencesuggests that the last sentence is an effect of the previous sentence.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3071,
+    "stimulus": "Korean artist Anicka Yi uses a unique process and materials to generate her art installations. Her materials are often perishable and biological, such as soap and flowers, and are not traditionally used for artwork. ______ Yi spends almost as much time transforming these substances into completely new materials as she does creating the actual art pieces.",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Meanwhile,",
+      "B": "Instead,",
+      "C": "In fact,",
+      "D": "To conclude,"
+    },
+    "answer_ids": {
+      "A": 10809,
+      "B": 10810,
+      "C": 10811,
+      "D": 10812
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3071/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:56:04.228541",
+    "explanation": "✕ExplanationThis is a transition question, so follow the basic approach. Highlight ideas that relate to each other. The previous sentence saysHer materials are often perishable and biological and are not traditionally used for artwork, and the next sentence saysYi spends almost as much time transforming these substances into completely new materials as she does creating the actual art pieces. These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.(A) and (B) are wrong because they are opposite-direction transitions.(C) is correct becausein factadds detail to the previous sentence.(D) is wrong because the last sentence is not a conclusion.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3072,
+    "stimulus": "While researching a topic, a student has taken the following notes:• A writing system for expressing numbers is a numeral system.• Two examples of numeral systems from history are Babylonian cuneiform numerals and Roman numerals.• The Babylonian cuneiform numeral system is a base-60 system and lacks a zero digit.• It’s a positional numeral system, in which the position of a digit affects its value.• The Roman numeral system is a base-10 system and lacks a zero digit.• It’s a non-positional numeral system, in which the position of a digit does not affect its value.",
+    "question_stem": "The student wants to emphasize a difference between the two numeral systems. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "Babylonian cuneiform numerals and Roman numerals are two writing systems for expressing numbers.",
+      "B": "The Roman numeral system is a base-10 nonpositional system that lacks a zero digit.",
+      "C": "One system for expressing numbers is Babylonian cuneiform; however, another one is the Roman numeral system.",
+      "D": "The Babylonian cuneiform numeral system is base-60 and positional, while the Roman numeral system is base-10 and non-positional."
+    },
+    "answer_ids": {
+      "A": 10813,
+      "B": 10814,
+      "C": 10815,
+      "D": 10816
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Rhetorical Synthesis"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3072/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:56:04.968661",
+    "explanation": "✕ExplanationThis is a Rhetorical Synthesis question, so follow the basic approach. Highlight the goal(s) stated in the question:emphasize a difference between the two numeral systems. Eliminate any answer that doesn’t fulfill this purpose.(A) is wrong because it states a similarity between the two numeral systems.(B) is wrong because it doesn’t mention bothnumeral systems.(C) is wrong because it doesn’t mention adifferencebetween the systems.(D) is correct because it states differences between the two numeral systems and uses the contrast wordwhile.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3073,
+    "stimulus": "While researching a topic, a student has taken the following notes:• Archaeologists studied the burial of an individual at the Newen Antug site in Argentinian Patagonia.• The individual was buried in a wooden structure over 800 years ago.• An analysis of the structure revealed that it was carved from a tree with excellent buoyancy.• The wooden structure was a canoe, suggesting that canoes were used as coffins at that time.",
+    "question_stem": "The student wants to present the Newen Antug study and its conclusions. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "The burial site of an individual over 800 years ago was found at the Newen Antug site in Argentinian Patagonia.",
+      "B": "Archaeologists studied the burial site of an individual who was buried at the Newen Antug site over 800 years ago.",
+      "C": "An analysis of a burial site at the Newen Antug site in Argentinian Patagonia provided evidence that canoes were used as coffins over 800 years ago.",
+      "D": "As part of a study of a burial site at the Newen Antug site in Argentinian Patagonia, a wooden structure buried with an individual was analyzed."
+    },
+    "answer_ids": {
+      "A": 10817,
+      "B": 10818,
+      "C": 10819,
+      "D": 10820
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Rhetorical Synthesis"
+    },
+    "exam_id": 43,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - English - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3073/?question_set=exam&exam_id=43",
+    "scraped_at": "2025-07-05T19:56:05.739325",
+    "explanation": "✕ExplanationThis is a Rhetorical Synthesis question, so follow the basic approach. Highlight the goal(s) stated in the question:present the Newen Antug study and its conclusions. Eliminate any answer that doesn’t fulfill this purpose.(A), (B), and (D) are wrong because they do not include aconclusion—what the researchers found.(C) is correct becausecanoes were used as coffinsis a conclusion.close",
+    "correct_answer": ""
+  }
+]

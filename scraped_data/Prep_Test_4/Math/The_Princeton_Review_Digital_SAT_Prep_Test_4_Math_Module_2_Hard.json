@@ -1,0 +1,646 @@
+[
+  {
+    "question_id": 3613,
+    "stimulus": "",
+    "question_stem": "Which expression is equivalent to 15x5+ 7x5?",
+    "answer_choices": {
+      "A": "8x5",
+      "B": "8x10",
+      "C": "22x5",
+      "D": "22x10"
+    },
+    "answer_ids": {
+      "A": 12745,
+      "B": 12746,
+      "C": 12747,
+      "D": 12748
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3613/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:46.455739",
+    "explanation": "✕ExplanationThe question asks for an equivalent form of an expression. Both terms includex5multiplied by a coefficient. Add the coefficients to get 15 + 7 = 22. Thus, 15x5+ 7x5= 22x5. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3614,
+    "stimulus": "",
+    "question_stem": "How many solutions does the equation 75x= –75xhave?",
+    "answer_choices": {
+      "A": "Exactly one",
+      "B": "Exactly two",
+      "C": "Infinitely many",
+      "D": "Zero"
+    },
+    "answer_ids": {
+      "A": 12749,
+      "B": 12750,
+      "C": 12751,
+      "D": 12752
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3614/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:47.169485",
+    "explanation": "✕ExplanationThe question asks for the number of solutions to an equation. Divide both sides of the equation by 75 to getx= –x. The only value that makes this true is 0, so the equation has exactly one solution. It is also possible to determine the number of solutions by entering the equation into the built-in graphing calculator. The vertical line atx= 0 indicates the only solution to the equation. Using either method, the correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3615,
+    "stimulus": "",
+    "question_stem": "–5y= 304x +5y= –10The point (x,y) is the solution to the given system of equations. What is the valueofx?",
+    "answer_choices": {
+      "A": "–6",
+      "B": "2",
+      "C": "5",
+      "D": "10"
+    },
+    "answer_ids": {
+      "A": 12753,
+      "B": 12754,
+      "C": 12755,
+      "D": 12756
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3615/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:47.885966",
+    "explanation": "✕ExplanationThe question asks for thex-value of the solution to a system of equations. Since the equations contain the term 5ywith opposite signs,the most efficient way to find thex-value is to stack and add the two equations.–5y=   30+(4x +5y= –10)4x=   20Divide both sides of the resulting equation by 4 to getx= 5. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3616,
+    "stimulus": "",
+    "question_stem": "f(x) = –2.99x+ 21The given function models the amount of moneyf(x), in dollars, that Olivia has remaining in her budget after she rentsxmovies from a streaming service, wherex7. If the function is graphed in thexy-plane, what is the best interpretation of the slope ofy=f(x)?",
+    "answer_choices": {
+      "A": "Olivia had $2.99 in her budget when she started to rent movies.",
+      "B": "Olivia spent $2.99 to rent each movie.",
+      "C": "Olivia spent $21 to rent each movie.",
+      "D": "Olivia had $21 in her budget when she started to rent movies."
+    },
+    "answer_ids": {
+      "A": 12757,
+      "B": 12758,
+      "C": 12759,
+      "D": 12760
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3616/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:48.608853",
+    "explanation": "✕ExplanationThe question asks for the interpretation of a feature of the graph of a function. Start by reading the final question, which asks for the best interpretation of the slope of the graph. The equation of the function is in slope-intercept form,y=mx+b, in whichmis the slope. In this case,m= –2.99. Eliminate (C) and (D) because 21 is the value ofb, notm. The question states that Olivia rentsxmovies, soxrepresents the number of movies. Eliminate (A) because it refers to Olivia’s budget, not to the number of movies. To check (B), plug in two values forxand see what happens tof(x). If Olivia rentsx= 1 movie, the function becomesf(1) = –2.99(1) + 21, orf(1) = 18.01. If Olivia rentsx= 2 movies, the function becomesf(2) = –2.99(2) + 21, orf(2) = –5.98 + 21, and thenf(2) = 15.02. After renting one more movie, her budget decreased by 18.01 – 15.02 = 2.99, so 2.99 represents the cost per movie. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3617,
+    "stimulus": "",
+    "question_stem": "If the measure of angleTisradians, what is the measure of angleTindegrees?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3617/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:49.339827",
+    "explanation": "✕ExplanationThe question asks for the measure of an angle and gives conflicting units. Either write down a conversion between radians and degrees from memory or open the reference sheet, which states that thenumber of degrees of arc in a circle is 360and that thenumber of radians of arc in a circle is 2π. Thus, 360 degrees = 2π radians. This reduces to the other conversion, which is 180 degrees = π radians. Set up a proportion, being sure to match up units. The proportion is=. Cross-multiply to get (π)(x) = (180). Simplify to get πx= 147π, then divide both sides of the equation by π to getx= 147. The correct answer is 147.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3618,
+    "stimulus": "",
+    "question_stem": "A community theater’s sales department analyzed its records for ticket sales for the past year. According to the records, 19,200 fewer tickets were sold for dramatic performances than for musicals. The sales department determined that 4 times as many tickets were sold for musicals as were sold for dramatic productions. Based on the theater’s records, how many tickets were sold for musicals?",
+    "answer_choices": {
+      "A": "4,800",
+      "B": "6,400",
+      "C": "19,200",
+      "D": "25,600"
+    },
+    "answer_ids": {
+      "A": 12761,
+      "B": 12762,
+      "C": 12763,
+      "D": 12764
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3618/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:50.102997",
+    "explanation": "✕ExplanationThe question asks for a value given a specific situation. Since the question asks for a specific value and the answers contain numbers in increasing order, plug in the answers. Rewrite the answer choices on the scratch paper and label them “tickets for musicals.” Next, pick one of the middle numbers and try (B), 6,400. The question states that19,200 fewer tickets were sold for dramatic performances than for musicals. If 6,400 tickets were sold for musicals, 6,400 – 19,200 = –12,800 tickets were sold for dramatic performances. It is not possible for a negative number of tickets to be sold, so eliminate (B). Also eliminate (A) because it will also result in a negative number.Choice (C) would mean that 0 tickets were sold for dramatic performances, which is unlikely, so try (D) instead. If 25,600 tickets were sold for musicals, 25,600 – 19,200 = 6,400 tickets were sold for dramatic performances. The question also states that4 times as many tickets were sold for musicals as were sold for dramatic performances. If 6,400 tickets were sold for dramatic performances, (6,400)(4) = 25,600 tickets were sold for musicals. In both cases, the numbers of tickets sold for both types of performances are the same, so stop here. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3619,
+    "stimulus": "",
+    "question_stem": "A right triangle has a hypotenuse measuring 56 inches and one leg measuring 16 inches. The measure of the other leg, in inches, can be written as 24. Ifsis an integer, what is the value ofs?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3619/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:50.807963",
+    "explanation": "✕ExplanationThe question asks for a value based on a geometric figure. Use the Geometry Basic Approach. Begin by drawing a right triangle and label one leg as 16 and the hypotenuse as 56. The drawing should look something like this:To find the length of the other leg, use the Pythagorean Theorem:a2+b2=c2. The question states that the length of the other leg can be written as 24, so plug in 24foraand the known values forbandcto get+ 162= 562. Square all of the terms to get 576s+ 256 = 3,136. Subtract 256 from both sides of the equation to get 576s= 2,880, and then divide both sides of the equation by 576 to gets= 5. The correct answer is 5.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3620,
+    "stimulus": "",
+    "question_stem": "Number of yearsAccountingMarketing1196214537548195619The accounting and marketing departments of a local business consist of 54 employees each. The frequencies of the number of years the employees have worked with the company are shown in the table. Which statement correctly compares the mean number of years worked by employees for the two departments?",
+    "answer_choices": {
+      "A": "There is not enough information to compare the means.",
+      "B": "The means of the number of years for the departments are equal.",
+      "C": "The mean number of years for the Accounting department is less than the mean number of years for the Marketing department.",
+      "D": "The mean number of years for the Accounting department is greater than the mean number of years for the Marketing department."
+    },
+    "answer_ids": {
+      "A": 12765,
+      "B": 12766,
+      "C": 12767,
+      "D": 12768
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3620/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:51.531441",
+    "explanation": "✕ExplanationThe question asks for the best comparison of the means, or averages, of two sets of data shown in a frequency table. For averages, use the formulaT = AN,in whichTis theTotal,Ais theAverage, andNis theNumber of things. The question states that there are 54 employees in each department, so that is theNumber of things. Since theNumber of thingsis the same, the department with the larger total will have the greater average. Use the frequency table to ballpark theTotal. A frequency table has two columns: the left-hand column contains the values, and the right-hand column contains the number of times each value occurs, or its frequency. In the Accounting department, for example, 1 occurs 19 times and 5 occurs 6 times. In the Marketing department, on the other hand, 1 occurs only 6 times and 5 occurs 19 times. The department with a greater number of large values will have a greater total, so estimate that the average of the Marketing department is greater than that of the Accounting department, which matches (C).It is also possible to find theTotalusing the frequency table. Multiply each value by the number of times it occurs, and add the results. For the Accounting department, multiply 1 × 19, 2 × 14, 3 × 7, 4 × 8, and 5 × 6. Add the results to get 19 + 28 + 21 + 32 + 30 = 130. Plug 130 for theTotaland 54 for theNumber of thingsinto the average formula to get 130 = (A)(54). Divide both sides of the equation by 54 to getA≈ 2.41. The same calculations for values in the Marketing department give aTotalof 202 and anAverageof ≈ 3.74. The average for the Marketing department, 3.74, is greater than the average for the Accounting department, 2.41.Using either method, the correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3621,
+    "stimulus": "",
+    "question_stem": "y≤ –3x+ 5y≥x+ 2The given system of inequalities is graphed in thexy-plane. Which ordered pair (x,y) is a solution to the system?",
+    "answer_choices": {
+      "A": "(–6, 0)",
+      "B": "(0, –6)",
+      "C": "(0, 6)",
+      "D": "(6, 0)"
+    },
+    "answer_ids": {
+      "A": 12769,
+      "B": 12770,
+      "C": 12771,
+      "D": 12772
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3621/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:52.254172",
+    "explanation": "✕ExplanationThe question asks for the point that satisfies a system of inequalities. The answers contain specific points, so plug in the answers. Rewrite the answer choices on the scratch paper and label them “(x,y).” Test the ordered pairs in both inequalities, and look for an ordered pair that makes both inequalities true. Start with (A) and plugx= –6 andy= 0 into the first inequality to get 0 ≤ –3(–6) + 5, which becomes 0 ≤ 18 + 5, and then 0 ≤ 23. This is true, but the point must work in both inequalities. Plug the same values into the second inequality to get 0 ≥ –6 + 2, which becomes 0 ≥ –4. This is also true, which means the point in (A) makes both inequalities true, so (A) is correct.Another approach is to enter both inequalities into the built-in calculator and see which of the four points in the answer choices is in the area of the intersection of the two graphs in the graphing area.Using either method, the correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3622,
+    "stimulus": "",
+    "question_stem": "Antonia spent a total of $108 at the art supply store. She purchasedssmall tubes of oil paint and returnedllarge tubes of oil paint for a refund. Her purchase can be represented by the equation 12s– 24l= 108. Which of the following is the best interpretation of 24lin this context?",
+    "answer_choices": {
+      "A": "The number of small tubes Antonia purchased",
+      "B": "The number of large tubes Antonia returned",
+      "C": "The total amount of money Antonia spent on purchasing the small tubes",
+      "D": "The total amount of money Antonia received for returning the large tubes"
+    },
+    "answer_ids": {
+      "A": 12773,
+      "B": 12774,
+      "C": 12775,
+      "D": 12776
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3622/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:52.966921",
+    "explanation": "✕ExplanationThe question asks for the interpretation of a term in context. Start by reading the final question, which asks for the meaning of 24l. Rewrite the equation on the scratch paper. Then label the parts of the equation with the information given, and eliminate answers that do not match the labels. The question states thatsrepresents the number of small tubes of oil paint,lrepresents the number of large tubes of oil paint, and 108 is the total amount spent. Thus, 24lhas something to do with large tubes of oil paint. Eliminate (A) and (C) because they refer to small tubes, not large tubes. Compare the remaining answers: the difference is whether 24lis the amount of money received for returning large tubes or the number of large tubes. Eliminate (B) because the number of large tubes is represented byl, not by 24l. The terms on the left side of the equation combine to equal 108, which is the total amount of money spent, so it is logical that 24lis the amount of money Antonia received for returningllarge tubes for a refund. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3623,
+    "stimulus": "",
+    "question_stem": "What is the product of the solutions to the equation 5x(x– 4) = 3(x– 8) + 6x?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3623/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:53.678935",
+    "explanation": "✕ExplanationThe question asks for the product of the solutions to an equation. The most efficient approach is to enter the equation into the built-in calculator. The equation does not need to be in a different form in order to find the solutions. When graphed, the points where the two vertical lines cross thex-axis, represented by gray dots, are the solutions. Click on each gray dot and write down thex-values: 1 and 4.8. Multiply the solutions to get (1)(4.8) = 4.8.To solve algebraically, rearrange the equation to make it easier to find the solutions. Distribute on each side of the equation to get 5x2– 20x= 3x– 24 + 6x. Combine like terms on the right side of the equation to get 5x2– 20x= 9x– 24. Subtract 9xfrom both sides of the equation to get 5x2– 29x= –24, and then add 24 to both sides of the equation to get 5x2– 29x+ 24 = 0. When a quadratic is in standard form, which isax2+bx+c, the shortcut to find the product of the solutions is. In this quadratic,a= 5 andc= 24. Plug in these values foraandcto get. This fraction or the decimal equivalent, 4.8, can be entered in the fill-in box and will be accepted as correct.Using either method, the correct answer isor 4.8.close",
+    "correct_answer": "o"
+  },
+  {
+    "question_id": 3624,
+    "stimulus": "",
+    "question_stem": "TrianglesABCandDEFare similar, whereA,B, andCcorrespond toD,E, andF, respectively. IfAC=DFand angleBmeasures 30°, what is the measure of angleE?",
+    "answer_choices": {
+      "A": "10°",
+      "B": "30°",
+      "C": "60°",
+      "D": "90°"
+    },
+    "answer_ids": {
+      "A": 12777,
+      "B": 12778,
+      "C": 12779,
+      "D": 12780
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3624/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:54.395316",
+    "explanation": "✕ExplanationThe question asks for the measure of an angle on a geometric figure. Use the Geometry Basic Approach. Start by drawing two triangles that are similar to each other, meaning they have the same angle measures and proportional side lengths. Be sure to match up the corresponding vertices that are given in the question. SinceAC=DF, make triangleABCsmaller than triangleDEF. Label angleBas 30˚. The drawing should look something like this:Since angleBcorresponds to angleE, angleEalso has a measure of 30º.  It doesn’t matter that the side lengths are different because the measures of corresponding angles are always equal in similar triangles. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3625,
+    "stimulus": "",
+    "question_stem": "FunctionCis defined byC=(R– 0.6) – 273 and relates a temperature ofRon the Rankine scale to a temperature ofCdegrees Celsius. What is the decrease in temperature in degrees Celsius when the temperature decreases by 8.82 Rankine?",
+    "answer_choices": {
+      "A": "–268.43",
+      "B": "4.90",
+      "C": "126.57",
+      "D": "507.88"
+    },
+    "answer_ids": {
+      "A": 12781,
+      "B": 12782,
+      "C": 12783,
+      "D": 12784
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3625/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:55.139543",
+    "explanation": "✕ExplanationThe question asks for a change in value based on a function. In function notation, the number inside the parentheses is thex-value that goes into the function, and the value that comes out of the function is they-value. Since the question is about the relationship between variables, plug in two different values for the temperature in Rankine,R, to determine the decrease in degrees Celsius,C. Start by pluggingR= 10 into the function to getC=(10 – 0.6) – 273, which becomesC=(9.4) – 273, thenC=– 273, and finallyC=. Next, decrease the value ofRby 8.82 to get 10 – 8.82 = 1.18, and plugR= 1.18 into the function to getC=(1.18 – 0.6) – 273, which becomesC=(0.58) – 273, thenC=– 273, and finallyC=. The difference between the two values ofCis–= 4.90. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3626,
+    "stimulus": "",
+    "question_stem": "xn– 4ny–519A certain line in thexy-plane passes through the two points given in the table, wherenis a constant. If thex-coordinate of they-intercept of the line isn+ 8, what is they-coordinate of they-intercept of the line?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3626/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:55.892766",
+    "explanation": "✕ExplanationThe question asks for the value of a constant in the coordinates of a point on a line. First, find the value ofn. They-intercept is the point at which the line crosses they-axis; at that point, the value of thex-coordinate is 0. The question states that thex-coordinate of they-intercept isn+ 8, son+ 8 = 0 andn= –8.Next, determine the values of the points on the line. The table shows that two points on the line are (n– 4, –5) and (n, 19). Plug in –8 fornto get points at (–12, –5) and (–8, 19). Use those two points to calculate the slope of the line using the formulaslope=. The formula becomesslope=. Simplify to getslope=, orslope= 6.Plug the slope and one of the known points into the slope-intercept form of a line, which isy=mx+b, and solve for they-intercept,b. Use the point (–8, 19) and the equation becomes 19 = 6(–8) +b, or 19 = –48 +b. Add 48 to both sides of the equation to get 67 =b. The correct answer is 67.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3627,
+    "stimulus": "",
+    "question_stem": "g(a) =(a– 3)2+ 4Functiongis defined by the given equation and represents the height, in feet, of an arrow above the ground, whereais the time, in seconds, after the arrow was released, and 0 ≤a≤ 11. Given the graph ofy=g(a), which statement is the best interpretation of the vertex of the graph?",
+    "answer_choices": {
+      "A": "The arrow was 3 feet above the ground when it was first released.",
+      "B": "The arrow was 4 feet above the ground when it was first released.",
+      "C": "The arrow’s maximum height was 3 feet above the ground.",
+      "D": "The arrow’s maximum height was 4 feet above the ground."
+    },
+    "answer_ids": {
+      "A": 12785,
+      "B": 12786,
+      "C": 12787,
+      "D": 12788
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3627/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:56.622474",
+    "explanation": "✕ExplanationThe question asks for the interpretation of a feature of a graph in context. Start by reading the final question, which asks for the best interpretation of the vertex of the graph. Enter the function into the built-in calculator, then scroll and zoom as needed to find the vertex. The coordinates of the vertex are (3, 4). The other way to find the vertex is to recognize that the equation is in vertex form,a(x–h)2+k, in which (h,k) is the vertex. The question states thaty = g(a) and thatg(a) represents the arrow’s height above the ground; therefore,yrepresents the height above the ground. Eliminate (A) and (C) because they state that the arrow was 3 feet above the ground, which is thex-value of the vertex, not they-value.Compare the remaining answer choices. The difference between (B) and (D) is whether the vertex represents the maximum height of the arrow or the height when the arrow was released. When the arrow was released, 0 seconds had elapsed. Time is on thex-axis, sox= 0 when the arrow was released. However, the vertex has anx-coordinate of 3, not 0, so eliminate (B). The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3628,
+    "stimulus": "",
+    "question_stem": "g(x) = 13x+cThe given function is graphed in thexy-plane. If the graph intersects thex-axis atx= 3, what is the value ofc?",
+    "answer_choices": {
+      "A": "–39",
+      "B": "–13",
+      "C": "13",
+      "D": "39"
+    },
+    "answer_ids": {
+      "A": 12789,
+      "B": 12790,
+      "C": 12791,
+      "D": 12792
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3628/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:57.345993",
+    "explanation": "✕ExplanationThe question asks for a constant in a function. In function notation,f(x) =y. The number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. Together, they represent points on the graph of the function. A graph intersects thex-axis wheny= 0, and the question states thatthe graph intersects the x-axis at x = 3, so the graph of this function contains the point (3, 0). Plugx= 3 andf(x) = 0 into the equation to get 0 = 13(3) +c, which becomes 0 = 39 +c. Subtract 39 from both sides of the equation to get –39 =c. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3629,
+    "stimulus": "",
+    "question_stem": "If an island has a land area of approximately 14,217,984 square feet, what is the land area of the island, insquare miles? (1 mile = 5,280 feet)",
+    "answer_choices": {
+      "A": "0.51",
+      "B": "0.7",
+      "C": "2,692.8",
+      "D": "3,770.67"
+    },
+    "answer_ids": {
+      "A": 12793,
+      "B": 12794,
+      "C": 12795,
+      "D": 12796
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3629/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:58.049416",
+    "explanation": "✕ExplanationThe question asks for a measurement and gives conflicting units. The question provides the conversion that 1 mile = 5,280 feet but gives the land area of the island in square feet. Because the conversion equation is in linear units, not square units, it is necessary to convert to square miles and square feet. Square both parts of the conversion equation to get 12mile = 5,2802feet, or 1 square mile = 27,878,400 square feet. Next, set up a proportion, being sure to match up units. The proportion is=. Cross-multiply to get (27,878,400)(x) = (1)(14,217,984), or 27,878,400x= 14,217,984. Divide both sides of the equation by 27,878,400 to getx= 0.51. Therefore, the island measures 0.51 square miles. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3630,
+    "stimulus": "",
+    "question_stem": "3x3– 63x2+ 204xOne factor of the given expression can be written asx–k, wherekis a positive constant. What is the greatest possible value ofk?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3630/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:58.752699",
+    "explanation": "✕ExplanationThe question asks for a constant in a factor of a polynomial. To begin factoring the expression, factor 3xout of the entire expression to get 3x(x2– 21x+ 68). Now factor the quadratic part of the expression. Find two numbers that multiply to 68 and add to –21. These are –17 and –4. Thus, the full expression factors into 3x(x– 17)(x– 4). The two possible values forkin the binomial (x–k) are 17 and 4. The question asks for the greatest value ofk, which is 17. The correct answer is 17.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3631,
+    "stimulus": "",
+    "question_stem": "63y– 2.1 =tx4x+ 55y= 0.3 + 46yIn the given system of equations,tis a constant. If the system has infinitely many solutions, what is the value oft?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3631/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:02:59.510615",
+    "explanation": "✕ExplanationThe question asks for a value in a system of equations. A system of linear equations in two variables has infinitely many solutions when the equations represent the same line. For this to happen, the coefficients on both variables have to be the same and the constants have to be the same. Start by rearranging the two equations so they are in the same form. Subtracttxfrom both sides of the first equation to get –tx+ 63y– 2.1 = 0. Add 2.1 to both sides of the equation to get –tx+ 63y= 2.1. The equation is now in standard form, which isAx+By=C. To get the second equation into standard form, subtract 46yfrom both sides of the equation to get 4x+ 9y= 0.3. Write the two equations above each other to see how the terms match up:–tx+ 63y= 2.14x+   9y= 0.3Now that the two equations are in the same form, manipulate the second equation so that the coefficients on theyterms are the same. Multiply the entire second equation by 7 to get 28x+ 63y= 2.1. Rewrite the equations to see that they-terms and the constants are now the same.–tx+ 63y= 2.128x+ 63y= 2.1In order for the system of equations to have infinitely many solutions, the coefficients on thexterms must also be the same. Thus, –tx= 28x. Divide both sides of the equation by ­–xto gett= –28. Whent= –28, the two equations are identical, so they are the same line, and the system of equations has infinitely many solutions. The correct answer is–28.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3632,
+    "stimulus": "",
+    "question_stem": "The distance between Alan’s home and his work office ismmiles. He can drive at an average speed of 38 miles per hour during his commute. Which equation models the time,t, in hours, Alan will take to drive to his work office and back home?",
+    "answer_choices": {
+      "A": "t= 38m",
+      "B": "t= 76m",
+      "C": "t=",
+      "D": "t="
+    },
+    "answer_ids": {
+      "A": 12797,
+      "B": 12798,
+      "C": 12799,
+      "D": 12800
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3632/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:03:00.230838",
+    "explanation": "✕ExplanationThe question asks for an equation that models a specific situation. There are variables in the answer choices, so plug in. Choose a number that works well with the conditions of the question: since Alan’s average speed is 38 miles per hour, makem, the distance from his home to his work office, equal to 76 miles. The question states that Alan drivesto his work office and back home, so the total distance is 76 + 76 = 152 miles. To findt, the number of hours it will take to drive both directions, set up a proportion, being sure to match units. The proportion is=. Cross-multiply to get (1)(152) = (38)(t), or 152 = 38t. Divide both sides of the equation by 38 to gett= 4. Thus, whenm= 76,t= 4.Now plugm= 76 andt= 4 into the answer choices and eliminate any that don’t work. Choice (A) becomes 4 = 38(38), or 4 = 1,444. This is not true, so eliminate (A). Choice (B) becomes 4 = 76(38), or 4 = 2,888; eliminate (B). Choice (C) becomes 4 =, or 4 = 4. This is true, so keep (C) but check (D) just in case. Choice (D) becomes 4 =, or 4 = 2; eliminate (D). The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3633,
+    "stimulus": "",
+    "question_stem": "Quadratic functionhis defined byh(x) =ax2– 2x+c, whereaandcare constants. The graph ofy=h(x) in thexy-plane is a parabola that opens downward and has a vertex of (h,k), wherek> 0. Ifh(1) =h(–13), which of the following must be true?I.–1 <a< 0II. c> 0",
+    "answer_choices": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    },
+    "answer_ids": {
+      "A": 12801,
+      "B": 12802,
+      "C": 12803,
+      "D": 12804
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3633/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:03:00.967068",
+    "explanation": "✕ExplanationThe question asks for a true statement about a function. The question states that the graph of functionhis a parabola that opens downward and has a vertex of (h, k).When a quadratic is in standard form,ax2+bx+c, the sign ofaindicates which way the parabola opens. Whenais positive, the parabola opens upward, and whenais negative, the parabola opens downward. Since this parabola opens downward,amust be negative. However,acould be between 0 and –1 or less than –1, so this is not enough information to determine whether statement (I) must be true.The question also states thath(1) =h(–13), which means that, on the graph of the parabola, the point wherex= 1 and the point wherex= –13 have the samey-coordinate. The axis of symmetry of a parabola is midway between any two points with the samey-coordinate. Find the midpoint of the twoy-coordinates given to find the axis of symmetry:== –6. The axis of symmetry goes through the vertex, so thex-coordinate of the vertex, orh, is –6.When a quadratic is in standard form, which isax2+bx+c, thex-coordinate of the vertex can be found using the formulah= –. In this quadratic,a=aandb= –2. Sinceh= –6, the formula becomes –6 = –. Multiply both sides of the equation by 2ato get –12a= –(–2), or –12a= 2, then divide both sides of the equation by –12 to geta=, which reduces toa=. It is true that –1 << 0, so statement (I) is true. Eliminate (B) and (D) because they do not include (I) as a true statement.To check statement (II), plug in a value to determine whether that condition must be true. Try to prove the statement false by plugging in a negative value, such asc= –1. Plugc= –1 anda=into the quadratic to getx2– 2x+ (–1). Enter this into the built-in calculator to see the graph of the function. The graph shows a parabola that opens downward and has a vertex of (–6, 5). The question states that the parabola opens downward and thatk, they-coordinate of the vertex, is greater than 0, both of which are true for at least one negative value ofc. This means thatcdoes not have to be greater than 0, so statement (II) is not always true. Eliminate (C) because it includes (II) as a statement that must be true. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3634,
+    "stimulus": "",
+    "question_stem": "Which expression represents one possible solution to the equation– 83 = –, wherekis a positive constant?",
+    "answer_choices": {
+      "A": "3k",
+      "B": "",
+      "C": "",
+      "D": "832+ 9k2"
+    },
+    "answer_ids": {
+      "A": 12805,
+      "B": 12806,
+      "C": 12807,
+      "D": 12808
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "exam_id": 66,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3634/?question_set=exam&exam_id=66",
+    "scraped_at": "2025-07-05T20:03:01.695646",
+    "explanation": "✕ExplanationThe question asks for a solution to a given equation. The constantkis in the answer choices, so plug in a value fork. Makek= 2. The expression becomes– 83 =. Simplify on both sides of the equation to get– 83 =, and finally– 83 =. Enter this value into the built-in calculator to get a graph of the solutions forx. Scroll and zoom as needed to see that the graph shows two solutions at slightly greater than –83 and slightly less than 83. These are the approximate target values; write them down and circle them.Now plugk= 2 into the answer choices and eliminate any that do not match either of the target values. Choice (A) becomes 3(2) = 6. This is not close to –83 or 83, so eliminate (A). Choice (B) becomes=. Use a calculator to get a result of ≈ 82.78. This is slightly less than 83, so keep (B) but check the remaining answers just in case. Choice (C) becomes=.  Use a calculator to get a result of ≈ 83.21. This is close, but the positive solution on the graph is less than 83, not greater than 83, so eliminate (C). Choice (D) becomes 832+ 9(2)2= 6,880 + 36 = 6,925, which is much too large; eliminate (D). Only (B) is left, and it is correct.To solve algebraically, first add 83 to both sides of the equation to get= 83 –, then addto both sides of the equation to get+= 83. Both fractions on the left side of the equation have the same denominator, so add the numerators to get= 83. Square both sides of the equation to get= 832. One of the binomials on the left side of the equation cancels, leaving 9k2+x2= 832. Now solve forx. Subtract 9k2from both sides of the equation to getx2= 832– 9k2. Take the square root of both sides of the equation to getx=, which is (B).Using either method, the correct answer is (B).close",
+    "correct_answer": "B"
+  }
+]

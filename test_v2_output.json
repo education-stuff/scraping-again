@@ -1,0 +1,32 @@
+{
+  "question_id": 3130,
+  "stimulus": "",
+  "question_stem": "A carpenter hammers 10 nails per minute and installs 7 screws per minute during a project. Which of the following equations represents the scenario if the carpenter hammers nails for <em>x</em> minutes, installs screws for <em>y</em> minutes, and uses a combined total of 200 nails and screws?<br/>\n<div></div>",
+  "answer_choices": {
+    "A": "<img align=\"middle\" alt=\"1 over 10 x space plus space 1 over 7 y space equals space 200\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/b4882434-145c-4e9a-af6f-1729ab8b9618_Choice_936399_085775a2-9fd3-4939-818d-53759cc943ca.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"137\"/><br/>\n<div></div>",
+    "B": "<img align=\"middle\" alt=\"1 over 10 x space plus space 1 over 7 y space equals space 3 comma 420\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/b4882434-145c-4e9a-af6f-1729ab8b9618_Choice_936400_99a0158c-9b81-4a0e-a8ea-aacbac2f51da.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"151\"/>",
+    "C": "<span>10<em>x</em> + 7<em>y</em> = 200<br/></span>",
+    "D": "<span>10<em>x</em> + 7<em>y</em> = 3,420</span><br/>\n<div></div>"
+  },
+  "answer_ids": {
+    "A": 11045,
+    "B": 11046,
+    "C": 11047,
+    "D": 11048
+  },
+  "metadata": {
+    "section": "Math",
+    "domain": "Algebra",
+    "skill": "Representation and Interpretation"
+  },
+  "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            The question asks for an equation that represents a specific situation. Translate the information in Bite-Sized Pieces and eliminate after each piece. One piece of information says that the carpenter <em>hammers 10 nails per minute</em>, and another piece says that the carpenter <em>hammers nails for x minutes</em>. Multiplying the rate of 10 nails per minute by the number of minutes gives the number of nails: <img align=\"middle\" alt=\"open parentheses fraction numerator 10 space nails over denominator 1 space text minute end text end fraction close parentheses open parentheses x space text minutes end text close parentheses space equals space 10 x\" height=\"43\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/b4882434-145c-4e9a-af6f-1729ab8b9618_16b6ded0-6d28-4d48-9002-0a96603ef072.svg\" style=\"max-width: none; vertical-align: -16px;\" width=\"215\"/> nails. Eliminate (A) and (B) because they multiply the number<br/>of minutes by <img align=\"middle\" alt=\"1 over 10\" height=\"41\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/b4882434-145c-4e9a-af6f-1729ab8b9618_f9768c49-fb25-4cab-b494-f4d6e97268b5.svg\" style=\"max-width: none; vertical-align: -15px;\" width=\"27\"/> instead of by 10. Compare the remaining answer choices. The difference between (C) and (D) is the number on the right side of the equation. Since the carpenter <em>uses a combined total of 200 nails and screws</em>, the equation must equal 200. Eliminate (D) because it equals 3,420. The correct answer is (C).<br/>\n<div></div>\n</div>",
+  "correct_answer": "C",
+  "exam_id": 46,
+  "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+  "test_series": "Prep Test 1",
+  "subject": "Math",
+  "module_number": 1,
+  "difficulty": null,
+  "url": "https://oneprep.xyz/question/3130/?question_set=exam&exam_id=46",
+  "scraped_at": "2025-07-06T17:24:12.395650"
+}

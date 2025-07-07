@@ -1,0 +1,636 @@
+[
+  {
+    "question_id": 3128,
+    "stimulus": "",
+    "question_stem": "A data set containing only the values 2, 2, 9, 9, 9, 16, 16, 16, 16, 26, 26, and 26 is represented by a frequency table. Which of the following is the correct representation of this data set?",
+    "answer_choices": {
+      "A": "NumberFrequency2492716642678",
+      "B": "NumberFrequency2293164263",
+      "C": "NumberFrequency2239416326",
+      "D": "NumberFrequency4227964167826"
+    },
+    "answer_ids": {
+      "A": 11037,
+      "B": 11038,
+      "C": 11039,
+      "D": 11040
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3128/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:47.346652",
+    "explanation": "✕ExplanationThe question asks for the frequency table that correctly represents a list of numbers. A frequency table has two columns: the left-hand column contains the values, and the right-hand column contains the number of times each value occurs, or its frequency. Work in Bite-Sized Pieces and eliminate answer choices that do not match the data. The number 2 occurs twice in the list, so its frequency is 2. Eliminate (A) because it shows a frequency of 4 for the number 2. Eliminate (D) because it does not include the number 2 at all. Next, the number 9 occurs three times in the list, so its frequency is 3. Eliminate (C) because it shows the number 3 occurring 9 times instead of the number 9 occurring 3 times. Choice (B) shows the correct frequency for each value. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3129,
+    "stimulus": "",
+    "question_stem": "The expressionx2–x– 56 is equivalent to which of the following?",
+    "answer_choices": {
+      "A": "(x– 14)(x+ 4)",
+      "B": "(x– 7)(x+ 8)",
+      "C": "(x– 8)(x+ 7)",
+      "D": "(x– 4)(x+ 14)"
+    },
+    "answer_ids": {
+      "A": 11041,
+      "B": 11042,
+      "C": 11043,
+      "D": 11044
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3129/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:48.062022",
+    "explanation": "✕ExplanationThe question asks for an equivalent form of an expression. When given a quadratic in standard form, which isax2+bx+c, one approach is to factor it. Find two numbers that multiply to 56 and add to –1. These are –8 and 7, so the factored form of the quadratic is (x– 8)(x+ 7), which is (C). When a quadratic is more difficult to factor than this one was, another approach is to use a graphing calculator. Enter the expression given in the question, then enter the expressions from the answer choices one at a time and stop when one of the answers produces the same graph. Using either method, the correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3130,
+    "stimulus": "",
+    "question_stem": "A carpenter hammers 10 nails per minute and installs 7 screws per minute during a project. Which of the following equations represents the scenario if the carpenter hammers nails forxminutes, installs screws foryminutes, and uses a combined total of 200 nails and screws?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "10x+ 7y= 200",
+      "D": "10x+ 7y= 3,420"
+    },
+    "answer_ids": {
+      "A": 11045,
+      "B": 11046,
+      "C": 11047,
+      "D": 11048
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3130/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:48.782099",
+    "explanation": "✕ExplanationThe question asks for an equation that represents a specific situation. Translate the information in Bite-Sized Pieces and eliminate after each piece. One piece of information says that the carpenterhammers 10 nails per minute, and another piece says that the carpenterhammers nails for x minutes. Multiplying the rate of 10 nails per minute by the number of minutes gives the number of nails:nails. Eliminate (A) and (B) because they multiply the numberof minutes byinstead of by 10. Compare the remaining answer choices. The difference between (C) and (D) is the number on the right side of the equation. Since the carpenteruses a combined total of 200 nails and screws, the equation must equal 200. Eliminate (D) because it equals 3,420. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3131,
+    "stimulus": "",
+    "question_stem": "What is the measure of angleFin the triangleDEF, where angleDis 73° and angleEis 35°?",
+    "answer_choices": {
+      "A": "38°",
+      "B": "72°",
+      "C": "108°",
+      "D": "126°"
+    },
+    "answer_ids": {
+      "A": 11049,
+      "B": 11050,
+      "C": 11051,
+      "D": 11052
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3131/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:49.515076",
+    "explanation": "✕ExplanationThe question asks for the value of the measure of an angle on a figure. Use the Geometry Basic Approach. Start by drawing a triangle on the scratch paper. Then label the figure with the given information. Label angleDas 73°, angleEas 35°, and angleFwithout a number. Since the measures of the angles in a triangle have a sum of 180°, set up the equation 73° + 35° +F= 180°, which becomes 108° +F= 180°. Subtract 108° from both sides of the equation to getF= 72°. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3132,
+    "stimulus": "",
+    "question_stem": "The total amount of plastic remaining to be recycled in a facility overxshifts is represented by the graph above. Which of the following represents they-intercept of the graph?",
+    "answer_choices": {
+      "A": "The total amount of plastic remaining at any given time",
+      "B": "The number of shifts it will take to finish recycling the plastic",
+      "C": "The amount of plastic that is recycled per shift",
+      "D": "The initial amount of plastic to be recycled"
+    },
+    "answer_ids": {
+      "A": 11053,
+      "B": 11054,
+      "C": 11055,
+      "D": 11056
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3132/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:50.259896",
+    "explanation": "✕ExplanationThe question asks about a graph representing a certain situation. In a linear graph that represents an amount over time, they-intercept represents the initial amount. In this case, it represents the amount of plastic remaining to be recycled whenx= 0. After 0 shifts, no plastic has been recycled yet, so they-intercept represents the initial amount of plastic to be recycled. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3133,
+    "stimulus": "",
+    "question_stem": "The table below shows the condition and subject type for 200 textbooks at a bookstore.BiologyChemistryPhysicsAnatomyTotalUsed1025301580New30251055120Total40504070200What is the probability that a textbook chosen at random will be a new textbook? (Express your answer as a decimal or fraction, not as a percent.)",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3133/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:50.978985",
+    "explanation": "✕ExplanationThe question asks for a probability based on data in a table. Probability is defined as. Read the table carefully to find the numbers to make the probability. There are 200 total textbooks, so that is thetotal # of outcomes. Of these 200 textbooks, 120 are new textbooks, so that is the# of outcomes that fit requirements. Therefore, the probability that a textbook chosen at random is a new textbook is. This cannot be entered into the fill-in box, which only accepts 5 characters when the answer is positive. All equivalent answers that fit will be accepted, so reduce the fraction or convert it to a decimal. The correct answer is, .6, or another equivalent form.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3134,
+    "stimulus": "",
+    "question_stem": "A random sample of 5,000 students out of 60,000 undergraduate students at a university were surveyed about a potential change to the registration system. According to the survey results, 75% of the respondents did not support the existing registration system, with a 4% margin of error. Which of the following represents a reasonable total number of students who did not support the existing registration system?",
+    "answer_choices": {
+      "A": "1,250",
+      "B": "3,750",
+      "C": "13,800",
+      "D": "43,800"
+    },
+    "answer_ids": {
+      "A": 11057,
+      "B": 11058,
+      "C": 11059,
+      "D": 11060
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3134/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:51.694228",
+    "explanation": "✕ExplanationThe question asks for a reasonable number based on survey results and a margin of error. Work in Bite-Sized Pieces and eliminate after each piece. A margin of error expresses the amount of random sampling error in a survey’s results. Start by applying the percent of respondents who did not support the existing registration system to the entire population of undergraduate students. Take 75% of the entire undergraduate student population to getstudents. Eliminate (A) and (B) because they are not close to this value and do not represent a reasonable number of students who did not support the existing registration system. The margin of error is 4%, meaning that results within a range of 4% above and 4% below the estimate are reasonable. A 4% margin of error will not change the result by very much, and (D) is the only answer choice close to 45,000. To check, calculate the lower limit of the range based on the margin of error, since 43,800 is less than 45,000. To find the lower limit, subtract 4% from 75% to get 71%, then find 71% of the total population to get a lower limit of. The value in (C) is less than the lower limit, so it is not a reasonable number. Choice (D) contains a value between 42,600 and 45,000, so it is reasonable. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3135,
+    "stimulus": "",
+    "question_stem": "What is the negative solution to the equation?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3135/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:52.411735",
+    "explanation": "✕ExplanationThe question asks for a solution to an equation. To begin solving fora, multiply both sides of the equation byato get 32 =a(a– 4). Next, distribute on the right side of the equation to get 32 =a2– 4a. Subtract 32 from both sides of the equation to get 0 =a2– 4a– 32. Now that the equation is a quadratic in standard form, which isax2+bx+c, factor it to find the solutions. Find two numbers that multiply to –32 and add to –4. These are 4 and –8, so the factored form of the quadratic is 0 = (a+ 4)(a– 8). Now set each factor equal to 0 to get two equations:a+ 4 = 0 anda– 8 = 0. Subtract 4 from both sides of the first equation to geta= –4. Add 8 to both sides of the second equation to geta= 8. Therefore, the negative solution to the given equation is –4. It is also possible to enter the equation into a graphing calculator—usingxas the variable—then scroll and zoom as needed to find thex-intercept with a negative value. Using either method, the correct answer is –4.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3136,
+    "stimulus": "",
+    "question_stem": "After a hot air balloon is launched from a plateau 1,000 meters above sea level, it rises at a constant rate of 750 meters per minute. Which of the following best describes the function used to model the balloon’s distance above sea level over time?",
+    "answer_choices": {
+      "A": "Increasing linear",
+      "B": "Increasing exponential",
+      "C": "Decreasing linear",
+      "D": "Decreasing exponential"
+    },
+    "answer_ids": {
+      "A": 11061,
+      "B": 11062,
+      "C": 11063,
+      "D": 11064
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3136/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:53.124821",
+    "explanation": "✕ExplanationThe question asks for a description of a function that models a specific situation. Compare the answer choices. Two choices say the function is increasing, and two say it is decreasing. Since the balloon is rising, its distance above sea level is increasing over time. Eliminate (C) and (D) because they describe a decreasing function. The difference between (A) and (B) is whether the function is linear or exponential. Since the distance above sea level changes by a constant amount during each unit of time, the relationship between the balloon’s distance above sea level and time is linear. Eliminate (B) because it describes an exponential function. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3137,
+    "stimulus": "",
+    "question_stem": "What is thex-intercept of the functionf(x) = (22)x– 1 when it is graphed in thexy-plane, wherey=f(x)?",
+    "answer_choices": {
+      "A": "(–1, 0)",
+      "B": "(0, 0)",
+      "C": "(21, 0)",
+      "D": "(22, 0)"
+    },
+    "answer_ids": {
+      "A": 11065,
+      "B": 11066,
+      "C": 11067,
+      "D": 11068
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3137/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:53.839425",
+    "explanation": "✕ExplanationThe question asks for thex-intercept of a function. Anx-intercept is a point wherey= 0. In function notation,f(x) =y. The number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. Together, they represent points on the graph of the function. The answers are points that could be thex-intercept, so plug in the answers. Start with (A), and plugx= –1 andy= 0 into the function, keeping in mind thatf(x) =y. The equation becomes 0 = (22)–1– 1. Add 1 to both sides of the equation to get 1 = (22)–1. Either use a calculator or know how to work with a negative exponent. A negative exponent means to raise the value to the positive exponent and take the reciprocal, so (22)–1becomes. This is not true, so eliminate (A). Next, try (B) and plugx= 0 andy= 0 into the function to get 0 = (22)0 – 1. Add 1 to both sides of the equation to get 1 = (22)0. Any number raised to the power of 0 is 1, so the equation becomes 1 = 1. This is true, so stop here. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3138,
+    "stimulus": "",
+    "question_stem": "In parallelogramABCDshown above, the length ofis one-third the length of. The perimeter of the parallelogram is 64. What is the length of?",
+    "answer_choices": {
+      "A": "8",
+      "B": "16",
+      "C": "24",
+      "D": "32"
+    },
+    "answer_ids": {
+      "A": 11069,
+      "B": 11070,
+      "C": 11071,
+      "D": 11072
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3138/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:54.570879",
+    "explanation": "✕ExplanationThe question asks for the length of a side of a geometric figure. Use the Geometry Basic Approach. Start by redrawing the figure on the scratch paper, then label it with information from the question. Since the question asks for a specific value and the answers contain numbers in increasing order, plug in the answers. Write the answers on the scratch paper, label them as “side,” and start with a middle number. Try (B) and make= 16. The question states thatthe length ofis one-third the length of. Given this, if= 16,= 3(16) = 48. The perimeter of a geometric shape is the sum of the lengths of the sides, so the perimeter of this figure is 16 + 48 + 16 + 48 = 128. This does not match the perimeter of 64 given in the question, so eliminate (B). The result was too big, and a longer side length will make the perimeter even bigger, so eliminate (C) and (D), as well. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3139,
+    "stimulus": "",
+    "question_stem": "A triangle with an area of 18 square units has a base of (m+ 5) units and a height ofmunits. What is the value ofm?",
+    "answer_choices": {
+      "A": "4",
+      "B": "9",
+      "C": "13",
+      "D": "36"
+    },
+    "answer_ids": {
+      "A": 11073,
+      "B": 11074,
+      "C": 11075,
+      "D": 11076
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3139/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:55.307682",
+    "explanation": "✕ExplanationThe question asks for a value based on a geometric figure. Use the Geometry Basic Approach. Start by drawing a triangle on the scratch paper, then label the figure with the given information. The question gives the area of the triangle, so write out the formula for the area of a triangle,, and plug in the given area to get. Since the question asks for a specific value and the answers contain numbers in increasing order, plug in the answers. Write the answers on the scratch paper, label them as “m,” and start with a middle number. Try (B), 9. Ifm= 9, the base of the triangle is 9 + 5 = 14, and the height of the triangle is 9. Plug these numbers into the area formula to get. Simplify the right side of the equation to get 18 = 63. This is not true, so eliminate (B). The result was too big, and a larger value ofmwill make the area even bigger, so eliminate (C) and (D), as well. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3140,
+    "stimulus": "",
+    "question_stem": "Time (seconds)Number of colonies of yeast051202803320The table above shows the exponential growth of a type of yeast over times, in seconds. There arectotal yeast colonies on the count plate. What is the equation that represents this relationship, assuming that no yeast was added or removed after counting began?",
+    "answer_choices": {
+      "A": "c= (1 + 3)s",
+      "B": "c= (1 + 5)s",
+      "C": "c= 3(1 + 5)s",
+      "D": "c= 5(1 + 3)s"
+    },
+    "answer_ids": {
+      "A": 11077,
+      "B": 11078,
+      "C": 11079,
+      "D": 11080
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3140/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:56.016666",
+    "explanation": "✕ExplanationThe question asks for the equation that represents the relationship between two variables. When given a table of values and asked for the correct equation, plug values from the table into the answer choices to see which one works. According to the table,s= 2 whenc= 80. Choice (A) becomes 80 = (1 + 3)2, or 80 = 42, then 80 = 16. This is not true, so eliminate (A). Choice (B) becomes 80 = (1 + 5)2, or 80 = 62, then 80 = 36; eliminate (B). Choice (C) becomes 80 = 3(1 + 5)2, or 80 = 3(6)2, then 80 = 3(36), then 80 = 108; eliminate (C). Choice (D) becomes 80 = 5(1 + 3)2, or 80 = 5(4)2, then 80 = 5(16), then 80 = 80. This is true, so keep (D). The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3141,
+    "stimulus": "",
+    "question_stem": "The equations 12x=yand 24x+ 7 = 2yintersect at how many points when graphed in thexy-plane?",
+    "answer_choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "7"
+    },
+    "answer_ids": {
+      "A": 11081,
+      "B": 11082,
+      "C": 11083,
+      "D": 11084
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3141/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:56.729751",
+    "explanation": "✕ExplanationThe question asks for the number of points of intersection in a system of equations. One method is to use a graphing calculator. Enter both equations into the calculator, then scroll and zoom to see where, if at all, they intersect. The lines appear to be parallel and do not intersect. To solve algebraically, substitute 12xforyin the second equation to get 24x+ 7 = 2(12x). Simplify the right side of the equation to get 24x+ 7 = 24x. Subtract 24xfrom both sides of the equation to get 7 = 0. This is not true, so the system of equations has no solution. This means the lines are parallel and do not intersect. Using either method, the correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3142,
+    "stimulus": "",
+    "question_stem": "Several tiles labeled with either an A or a B are placed in a bag, and tiles are worth a different point value depending on the label. The equation 15a+ 10b= 100 represents the situation whenaof the A tiles andbof the B tiles are drawn from the bag for a total of 100 points. How many points would be earned by drawing one A tile and one B tile from the bag?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3142/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:57.444853",
+    "explanation": "✕ExplanationThe question asks for a value given a specific situation. Translate the information in Bite-Sized Pieces. The question states that theequation 15a + 10b = 100 represents the situation when a of the A tiles and b of the B tiles are drawn for a total of 100 points. Since the sum of 15aand 10bis the number of points, andaandbare numbers of tiles, 15 and 10 must be the point values of one A tile and one B tile, respectively. To find the number of points earned by drawing 1 of each type of tile, plug in 1 for a and 1 for b to get 15(1) + 10(1) = 15 + 10 = 25. The correct answer is 25.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3143,
+    "stimulus": "",
+    "question_stem": "The amount of money remaining in a scholarship fund is reduced by one-fourth every year. The amount of money in the fund is represented bydand the number of years byy. If the fund starts with $10,000, which equation below represents this situation afteryyears?",
+    "answer_choices": {
+      "A": "d=(10,000)y",
+      "B": "d=(10,000)y",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 11085,
+      "B": 11086,
+      "C": 11087,
+      "D": 11088
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3143/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:58.171861",
+    "explanation": "✕ExplanationThe question asks for an equation that represents a specific situation. The value of the fund is decreasing by a certain fraction over time, so this question is about exponential decay. Knowing the parts of the growth and decay formula can help with this question. That formula isfinal amount =(original amount)(1 ±rate)number of changes. In this case,dis the final amount, and the question states that the original amount was $10,000. Eliminate (A) and (B) because they do not have 10,000 as the original amount in front of the parentheses. Since this situation involves a decrease, the original amount must be multiplied by (1 −rate), and the rate here is, so the value in parentheses should beor. Eliminate (C), which does not have this rate. The only remaining answer is (D), and it matches the growth formula. Without this formula, it is still possible to answer this question. Plug in a value ofyto see how the fund amount decreases over time. After 1 year, the fund will haveless than the initial $10,000. The value of the account will then be $10,000 −($10,000) = $10,000 −  $2,500 = $7,500. After another year, the fund will haveless than $7,500, so the value will be $7,500 −($7,500) = $7,500 −  $1,875 = $5,625. Plugy= 2 into the answer choices to see which gives a value of 5,625 ford. Only (D) works. Using either method, the correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3144,
+    "stimulus": "",
+    "question_stem": "What is the diameter, in millimeters (mm), of a cylinder with a volume of 144π mm3and a height of 4 mm?",
+    "answer_choices": {
+      "A": "6",
+      "B": "9",
+      "C": "12",
+      "D": "36"
+    },
+    "answer_ids": {
+      "A": 11089,
+      "B": 11090,
+      "C": 11091,
+      "D": 11092
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3144/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:58.903609",
+    "explanation": "✕ExplanationThe question asks for the measurement of part of a geometric figure. Use the Geometry Basic Approach. Start by drawing a cylinder on the scratch paper, then label the figure with the given information. Look up the formula for the volume of a cylinder on the online reference sheet and write it down:V= πr2h. Plug in the values given in the question for the volume and the height to get 144π = πr2(4). Divide both sides of the equation by 4π to get 36 =r2. Take the square root of both sides of the equation to get 6 =r. Be careful, and read the final question, which asks for the diameter, not the radius. The diameter of a circle is twice the radius, sod= 2(6), ord= 12. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3145,
+    "stimulus": "",
+    "question_stem": "4x+ 2y= 419x+ 10y= 14When graphed in thexy-plane, the linear equations shown above intersect at (a,b). What is the value ofa?",
+    "answer_choices": {
+      "A": "–20",
+      "B": "–10",
+      "C": "6",
+      "D": "14"
+    },
+    "answer_ids": {
+      "A": 11093,
+      "B": 11094,
+      "C": 11095,
+      "D": 11096
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3145/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:56:59.629218",
+    "explanation": "✕ExplanationThe question asks for the value of thex-coordinate of the solution to a system of equations. The quickest method is to enter both equations into a graphing calculator, then scroll and zoom as needed to find the point of intersection. The point is (6, –10), so thex-coordinate, ora, is 6. To solve the system for thex-coordinate algebraically, find a way to make they-coordinates disappear when stacking and adding the equations. Compare they-terms: the larger coefficient, 10, is 5 times the smaller one, 2. Multiply the entire first equation by –5 to get the same coefficient with opposite signs on theyterms. The first equation becomes –5(4x+ 2y) = –5(4) and then –20x– 10y= –20. Now stack and add the two equations.–20x– 10y= –20+19x+ 10y=   14–x=  –6Divide both sides of the resulting equation by –1 to getx= 6. Using either method, the correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3146,
+    "stimulus": "",
+    "question_stem": "The longest side of right triangleABCis opposite angleB. If sin(A) =, what is the value of sin(C)?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3146/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:57:00.344578",
+    "explanation": "✕ExplanationThe question asks for the value of a trigonometric function. Use the Geometry Basic Approach. Begin by drawing a triangle and labeling the vertices. The largest angle in a right triangle is the 90° angle, and the largest angle is opposite the longest side, so label angleBas a right angle. The drawing should look something like this:Next, write out SOHCAHTOA to remember the trig functions. The SOH part defines the sine as, and the question states that sin(A) =, so label the side opposite angleA, which is, as 9 and the hypotenuse, which is, as 41. To find the length of the third side, use Pythagorean Theorem:a2+b2=c2. Plug in the known values to get 92+b2= 412. Square the numbers to get 81 +b2= 1,681, then subtract 81 from both sides of the equation to getb2= 1,600. Take the square root of both sides of the equation to getb= 40.With all three side lengths labeled, the drawing looks like this:To find sin(C), use the SOH part of SOHCAHTOA again. The side opposite angleCis 40, and the hypotenuse is 41, so sin(C) =. On fill-in questions, a fractional answer can also be entered as a decimal. When the answer is positive, there is room in the fill-in box for five characters, including the decimal point. In this case,=, which is too long. Either stop when there’s no more room and enter .9756 or round the last digit, which in this case is also .9756. It is allowed but not required to put a 0 in front of the decimal point, which would make the answer 0.975 or 0.976, but do not shorten it more than that. The correct answer isor equivalent forms.close",
+    "correct_answer": "o"
+  },
+  {
+    "question_id": 3147,
+    "stimulus": "",
+    "question_stem": "Functiongreaches its maximum value whenx=a. Ifg(x) = –6x2– 30x– 24, what is the value ofa?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3147/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:57:01.049561",
+    "explanation": "✕ExplanationThe question asks for the value when a quadratic function reaches its maximum. A parabola reaches its minimum or maximum value at its vertex, so find thex-coordinate of the vertex. One method is to enter the equation into a graphing calculator, then scroll and zoom as needed to find the vertex. The vertex is at (–2.5, 13.5), so the value of thex-coordinate is –2.5. To solve algebraically, find the value ofh, which is thex-coordinate of the vertex (h,k). The equation is in standard form,ax2+bx+c, in which. Sincea= –6 andb= –30,. This becomes, and thenh= –2.5. Using either method, the correct answer is –2.5.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3148,
+    "stimulus": "",
+    "question_stem": "The linear functionf(x), given above, is perpendicular to linear functiong(x) when graphed in thexy-plane. Ifg(0) = 0, what is the value ofg(2)?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3148/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:57:01.765050",
+    "explanation": "✕ExplanationThe question asks for the value of a function. The question states that the graph of functionfand the graph of functiongare perpendicular lines, which means they have slopes that are negative reciprocals of each other. The question gives the equation of linef, so find the slope of that line. This function is in the formy=mx+b, in whichmis the slope andbis they-intercept, so the slope of linefis. The negative reciprocal ofis 5, so the slope of linegis 5. In function notation, the number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. Together, they represent points on the graph of the function. Thus, ifg(0) = 0, that means linegcontains the point (0, 0). Plug this point into they=mx+bequation to get 0 = 5(0) +b, or 0 =b. Now plugx= 2,m= 5, andb= 0 intoy=mx+bto gety= 5(2) + 0, ory= 10. The correct answer is 10.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3149,
+    "stimulus": "",
+    "question_stem": "The system of equations above has exactly one solution. Ifkis a positive constant, what is the value ofk?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 46,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 1",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3149/?question_set=exam&exam_id=46",
+    "scraped_at": "2025-07-05T19:57:02.497245",
+    "explanation": "✕ExplanationThe question asks for a value in a system of equations. Start by simplifying the second equation by multiplying both sides of the equation by 10 to gety= –10x. Now that both equations are equal toy, set them equal to each other to get –10x= 5kx2+ 2x+ 3. Add 10xto both sides of the equation to get 5kx2+ 12x+ 3 = 0. The question states that the systemhas exactly one solution. To determine the number of solutions to a quadratic, use the discriminant. The discriminant is the part of the quadratic formula under the square root sign, and it can be written asD=b2– 4ac. When the discriminant is positive, the quadratic has exactly two real solutions; when the discriminant is 0, the quadratic has exactly one real solution; and when the discriminant is negative, the quadratic has no real solutions. Since this quadratic has exactly one real solution, the discriminant must equal 0. The quadratic is now in standard form,ax2+bx+c= 0, soa= 5k,b= 12, andc= 3. Plug these into the discriminant formula, along withD= 0, to get 0 = 122 – 4(5k)(3), which becomes 0 = 144 – 60k. Add 60kto both sides of the equation to get 144 = 60k, then divide both sides of the equation by 60 to get 2.4 =k. The correct answer is 2.4.close",
+    "correct_answer": ""
+  }
+]

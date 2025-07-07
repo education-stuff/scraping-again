@@ -1,0 +1,568 @@
+[
+  {
+    "question_id": 3716,
+    "stimulus": "",
+    "question_stem": "Triangle ABC is similar to triangle DEF such that A, B, and C correspond to F, D, and E, respectively. The measure of `/_B` is `55^o` and `3BC = DE`. What is the measure of `/_D`?",
+    "answer_choices": {
+      "A": "`55^o`",
+      "B": "`60^o`",
+      "C": "`90^o`",
+      "D": "`120^o`"
+    },
+    "answer_ids": {
+      "A": 13053,
+      "B": 13054,
+      "C": 13055,
+      "D": 13056
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3716/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:03.169642",
+    "explanation": "✕ExplanationSimilar triangles means that the corresponding angles in each triangle must be the same.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3717,
+    "stimulus": "",
+    "question_stem": "`2y = -x + 12`One of the equations in a system of two linear equations is given. The system has infinite number of solutions. Which equation could be the second equation in the system?",
+    "answer_choices": {
+      "A": "`2x + 4y = 24`",
+      "B": "`2x + 2y = 12`",
+      "C": "`x + y = 24`",
+      "D": "`x + 2y = 24`"
+    },
+    "answer_ids": {
+      "A": 13057,
+      "B": 13058,
+      "C": 13059,
+      "D": 13060
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3717/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:03.921414",
+    "explanation": "✕ExplanationA system of equation has an infinite number of solutions when they are the same equation. Equation `2x + 4y = 24` in choice A simplifies to `x + 2y = 12`, which is the same as the equation in the question.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3718,
+    "stimulus": "",
+    "question_stem": "`x + 2y = 14``2x + 5y = 20`The solution to the given system of equations is `(x,y)`. What is the value of `x − y`?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3718/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:04.662564",
+    "explanation": "✕ExplanationChange the first equation to `x = 14 - 2y` and substitute `14 - 2y` into the `x` for the second equation: `2(14 - 2y) + 5y = 20`. Solve the algebra, `28 - 4y + 5y = 20`, `y = -8`. Find `x` by substituting `-8` for y: `x + 2(-8) = 14`, `x = 30`. `x - y = 30 - -8 = 38`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3719,
+    "stimulus": "",
+    "question_stem": "`4x^2 + 12x + 9 = 0`How many distinct real solutions does the given equation have?",
+    "answer_choices": {
+      "A": "Zero",
+      "B": "Exactly one",
+      "C": "Exactly two",
+      "D": "Infinitely many"
+    },
+    "answer_ids": {
+      "A": 13061,
+      "B": 13062,
+      "C": 13063,
+      "D": 13064
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3719/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:05.389118",
+    "explanation": "✕ExplanationThe number of distinct real solutions can be found by first finding the discriminant, `b^2 - 4ac`. With the equation in the question, `b^2 - 4ac = 12^2 - 4(4)(9) = 144 - 144 = 0`. 0 for the discriminant means exactly 1 distinct solution.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3720,
+    "stimulus": "",
+    "question_stem": "Which of the following equations represents a circle in the `xy`-plane that intersects the `x`-axis at exactly one point?",
+    "answer_choices": {
+      "A": "`(x - 32) + (y - 32)^2 = 64`",
+      "B": "`(x - 16) + (y - 8)^2 = 64`",
+      "C": "`(x + 8)^2 + (y + 8)^2 = 64`",
+      "D": "`(x - 8) + (y - 16)^2 = 64`"
+    },
+    "answer_ids": {
+      "A": 13065,
+      "B": 13066,
+      "C": 13067,
+      "D": 13068
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3720/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:06.166235",
+    "explanation": "✕ExplanationTo intersect on just 1 point, the radius has to be the same length as the `x` value of the center of the circle. The equation of a circle is `(x - h)^2 + (y - k)^2 = r^2` where `(h, k)` is the center and `r` is the radius. That means the circle intersects the `x`-axis at exactly on one point when `h = r`. `r = sqrt(64) = 8`, and `h = 8` in choice C.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3721,
+    "stimulus": "",
+    "question_stem": "The exam grades for 2 classes of 31 students each are summarized in the histograms shown. For each of the class, the first interval represents the frequency of students who scored higher than or equal to 0, but less than 10. The second interval represents the frequency of students who scored higher than or equal to 10, but less than 20, and so on. What is the biggest possible difference between the mean of the exam grades in class A and the mean of the exam grades in class B?",
+    "answer_choices": {
+      "A": "8",
+      "B": "20",
+      "C": "30",
+      "D": "80"
+    },
+    "answer_ids": {
+      "A": 13069,
+      "B": 13070,
+      "C": 13071,
+      "D": 13072
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3721/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:06.924579",
+    "explanation": "✕ExplanationGiven that the distribution of the histogram is the same but starting from 0-10 for class A and 20-30 for class B, the mean will differ somewhere between 20 and 30. 30 is the biggest.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3722,
+    "stimulus": "",
+    "question_stem": "A right triangle has legs with lengths of 5 centimeters and 20 centimeters. If the length of this triangle’s hypotenuse, in centimeters, can be written in the form `5 sqrt(h)`, where `h` is an integer, what is the value of `h`?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3722/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:07.660605",
+    "explanation": "✕ExplanationHypothenuse = `sqrt(5^2 + 20^2) = sqrt(425) = sqrt(5*5*17) = 5 sqrt(17)` .close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3723,
+    "stimulus": "",
+    "question_stem": "`m + 24 = 312`What is the solution to the given equation?",
+    "answer_choices": {
+      "A": "13",
+      "B": "288",
+      "C": "346",
+      "D": "7,488"
+    },
+    "answer_ids": {
+      "A": 13073,
+      "B": 13074,
+      "C": 13075,
+      "D": 13076
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3723/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:08.380022",
+    "explanation": "✕ExplanationSubtract 24 from both sides to get `m = 288`close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3724,
+    "stimulus": "",
+    "question_stem": "The function f is defined by `f(x) = x^3 - 9`. What is the value of `f(3)`?",
+    "answer_choices": {
+      "A": "0",
+      "B": "6",
+      "C": "9",
+      "D": "18"
+    },
+    "answer_ids": {
+      "A": 13077,
+      "B": 13078,
+      "C": 13079,
+      "D": 13080
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3724/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:09.123280",
+    "explanation": "✕ExplanationBy substituting in 3 for x in the original function, you get `f(3) = 3^3 - 9 = 27 - 9 = 18`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3725,
+    "stimulus": "",
+    "question_stem": "Rebecca rents a laptop at a cost of $\\$12$ per day plus a one-time rental fee of $\\$20$. Which equation represents the total cost cc, in dollars, to rent the laptop for dd days?",
+    "answer_choices": {
+      "A": "`c = 12(d + 20)`",
+      "B": "`c = 20(d + 12)`",
+      "C": "`c = 12d + 20`",
+      "D": "`c = 20d + 12`"
+    },
+    "answer_ids": {
+      "A": 13081,
+      "B": 13082,
+      "C": 13083,
+      "D": 13084
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3725/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:09.865929",
+    "explanation": "✕ExplanationThere’s a “base” rental fee of $\\$20$, so that’s a constant value of 20. For each day, there’s an additional $\\$12$, so d days will cost an additional `12 xx d.` With the base rental fee, the total cost, c, is `20 + 12d`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3726,
+    "stimulus": "",
+    "question_stem": "In the figure shown, line `m` is parallel to line `n`. What is the value of `x`?",
+    "answer_choices": {
+      "A": "25",
+      "B": "65",
+      "C": "115",
+      "D": "155"
+    },
+    "answer_ids": {
+      "A": 13085,
+      "B": 13086,
+      "C": 13087,
+      "D": 13088
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3726/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:10.624219",
+    "explanation": "✕Explanationclose",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3727,
+    "stimulus": "",
+    "question_stem": "Ken paid a total of $\\$32,500$ for a new car by making a down payment of $\\$16,000$ plus $p$ monthly payments of $\\$1100$ each. Which of the following equations represents this situation?",
+    "answer_choices": {
+      "A": "`16,000p - 1,100 = 32,500`",
+      "B": "`1,100p - 16,000 = 32,500`",
+      "C": "`16,000p + 1,100 = 32,500`",
+      "D": "`1,100p + 16,000 = 32,500`"
+    },
+    "answer_ids": {
+      "A": 13089,
+      "B": 13090,
+      "C": 13091,
+      "D": 13092
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3727/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:11.447279",
+    "explanation": "✕ExplanationAn initial payment of $\\$16,000$ means $\\$16,000$ is a number by itself. `p` months of 1,100 means he needs to pay `1,100p` for `p` months. Together, it is `16,000 + 1,100p = 32,500`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3728,
+    "stimulus": "",
+    "question_stem": "If `y = 20x - 8`, what is the value of `y` when `x = 4`?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3728/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:12.177930",
+    "explanation": "✕ExplanationIf `x = 4`, `y = 20(4) - 8 = 80 - 8 = 72`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3729,
+    "stimulus": "",
+    "question_stem": "The bar graph shows the average total number of activities that 11th grade students from 9 different classes have participated since 9th grade. According to the graph, what is the average total number of activities that students in class 5 have participated?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3729/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:12.905663",
+    "explanation": "✕ExplanationAccording to the graph, for class 5 (x-value of 5), the number of activities (y-value) is 4.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3730,
+    "stimulus": "",
+    "question_stem": "The graph represents the estimated population in a town `x` years after 1990. What is the best interpretation of the slope of the graph?",
+    "answer_choices": {
+      "A": "The increase in the estimated population in the town each year since 1990",
+      "B": "The estimated population in the town in 1990.",
+      "C": "The estimated population in the town `x` years after 1990.",
+      "D": "The number of years since 1990 that the population has increased"
+    },
+    "answer_ids": {
+      "A": 13093,
+      "B": 13094,
+      "C": 13095,
+      "D": 13096
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3730/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:13.637612",
+    "explanation": "✕ExplanationThe slope represents the change in the graph every `x` units. `x` represents the number of years since 1990.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3731,
+    "stimulus": "",
+    "question_stem": "Square `S` has a perimeter of `36` centimeters. The length of one side of square `T` is `3` times the side length of square `S`. What is the length, in centimeters, of the perimeter of square `T`?",
+    "answer_choices": {
+      "A": "27",
+      "B": "36",
+      "C": "96",
+      "D": "108"
+    },
+    "answer_ids": {
+      "A": 13097,
+      "B": 13098,
+      "C": 13099,
+      "D": 13100
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3731/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:14.402229",
+    "explanation": "✕ExplanationThe perimeter of a square is `4` times its length, so square `S` has a side length of `36-:4 = 9`. A side of square `T` is `3` times the side length of square `S`, so square `T` has a side length of `9 * 3 = 27`. The perimeter of square `T` is 4 times its side, which is `27 * 4 = 108`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3732,
+    "stimulus": "",
+    "question_stem": "What is the equation of the line that passes through the point `(1, 7)` and is parallel to the graph of `y = 3x + 21` in the `xy`-plane?",
+    "answer_choices": {
+      "A": "`y = x + 7`",
+      "B": "`y = 3x + 4`",
+      "C": "`y = 7x + 3`",
+      "D": "`y = 3x + 7`"
+    },
+    "answer_ids": {
+      "A": 13101,
+      "B": 13102,
+      "C": 13103,
+      "D": 13104
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3732/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:15.153087",
+    "explanation": "✕ExplanationPlug `(1, 7)` into all choices, and only choice B works, meaning only the graph in choice B passes through that point, so only choice B is possible.The normal, long way: “Parallel to `y = 3x + 21`” means having the same slope of `3x`, so the answer is either B or D. Plugging in `(1, 7)` for `(x, y)`, and only choice B works: `7 = 3(1) + 4 = 7`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3733,
+    "stimulus": "",
+    "question_stem": "The function `f(t) = 53,000(2)^(t/360)` gives the number of bacteria in a population `t` minutes after an initial observation. How much time, in minutes, does it take for the number of bacteria in the population to double?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3733/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:15.881146",
+    "explanation": "✕ExplanationIn the beginning (when `t = 0`), the number of bacteria is `f(t) = 53000(2)^(0/360) = 53000(2)^0 = 53000(1) = 53000`. To double the number of bacteria, `f(t)` needs to be `53000 * 2`, which means it doubles when `2^(t/360) = 2`. This means `t/360 = 1`, so `t = 360`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3734,
+    "stimulus": "",
+    "question_stem": "A water tank has 34 liters of water. With a small crack on the tank, it starts to leak 1 liter of water every 3 hours. If there are 27 liters of water remaining in the tank, for how many hours has the tank been leaking?",
+    "answer_choices": {
+      "A": "3",
+      "B": "7",
+      "C": "21",
+      "D": "37"
+    },
+    "answer_ids": {
+      "A": 13105,
+      "B": 13106,
+      "C": 13107,
+      "D": 13108
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3734/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:16.614509",
+    "explanation": "✕ExplanationFrom 34 to 27 liters, the tank leaked 7 liters in total. Since the tank leaks 1 liter every 3 hours, it leaked for 7 * 3 = 21 hours.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3735,
+    "stimulus": "",
+    "question_stem": "Triangle `ABC` is similar to triangle `DEF`, where angle `A` corresponds to angle `D`, and angles `C` and `F` are right angles. If `cos(B) = 718/917`, what is the value of `cos(E)`?",
+    "answer_choices": {
+      "A": "`917/718`",
+      "B": "`718/917`",
+      "C": "`570/917`",
+      "D": "`917/570`"
+    },
+    "answer_ids": {
+      "A": 13109,
+      "B": 13110,
+      "C": 13111,
+      "D": 13112
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3735/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:17.361733",
+    "explanation": "✕ExplanationIf the 2 triangles are similar, then their ratios of the sides are the same. cos(B) = cos(E).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3736,
+    "stimulus": "",
+    "question_stem": "The product of two positive integers is 300. If the first integer is 5 less than half the second integer, what is the smaller of the two integers?",
+    "answer_choices": {
+      "A": "5",
+      "B": "10",
+      "C": "25",
+      "D": "30"
+    },
+    "answer_ids": {
+      "A": 13113,
+      "B": 13114,
+      "C": 13115,
+      "D": 13116
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3736/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:18.089463",
+    "explanation": "✕ExplanationAlthough you can have a system of equation by letting the first integer be `x`, the second be `y`, and a system of equation of `xy = 300` and `x = (1/2)y - 5` to solve for `x` and `y`, it’s probably faster to just plug and check. The first integer must be smaller because it’s 5 less than half of the second integer. If the smaller integer is 5, then the second, bigger integer is `5 = x/2 - 5`, which gets `x = 20`. The product of the two number is `5 * 20 = 100`, so A is wrong. Repeating the process with 10 from choice B, you get the bigger number equals to 30, and 10 * 30 = 300.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3737,
+    "stimulus": "",
+    "question_stem": "`y <= -x + 3``y >= x + 4`Which point `(x, y)` is a solution to the given system of inequalities in the `xy`-plane?",
+    "answer_choices": {
+      "A": "(10, 0)",
+      "B": "(0, 10)",
+      "C": "(0, -10)",
+      "D": "(-10, 0)"
+    },
+    "answer_ids": {
+      "A": 13117,
+      "B": 13118,
+      "C": 13119,
+      "D": 13120
+    },
+    "metadata": {},
+    "exam_id": 70,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3737/?question_set=exam&exam_id=70",
+    "scraped_at": "2025-07-05T20:04:18.835163",
+    "explanation": "✕ExplanationLiterally just graph it in the calculator and see which point is in the overlapped region.close",
+    "correct_answer": ""
+  }
+]

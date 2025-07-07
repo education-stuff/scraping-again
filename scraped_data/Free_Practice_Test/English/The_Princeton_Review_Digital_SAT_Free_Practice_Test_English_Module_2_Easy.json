@@ -1,0 +1,866 @@
+[
+  {
+    "question_id": 2927,
+    "stimulus": "<div class=\"\">During World War II, hundreds of scientists, including many prominent physicists such as Robert Oppenheimer, __________ the Manhattan Project, pooling their efforts and expertise in order to develop the first bombs that successfully exploited the tremendous power of nuclear energy.</div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "collaborated on",
+      "B": "invested with",
+      "C": "plotted against",
+      "D": "learned from"
+    },
+    "answer_ids": {
+      "A": 10297,
+      "B": 10298,
+      "C": 10299,
+      "D": 10300
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Vocabulary question, as it asks for <em>the most logical and precise word or phrase.</em> Read the text and highlight what can help to fill in the blank, which refers to what <em>hundreds of scientists</em> did with regards to <em>the Manhattan Project</em>. Right after this, the text says that they were <em>pooling their efforts and expertise</em>, so write “worked together on” in the annotation box and use Process of Elimination.<br/><br/>\n<ul>\n<li>(A) is correct because <em>collaborated on</em> matches with “worked together on.”</li>\n</ul>\n<ul>\n<li>(B), (C), and (D) are wrong because they don’t match with “worked together on.”</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2927/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:01:58.059401"
+  },
+  {
+    "question_id": 2928,
+    "stimulus": "<div class=\"\">Advising farmers on how to prevent the disruption of soil due to plowing, experts in agriculture have recommended the method of no-till farming. This __________ allows for soil to remain settled while seeds are planted, unlike traditional practices in which the soil is disturbed in order for new crops to be grown, thus making sowing easier to manage. Through no-till farming, agriculturalists are able to grow new batches with very little labor or equipment required.</div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "intention",
+      "B": "agenda",
+      "C": "distraction",
+      "D": "technique"
+    },
+    "answer_ids": {
+      "A": 10301,
+      "B": 10302,
+      "C": 10303,
+      "D": 10304
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Vocabulary question, as it asks for <em>the most logical and precise word or phrase</em>. Read the text and highlight what can help to fill in the blank, which refers to something previously mentioned (given the word <em>This</em>) that <em>allows for soil to remain settled while seeds are planted, unlike traditional practices</em>. Thus, the blank must be another <em>practice</em>, and specifically it’s the <em>method of no-till farming</em>, mentioned in the first sentence. Write “method” in the annotation box and use Process of Elimination.<br/><br/>\n<ul>\n<li>(A) is wrong because <em>intention</em> means “goal.”</li>\n</ul>\n<ul>\n<li>(B) is wrong because <em>agenda</em> means “plan.”</li>\n</ul>\n<ul>\n<li>(C) is wrong because <em>distraction</em> doesn’t match with “method.”</li>\n</ul>\n<ul>\n<li>(D) is correct because <em>technique</em> matches with “method.”</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2928/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:01:58.842543"
+  },
+  {
+    "question_id": 2929,
+    "stimulus": "<div class=\"\">Ethologists and beekeepers use the phrase “waggle dance” to describe the movement a bee makes in order to communicate with other bees in the colony about the location of resources. This silent __________ of information among the bees allows them to pass on knowledge of how close or far away a source is and what direction it is in. The source being broadcasted can be a site for possible nesting or an opportunity for sustenance.</div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "transmission",
+      "B": "confidence",
+      "C": "prolongation",
+      "D": "devastation"
+    },
+    "answer_ids": {
+      "A": 10305,
+      "B": 10306,
+      "C": 10307,
+      "D": 10308
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Vocabulary question, as it asks for <em>the most logical and precise word or phrase</em>. Read the text and highlight what can help to fill in the blank, which comes after the words <em>This silent</em>, so it refers to something that was previously mentioned. The first sentence refers to the “<em>waggle dance</em>” that allows bees to<em> communicate with other bees</em>. Given that the blank is followed by <em>of information</em>, the blank must be something like “communication.” Write that in the annotation box and use Process of Elimination.<br/><br/>\n<ul>\n<li>(A) is correct because <em>transmission</em> matches with “communication.”</li>\n</ul>\n<ul>\n<li>(B) is wrong because <em>confidence</em> doesn’t match with “communication.”</li>\n</ul>\n<ul>\n<li>(C) is wrong because <em>prolongation</em> means “lasting longer than planned.”</li>\n</ul>\n<ul>\n<li>(D) is wrong because <em>devastation</em> means “destruction.”</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2929/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:01:59.639009"
+  },
+  {
+    "question_id": 2930,
+    "stimulus": "<div class=\"\">Chronic hepatitis B (CHB) can __________ affect Asians Americans and Pacific Islanders (AAPIs), who are not affected by most other major hepatitis strains. While everyone should be screened for hepatitis viruses, AAPIs are strongly encouraged to get tested and treated for chronic hepatitis B.</div>",
+    "question_stem": "Which choice completes the text with the most logicalor precise word or phrase?",
+    "answer_choices": {
+      "A": "disproportionately",
+      "B": "exclusively",
+      "C": "essentially",
+      "D": "initially"
+    },
+    "answer_ids": {
+      "A": 10309,
+      "B": 10310,
+      "C": 10311,
+      "D": 10312
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Vocabulary question, as it asks for <em>the most logical and precise word or phrase</em>. Read the text and highlight what can help to fill in the blank, which refers to how chronic hepatitis B <em>affects Asian Americans and Pacific Islanders</em>. The second sentence draws a contrast between <em>everyone</em> needing to be screened for the disease and AAPIs being particularly encouraged to do so. This suggests that this group of people is overly affected by the disease compared to the general population. Write “overly” in the annotation box and use Process of Elimination.<br/><br/>\n<ul>\n<li>(A) is correct because <em>disproportionately</em> means “more or less than the general population.”</li>\n</ul>\n<ul>\n<li>(B) is wrong because <em>exclusively</em> is too strong; the second sentence states that everyone should be screened, so it’s not true that the disease only affects AAPIs.</li>\n</ul>\n<ul>\n<li>(C) is wrong because <em>essentially</em> means “at its essence.”</li>\n</ul>\n<ul>\n<li>(D) is wrong because <em>initially</em> means “at the beginning.”</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2930/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:00.370781"
+  },
+  {
+    "question_id": 2931,
+    "stimulus": "<div class=\"\">There are countless stories of people whose hair turns white overnight from fright in a condition called canities subita, also known as Marie Antoinette syndrome. Scientists __________ this as historical fiction and explain that visible hair is dead material that can be changed by undergoing a chemical drying process, but not by experiencing a great shock.</div>",
+    "question_stem": "Which choice completes the text with the most logical or precise word or phrase?",
+    "answer_choices": {
+      "A": "trivialize",
+      "B": "illustrate",
+      "C": "dismiss",
+      "D": "promote"
+    },
+    "answer_ids": {
+      "A": 10313,
+      "B": 10314,
+      "C": 10315,
+      "D": 10316
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Vocabulary question, as it asks for <em>the most logical and precise word or phrase</em>. Read the text and highlight what can help to fill in the blank, which refers to how <em>Scientists</em> view <em>canities subita</em>. The second sentence indicates that scientists have an explanation that contradicts the <em>stories </em>from the first sentence, and the part after the blank says <em>as historical fiction</em>, which suggests that they think the stories are historical fiction. It is unclear whether the blank suggests a word like “describe” or a word like “reject,” so use Process of Elimination to eliminate any answer that doesn’t clearly indicate that the scientists don’t believe the stories.<br/><br/>\n<ul>\n<li>(A) is wrong because <em>trivialize</em> means “portray as unimportant,” which doesn’t convey the scientists’ skepticism.</li>\n</ul>\n<ul>\n<li>(B) is wrong because there is no evidence from the text that scientists are illustrating the condition.</li>\n</ul>\n<ul>\n<li>(C) is correct because <em>Scientists dismiss this as historical fiction</em> accurately conveys their viewpoint.</li>\n</ul>\n<ul>\n<li>(D) is wrong because there isn’t evidence that scientists are promoting their point of view, just that they disagree with the <em>stories</em>.</li>\n</ul>\n</div>",
+    "correct_answer": "C",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2931/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:01.178254"
+  },
+  {
+    "question_id": 2932,
+    "stimulus": "<div class=\"\">The following text is adapted from Honoré de Balzac’s 1829 novel <em>The Chouans</em>. Marie, an aristocrat, is tidying a room and speaking to Francine, her maid. <br/><br/><div style=\"padding-left: 30px;\">She began to arrange the silk and muslin curtains which draped the window, making them intercept the light and produce in the room a voluptuous chiaro-scuro. <br/><br/></div><div style=\"padding-left: 30px;\">“Francine,” she said, “take away those knick-knacks on the mantelpiece; leave only the clock and the two Dresden vases. I’ll fill those vases myself with the flowers Corentin brought me. Take out the chairs, I want only this sofa and a fauteuil. Then sweep the carpet, so as to <span style=\"text-decoration: underline;\">bring out</span> the colors, and put wax candles in the sconces and on the mantel.”</div></div>",
+    "question_stem": "As used in the text, what does the phrase “bring out” most nearly mean?",
+    "answer_choices": {
+      "A": "Distribute",
+      "B": "Transport",
+      "C": "Introduce",
+      "D": "Emphasize"
+    },
+    "answer_ids": {
+      "A": 10317,
+      "B": 10318,
+      "C": 10319,
+      "D": 10320
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Vocabulary question, as it asks what a phrased <em>most nearly means</em>. Read the text and highlight what can help to understand the underlined word. Marie instructs Francine to <em>sweep the carpet</em> in order to <em>bring out the colors</em>, which is one of several instructions given to make the room look nicer. Write “make it look better” in the annotation box and use Process of Elimination. <br/><br/>\n<ul>\n<li>(A) and (B) are wrong because these words wouldn’t suggest improving the look of the room.</li>\n</ul>\n<ul>\n<li>(C) is wrong because it would suggest that the carpet doesn’t have any color prior to being swept, which isn’t implied by the text.</li>\n</ul>\n<ul>\n<li>(D) is correct because emphasizing the colors would help the look of the room.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2932/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:01.926686"
+  },
+  {
+    "question_id": 2933,
+    "stimulus": "<div class=\"\">The following text is adapted from Jane Austin’s 1811 novel <em>Sense and Sensibility</em>. Elinor Dashwood is in her cottage speaking with her Uncle Edward and her younger sister Marianne.<br/><br/><div style=\"padding-left: 30px;\">“I have frequently detected myself in such kind of mistakes,” said Elinor, “in a total misapprehension of character in some point or other: fancying people so much more gay or grave, or ingenious or stupid than they really are, and I can hardly tell why or in what the deception originated. Sometimes one is guided by what they say of themselves, and very frequently by what other people say of them, without giving oneself time to deliberate and judge.”</div></div>",
+    "question_stem": "Which choice best describes the overall structure of the text?",
+    "answer_choices": {
+      "A": "The speaker describes how someone can be deceived by the impressions of others and then promises to be more careful in the future.",
+      "B": "The speaker relates her misgivings of the character of another individual and then rationalizes her mistaken perception.",
+      "C": "The speaker considers the duplicity of human nature and then issues a warning about the misconceptions of personal opinion.",
+      "D": "The speaker describes a type of error and then reveals the sources of information that lead to such errors."
+    },
+    "answer_ids": {
+      "A": 10321,
+      "B": 10322,
+      "C": 10323,
+      "D": 10324
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Purpose question, as it asks for the <em>overall structure</em>. Read the text and highlight what can help to understand the overall structure. In the text, Elinor mentions <em>mistakes</em> she has<em> frequently </em>made, thinking someone is a certain way but the person isn’t that way. Then, in the last sentence, she says that this is caused by not <em>giving oneself time to deliberate and judge</em>, so write “Elinor’s mistake and why people make it” in the annotation box and use Process of Elimination. <br/><br/>\n<ul>\n<li>(A) is wrong because Elinor never promises to <em>be more careful in the future</em>.</li>\n</ul>\n<ul>\n<li>(B) is wrong because the text isn’t about a specific <em>individual</em>, and Elinor doesn’t rationalize her <em>mistaken perception</em>.</li>\n</ul>\n<ul>\n<li>(C) is wrong because it’s too strong; <em>duplicity</em> (deceitfulness) <em>of human nature</em> is much broader than the mistake Elinor mentions, and her assessment of the cause isn’t a <em>warning</em>.</li>\n</ul>\n<ul>\n<li>(D) is correct because it matches the annotation.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2933/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:02.640021"
+  },
+  {
+    "question_id": 2934,
+    "stimulus": "<div class=\"\">In order to combat the effects of human life on the planet’s climate, many environmental and governmental establishments lay the foundation for forests in localities that previously did not have woodland areas, also known as afforestation. To begin the operation, potential sites are first surveyed in order to select regions with the best factors in terms of aspects such as vegetation, amount of human activity, weather, and soil quality. Once a site has been selected, the land must then be developed for planting. After the land has been prepared, trees can be planted with different methods of seeding, depending on the site and soil present.</div>",
+    "question_stem": "Which choice best describes the overall structure of the text?",
+    "answer_choices": {
+      "A": "It presents a solution to a widespread issue, then elaborates on why the issue should be solved.",
+      "B": "It defines a strategy, then lists the reasons why the strategy is useful.",
+      "C": "It examines an effective practice, then argues that the practice has negative consequences.",
+      "D": "It introduces a process, then explains the steps taken in executing that process."
+    },
+    "answer_ids": {
+      "A": 10325,
+      "B": 10326,
+      "C": 10327,
+      "D": 10328
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Purpose question, as it asks for the <em>overall structure</em>. Read the text and highlight what can help to understand the overall structure. The text introduces <em>afforestation</em> and then describes the steps that go into that process, so write “how afforestation is done” in the annotation box and use Process of Elimination.<br/><br/>\n<ul>\n<li>(A) is wrong because it only relates to the first sentence, not the <em>overall structure</em>.</li>\n</ul>\n<ul>\n<li>(B) is wrong because the text lists the steps for the <em>strategy</em>, not the <em>reasons why the strategy is useful.</em></li>\n</ul>\n<ul>\n<li>(C) is wrong because no <em>negative consequences</em> are mentioned.</li>\n</ul>\n<ul>\n<li>(D) is correct because it matches the annotation.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2934/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:03.406247"
+  },
+  {
+    "question_id": 2935,
+    "stimulus": "<div class=\"\"><strong>Text 1</strong><br/>A recent series of psychological studies that included subjects from different parts of the world looked at the effects that nostalgia, the feeling and experience of thinking about one’s own past, has on psychological well-being. The results of the studies demonstrated a relationship between nostalgia and authenticity, one’s sense of being aligned with one’s true self. A greater sense of authenticity was found to correlate with greater measurements of all aspects of psychological well-being.<br/><br/><strong>Text 2</strong><br/>While there has been some demonstration that nostalgia is associated with mental health benefits, it is important to remember that there are different types of nostalgia and that some can be highly destructive. A recent study performed by psychologists David B. Newman, Arthur A. Stone, and Norbert Schwarz found that conscious acts of extreme nostalgia have positive effects, while smaller and momentary, more unconscious nostalgic experiences can result in negative mental health effects, such as neuroticism.</div>",
+    "question_stem": "Based on the texts, what would Newman, Stone, and Schwarz (Text 2) say about the results of the studies discussed in Text 1?",
+    "answer_choices": {
+      "A": "They are completely consistent with the results of other studies on the subject.",
+      "B": "They are from studies that fail to differentiate between different types of nostalgia and so provide an incomplete picture of nostalgia’s impact on mental health.",
+      "C": "They provide empirical evidence for a hypothesis long untested but assumed to be true.",
+      "D": "They suggest a possible new direction for future research but provide no definitive resolutions."
+    },
+    "answer_ids": {
+      "A": 10329,
+      "B": 10330,
+      "C": 10331,
+      "D": 10332
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Dual Texts"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Dual Texts question, as it has two texts. The question asks what<em> Newman, Stone, and Schwarz (Text 2)</em> would <em>say about the results of the studies discussed in Text 1</em>. Start by understanding the <em>results of the studies in Text 1</em>. Text 1 states that<em> The results of the studies demonstrated a relationship between nostalgia and authenticity</em>, and then says that this <em>was found to correlate with greater measurements of all aspects of psychological well-being</em>. Next, look for a similar idea in Text 2 to see how its author feels about this view. Text 2 begins by acknowledging that <em>nostalgia</em> <em>is associated with mental health benefits</em> but then draws a contrast by saying that <em>there are different types of nostalgia</em> and <em>some can be highly destructive</em>. Then, it describes a study that found that some <em>more unconscious nostalgic experiences can result in negative mental health effects.</em> Therefore, the psychologists in Text 2 would “say some kinds of nostalgia are bad.” Write that in the annotation box and use Process of Elimination.<br/><br/>\n<ul>\n<li>(A) and (C) are wrong because they are only positive, but the texts express disagreement.</li>\n</ul>\n<ul>\n<li>(B) is correct because it matches the annotation.</li>\n</ul>\n<ul>\n<li>(D) is wrong because Text 2 never mentions <em>future research.</em></li>\n</ul>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2935/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:04.177717"
+  },
+  {
+    "question_id": 2936,
+    "stimulus": "<div class=\"\"><div><img alt=\"The figure presents a bar graph titled “Impact of Label on Consumer Choices.” The horizontal axis has seven categories labeled: control, no claim, no imagery, no claim or imagery, percent of juice disclosure, warning, and warning and teaspoons of sugar disclosure. The vertical axis is labeled “Percentage of participants who chose high-added suger fruit drinks.” and the numbers 0 through 35 are indicated in increments of 5. There is one bar above each of the category names. The data are as follows. Note that all values are approximate.control, 32 percent.no claim, 30 percent.no imagery, 28 percent.no claim or imagery, 25 percent.percent of juice disclosure, 32 percent.warning, 27 percent.warning and teaspoons of sugar disclosure, 27 percent.\" height=\"374\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_image_2023-07-31_095714060.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"405\"/></div><br/><br/>The packaging of many fruit drinks contains healthrelated claims and imagery that can sometimes be misleading to parents who purchase such drinks for their children. To assess the impact of the front of packaging on consumers’ purchasing decisions, nutrition researchers Aviva A. Musicus, Christina A. Roberto, and Alyssa J. Moran conducted a study wherein participants were shown fruit drinks with high amounts of sugar added with seven different conditions of packaging: with claim and imagery (control), no claim, no imagery, no claim or imagery, disclosure of percentage of juice, a warning, and disclosure of amount of added sugar in teaspoons. At the end of the study, the researchers concluded that the presence of warnings and absence of claims and imagery may reduce likelihood of purchase, whereas disclosure of percentage of juice may have very little impact.</div>",
+    "question_stem": "<div><span style=\"font-size: 12pt;\">Which choice most effectively uses data from the graph to support the researchers’ conclusion?</span></div>",
+    "answer_choices": {
+      "A": "The percentage of participants who selected the high-added sugar fruit drink was highest when a warning was placed on the front of the packaging.",
+      "B": "The percentage of participants who selected the high-added sugar fruit drink when the percentage of juice was disclosed on the front of the packaging was comparable to the percentage who selected the drink in the control group.",
+      "C": "The absence of the claim had the same impact as did the absence of imagery from the front of the packaging.",
+      "D": "When the front of packaging disclosed the amount of added sugar in teaspoons, participants were more likely to select a low-added sugar fruit drink than a high-added sugar fruit drink."
+    },
+    "answer_ids": {
+      "A": 10333,
+      "B": 10334,
+      "C": 10335,
+      "D": 10336
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Charts"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Charts question, as it asks for <em>data from the graph</em>. The graph charts the percentage of participants who chose the sugary drink for a control package and for packaging with various changes. Highlight the conclusion in the text, which is that <em>the presence of warnings and absence of claims and imagery may reduce the likelihood of purchase</em>, <em>whereas disclosure of percentage of juice may have very little impact</em>. Eliminate any answers that are inconsistent with the graph or don’t support the conclusion.<br/><br/>\n<ul>\n<li>(A) is wrong because the claim says that warnings<em> may reduce likelihood of purchase,</em> so this statement contradicts the claim.</li>\n</ul>\n<ul>\n<li>(B) is correct because comparing the percent disclosure to the control demonstrates the<em> little impact</em> that disclosure had.</li>\n</ul>\n<ul>\n<li>(C) is wrong because it doesn’t state what the <em>impact</em> of these absences was, so it doesn’t support the claim.</li>\n</ul>\n<ul>\n<li>(D) is wrong because the option to select a <em style=\"font-size: 12pt;\">low-added sugar fruit drink</em><span style=\"font-size: 12pt;\"> isn’t in the graph or text.</span></li>\n</ul>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2936/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:04.966940"
+  },
+  {
+    "question_id": 2937,
+    "stimulus": "<div class=\"\">“The Emerald Eyes” is an 1861 short story by Gustavo Adolfo Bécquer, originally written in Spanish. In the story, the protagonist, Fernando, is continually drawn to a Poplar fountain in an attempt to learn the identity of a mysterious woman with emerald eyes. Fernando’s friend Iñigo is worried and tries to warn him to stay away from the fountain when he says, __________<div></div></div>",
+    "question_stem": "Which quotation from a translation of the “The Emerald Eyes” most effectively illustrates the claim?",
+    "answer_choices": {
+      "A": "“Do you not see that [the stag] is going toward the fountain of the Poplars, and if he lives to reach it we must give him up for lost?”",
+      "B": "“I exposed myself to death under his horse’s hoofs to hold him back.”",
+      "C": "“You do not go to the mountains now preceded by the clamorous pack of hounds, nor does the blare of your horns awake the echoes.”",
+      "D": "“I conjure you by that which you love most on earth not to return to the fountain of the Poplars.”"
+    },
+    "answer_ids": {
+      "A": 10337,
+      "B": 10338,
+      "C": 10339,
+      "D": 10340
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Claims question, as it asks for a quotation that <em>illustrates the claim</em>. Read the text and highlight the <em>claim</em>, which is that <em>Fernando’s friend…is worried and tries to warn him to stay away from the fountain.</em> Eliminate answers that don’t illustrate this idea.<br/><br/>\n<ul>\n<li>(A) is wrong because it doesn’t relate to Fernando going to or staying away from the <em>fountain</em>.</li>\n</ul>\n<ul>\n<li>(B) and (C) are wrong because they don’t mention the <em>fountain</em>.</li>\n</ul>\n<ul>\n<li>(D) is correct because it provides a warning <em>not to return to the fountain of the Poplars</em>.</li>\n</ul>\n</div>",
+    "correct_answer": "",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2937/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:05.717097"
+  },
+  {
+    "question_id": 2938,
+    "stimulus": "<div class=\"\"><div>Anthony Doerr won a Pulitzer Prize, among other literary awards, for his work in fiction novels, and his short stories have been anthologized in collections of American literature. In an essay about Doerr’s works, a student claims that Doerr uses children as his protagonists in order to create a story from an unbiased and hopeful perspective of humanity.</div></div>",
+    "question_stem": "Which quotation from a literary critic best supports the student’s claim?",
+    "answer_choices": {
+      "A": "“Doerr’s novels are influenced by the themes present in fables, thus presenting an ordeal through which the protagonist learns a lesson about life.”",
+      "B": "“Doerr prefers to have the protagonist’s story told through the eyes of a child who seeks to learn more about the world.”",
+      "C": "“Doerr’s novels often contain multiple story arcs or perspectives culminating in a universal truth.”",
+      "D": "“Doerr’s protagonists are often children who see the world with an open mind and contribute towards the betterment of humanity.”"
+    },
+    "answer_ids": {
+      "A": 10341,
+      "B": 10342,
+      "C": 10343,
+      "D": 10344
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Claims question, as it asks for a <em>quotation </em>that<em> supports the student’s claim</em>. Read the text and highlight the <em>claim</em>, which is that <em>Doerr</em> <em>uses children as his protagonists in order to create a story from an unbiased and hopeful perspective of humanity</em>. Eliminate answers that don’t <em>support</em> this idea. <br/><br/>\n<ul>\n<li>(A) and (C) are wrong because they don’t mention <em>children</em>.</li>\n</ul>\n<ul>\n<li>(B) is wrong because <em>seeks to</em> <em>learn more about the world </em>doesn’t match with<em> unbiased and hopeful perspective of humanity</em>.</li>\n</ul>\n<ul>\n<li>(D) is correct because it mentions <em>children</em>, the phrase <em>see the world with an open mind matches with unbiased,</em> and <em>betterment of humanity </em>matches with<em> hopeful perspective of humanity</em>.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2938/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:06.484259"
+  },
+  {
+    "question_id": 2939,
+    "stimulus": "<div class=\"\"><div style=\"text-align: center;\">Ratings of Mood and Need Satisfaction after Social Inclusion and Exclusion</div><br/><table border=\"1\" style=\"width: 84.6348%; border-collapse: collapse; margin-left: auto; margin-right: auto;\"><tbody><tr><td style=\"width: 28.1723%;\"></td><td style=\"width: 13.165%; text-align: center;\">Human exclusion</td><td style=\"width: 12.5706%; text-align: center;\">Human inclusion</td><td style=\"width: 16.1366%; text-align: center;\">Computer exclusion</td><td style=\"width: 14.5903%; text-align: center;\">Computer inclusion</td></tr><tr><td style=\"width: 28.1723%;\"> Needs satisfaction scale,<br/> reflexive stage</td><td style=\"width: 13.165%; text-align: center;\">3.13</td><td style=\"width: 12.5706%; text-align: center;\">5.88</td><td style=\"width: 16.1366%; text-align: center;\">3.29</td><td style=\"width: 14.5903%; text-align: center;\">5.94</td></tr><tr><td style=\"width: 28.1723%;\"> Mood, reflexive stage</td><td style=\"width: 13.165%; text-align: center;\">3.29</td><td style=\"width: 12.5706%; text-align: center;\">5.50</td><td style=\"width: 16.1366%; text-align: center;\">3.43</td><td style=\"width: 14.5903%; text-align: center;\">4.59</td></tr><tr><td style=\"width: 28.1723%;\"> Needs satisfaction scale,<br/> reflective stage</td><td style=\"width: 13.165%; text-align: center;\">3.38</td><td style=\"width: 12.5706%; text-align: center;\">5.03</td><td style=\"width: 16.1366%; text-align: center;\">3.81</td><td style=\"width: 14.5903%; text-align: center;\">5.38</td></tr><tr><td style=\"width: 28.1723%;\"> Mood, reflective stage</td><td style=\"width: 13.165%; text-align: center;\">3.46</td><td style=\"width: 12.5706%; text-align: center;\">4.71</td><td style=\"width: 16.1366%; text-align: center;\">4.43</td><td style=\"width: 14.5903%; text-align: center;\">4.09</td></tr></tbody></table><br/>Social exclusion can have a detrimental impact on an individual’s mental and emotional state. Psychologists Melissa Jauch, Selma Carolin Rudert, and Rainer Greifendeder hypothesized that individuals would experience equivalent effects of social exclusion regardless of whether the source of exclusion was human or computer. The researchers conducted a study in which subjects played a word riddle game. The subjects were grouped with other players who were computer-generated, though some subjects were told that they were playing with other humans. Throughout the game, the other players would either include the subjects or exclude them from participating. After the game, researchers measured the subjects’ need satisfaction (a psychological metric of the degree to which an individual’s basic needs are met) and mood on a scale of 1 to 9 immediately after the game (the reflexive stage) as well as after some time had passed (the reflective stage).</div>",
+    "question_stem": "<div style=\"text-align: left;\"><span style=\"font-size: 12pt;\">Which choice most effectively uses data from the table to support the researchers’ hypothesis?</span></div>",
+    "answer_choices": {
+      "A": "At the reflexive stage, subjects’ ratings in both mood and need satisfaction when excluded by a human were comparable to the corresponding ratings when excluded by a computer.",
+      "B": "Subjects reported higher mood and need satisfaction ratings when included than they did when excluded.",
+      "C": "When included by a human or a computer, subjects exhibited lower need satisfaction at the reflective stage than they did at the reflexive stage.",
+      "D": "Subjects experienced the highest mood rating when they believed they were socially included by a human."
+    },
+    "answer_ids": {
+      "A": 10345,
+      "B": 10346,
+      "C": 10347,
+      "D": 10348
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Charts"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Charts question, as it asks for <em>data from the table</em>. The graph charts the need satisfaction scale and mood in two stages with respect to human and computer inclusion and exclusion. Highlight the <em>hypothesis</em> in the text, which is that <em>individuals would experience equivalent effects of social exclusion regardless of whether the source of exclusion was human or computer.</em> Eliminate any answers that are inconsistent with the table or don’t support the conclusion.<br/><br/>\n<ul>\n<li>(A) is correct because <em>comparable</em> <em>to</em> matches with <em>equivalent effects</em>, and like the hypothesis it compares something between humans and computers.</li>\n</ul>\n<ul>\n<li>(B) and (D) are wrong because they don’t draw a comparison between human and computer inclusion/exclusion.</li>\n</ul>\n<ul>\n<li>(C) is wrong because it contrasts the <em>reflective</em> and <em>reflexive</em> stages instead of comparing human and computer inclusion/exclusion.</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2939/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:07.229046"
+  },
+  {
+    "question_id": 2940,
+    "stimulus": "<div class=\"\"><div style=\"text-align: left;\">It is commonly accepted that the Cretaceous–Paleogene extinction event some 66 million years ago was caused by an asteroid impact, believed to correspond to an impact crater in Chicxulub, Mexico, that dates to the same time and is the second-largest impact structure on Earth. Geologist Uisdean Nicholson discovered an undersea impact crater while reviewing seismic survey data and conducted a study that demonstrated that this crater also formed around 66 million years ago. Nicholson claims that the rock whose impact caused the formation of the undersea crater could have broken off from a parent asteroid that also caused the Chicxulub impact.</div></div>",
+    "question_stem": "Which finding, if true, would most directly support Nicholson’s claim?",
+    "answer_choices": {
+      "A": "The undersea impact would have caused major earthquakes and tsunamis, leading to significant damage to the planet.",
+      "B": "Some evidence points to a gradual Cretaceous–Paleogene extinction rather than a sudden one caused by an asteroid.",
+      "C": "Many species of marine animals, in addition to land animals, went extinct during the Cretaceous–Paleogene extinction.",
+      "D": "The undersea impact crater contains some of the same minerals not normally found on Earth that were also found at the Chicxulub impact site."
+    },
+    "answer_ids": {
+      "A": 10349,
+      "B": 10350,
+      "C": 10351,
+      "D": 10352
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Claims question, as it asks for an answer that would <em>support Nicholson’s claim</em>. Read the text and highlight the <em>claim</em>, which is that <em>the rock whose impact caused the formation of the undersea crater could have broken off from a parent asteroid that also caused the Chicxulub impact</em>. Eliminate answers that don’t <em>support</em> this claim.<br/><br/>\n<ul>\n<li>(A), (B), and (C) are wrong because they don’t mention the <em>Chicxulub impact</em>.</li>\n</ul>\n<ul>\n<li>(D) is correct because if the two sites contain <em>some of the same minerals not normally found on Earth</em>, this would suggest that the asteroids that created those craters could have come from the same source.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2940/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:08.012144"
+  },
+  {
+    "question_id": 2941,
+    "stimulus": "<div class=\"\"><div style=\"text-align: left;\">In a study of neuronal sleeping patterns, researchers tracked the electrical waves (using EEG) and blood flow patterns (using fMRI) in participants while they slept. Researchers hypothesized that a correlation between electrical wave activity and blood flow patterns could indicate which regions of the brain, if any, fell asleep or awoke first. Like with previous studies, the researchers found that the thalamus, a region located near the center of the brain, had decreased blood flow patterns in association with increased electrical sleep waves in the early minutes of sleep activity. This suggests that __________</div></div>",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "the thalamus is one of the first brain regions to fall asleep.",
+      "B": "increased blood flow patterns in association with decreased electrical sleep waves indicate a brain region that is asleep.",
+      "C": "the thalamus is the last brain region to fall asleep.",
+      "D": "humans may use only one hemisphere of the brain while asleep."
+    },
+    "answer_ids": {
+      "A": 10353,
+      "B": 10354,
+      "C": 10355,
+      "D": 10356
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Conclusions"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Conclusions question, as it asks for the choice that <em>most logically completes the text</em>. Read the text and highlight the main ideas. The text states that <em>a correlation between certain things could indicate which regions of the brain…fell asleep or awoke first</em>. Then it states that in the experiment <em>the thalamus</em> had such a correlation, so it may have fallen asleep or awoken first. Eliminate any answer that states a conclusion that isn’t supported by the text.<br/><br/>\n<ul>\n<li>(A) is correct because it matches with the correlation stated.</li>\n</ul>\n<ul>\n<li>(B) and (D) are wrong because the text is focused on which regions of the brain fall asleep or awaken first, not what happens during sleep.</li>\n</ul>\n<ul>\n<li>(C) is wrong because it’s the opposite of what the text suggests.</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2941/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:08.806329"
+  },
+  {
+    "question_id": 2942,
+    "stimulus": "<div class=\"\">In order to avoid physical damage, a formula is used to calculate the maximum gross weight for a commercial vehicle traveling over a bridge. The Federal Bridge Gross Weight Formula takes into account not only the weight of the vehicle but also its number of axles (shafts for wheels) and the spacing between axles, given that a shorter vehicle with its weight concentrated in a smaller area could cause more damage than could a longer vehicle of the same weight whose mass is more dispersed. This suggests that, when comparing a two-axle vehicle to a four-axle vehicle, __________</div>",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "the four-axle vehicle likely has a lower weight limit on a given bridge than does the two-axle vehicle.",
+      "B": "the vehicles likely have the same weight limit on a given bridge.",
+      "C": "the two-axle vehicle is unlikely to surpass the bridge’s weight limit, as it is smaller.",
+      "D": "the two-axle vehicle likely has a lower weight limit on a given bridge than does the four-axle vehicle."
+    },
+    "answer_ids": {
+      "A": 10357,
+      "B": 10358,
+      "C": 10359,
+      "D": 10360
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Conclusions"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Conclusions question, as it asks for the choice that <em>most logically completes the text</em>. Read the text and highlight the main ideas. The text states that the formula <em>takes into account not only the weight of the vehicle but also its number of axles</em>. Then it explains that <em>a shorter vehicle with its weight concentrated in a smaller area could cause more damage than could a longer vehicle of the same weight whose mass is dispersed</em>. The text then compares <em>a two-axle vehicle</em> <em>to a four-axle vehicle</em>. Eliminate any answer that states a conclusion that isn’t supported by the text.<br/><br/>\n<ul>\n<li>(A) is wrong because it’s the opposite of what the text indicates; a four-axle vehicle would likely be longer and have its weight more dispersed, so it could be heavier.</li>\n</ul>\n<ul>\n<li>(B) is wrong because the text draws a contrast between vehicles of different lengths, not a comparison.</li>\n</ul>\n<ul>\n<li>(C) is wrong because it doesn’t relate to the four-axle vehicle.</li>\n</ul>\n<ul>\n<li>(D) is correct because it is consistent with the text, as the two-axle vehicle would likely be shorter and therefore need to have a lower weight, given what the text stated about shorter vehicles.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2942/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:09.594150"
+  },
+  {
+    "question_id": 2943,
+    "stimulus": "<div class=\"\">A recent study looked at whether students who took photos of PowerPoint slides during lessons remembered the content. When students took a photo of the slides, they were able to better remember the information on those slides compared to slides __________ did not photograph.</div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "they",
+      "B": "one",
+      "C": "it",
+      "D": "we"
+    },
+    "answer_ids": {
+      "A": 10361,
+      "B": 10362,
+      "C": 10363,
+      "D": 10364
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Pronouns"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, pronouns are changing in the answer choices, so it’s testing consistency with pronouns. Find and highlight the word the pronoun refers back to, <em>students</em>, which is plural, so a plural pronoun is needed. Write an annotation saying “plural.” Eliminate any answer that isn’t plural or doesn’t clearly refer back to <em>students</em>.<br/><br/>\n<ul>\n<li>(A) is correct because <em>they</em> is plural and is consistent with <em>students</em>.</li>\n</ul>\n<ul>\n<li>(B) and (C) are wrong because they are singular.</li>\n</ul>\n<ul>\n<li>(D) is wrong because <em>we</em> doesn’t refer back to <em>students</em>.</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2943/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:10.407639"
+  },
+  {
+    "question_id": 2944,
+    "stimulus": "<div class=\"\">Soft drinks have become very popular in recent years, but consuming too many is associated with many diseases and intellectual deterioration. Scientists wanted to explore another question related to this topic: __________</div>",
+    "question_stem": "Which choice completes the text so that it  conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "does the consumption of soft drinks cause changes in mammal behavior?",
+      "B": "does the consumption of soft drinks cause changes in mammal behavior.",
+      "C": "the consumption of soft drinks causes changes in mammal behavior?",
+      "D": "the consumption of soft drinks causes changes in mammal behavior."
+    },
+    "answer_ids": {
+      "A": 10365,
+      "B": 10366,
+      "C": 10367,
+      "D": 10368
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Complete Sentences"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, periods and question marks are changing in the answer choices, so it’s testing questions versus statements. The beginning of the sentence states that <em>Scientists wanted to explore another question related to this topic</em>, so the second part of the sentence should be a question. Eliminate answers that aren’t correctly written as questions.<br/><br/>\n<ul>\n<li>(A) is correct because it’s correctly written as a question.</li>\n</ul>\n<ul>\n<li>(B) and (D) are wrong because they are statements.</li>\n</ul>\n<ul>\n<li>(C) is wrong because it has a question mark but is written as a statement.</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2944/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:11.285274"
+  },
+  {
+    "question_id": 2945,
+    "stimulus": "<div class=\"\">Heat islands are urban areas that, due to a high number of buildings and limited greenery, have a higher temperature compared to outlying areas. There are several strategies and technologies to counteract the higher temperatures of heat islands. For example, green roofs, which are rooftops covered in vegetation, reduce the temperatures of __________ cool pavements, which are made with materials that reflect solar energy, can lower the temperatures above the pavement surface and the surrounding air.</div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "roofs, while",
+      "B": "roofs; while",
+      "C": "roofs. While",
+      "D": "roofs: while"
+    },
+    "answer_ids": {
+      "A": 10369,
+      "B": 10370,
+      "C": 10371,
+      "D": 10372
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Connecting Clauses"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, punctuation is changing in the answer choices. Look for independent clauses. The first part of the sentence says <em>For example, green roofs, which are rooftops covered in vegetation, reduce the temperatures of roofs</em>, which is an independent clause. The second part of the sentence says <em>while cool pavements, which are made with materials that reflect solar energy, can lower the temperatures above the pavement surface and the surrounding air</em>, which is a dependent clause. Eliminate any option that doesn’t correctly connect an independent + a dependent clause. <br/><br/>\n<ul>\n<li>(A) is correct because independent + dependent can be connected with a comma.</li>\n</ul>\n<ul>\n<li>(B), (C), and (D) are wrong because independent + dependent cannot be connected with punctuation other than a comma.</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2945/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:12.070509"
+  },
+  {
+    "question_id": 2946,
+    "stimulus": "<div class=\"\">With a focus on public health, Abla Mehio Sibai is currently working at a university in Lebanon. She primarily focuses on the process of aging, especially in the context of different demographics, and __________ to research on noncontagious illnesses.</div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "contribute",
+      "B": "contributes",
+      "C": "are contributing",
+      "D": "have contributed"
+    },
+    "answer_ids": {
+      "A": 10373,
+      "B": 10374,
+      "C": 10375,
+      "D": 10376
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Verbs"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, verb forms are changing in the answer choices, so it’s testing sentence structure. The subject of the sentence is <em>She</em>, and the main verb is <em>focuses</em>. The second part of the sentence follows <em>and</em> and describes a second thing that Sibai does, so the answer must be consistent with <em>focuses</em>. Eliminate any answer that isn’t consistent with <em>focuses</em>.<br/><br/>\n<ul>\n<li>(A), (C), and (D) are wrong because they aren’t consistent with <em>focuses</em>.</li>\n</ul>\n<ul>\n<li>(B) is correct because it’s consistent with <em>focuses</em>.</li>\n</ul>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2946/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:12.899493"
+  },
+  {
+    "question_id": 2947,
+    "stimulus": "<div class=\"\">Bribery is recognized as a problem in India by local and international organizations. In response to this problem, 5th Pillar, a non-governmental organization, printed a zero-rupee __________ imitation banknote that resembles real money and is covered in anti-corruption slogans.</div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "note. An",
+      "B": "note, an",
+      "C": "note an",
+      "D": "note; an"
+    },
+    "answer_ids": {
+      "A": 10377,
+      "B": 10378,
+      "C": 10379,
+      "D": 10380
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Punctuation with Describing Phrases"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, punctuation is changing in the answer choices. The last part of the sentence says <em>an imitation banknote that resembles real money and is covered in anti-corruption slogans</em>, which is a escribing phrase. Noun phrases beginning with “a” or “an” are always non-essential to the meaning of the sentence and should be set off with commas. Eliminate answers that do not have a comma.<br/><br/>\n<ul>\n<li>(A) and (D) are wrong because the second part isn’t an independent clause, and a semicolon or period can only be used when both clauses are independent.</li>\n</ul>\n<ul>\n<li>(B) is correct because it uses a comma after the non-essential information.</li>\n</ul>\n<ul>\n<li>(C) is wrong because a comma is needed for non-essential information.</li>\n</ul>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2947/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:13.678612"
+  },
+  {
+    "question_id": 2948,
+    "stimulus": "<div class=\"\">Scientists wanted to learn how verbal statements can alter someone’s visual interpretation of a situation. Participants were shown an image of 100 colored dots alongside a written hint and asked to identify the dominant color. When the hint accurately identified the dominant color, participants self-identified as more confident and __________ quicker response times.</div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "exhibit",
+      "B": "exhibits",
+      "C": "exhibiting",
+      "D": "exhibited"
+    },
+    "answer_ids": {
+      "A": 10381,
+      "B": 10382,
+      "C": 10383,
+      "D": 10384
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Verbs"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, verb forms are changing in the answer choices, so it’s testing sentence structure. The subject of the sentence is <em>participants</em>, and the main verb is <em>self-identified</em>. The second part of the sentence follows <em>and</em> and describes a second thing that the participants did, so the answer must be consistent with<em> self-identified</em>. Eliminate any answer that isn’t consistent with <em>self-identified</em>.<br/><br/>\n<ul>\n<li>(A), (B), and (C) are wrong because they aren’t consistent with <em>self-identified</em>.</li>\n</ul>\n<ul>\n<li>(D) is correct because it’s consistent with <em>self-identified.</em></li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2948/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:14.458232"
+  },
+  {
+    "question_id": 2949,
+    "stimulus": "<div class=\"\">Quantum computers rely on entangled building blocks to perform computational calculations. Scientists are attempting to find a new source for these building __________ photons, or small quanta of light, emitted by an atom.</div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "blocks, such as:",
+      "B": "blocks",
+      "C": "blocks,",
+      "D": "blocks:"
+    },
+    "answer_ids": {
+      "A": 10385,
+      "B": 10386,
+      "C": 10387,
+      "D": 10388
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Connecting Clauses"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, punctuation is changing in the answer choices. The first part of the sentence says <em>Scientists are attempting to find a new source for these building blocks</em>, which is an independent clause. The second part of the sentence is not an independent clause and tells what the <em>new source </em>is. Eliminate any answer that doesn’t correctly connect the independent clause to the source. <br/><br/>\n<ul>\n<li>(A) is wrong because adding <em>such as</em> to the first part makes it no longer independent, in which case it can’t be followed by a colon.</li>\n</ul>\n<ul>\n<li>(B) is wrong because some punctuation is needed to link the independent clause to the explanation of the source that follows.</li>\n</ul>\n<ul>\n<li>(C) is wrong because it makes it sound like <em>building blocks, photons, </em>and <em>small quanta of light</em> are part of a list, which isn’t the intended meaning.</li>\n</ul>\n<ul>\n<li>(D) is correct because a colon is used when the second part of the sentence elaborates on the first.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2949/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:15.310802"
+  },
+  {
+    "question_id": 2950,
+    "stimulus": "<div class=\"\">Suzan Shown Harjo initially worked to write poems and produce news shows advocating for equal rights for Native Americans. __________ she moved to Washington, D.C., and served as Congressional Liaison for Indian Affairs for President Jimmy Carter while continuing to produce powerful pieces.</div>",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "As a rule,",
+      "B": "Despite this,",
+      "C": "Conversely,",
+      "D": "After some time,"
+    },
+    "answer_ids": {
+      "A": 10389,
+      "B": 10390,
+      "C": 10391,
+      "D": 10392
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a transition question, so highlight ideas that relate to each other. The preceding sentence describes what Harjo <em>initially</em> did, and this sentence describes some other things she did. These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.<br/><br/>\n<ul>\n<li>(A) is wrong because this sentence doesn’t indicate a rule.</li>\n</ul>\n<ul>\n<li>(B) and (C) are wrong because they are opposite-direction transitions.</li>\n</ul>\n<ul>\n<li>(D) is correct because <em>After some time</em> matches with initially in the preceding sentence.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2950/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:16.510049"
+  },
+  {
+    "question_id": 2951,
+    "stimulus": "<div class=\"\">Scientists studied how electrical stimulation to the brain affected honeybees’ ability to steer while flying. They were able to determine the parameters for honeybee flight and develop strategies to manipulate it. __________ scientists hope to use a similar technique to control the flight of miniature drones that will perform a variety of tasks for the military and other industries.</div>",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "In contrast,",
+      "B": "Eventually,",
+      "C": "On one hand,",
+      "D": "Specifically,"
+    },
+    "answer_ids": {
+      "A": 10393,
+      "B": 10394,
+      "C": 10395,
+      "D": 10396
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a transition question, so highlight ideas that relate to each other. The preceding sentence says <em>They were able to determine the parameters for honeybee flight and develop strategies to manipulate it</em>, and this sentence says<em> scientists hope to use a similar technique to control the flight of miniature drones</em>. These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.<br/><br/>\n<ul>\n<li>(A) and (C) are wrong because they are opposite-direction transitions.</li>\n</ul>\n<ul>\n<li>(B) is correct because <em>Eventually</em> is same-direction and matches the link between what scientists did do and what they <em>hope</em> to do.</li>\n</ul>\n<ul>\n<li>(D) is wrong because this sentence is not a more specific version of the preceding sentence.</li>\n</ul>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2951/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:17.597444"
+  },
+  {
+    "question_id": 2952,
+    "stimulus": "<div class=\"\">In order to study an abrupt increase in global mean lower stratosphere temperatures, scientists used a time-specific analysis of wildfires in Australia. They determined that the wildfires are the source of this abrupt increase in temperature. __________ reducing the number of wildfires in Australia may help return the temperature to a normal value.</div>",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "On the other hand,",
+      "B": "Meanwhile,",
+      "C": "Instead,",
+      "D": "Therefore,"
+    },
+    "answer_ids": {
+      "A": 10397,
+      "B": 10398,
+      "C": 10399,
+      "D": 10400
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a transition question, so highlight ideas that relate to each other. The preceding sentence says <em>They determined that the wildfires are the source of this abrupt increase in temperature</em>, and this sentence says <em>reducing the number of wildfires in Australia may help return the temperature to a normal value</em>. These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.<br/><br/>\n<ul>\n<li>(A) and (C) are wrong because they are opposite-direction transitions.</li>\n</ul>\n<ul>\n<li>(B) is wrong because this sentence doesn’t indicate something that happened while the preceding sentence was occurring.</li>\n</ul>\n<ul>\n<li>(D) is correct because <em>Therefore</em> is same-direction and suggests a conclusion that can be drawn from the information in the previous sentence.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2952/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:18.554839"
+  },
+  {
+    "question_id": 2953,
+    "stimulus": "<div class=\"\">Ed Yost designed the first modern hot air balloon with an in-flight heating system after working with General Mills on the company’s research balloons. The first piloted hot air balloon was designed in France, but it heated the air on the ground and came with a large risk of explosion. __________ Yost’s balloon design involved heating the fuel in the air and was much safer.</div>",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Ultimately,",
+      "B": "On the other hand,",
+      "C": "Otherwise,",
+      "D": "Despite this fact,"
+    },
+    "answer_ids": {
+      "A": 10401,
+      "B": 10402,
+      "C": 10403,
+      "D": 10404
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a transition question, so highlight ideas that relate to each other. The preceding sentence says <em>The first piloted hot air balloon…heated the air on the ground and came with a large risk of explosion</em>, and this sentence says <em>Yost’s balloon design involved heating the fuel in the air and was much safer.</em> These ideas disagree, so an opposite-direction transition is needed. Make an annotation that says “opposite.” Eliminate any answer that doesn’t match.<br/><br/>\n<ul>\n<li>(A) is wrong because it is a same-direction transition.</li>\n</ul>\n<ul>\n<li>(B) is correct because <em>On the other hand</em> is opposite-direction.</li>\n</ul>\n<ul>\n<li>(C) and (D) are wrong because they do not convey the comparison between <em>Yost’s balloon</em> and the <em>first piloted hot air balloon</em>.</li>\n</ul>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 38,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 2 - Easy",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/2953/?question_set=exam&exam_id=38",
+    "scraped_at": "2025-07-06T18:02:19.468177"
+  }
+]

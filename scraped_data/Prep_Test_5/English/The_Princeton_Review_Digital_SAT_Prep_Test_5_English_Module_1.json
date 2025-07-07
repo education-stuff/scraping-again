@@ -1,0 +1,698 @@
+[
+  {
+    "question_id": 3635,
+    "stimulus": "",
+    "question_stem": "What is $20\\%$ of 220?",
+    "answer_choices": {
+      "A": "8",
+      "B": "20",
+      "C": "44",
+      "D": "68"
+    },
+    "answer_ids": {
+      "A": 12809,
+      "B": 12810,
+      "C": 12811,
+      "D": 12812
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3635/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:02.429157",
+    "explanation": "✕Explanation$20\\%$ of 220 means 0.2 * 220, which equals to 44.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3636,
+    "stimulus": "",
+    "question_stem": "`2x - 4 = 16`Which equation has the same solution as the given equation?",
+    "answer_choices": {
+      "A": "`2x = 64`",
+      "B": "`2x = 20`",
+      "C": "`2x = 12`",
+      "D": "`2x = 4`"
+    },
+    "answer_ids": {
+      "A": 12813,
+      "B": 12814,
+      "C": 12815,
+      "D": 12816
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3636/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:03.182193",
+    "explanation": "✕ExplanationAdd 4 to both sides (or “move -4 to the other side”), and the equation becomes `2x = 12`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3637,
+    "stimulus": "",
+    "question_stem": "The total cost, in dollars, to rent a car consists of a $\\$10$ base fee and a  $\\$8$ per hour rental fee. A person rents a car for `t` hours and has up to  $\\$80$ to spend on the car rental. Which inequality represents this situation?",
+    "answer_choices": {
+      "A": "`8t <= 80`",
+      "B": "`8 + 10t <= 80`",
+      "C": "`10t <= 80`",
+      "D": "`10 + 8t <= 80`"
+    },
+    "answer_ids": {
+      "A": 12817,
+      "B": 12818,
+      "C": 12819,
+      "D": 12820
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3637/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:03.913249",
+    "explanation": "✕ExplanationThe total cost is the sum of the base fee of $\\$10$ and the rental fee. Rental fee is `8t` because it’s $\\$8$ per hour for `t` hours. The total is no more than $\\$80$, so `10 + 8t <= 80`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3638,
+    "stimulus": "",
+    "question_stem": "The function `g` is defined `g(x) = x^2 + 16`. For which value of `x` is `g(x) = 25`?",
+    "answer_choices": {
+      "A": "3",
+      "B": "4",
+      "C": "9",
+      "D": "11"
+    },
+    "answer_ids": {
+      "A": 12821,
+      "B": 12822,
+      "C": 12823,
+      "D": 12824
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3638/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:04.652151",
+    "explanation": "✕ExplanationSince `g(x) = 25`, put 25 into the first equation and get `25 = x^2 + 16`. Solve for `x`, and `x = +3` and `x = -3`, so A is the answer.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3639,
+    "stimulus": "",
+    "question_stem": "A fair 36-spot roulette has numbers 1 to 36, with each number appearing once. If the roulette is spun once, what is the probability of spinning a 10?",
+    "answer_choices": {
+      "A": "`1/36`",
+      "B": "`2/36`",
+      "C": "`10/36`",
+      "D": "`18/36`"
+    },
+    "answer_ids": {
+      "A": 12825,
+      "B": 12826,
+      "C": 12827,
+      "D": 12828
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3639/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:05.382719",
+    "explanation": "✕ExplanationThere is a 1 in 36 chance of spinning a 10, so the probability is `1/36`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3640,
+    "stimulus": "",
+    "question_stem": "A construction worker can paint 220 square feet of wall per hour. At what rate, in square feet perminute, does the worker paint the wall?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3640/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:06.143066",
+    "explanation": "✕ExplanationAt 220 square feet per hour, or 220 square feet per 60 minutes, the worker can paint 220/60 = 3.667 square feet per 1 minute.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3641,
+    "stimulus": "",
+    "question_stem": "The function `f` is defined by the equation `f(x) = x^2 + 4`. What is the value of `f(x)` when `x = 4`?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3641/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:06.857238",
+    "explanation": "✕Explanation`f(4) = 4^2 + 4 = 16 + 4 = 20`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3642,
+    "stimulus": "",
+    "question_stem": "A farm consists of chickens, which have 2 legs, and pigs, which have 4 legs. If there are a total of 60 legs on the farm between the chickens and the pigs, which equation represents this situation, where `x` represents the number of chickens and `y` represents the number of pigs?",
+    "answer_choices": {
+      "A": "`4xy = 60`",
+      "B": "`6(x + y) = 60`",
+      "C": "`2x + 4y = 60`",
+      "D": "`4x + 2y = 60`"
+    },
+    "answer_ids": {
+      "A": 12829,
+      "B": 12830,
+      "C": 12831,
+      "D": 12832
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3642/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:07.614817",
+    "explanation": "✕ExplanationThe total number of chicken legs is 2 times the number of chickens, so it’s `2x`. The total number of pig legs is 2 times the number of pigs, so it’s `4x`. Their sum is 60, so `4x + 2y = 60.`close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3643,
+    "stimulus": "",
+    "question_stem": "Right triangles `ABC` and `DEF` are similar, where A corresponds to D and B corresponds to E. Angle A has a measure of `61^o`. What is the measure of angle D?",
+    "answer_choices": {
+      "A": "`29^o`",
+      "B": "`61^o`",
+      "C": "`119^o`",
+      "D": "`151^o`"
+    },
+    "answer_ids": {
+      "A": 12833,
+      "B": 12834,
+      "C": 12835,
+      "D": 12836
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3643/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:08.485365",
+    "explanation": "✕ExplanationSince angle A corresponds to angle E, they have the same degrees, so angle E also has `61^o`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3644,
+    "stimulus": "",
+    "question_stem": "`y = 2x``3x + y = 30`The solution to the given system of equations is `(x, y)`. What is the value of `x`?",
+    "answer_choices": {
+      "A": "1",
+      "B": "4",
+      "C": "6",
+      "D": "10"
+    },
+    "answer_ids": {
+      "A": 12837,
+      "B": 12838,
+      "C": 12839,
+      "D": 12840
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3644/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:09.248197",
+    "explanation": "✕Explanationsince `y = 2x`, putting “2x” in place of the `y` in the second equation gets you `3x + 2x = 30`. Combining the x’s make the equation into `5x = 30`, or `x = 6`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3645,
+    "stimulus": "",
+    "question_stem": "Which of the following equations is the most appropriate linear model for the data shown in the scatterplot?",
+    "answer_choices": {
+      "A": "`y = \"-\"0.49x - 2.6`",
+      "B": "`y = \"-\"0.49x + 2.6`",
+      "C": "`y = 0.49x - 2.6`",
+      "D": "`y = 0.49x + 2.6`"
+    },
+    "answer_ids": {
+      "A": 12841,
+      "B": 12842,
+      "C": 12843,
+      "D": 12844
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3645/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:10.026941",
+    "explanation": "✕ExplanationThe slope of the line is positive, because it’s going up. The y-intercept is around 2.6. This makes the equation of the line `y = 0.49x + 2.6`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3646,
+    "stimulus": "",
+    "question_stem": "The graph of `y = f(x)` is sown, where the function `f` is defined by `f(x) = ax^3 + bx^2 + cx + d` and `a`, `b`, `c`, and `d` are constants. For how many values of `x` does `f(x) = 0`?",
+    "answer_choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_ids": {
+      "A": 12845,
+      "B": 12846,
+      "C": 12847,
+      "D": 12848
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3646/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:10.778426",
+    "explanation": "✕Explanation`f(x) = 0` when the y value of the graph is 0, which is when the graph intercepts the x-axis. The graph intercepts the x-axis 3 times.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3647,
+    "stimulus": "",
+    "question_stem": "`t^2 - 2t - 48 = 0`What is one of the solutions to the given equation?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3647/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:11.524112",
+    "explanation": "✕ExplanationSolving the equation gets you `(t+6)(t-8) = 0`, so `t = -6` or `t = 8`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3648,
+    "stimulus": "",
+    "question_stem": "Which expression is equivalent to `4x^6 y^3 + 8x^3 y^3`?",
+    "answer_choices": {
+      "A": "`4x^3 y^3 (x^3)`",
+      "B": "`4x^3 y^3 (2x^2)`",
+      "C": "`4x^3 y^3 (x^3 + 2)`",
+      "D": "`4x^3 y^3 (2x^2 + 2)`"
+    },
+    "answer_ids": {
+      "A": 12849,
+      "B": 12850,
+      "C": 12851,
+      "D": 12852
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3648/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:12.316631",
+    "explanation": "✕ExplanationThe 2 expressions have `4x^3 y^3` as their (greatest) common factor, so if you factor out that from both equations, you’ll get `4x^3 y^3 (x^3 + 2)`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3649,
+    "stimulus": "",
+    "question_stem": "The graph shows the relationship between the number of cryptocurrency A, `x`, and the number of cryptocurrency B, `y`, that Michael can purchase. Which equation could represent this relationship?",
+    "answer_choices": {
+      "A": "`y = 6x + 5`",
+      "B": "`6x + 5y = 150`",
+      "C": "`y = 5x + 6`",
+      "D": "`5x + 6y = 150`"
+    },
+    "answer_ids": {
+      "A": 12853,
+      "B": 12854,
+      "C": 12855,
+      "D": 12856
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3649/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:13.061491",
+    "explanation": "✕ExplanationEven though you can use the y-intercept (`30`) and slope (`-6/5`) to get `y = (-6/5)x + 30` and see that choice B is the same equation, plugging in numbers is probably the fastest: at the y-intercept where the coordinates are `(0, 30)`, `x = 0` and `y = 30`, and only the equation in choice B works: `6(0) + 5(30) = 150`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3650,
+    "stimulus": "",
+    "question_stem": "Circle `A` has a radius of `3n` and circle `B` has a radius of `81n`, where `n` is a positive constant. The area of circle `B` is how many times the area of circle `A`?",
+    "answer_choices": {
+      "A": "3",
+      "B": "27",
+      "C": "81",
+      "D": "729"
+    },
+    "answer_ids": {
+      "A": 12857,
+      "B": 12858,
+      "C": 12859,
+      "D": 12860
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3650/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:13.820670",
+    "explanation": "✕ExplanationThe area of circle `A` is `3n * 3n * pi = 9n^2 pi`. The area of circle `B` is `81n * 81n * pi = 6561n^2 pi`. The area of circle `B` is `(6561n^2 pi)/ (9n^2 pi) = 729` times more than that of circle `A`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3651,
+    "stimulus": "",
+    "question_stem": "The frequency table summarizes the 48 data values in a data set. What is the maximum data value in the data set?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3651/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:14.592784",
+    "explanation": "✕ExplanationThe data values are 1 to 9, and 9 is the maximum value of them.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3652,
+    "stimulus": "",
+    "question_stem": "A circle in the `xy`-plane has a diameter with endpoints `(2, 5)` and `(10, 5)`. An equation of this circle is `(x−6)^2+(y−5)^2 =r^2`, where `r` is a positive constant. What is the value of `r`?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3652/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:15.447834",
+    "explanation": "✕ExplanationWith the 2 endpoints of a diameter as `(2, 5)` and `(10, 5)`, the center of the circle must be the midpoint, which is `(6, 5)`. The distance from `(2, 5)` to `(6, 5)` is the radius, which is 4.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3653,
+    "stimulus": "",
+    "question_stem": "The measure of angle C is `(3π)/2` radians. The measure of angle `D` is `π` radians greater than the measure of angle `C`. What is the measure of angle `D`, indegrees?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3653/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:16.180983",
+    "explanation": "✕Explanation`π` radian is 180 degrees. Therefore, `C = (3π)/2` radians = 270 degrees. Angle `D` is `π` radians, which is 180 degrees, greater. Therefore, angle `D = 270 + 180 = 450` degrees.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3654,
+    "stimulus": "",
+    "question_stem": "A certain playground has an area of 72.5 square yards. What is the area, insquare feet, of this playground? (1 yard = 3 feet)",
+    "answer_choices": {
+      "A": "217.5",
+      "B": "435",
+      "C": "652.5",
+      "D": "5,256.25"
+    },
+    "answer_ids": {
+      "A": 12861,
+      "B": 12862,
+      "C": 12863,
+      "D": 12864
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3654/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:16.912287",
+    "explanation": "✕Explanation72.5 square yards = 72.5 * (yard) * (yard) = 72.5 * (3 feet) * (3 feet) = 652.5 square feet.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3655,
+    "stimulus": "",
+    "question_stem": "In the `xy`-plane, the graph of the equation `y = x^2 - 4x - 45` intersects the line `y = c` at exactly one point. What is the value of `c`?",
+    "answer_choices": {
+      "A": "-2",
+      "B": "-45",
+      "C": "-49",
+      "D": "-90"
+    },
+    "answer_ids": {
+      "A": 12865,
+      "B": 12866,
+      "C": 12867,
+      "D": 12868
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3655/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:17.667838",
+    "explanation": "✕ExplanationFor a quadratic curve (parabola) to intersect at 1 point on a horizontal line, it must be the turning point, aka the vertex. The vertex happens at `x = -b / 2a = -(-4)/2(1) = 2`. When `x = 2`, `y = 2^2 - 4(2) - 45 = -49`, so `c = -49`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3656,
+    "stimulus": "",
+    "question_stem": "`3x - 4y = 15``9x - 12y = 45`For each real number `r`, which of the following points lies on the graph of each equation in the `xy`-plane for the given system?",
+    "answer_choices": {
+      "A": "`(r, (3r)/4 + 15/4)`",
+      "B": "`(r/3 + 15, r/3 + 45)`",
+      "C": "`((4r)/3 + 15/2, r)`",
+      "D": "`((4r)/3 + 5, r)`"
+    },
+    "answer_ids": {
+      "A": 12869,
+      "B": 12870,
+      "C": 12871,
+      "D": 12872
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3656/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:18.408835",
+    "explanation": "✕ExplanationDraw both equations on Desmos to see that both equations are the same line. Draw all 4 points for any `r` and see which point is always be on the line.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3657,
+    "stimulus": "",
+    "question_stem": "Amanda earns `d` dollars for every `h` hours of work. Which expression represents the amount of money, in dollars, Amanda earns for `25h` hours of work?",
+    "answer_choices": {
+      "A": "`25dh`",
+      "B": "`25d`",
+      "C": "`25 + d`",
+      "D": "`25 / d`"
+    },
+    "answer_ids": {
+      "A": 12873,
+      "B": 12874,
+      "C": 12875,
+      "D": 12876
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3657/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:19.142002",
+    "explanation": "✕ExplanationWorking for `25h` hours is 25 times more than working for `h` hours. Therefore, Amanda earns 25 times more than `d`, so she earns `25d` dollars.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3658,
+    "stimulus": "",
+    "question_stem": "At the gym, Hana runs on the treadmill at an average rate of 8.1 minutes per mile. Which  function `h` models the number of minutes it will take Hana to run `m` miles at this rate?",
+    "answer_choices": {
+      "A": "`h(x) = m + 8.1`",
+      "B": "`h(x) = m - 8.1`",
+      "C": "`h(x) = 8.1m`",
+      "D": "`h(x) = m / 8.1`"
+    },
+    "answer_ids": {
+      "A": 12877,
+      "B": 12878,
+      "C": 12879,
+      "D": 12880
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3658/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:19.872340",
+    "explanation": "✕ExplanationIt takes 8.1 minutes to run 1 mile, so it takes `8.1m` minutes to run `m` miles.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3659,
+    "stimulus": "",
+    "question_stem": "`5x = 14``-5x + 2y = 8`The solution to the given system of equations is `(x, y)`. What is the value of `y`?",
+    "answer_choices": {
+      "A": "-3",
+      "B": "4",
+      "C": "11",
+      "D": "22"
+    },
+    "answer_ids": {
+      "A": 12881,
+      "B": 12882,
+      "C": 12883,
+      "D": 12884
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3659/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:20.643054",
+    "explanation": "✕ExplanationSubstituting `5x` for `14` into the second equation, `-14 + 2y = 8`. `2y = 22`, so `y = 11`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3660,
+    "stimulus": "",
+    "question_stem": "`d = 25 + 4t`The equation gives the distance `d`, in miles, between the park and the car `t` seconds after it began to move. What is the distance, in miles, of the car `5` seconds after it began to move?",
+    "answer_choices": {
+      "A": "4",
+      "B": "20",
+      "C": "25",
+      "D": "45"
+    },
+    "answer_ids": {
+      "A": 12885,
+      "B": 12886,
+      "C": 12887,
+      "D": 12888
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3660/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:21.390432",
+    "explanation": "✕Explanation`t = 5`, so `d = 25 + 4(5) = 45`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3661,
+    "stimulus": "",
+    "question_stem": "For the right triangle shown, AB = 5 and BC = 13. What is the value of AC?",
+    "answer_choices": {
+      "A": "`(13 xx 5)/2`",
+      "B": "`sqrt(13 * 5)`",
+      "C": "`sqrt(13^2 + 5^2)`",
+      "D": "`sqrt(13^2 - 5^2)`"
+    },
+    "answer_ids": {
+      "A": 12889,
+      "B": 12890,
+      "C": 12891,
+      "D": 12892
+    },
+    "metadata": {},
+    "exam_id": 67,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - English - Module 1",
+    "test_series": "Prep Test 5",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3661/?question_set=exam&exam_id=67",
+    "scraped_at": "2025-07-05T20:03:22.163992",
+    "explanation": "✕ExplanationBy using the Pythagorean Theorem, `AC = sqrt((AB)^2 + (BC)^2)`, so `AC = sqrt(13^2 + 5^2)`.close",
+    "correct_answer": ""
+  }
+]

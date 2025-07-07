@@ -1,0 +1,666 @@
+[
+  {
+    "question_id": 3172,
+    "stimulus": "",
+    "question_stem": "Which of the following is equivalent to 3a3– 5a3+ 6a?",
+    "answer_choices": {
+      "A": "–2a3+ 6a",
+      "B": "3a3+a",
+      "C": "4a",
+      "D": "–15a9+ 6a"
+    },
+    "answer_ids": {
+      "A": 11169,
+      "B": 11170,
+      "C": 11171,
+      "D": 11172
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3172/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:19.478043",
+    "explanation": "✕ExplanationThe question asks for an equivalent form of an expression. Use bite-sized pieces and the process of elimination to tackle this question. The only term with a singleais 6a, so it cannot be combined with any other terms and must appear in the correct answer. Eliminate (B) and (C) because they do not include 6a. Combine the two terms witha3to get 3a3– 5a3= –2a3.Eliminate (D) because it does not include –2a3. The answer is (A).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3173,
+    "stimulus": "",
+    "question_stem": "In a shipment of 45,000,000 shirts, 4,950,000 are white. What percentage of the shirts are white shirts?",
+    "answer_choices": {
+      "A": "11%",
+      "B": "22%",
+      "C": "78%",
+      "D": "89%"
+    },
+    "answer_ids": {
+      "A": 11173,
+      "B": 11174,
+      "C": 11175,
+      "D": 11176
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3173/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:20.226385",
+    "explanation": "✕ExplanationThe question asks for a percent based on the information provided. Start by ballparking: 10% of 45,000,000 is 4,500,000, so 4,950,000 is a little more than 10%. Eliminate (C) and (D) because they are much too large. Choice (A) is likely correct, but to check, plug in 11%.Percentmeans out of 100, so 11% can be represented as. Multiply this by the total number of shirts to get(45,000,000) = 4,950,000. This matches the number of white shirts given in the question. The answer is (A).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3174,
+    "stimulus": "",
+    "question_stem": "If 3(x– 8) – 16 = 8(x+ 10) +x, what is the value of 6x?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3174/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:20.951033",
+    "explanation": "✕ExplanationThe question asks for the value of an expression based on an equation. When an SAT question asks for the value of an expression, there is usually a straightforward way to solve for the expression without needing to completely isolate the variable. Start solving by distributing the numbers outside the parentheses on both sides of the equation. The equation becomes 3x– 24 – 16 = 8x+ 80 +x. Simplify both sides of the equation to get 3x – 40 = 9x+ 80. Subtract 3xfrom both sides of the equation to get –40 = 6x+ 80, then subtract 80 from both sides of the equation to get –120 = 6x. The question asked for the value of 6x, so stop here. The answer is –120.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3175,
+    "stimulus": "",
+    "question_stem": "8(a– 3) – 17 = 9(a– 3)In the equation above, what is the value ofa– 3?",
+    "answer_choices": {
+      "A": "–20",
+      "B": "–17",
+      "C": "–14",
+      "D": "3"
+    },
+    "answer_ids": {
+      "A": 11177,
+      "B": 11178,
+      "C": 11179,
+      "D": 11180
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3175/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:21.686024",
+    "explanation": "✕ExplanationThe question asks for the value of an expression based on an equation. When an SAT question asks for the value of an expression, there is usually a straightforward way to solve for the expression without needing to completely isolate the variable. Start by subtracting 8(a– 3) from both sides of the equation to get –17 = 9(a– 3) – 8(a– 3). Combine the terms with (a– 3) to get –17 = (9 – 8)(a– 3), which becomes –17 = 1(a– 3), or –17 =a– 3. The answer is (B).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3176,
+    "stimulus": "",
+    "question_stem": "A school classroom with a total of 4,200 floor tiles is divided into a 30 square foot lab area and an 80 square foot seating area. The number of tiles on the entire classroom floor can be represented by the equation 30a+ 80b= 4,200. In this context, which of the following doesbrepresent?",
+    "answer_choices": {
+      "A": "The average number of tiles per square foot in the lab area",
+      "B": "The total number of tiles in the lab area",
+      "C": "The average number of tiles per square foot in the seating area",
+      "D": "The total number of tiles in the seating area"
+    },
+    "answer_ids": {
+      "A": 11181,
+      "B": 11182,
+      "C": 11183,
+      "D": 11184
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3176/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:22.450172",
+    "explanation": "✕ExplanationThe question asks for the meaning of a constant in context. Start by reading the final question, which asks for the meaning of the constantb. Then label the parts of the equation with the information given. The question states that the lab area is 30 square feet, the seating area is 80 square feet, and the total number of floor tiles is 4,200. Rewrite the equation with these labels: (lab area size)(a) + (seating area size)(b) = total tiles. Next, use process of elimination to get rid of answer choices that are not consistent with the labels. Sincebis multiplied by the size of the seating area, eliminate (A) and (B) because they refer to the lab area, not the seating area. Compare the remaining answer choices. The difference is between the average number of tiles and the total number of tiles. Sincebis multiplied by the number of square feet in the seating area, it must represent a value per square foot, not a total value. Keep (C) because it is consistent with this information, but eliminate (D) because it refers to a total number. The answer is (C).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3177,
+    "stimulus": "",
+    "question_stem": "A triangle has a base that is 65% of its height. If the base were decreased by 13 inches, how would the height need to change to keep the same proportions?",
+    "answer_choices": {
+      "A": "It must increase by 13 inches.",
+      "B": "It must increase by 20 inches.",
+      "C": "It must decrease by 13 inches.",
+      "D": "It must decrease by 20 inches."
+    },
+    "answer_ids": {
+      "A": 11185,
+      "B": 11186,
+      "C": 11187,
+      "D": 11188
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3177/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:23.172277",
+    "explanation": "✕ExplanationThe question asks for the change in a value given a proportion. Use the geomtry basic approach. Start by drawing two triangles, one with a smaller base than the other. The question asks about the height, so draw a line for the height. This figure should look something like this:Next, label the figure with the information given. Since no specific numbers are given for the base and the height, plug in. Make the height of the larger triangle 100, so the base would be 65% of 100 or just 65. If the base decreases by 13 inches, the new base would be 65 – 13 = 52.Label this information on the figure, which now looks like this:Since the base is smaller and the proportions stay the same, the height must also be smaller. Eliminate (A) and (B) because they would both make the height larger. To find the length of the new height, set up a proportion for. Cross-multiply to get (100)(52) = (65)(x). Simplify both sides of the equation to get 5,200 = 65x. Divide both sides of the equation by 65 to get 80 =x. Since the original height was 100, the change is 100 – 80 = 20. The new height is less than the original height, so it decreased by 20. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3178,
+    "stimulus": "",
+    "question_stem": "Ifanda≠ 0, which of the following correctly expressesbin terms ofa?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 11189,
+      "B": 11190,
+      "C": 11191,
+      "D": 11192
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3178/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:23.899178",
+    "explanation": "✕ExplanationThe question asks for an equation in terms of a specific variable. Since the question is about the relationship between variables and the answers contain variables, plug in. The fraction on the left side of the equation could make the numbers awkward, so start on the right side of the equation and makeb= 2. The equation becomes, then, and then. Multiply both sides of the equation by 3 to geta= –12. Now pluga= –12 andb= 2 into the answer choices and eliminate any that do not work. Choice (A) becomes, then. This is not true, so eliminate (A). Choice (B) becomes, then, and then 2 = 2. This is true, so keep (B) but check the remaining answers just in case. Choice (C) becomes, then 2 = 10 + (–4), and then 2 = 6; eliminate (C). Choice (D) becomes, then, and then; eliminate (D). The answer is (B).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3179,
+    "stimulus": "",
+    "question_stem": "For all positive values ofy, the expressionis equivalent to. What is the value of constantc?",
+    "answer_choices": {
+      "A": "3",
+      "B": "6",
+      "C": "8",
+      "D": "150"
+    },
+    "answer_ids": {
+      "A": 11193,
+      "B": 11194,
+      "C": 11195,
+      "D": 11196
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3179/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:24.650808",
+    "explanation": "✕ExplanationThe question asks for the value of a constant given two equivalent expressions. Start by rewriting the expressions with an equal sign between them to get. Next, start to solve bycross-multiplying. The equation becomes (y+c)(15) = (3)(5y+ 30). Distribute on both sides of the equation to get 15y+ 15c= 15y+ 90. Subtract 15yfrom both sides of the equation to get 15c= 90. Divide both sides of the equation by 15 to getc= 6. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3180,
+    "stimulus": "",
+    "question_stem": "In thexy-plane, the equation (x– 7)2+ (y+ 7)2= 64 defines circle O, and the equation (x– 7)2+ (y+ 7)2=cdefines circle P. If the two circles have the same center and the radius of circle P is three less than the radius of circle O, what is the value of constantc?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Advanced Coordinate Geometry"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3180/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:25.384103",
+    "explanation": "✕ExplanationThe question asks for the value of a constant, given information about circles in the coordinate plane. The equation of a circle in standard form is (x–h)2+ (y–k)2=r2, where (h,k) is the center andris the radius. In the equation given for circle O,r2= 64. Take the square root of both sides of the equation to getr= 8. The question states that the radius of circle P is three less than the radius of circle O, so the radius of circle P is 8 – 3 = 5. Plugr= 5 into the equation of circle P to get (x– 7)2+ (y+ 7)2= 52, or (x– 7)2+ (y+ 7)2= 25. Thus,c= 25. The answer is 25.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3181,
+    "stimulus": "",
+    "question_stem": "A school has received a donation of $20,000 for the purchase of new laptops. If each laptop costs $149, no tax is charged, and the laptop manufacturer offers a 7.5% discount on orders of at least 100 laptops, what is the maximum number of laptops the school can purchase with the donation?",
+    "answer_choices": {
+      "A": "124",
+      "B": "134",
+      "C": "145",
+      "D": "146"
+    },
+    "answer_ids": {
+      "A": 11197,
+      "B": 11198,
+      "C": 11199,
+      "D": 11200
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3181/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:26.105911",
+    "explanation": "✕ExplanationThe question asks for a maximum value given a specific situation. Since the question asks for a specific value and the answers contain numbers in increasing order, plug in the answers. Rewrite the answer choices on the scratch paper and label them “number of laptops.” Next, pick a value to start with. Since the question asks for the maximum, start with the largest number, 146. The question states thateach laptop costs $149, so multiply that by the number of laptops to get ($149)(146) = $21,754. The question also states that there isa 7.5% discount on orders of at least 100 laptops. Since 146 is more than 100, the discount applies. Take 7.5% of the cost and subtract the result from the cost to get. This is greater than the donation of $20,000, so eliminate (D). The result was close, so plug in the next largest value, 145, for the number of laptops. The initial cost becomes ($149)(145) = $21,605. Apply the 7.5% discount to get. This is less than the donation of $20,000, so the school can purchase 145 laptops. The answer is (C).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3182,
+    "stimulus": "",
+    "question_stem": "3x2–y– 26 = 0y= –3x+ 10The point (a,b)is an intersection of the system of equations above when graphed in thexy-plane. What is a possible value ofa?",
+    "answer_choices": {
+      "A": "–4",
+      "B": "6",
+      "C": "20",
+      "D": "26"
+    },
+    "answer_ids": {
+      "A": 11201,
+      "B": 11202,
+      "C": 11203,
+      "D": 11204
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3182/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:26.854126",
+    "explanation": "✕ExplanationThe question asks for the value of thex-coordinate of the solution to a system of equations. The quickest method is to enter both equations into a graphing calculator, then scroll and zoom as needed to find the points of intersection. The graph shows two points of intersection: (3, 1) and (–4, 22), so thex-coordinate is either 3 or –4. Only –4 is in an answer choice, so choose (A). To solve the system for thex-coordinate algebraically, substitute –3x+ 10 for y in the first equation to get 3x2– (–3x+ 10) – 26 = 0. Distribute the negative sign to get 3x2+ 3x– 10 – 26 = 0, then combine like terms to get 3x2+ 3x– 36 = 0. Factor out 3 to get 3(x2+x– 12) = 0. Factor the quadratic to get 3(x+ 4)(x– 3) = 0. Set each factor equal to 0 and solve to getx= –4 andx= 3. Using either method, the answer is (A).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3183,
+    "stimulus": "",
+    "question_stem": "How many values forysatisfy the equation –6(4y+ 2) = 3(4 – 8y)?",
+    "answer_choices": {
+      "A": "Zero",
+      "B": "Exactly one",
+      "C": "Exactly two",
+      "D": "Infinitely many"
+    },
+    "answer_ids": {
+      "A": 11205,
+      "B": 11206,
+      "C": 11207,
+      "D": 11208
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3183/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:27.581711",
+    "explanation": "✕ExplanationThe question asks for the number of solutions to an equation. Distribute on both sides of the equation to get –24y– 12 = 12 – 24y. Add 24yto both sides of the equation to get –12 = 12. This is not true, so the equation has no solutions. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3184,
+    "stimulus": "",
+    "question_stem": "A parabola represents the graph of the functionfin thexy-plane, wherey=f(x). If the vertex of the parabola is (5, –4) and one of thex-intercepts is (–1.5, 0), what is the otherx-intercept?",
+    "answer_choices": {
+      "A": "(–6.5, 0)",
+      "B": "(1.5, 0)",
+      "C": "(3.5, 0)",
+      "D": "(11.5, 0)"
+    },
+    "answer_ids": {
+      "A": 11209,
+      "B": 11210,
+      "C": 11211,
+      "D": 11212
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3184/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:28.309855",
+    "explanation": "✕ExplanationThe question asks for anx-intercept of a parabola. Sketch a graph using the given points, and label those points. The vertex of a parabola is on the axis of symmetry, so the axis of symmetry of this parabola is the linex= 5; add this line to the graph. The graph should look something like this:The twox-intercepts are an equal distance from the line of symmetry. Thex-coordinate of the givenx-intercept is –1.5, so the distance from the line of symmetry is 5 – (–1.5) = 6.5. Thex-coordinate of the otherx-intercept is thus 5 + 6.5 = 11.5. The answer is (D).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3185,
+    "stimulus": "",
+    "question_stem": "Which equation defines functiong, if the graph ofy=g(x) – 10 is shown above?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 11213,
+      "B": 11214,
+      "C": 11215,
+      "D": 11216
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3185/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:29.081673",
+    "explanation": "✕ExplanationThe question asks for an equation that represents a graph. To find the best equation, compare features of the graph to the answer choices. The answer choices all take the formy=mx+b, in whichmis the slope andbis they-intercept. All of the answer choices have the same slope, so focus on they-intercept. The graph shown in the question has been transformed from the graph of functiong. Adding or subtracting outside the parentheses shifts the graph up or down. Thus, the given graph ofg(x) – 10 is shifted 10 units down from the graph ofg(x). Undo this by adding 10 to transform the given graph back tog(x). The graph ofg(x) – 10 has itsy-intercept at (0, –5). Move the point up 10 units to get ay-intercept of (0, 5). Eliminate (A), (B), and (D) because the equations have the wrongy-intercept. The answer is (C).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3186,
+    "stimulus": "",
+    "question_stem": "Ifcis a constant in the equation 10x2+c= –5x, the equation will have no real solutions for which of the following values ofc?",
+    "answer_choices": {
+      "A": "–20",
+      "B": "–5",
+      "C": "0",
+      "D": "1"
+    },
+    "answer_ids": {
+      "A": 11217,
+      "B": 11218,
+      "C": 11219,
+      "D": 11220
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3186/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:29.839315",
+    "explanation": "✕ExplanationThe question asks for the value of a constant in a quadratic equation. To determine when a quadratic equation has no real solutions, use the discriminant. The discriminant is the part of the quadratic formula under the square root sign and is written asD=b2– 4ac. When the discriminant is positive, the quadratic has exactly two real solutions; when the discriminant is 0, the quadratic has exactly one real solution; and when the discriminant is negative, the quadratic has no real solutions. Thus, the discriminant of this quadratic must equal a negative number. First, put the quadratic in standard form, which isax2+bx+c= 0, by adding 5xto both sides of the equation to get 10x2+ 5x+c= 0. Nowa= 10,b= 5, andc= c. Plug these into the discriminant formula to getD= (5)2 – 4(10)(c), orD= 25 – 40c. Next, plug in the values from the answer choices to see which value ofcmakes the discriminant negative. Start with a middle answer and try (C), 0. Ifc= 0, the discriminant becomesD= 25 – 40(0), orD= 25. This is not negative, so eliminate (C). It might not be clear whether a larger or smaller number is needed, so pick a direction and try (D), 1. Ifc= 1, the discriminant becomesD= (5)2 – (4)(10)(1), orD= 25 – 40, and thenD= –15. This is negative, so stop here. The answer is (D).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3187,
+    "stimulus": "",
+    "question_stem": "3x– 4y= 17In thexy-plane, the graph of a line with anx-intercept of (c, 0) and ay-intercept of (0,k), wherecandkare constants, can be represented by the equation above. What is the value of?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 11221,
+      "B": 11222,
+      "C": 11223,
+      "D": 11224
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3187/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:30.563249",
+    "explanation": "✕ExplanationThe question asks for the value of an expression given the equation of a graph in thexy-plane. One method is to use a graphing calculator. Enter the equation of the line, then scroll and zoom as needed to find the intercepts. Thex-intercept is at (5.667, 0), and they-intercept is at (0, –4.25). Thus,c= 5.667,k= –4.25, and= –1.33. This is the same value as, which matches (A). To solve algebraically, plug the given points into the equation of the line. Plug inx=candy= 0 to get 3c– 4(0) = 17, or 3c= 17. Divide both sides of the equation by 3 to get. Next, plug inx= 0 andy=kto get 3(0) – 4k= 17, or –4k= 17. Divide both sides of the equation by –4 to getk=. Finally dividecbykto get. When dividing fractions, multiply thereciprocal of the fraction in the denominator and the fraction in the numerator. This becomes, and then. Using either method, the answer is (A).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3188,
+    "stimulus": "",
+    "question_stem": "–7 + 2f=cg21g+ 21 = 6f– 15gIfcis a constant, what is the value ofcif the system of equations shown above has infinitely many solutions?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3188/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:31.319294",
+    "explanation": "✕ExplanationThe question asks for the value of a constant in a system of equations. When a system of linear equations has infinitely many solutions, the two equations form the same line and are equivalent to each other. Sincecis a coefficient ofg, look for a way to cancel thef-terms and the constants when stacking and adding the equations. First, put the two equations in the same order by subtracting 21gfrom both sides of the second equation to get 21 = 6f– 36g, and then subtracting 6ffrom both sides of the second equation to get 21 – 6f= –36g. Thef-term and constant of the second equation are both 3 times the equivalent terms in the first equation with opposite signs, so multiply the first equation by 3 to get –21 + 6f= 3cg. Now stack and add the equations.–21 + 6f=    3cg+ 21 – 6f= –36g0 + 0     =    3cg– 36gAdd 36gto both sides of the resulting equation to get 36g= 3cg. Divide both sides of the equation by 3gto get 12 =c. The answer is 12.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3189,
+    "stimulus": "",
+    "question_stem": "Triangle A has angles measuring 30º, 60º, and 90º. What is the perimeter, in centimeters, of this triangle if the smallest side has a length of 15 centimeters?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 11225,
+      "B": 11226,
+      "C": 11227,
+      "D": 11228
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3189/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:32.042856",
+    "explanation": "✕ExplanationThe question asks for the perimeter of a triangle. Use the geometry basic approach. Start by drawing a triangle on the scratch paper with a right angle and one of the remaining angles twice the size of the other. Next, label the figure with the information given, and label the smallest side as 15. The drawing should look something like this:A 30:60:90 triangle is one of the special right triangles that has a specific proportional relationship among the sides. The proportion can be found by clicking open the reference sheet, and it isx::2x. Since the smallest side is 15,x= 15. The other sides areand 2(15) = 30. Label the figure with this information; the figure now looks like this:The perimeter of a geometric shape is the sum of the lengths of all of the sides. Add all three side lengths to get 15 ++ 30 = 45 +. The answer is (C).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3190,
+    "stimulus": "",
+    "question_stem": "x2468g(x)460–46–92Four values ofxand their corresponding values ofg(x) are shown in the table above for the linear functiong. The equationg(x) =cx+ddefines functiong, andcanddare constants. What is the value ofc+d?",
+    "answer_choices": {
+      "A": "–23",
+      "B": "69",
+      "C": "92",
+      "D": "115"
+    },
+    "answer_ids": {
+      "A": 11229,
+      "B": 11230,
+      "C": 11231,
+      "D": 11232
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3190/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:32.787173",
+    "explanation": "✕ExplanationThe question asks for the value of an expression based on information about a function. In function notation,f(x) =y. The number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. The table gives four pairs of input and output values for the function. To solve for the constantscandd, start by plugging in one of the pairs from the table. Plugx= 2 andg(x) = 46 into the function to get 46 = 2c+d. There is no way to solve forc+dusing only this equation, so plug in a second pair of values. Plugx= 4 andg(x) = 0 into the function to get 0 = 4c+ d. There are now two equations with two constants, so find a way to make one of the constants disappear when stacking and adding the equations. Multiply the second equation by –1 to get 0 = –4c–d. Thed-terms are now the same with opposite signs, so stack and add the two equations.46 =  2c+d+       0 = –4c–d46 = –2cDivide both sides of the resulting equation by –2 to getc= –23. Plugc= –23 into the first equation to get 46 = 2(–23) +d, or 46 = –46 +d. Add 46 to both sides of the equation to get 92 =d. Add the values of the two constants to getc+d= –23 + 92 = 69. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3191,
+    "stimulus": "",
+    "question_stem": "114, 109, 106, 111A data set consists of 5 positive integers greater than 101. What is the value of the smallest integer in the data set if the mean of the entire data set is an integer that is less than the mean of the four integers from the data set shown above?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3191/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:33.489971",
+    "explanation": "✕ExplanationThe question asks for a value given information about the mean, or average, of a data set. For averages, use the formulaT=AN, in whichTis theTotal,Ais theAverage, andNis theNumber of things. Start by finding the mean of the four integers given in the question. There are 4 values, soN= 4. Find theTotalby adding the four integers to getT= 114 + 109 + 106 + 111 = 440. The average formula becomes 440 = (A)(4). Divide both sides of the equation by 4 to getA= 110. The question asks for the smallest integer that results in the full data set having an average less than that of the four integers shown, which is 110. Start with the next smallest integer, 109, for the average, and solve for the fifth integer in the data set. The average formula becomesT= (109)(5), soT= 545. The total of the first four integers was 440, so the fifth integer is 545 – 440 = 105. The question also states thatthe mean of the entire data set is an integerand that all of the integers aregreater than 101, and 105 meets both of these conditions. To see whether a smaller integer meets all of the conditions given in the question, try an average of 108. TheTotalis nowT= (108)(5) = 540, and the fifth integer is 540 – 440 = 100. This is not greater than 101, so 100 is too small. The answer is 105.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3192,
+    "stimulus": "",
+    "question_stem": "A teacher awards points to a class based on completed assignments. He gives 5 points per assignment for the first 50 completed assignments and 3 points for each additional completed assignment beyond 50. Whena≥ 50, which functionggives the total amount of points earned by the class foracompleted assignments?",
+    "answer_choices": {
+      "A": "g(a) = 3a+ 5",
+      "B": "g(a) = 3a+ 100",
+      "C": "g(a) = 3a+ 250",
+      "D": "g(a) = 8a– 150"
+    },
+    "answer_ids": {
+      "A": 11233,
+      "B": 11234,
+      "C": 11235,
+      "D": 11236
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3192/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:34.244221",
+    "explanation": "✕ExplanationThe question asks for the function that represents a certain situation. There are variables in the answer choices, and the question asks about the relationship between the number of points and the number of assignments, so plug in. Makea= 51 to include 5-point assignments and at least one 3-point assignment. The first 50 completed assignments earn 5 points each, for a total of (50)(5) = 250 points. The additional completed assignment earns 3 points. The total number of points earned for the 51 completed assignments is 250 + 3 = 253. This is the target value; write it down and circle it. Now pluga= 51 into the answer choices and eliminate any that do not match the target value. In function notation,f(x) =y. The number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. Sincea= 51, 51 is the input value, and the output value should be 253. Choice (A) becomesg(51) = 3(51) + 5, theng(51) = 153 + 5, and theng(51) = 158. This does not match the target value, so eliminate (A). Choice (B) becomesg(51) = 3(51) + 100, theng(51) = 153 + 100, and theng(51) = 253. This matches the target, so keep (B) but check the remaining answers just in case. Choice (C) becomesg(51) = 3(51) + 250, theng(51) = 153 + 250, and theng(51) = 403; eliminate (C). Choice (D) becomesg(51) = 8(51) – 150, then 408 – 150, and theng(51) = 258; eliminate (D). The answer is (B).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3193,
+    "stimulus": "",
+    "question_stem": "In trianglesABCandXYZ,AB= 22,XY= 11, and anglesAandXboth measure 77°. Which of the following pieces of information, if any, would be enough to prove that the two triangles are similar to each other?I. AngleBmeasures 40°II. AngleYmeasures 50°III. AngleZmeasures 63°",
+    "answer_choices": {
+      "A": "No additional information is necessary.",
+      "B": "Angle measures alone do not provide enough information.",
+      "C": "I and II together provide enough information.",
+      "D": "I and III together provide enough information."
+    },
+    "answer_ids": {
+      "A": 11237,
+      "B": 11238,
+      "C": 11239,
+      "D": 11240
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 48,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3193/?question_set=exam&exam_id=48",
+    "scraped_at": "2025-07-05T19:57:34.986047",
+    "explanation": "✕ExplanationThe question asks for information that will provide proof of similar triangles. Use the geometry basic approach. Triangles are similar when they have the same angle measures and proportional side lengths, so draw two triangles on the scratch paper that look similar but are different sizes. Then label the figures with information from the question: labelABas 22,XYas 11, and anglesAandXas 77°. The drawing should look something like this.Next, evaluate the Roman numeral statements. They all give information about angles, so focus on the rule that similar triangles have the same three angle measures. The question only provides enough information to know that one angle measure is the same in both triangles, so more information is necessary; eliminate (A). Angle measures alone do provide enough information if all three angles have the same measure, so eliminate (B).Check the remaining answers one at a time to see which one shows that all three angles have the same measure. Try (C), and label angleBas 40° and angleYas 50°. Find the measure of the third angle in each triangle. All triangles contain 180°, so set up equations: 77° + 40° +C° = 180°, and 77° + 50° +Z° = 180°. Simplify the first equation to get 117° +C° = 180°, then subtract 117° from both sides of the equation to getC= 63°. Simplify the second equation to get 127° +Z° = 180°, then subtract 127° from both sides of the equation to getZ= 53°. Label the figures with this information, and they now look like this:The triangles do not have the same three angle measures, so they are not similar; eliminate (C). Try (D) and follow the same steps. Label angleBas 40° and angleZas 63°. AngleCis again 63°. Solve for angleY: 77° +Y° + 63° = 180°, 140° +Y° = 180°, andY° = 40°. Label the triangles with this information to see that the triangles now have the same three angle measures. The answer is (D).close",
+    "correct_answer": ""
+  }
+]

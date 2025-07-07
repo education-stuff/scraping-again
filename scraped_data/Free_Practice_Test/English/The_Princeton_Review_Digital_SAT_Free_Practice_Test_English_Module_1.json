@@ -1,0 +1,866 @@
+[
+  {
+    "question_id": 2900,
+    "stimulus": "<div class=\"\">The intergenerational Bulgarian female choir group Bistritsa Babi has been working to preserve customary songs and dances from the Shopluk region of the country since 1939. Through these _________ performances, members of Bistritsa Babi hope to keep this centuries-old ritual of expression alive. In 2005, the group was added to the UNESCO List of Intangible Cultural Heritage for Eastern Europe.</div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "traditional",
+      "B": "obscure",
+      "C": "discreet",
+      "D": "eccentric"
+    },
+    "answer_ids": {
+      "A": 10189,
+      "B": 10190,
+      "C": 10191,
+      "D": 10192
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Vocabulary question, as it asks for the <em>most logical and precise word or phrase</em>. Read the text and highlight what can help to fill in the blank, which describes the <em>performances</em>. The text describes the group as <em>working to preserve customary songs and dances</em> and mentions the <em>centuries-old ritual</em>. Write “customary” in the annotation box and use Process of Elimination.<br/><br/>\n<ul>\n<li>(A) is correct because <em>traditional</em> matches with “customary.”</li>\n</ul>\n<ul>\n<li>(B) is wrong because <em>obscure</em> means “little-known.”</li>\n</ul>\n<ul>\n<li>(C) is wrong because <em>discreet</em> means “not publicly shown.”</li>\n</ul>\n<ul>\n<li>(D) is wrong because <em>eccentric</em> means “unusual.”</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2900/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:35.855914"
+  },
+  {
+    "question_id": 2901,
+    "stimulus": "<div class=\"\">Located in the old city of Marrakesh, Jemaa el-Fnaa, the main square, is a marketplace and vibrant hub for residents and visitors alike. During the day, snake charmers and stalls selling beverages fill the square, while at night the _________ center is filled with throngs of people coming to hear storytellers tell traditional fables, watch the performances of magicians, and browse multiple booths offering herbal medicines. As the night goes on, dozens of food vendors set up their stalls to feed the crowds.</div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "formal",
+      "B": "bustling",
+      "C": "unpredictable",
+      "D": "deserted"
+    },
+    "answer_ids": {
+      "A": 10193,
+      "B": 10194,
+      "C": 10195,
+      "D": 10196
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Vocabulary question, as it asks for <em>the most logical and precise word or phrase</em>. Read the text and highlight what can help to fill in the blank, which describes the <em>center</em>. The text says that it is <em>filled with throngs of people</em> and later mentions <em>crowds</em>, so write “crowded” in the annotation box and use Process of Elimination.<br/><br/>\n<ul>\n<li>(A) is wrong because <em>formal</em> means “done ceremoniously.”</li>\n</ul>\n<ul>\n<li>(B) is correct because <em>bustling</em> matches with “crowded.”</li>\n</ul>\n<ul>\n<li>(C) is wrong because <em>unpredictable</em> doesn’t match with “crowded.”</li>\n</ul>\n<ul>\n<li>(D) is wrong because <em>deserted</em> is the opposite of “crowded.”</li>\n</ul>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2901/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:36.747866"
+  },
+  {
+    "question_id": 2902,
+    "stimulus": "<div class=\"\">When developing the procedure for LASIK eye surgery, inventor Gholam A. Peyman faced many obstacles in trying to create a way to use lasers on the delicate tissues within the eye without causing pain or scarring. Through many experiments, he was able to gather that using a flap of tissue instead of performing surgery on the surface of the cornea could greatly reduce the incidence of __________ of the procedure. Peyman was able to secure patents in the US for his ideas and furthered his research to help the field of ophthalmology.</div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "characteristics",
+      "B": "prospects",
+      "C": "efficacy",
+      "D": "repercussions"
+    },
+    "answer_ids": {
+      "A": 10197,
+      "B": 10198,
+      "C": 10199,
+      "D": 10200
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Vocabulary question, as it asks for the <em>most logical and precise word or phrase</em>. Read the text and highlight what can help to fill in the blank, which refers to something that can happen during <em>the procedure</em>. The text states that Peyman’s research allowed him to <em>reduce the incidence</em> of something, and considering the positive tone of the text, he accomplished something good. Therefore, he must have reduced the incidence of “bad things happening.” Write that in the annotation box and use Process of Elimination.<br/><br/>\n<ul>\n<li>(A) is wrong because <em>characteristics</em> doesn’t match with “bad things happening.”</li>\n</ul>\n<ul>\n<li>(B) and (C) are wrong because they are positive words.</li>\n</ul>\n<ul>\n<li>(D) is correct because <em>repercussions</em> matches with “bad things happening.”</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2902/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:37.649166"
+  },
+  {
+    "question_id": 2903,
+    "stimulus": "<div class=\"\">The process of rainwater harvesting includes gathering and reserving rainwater instead of allowing it to trickle away. When it rains, water is collected from an awning or roof and __________ in a large vessel like a well or reservoir where it can drain back to the ground water source for things like domestic and livestock use.</div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "aggregated",
+      "B": "dissipated",
+      "C": "percolated",
+      "D": "collaborated"
+    },
+    "answer_ids": {
+      "A": 10201,
+      "B": 10202,
+      "C": 10203,
+      "D": 10204
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Vocabulary question, as it asks for the <em>most logical and precise word or phrase</em>. Read the text and highlight what can help to fill in the blank, which refers to what rainwater does<em> in a large vessel</em>. The text describes <em>gathering and reserving water</em>, so the vessel must “gather” the water. Write “gathered” in the annotation box and use Process of Elimination.<br/><br/>\n<ul>\n<li>(A) is correct because <em>aggregated</em> means “collected together.”</li>\n</ul>\n<ul>\n<li>(B) is wrong because <em>dissipated</em> means “went away,” which is the opposite.</li>\n</ul>\n<ul>\n<li>(C) is wrong because <em>percolated</em> means “filtered through.”</li>\n</ul>\n<ul>\n<li>(D) is wrong because <em style=\"font-size: 12pt;\">collaborated</em><span style=\"font-size: 12pt;\"> means “worked as a team.”</span></li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2903/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:38.465136"
+  },
+  {
+    "question_id": 2904,
+    "stimulus": "<div class=\"\">In 2012, thousands of scientists working at the Large Hadron Collider in Switzerland were finally able to __________ the existence of the long-predicted Higgs boson particle, first theorized as necessary in order to explain the mass of a fundamental particle by Peter Higgs and François Englert in 1964. These scientists confirmed a pattern of decay products that could be explained only by the Higgs boson particle.</div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "corroborate",
+      "B": "exonerate",
+      "C": "contextualize",
+      "D": "postulate"
+    },
+    "answer_ids": {
+      "A": 10205,
+      "B": 10206,
+      "C": 10207,
+      "D": 10208
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Vocabulary question, as it asks for the <em>most logical and precise word or phrase</em>. Read the text and highlight what can help to fill in the blank, which refers to what <em>scientists were finally able to </em>do with respect to <em>the existence of the long-predicted Higgs boson particle</em>. The final sentence says <em>These scientists confirmed</em> something that <em>could be explained only by the Higgs boson particle</em>, so write “confirm” in the annotation box and use Process of Elimination.<br/><br/>\n<ul>\n<li>(A) is correct because <em>corroborate</em> matches with “confirm.”</li>\n</ul>\n<ul>\n<li>(B) is wrong because <em>exonerate</em> means “free from blame.”</li>\n</ul>\n<ul>\n<li>(C) is wrong because <em>contextualize</em> means “give background information.”</li>\n</ul>\n<ul>\n<li>(D) is wrong because <em>postulate</em> means “theorize.”</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2904/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:39.270016"
+  },
+  {
+    "question_id": 2905,
+    "stimulus": "<div class=\"\">A highly influential leader of the US civil rights movement, Martin Luther King Jr. __________ his commitment to nonviolent resistance by organizing and directing numerous peaceful protests and sit-ins across the United States in the 1960s: his actions revealed his unwavering dedication to advancing the cause of civil rights without resorting to violence.</div>",
+    "question_stem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "answer_choices": {
+      "A": "characterized",
+      "B": "evinced",
+      "C": "elided",
+      "D": "gauged"
+    },
+    "answer_ids": {
+      "A": 10209,
+      "B": 10210,
+      "C": 10211,
+      "D": 10212
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Vocabulary"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Vocabulary question, as it asks for <em>the most logical and precise word or phrase</em>. Read the text and highlight what can help to fill in the blank, which refers to what King did to <em>his commitment to nonviolent resistance</em>. The first part of the sentence is followed by a colon, which suggests that the second part will expand on the first. It states that <em>his actions revealed his unwavering dedication to advancing the cause…without resorting to violence</em>, which suggests that he was committed to nonviolent resistance and showed it through his actions. Write “showed” in the annotation box and use Process of Elimination.<br/><br/>\n<ul>\n<li>(A) is wrong because he didn’t <em>characterize</em> his commitment through his actions.</li>\n</ul>\n<ul>\n<li>(B) is correct because <em>evinced</em> means “showed clearly.”</li>\n</ul>\n<ul>\n<li>(C) is wrong because <em>elided</em> means “passed over.”</li>\n</ul>\n<ul>\n<li>(D) is wrong because <em>gauged</em> means “assessed.”</li>\n</ul>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2905/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:40.034563"
+  },
+  {
+    "question_id": 2906,
+    "stimulus": "<div class=\"\">An experiment headed by University of Wisconsin psychologist Sohad Murrar provides compelling evidence that individuals feel more inclusive toward other groups when they are informed that pro-diversity attitudes and behaviors are extremely popular among their peers. <span style=\"text-decoration: underline;\">Students were presented with either a neutrally messaged poster or a poster that displayed </span><span style=\"text-decoration: underline;\">fellow students of diverse ethnic backgrounds, a statement about valuing diversity, and statistics indicating their fellow students’ strong support for the statement.</span> The study found that students were more likely to embrace inclusive statements and reject racist statements even weeks after they were exposed to the pro-diversity poster.</div>",
+    "question_stem": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+    "answer_choices": {
+      "A": "To analyze the implications of the results of the experiment",
+      "B": "To demonstrate the difficulty of assessing individuals’ views on inclusivity and racism",
+      "C": "To highlight a specific instance in which the findings of the experiment were confirmed",
+      "D": "To describe certain aspects of the design and methodology of the experiment"
+    },
+    "answer_ids": {
+      "A": 10213,
+      "B": 10214,
+      "C": 10215,
+      "D": 10216
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Purpose"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Purpose question, as it asks for the <em>function</em> of a sentence. Read the text and highlight what can help to understand the function of the underlined sentence. The text introduces an <em>experiment</em> and states the <em>evidence</em> provided by the experiment. Then, in the underlined sentence, the text explains what was done in the experiment. Write “describe the experiment” in the annotation box and use Process of Elimination.<br/><br/>\n<ul>\n<li>(A) is wrong because the <em>results</em> are given in other sentences, not the underlined one.</li>\n</ul>\n<ul>\n<li>(B) is wrong because this sentence doesn’t mention any <em>difficulty</em>.</li>\n</ul>\n<ul>\n<li>(C) is wrong because the sentence gives an overall explanation of the study, not <em>a</em> <em>specific instance</em>.</li>\n</ul>\n<ul>\n<li>(D) is correct because it matches the annotation.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2906/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:40.876768"
+  },
+  {
+    "question_id": 2907,
+    "stimulus": "<div class=\"\">The following text is adapted from Alphonse Daudet’s short story “The Siege of Berlin.” The narrator is a doctor, coming to the aid of a grandfather who has fallen unconscious.<br/><br/><div style=\"padding-left: 30px;\">He had a fine face, magnificent teeth, a thick head of curly white hair, and though eighty years old did not look more than sixty. Near him his granddaughter knelt weeping. There was a strong family resemblance between them. Seeing them side by side, you thought of two beautiful Greek medals struck from the same matrix, but one old and worn and the other bright and clear-cut with all the brilliancy and smoothness of a first impression. I found the child’s grief very touching.</div></div>",
+    "question_stem": "According to the text, what is true about the granddaughter and grandfather?",
+    "answer_choices": {
+      "A": "They look alike.",
+      "B": "They are of Greek heritage.",
+      "C": "They look younger than their ages.",
+      "D": "They are lying side-by-side."
+    },
+    "answer_ids": {
+      "A": 10217,
+      "B": 10218,
+      "C": 10219,
+      "D": 10220
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Retrieval"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Retrieval question, as it says <em>According to the text</em>. Read the text and highlight what it says about the <em>granddaughter</em> <em>and</em> <em>grandfather</em>. The third sentence says <em>There was a strong family resemblance between them</em>, and the text goes on to describe how they were <em>struck from the same matrix</em> but differ because of their ages. Eliminate any answer that isn’t supported by the text.<br/><br/>\n<ul>\n<li>(A) is correct because it matches with <em>strong family resemblance between them</em>.</li>\n</ul>\n<ul>\n<li>(B) is wrong because the text says that they would make one think of <em>beautiful Greek medals struck from the same matrix</em>, not that they are <em>of Greek heritage</em>.</li>\n</ul>\n<ul>\n<li>(C) is wrong because neither is described as looking <em>younger</em>.</li>\n</ul>\n<ul>\n<li>(D) is wrong because the text states that the granddaughter <em>knelt</em> near the grandfather.</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2907/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:41.672447"
+  },
+  {
+    "question_id": 2908,
+    "stimulus": "<div class=\"\"><div><img alt=\"The figure presents a line graph titled “Restaurant Distribution and Average Rock Pigeon Abundance.” The horizontal axis is labeled “Number of restaurants within 1 kilometer,” and the numbers 0 through 30, in increments of 10, are indicated. There are two line graphs, one for spring and another for winter. The vertical axis is labeled “Average number of individual rock pigeons,” and the numbers 0 through 12, in increments of 2, are indicated. The data are as follows. Note that all values are approximate.Spring0 restaurants, 2 rock pigeons.10 restaurants, 4 rock pigeons.20 restaurants, 7 rock pigeons.30 restaurants, 11 rock pigeons.Winter0 restaurants, 3 rock pigeons.10 restaurants, 3.5 rock pigeons.20 restaurants, 5 rock pigeons.30 restaurants, 6 rock pigeons.\" height=\"386\" src=\"https://cdn.princetonreview.com/EvaluativeContent/DigitalSAT/_image_2023-07-28_143312941.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"379\"/></div><br/>Urbanization invariably results in a decrease in overall species diversity and abundance, though certain species seem to preternaturally thrive in city environments. <em>Columba livia</em>, the rock pigeon, is thought to be well-suited to survival in urbanized environments because of the anthropogenic food sources supplied in the form of refuse from restaurants. Thus, researchers Jeffrey A. Brown, Susannah B. Lerman, and colleagues hypothesized that the number of nearby restaurants might be a predictor of the abundance of rock pigeons in the area. They visited 57 sites during spring and winter for three years and logged the number of restaurants and the number of rock pigeons in the vicinity. Looking at the lines of best fit for the scatterplot of the compiled data, the researchers concluded that there is indeed a relationship between proximity to restaurants and abundance of rock pigeons and that this relationship was especially strong in the spring, noting that __________</div>",
+    "question_stem": "<div><span style=\"font-size: 12pt;\">Which choice most effectively uses data from the graph to complete the statement?</span></div>",
+    "answer_choices": {
+      "A": "around ten rock pigeons were observed at a site with three restaurants within one kilometer, while around thirty rock pigeons were observed at a site with six restaurants within one kilometer.",
+      "B": "around three rock pigeons were observed at a site with ten restaurants within one kilometer, while around six rock pigeons were observed at a site with thirty restaurants within one kilometer.",
+      "C": "fewer than five rock pigeons were observed at a site with ten restaurants within one kilometer, while more than ten rock pigeons were observed at a site with thirty restaurants within one kilometer.",
+      "D": "fewer than ten rock pigeons were observed at a site with five restaurants within one kilometer, while more than thirty rock pigeons were observed at a site with ten restaurants within one kilometer."
+    },
+    "answer_ids": {
+      "A": 10221,
+      "B": 10222,
+      "C": 10223,
+      "D": 10224
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Charts"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Charts question, as it asks for <em>data from the graph</em>. The graph charts the number of pigeons in both spring and winter, based on the number of restaurants nearby. Highlight the conclusion in the text, which is that <em>there is indeed a relationship between proximity to restaurants and abundance of rock pigeons</em> and<em> this relationship was especially strong in the spring</em>. Look at the line for spring and eliminate any answers that are inconsistent with the graph or don’t support the conclusion. <br/><br/>\n<ul>\n<li>(A) is wrong because <em>three restaurants</em> doesn’t correspond with <em>ten rock pigeons.</em></li>\n</ul>\n<ul>\n<li>(B) is wrong because these numbers are consistent with the winter line, but the conclusion is about <em>spring</em>.</li>\n</ul>\n<ul>\n<li>(C) is correct because the information is consistent with the graph and the conclusion.</li>\n</ul>\n<ul>\n<li>(D) is wrong because <em>more than thirty rock pigeons</em> weren’t observed anywhere.</li>\n</ul>\n</div>",
+    "correct_answer": "C",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2908/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:42.436602"
+  },
+  {
+    "question_id": 2909,
+    "stimulus": "<div class=\"\">Chandra Wickramasinghe, director of the University of Buckingham’s Centre for Astrobiology, is an influential proponent of the controversial theory of panspermia, which suggests that life on Earth originated from microorganisms that were carried to our planet by comets or other celestial bodies. Wickramasinghe has argued for panspermia using several sources of scientific data including the detection of living microorganisms at extremely high altitudes in Earth’s atmosphere and the confirmation of complex organic molecules in interstellar dust and comets.</div>",
+    "question_stem": "Which choice best describes the main idea of the text?",
+    "answer_choices": {
+      "A": "Wickramasinghe’s theory of panspermia is far too controversial to be accepted by other astrobiologists.",
+      "B": "Wickramasinghe has presented evidence that life on Earth may in fact come from somewhere beyond Earth.",
+      "C": "The preponderance of available scientific data strongly supports Wickramasinghe’s theory of panspermia.",
+      "D": "If microorganisms can survive at extremely high altitudes in Earth’s atmosphere, then they can also survive space travel."
+    },
+    "answer_ids": {
+      "A": 10225,
+      "B": 10226,
+      "C": 10227,
+      "D": 10228
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Main Ideas"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Main Idea question, as it asks for the<em> main idea</em>. Read and highlight the main phrases or lines that the other sentences seem to support. The text introduces Wickramasinghe’s viewpoint, that <em>life on Earth originated from microorganisms that were carried to our planet by comets or other celestial bodies</em>. Then, it mentions the<em> sources of scientific data</em> that Wickramasinghe uses to support this view. Write “CW thinks life came from space” in the annotation box and use Process of Elimination.<br/><br/>\n<ul>\n<li>(A) is wrong because the text describes the theory as controversial but doesn’t go so far as to say that it can’t be <em>accepted by other astrobiologists</em>.</li>\n</ul>\n<ul>\n<li>(B) is correct because it matches the annotation.</li>\n</ul>\n<ul>\n<li>(C) is wrong because the text describes the theory as <em>controversial</em> and does not state that the <em>preponderance</em> (majority) of data <em>strongly</em> <em>supports</em> the theory.</li>\n</ul>\n<ul>\n<li>(D) is wrong because the main idea is about Wickramasinghe’s theory, not specifics about <em>microorganisms</em>.</li>\n</ul>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2909/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:43.317710"
+  },
+  {
+    "question_id": 2910,
+    "stimulus": "<div class=\"\"><em>C. difficile</em> is a bacterium that causes an inflammation of the colon that can be life-threatening. The metabolic processes by which <em>C. difficile</em> takes advantage of a host’s inflammatory process to increase toxin production are not well understood. Previously, higher levels of sorbitol (a sugar alcohol) were found to be released by the immune system during inflammation from toxin production. Thus, a team of researchers decided to investigate sorbitol metabolism in <em>C. difficile</em> and its effect on toxin production in mice. In the study, mice with <em>C. difficile</em> that ingested sorbitol were found to have lower levels of toxin production than mice that did not ingest sorbitol. One possible explanation is that metabolizing sorbitol prevents <em>C. difficile</em> from producing toxins.</div>",
+    "question_stem": "Which finding, if true, would most directly strengthen the potential explanation?",
+    "answer_choices": {
+      "A": "<em>C. difficile</em> lacks the enzyme that metabolizes sorbitol and thus reduces its production of toxins when sorbitol is ingested.",
+      "B": "<em>C. difficile</em> metabolizes sorbitol at a faster rate than it does other naturally occurring sugar alcohols.",
+      "C": "Low levels of sorbitol reduce inflammation in mice and prevent toxin production.",
+      "D": "Mice naturally produce sorbitol in their intestines and do not contract <em>C. difficile.</em>"
+    },
+    "answer_ids": {
+      "A": 10229,
+      "B": 10230,
+      "C": 10231,
+      "D": 10232
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Claims"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Claims question, as it asks for an answer that would<em> strengthen the potential explanation</em>. Read the text and highlight the <em>potential explanation</em>, which is that <em>metabolizing sorbitol prevents C. difficile from producing toxins</em>. Read more of the text to understand what this is explaining. The third sentence says that <em>higher levels of sorbitol…were found to be released </em>as a result of<em> C. difficile </em>inflammation. Then the text describes a study in which <em>mice that ingested sorbitol were found to have lower levels of toxin production than mice that did not ingest sorbitol</em>. Eliminate answers that don’t strengthen the given explanation for this outcome. <br/><br/>\n<ul>\n<li>(A) is correct because it provides a reason that ingesting sorbitol would reduce the production of toxins.</li>\n</ul>\n<ul>\n<li>(B) and (D) are wrong because they don’t mention <em>toxins</em>.</li>\n</ul>\n<ul>\n<li>(C) is wrong because giving sorbitol to the mice caused <em>lower levels of toxins</em>, so <em>Low levels of sorbito</em>l preventing toxin production contradicts the explanation.</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2910/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:44.128809"
+  },
+  {
+    "question_id": 2911,
+    "stimulus": "<div class=\"\">Scholars generally agree that amputations were dangerous and deadly prior to 10,000 years ago due to a lack of proper surgical tools and techniques. The earliest evidence of a successful limb-removal surgery was a 7,000-year-old skeleton found in France that had an amputation above the elbow. Recently, archeologists uncovered a 31,000-year-old skeleton with an amputated leg in Indonesia. Analysis of the early stone age skeleton shows that the amputation occurred when the man was just a child and lacked any evidence of infection. Thus, __________</div>",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "early stone age people must have had doctors who performed these successful amputations.",
+      "B": "life as an amputee must have been difficult for early stone age people without access to postoperational care.",
+      "C": "there is insufficient evidence to support that most amputations performed prior to 10,000 years ago were deadly.",
+      "D": "early stone age people prior to 10,000 years ago may have been more advanced than was previously acknowledged."
+    },
+    "answer_ids": {
+      "A": 10233,
+      "B": 10234,
+      "C": 10235,
+      "D": 10236
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Conclusions"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Conclusions question, as it asks for the choice that <em>most logically completes the text</em>. Read the text and highlight the main ideas. The text states that <em>Scholars generally agree that amputations were dangerous and deadly prior to 10,000 years ago</em> and then states that the first known<em> successful limb-removal surgery </em>was 7,000 years ago. Then, the text describes a recent discovery of a <em>31,000-year-old skeleton</em> that had a successful amputation. Eliminate any answer that states a conclusion that isn’t supported by the text.<br/><br/>\n<ul>\n<li>(A) is wrong because the text doesn’t provide evidence suggesting that it must have been a <em>doctor</em> who did the amputation.</li>\n</ul>\n<ul>\n<li>(B) is wrong because there is no information on <em>life as an amputee</em> or <em>post-operational care.</em></li>\n</ul>\n<ul>\n<li>(C) is wrong because the text offers no information about <em>most amputations.</em></li>\n</ul>\n<ul>\n<li>(D) is correct because the text contrasts the viewpoint that <em>a lack of proper surgical tools and techniques</em> prevented successful amputations prior to 10,000 years ago with the fact that a successful one did occur long before that.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2911/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:44.902279"
+  },
+  {
+    "question_id": 2912,
+    "stimulus": "<div class=\"\">In game theory, the prisoner’s dilemma is a thought experiment in which two people who are isolated from each other each have the choice to betray the other. An individual who betrays the other person will experience a personal benefit; however, if both players choose to betray each other then they will both experience a worse punishment than if neither betrays the other. Game theorists generally agree that the choice to cooperate (that is, refusing to betray the other person) is irrational, as it defies one’s self-interest; therefore, these game theorists suggest that __________</div>",
+    "question_stem": "Which choice most logically completes the text?",
+    "answer_choices": {
+      "A": "it is more rational for one to betray the other participant.",
+      "B": "both individuals should cooperate, as their punishment will be reduced.",
+      "C": "people always act in their own self-interest, as it is the rational choice.",
+      "D": "the thought experiment likely has limited relevance in everyday life."
+    },
+    "answer_ids": {
+      "A": 10237,
+      "B": 10238,
+      "C": 10239,
+      "D": 10240
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Reading",
+      "skill": "Conclusions"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Conclusions question, as it asks for the choice that <em>most logically completes the text</em>. Read the text and highlight the main ideas. The text introduces <em>the prisoner’s dilemma</em> and then describes possible outcomes. Then it explains that <em>Game theorists generally agree that the choice to cooperate…is irrational, as it defies one’s self-interest</em>, suggesting that the choice to not cooperate (betray the other person) is rational. Eliminate any answer that states a conclusion that isn’t supported by the text. <br/><br/>\n<ul>\n<li>(A) is correct because it logically follows from the information in the last sentence.</li>\n</ul>\n<ul>\n<li>(B) is wrong because, while this might provide a benefit to both people, the <em>game theorists</em> are focused on what is <em>rational</em>, which the text says refers to acting in <em>one’s self-interest</em>.</li>\n</ul>\n<ul>\n<li>(C) is wrong because it’s too strong; there is no evidence that people <em>always</em> act in their selfinterest, even if the text says that this is <em>rational</em>.</li>\n</ul>\n<ul>\n<li>(D) is wrong because there is no information in the text regarding the <em>relevance</em> of the thought experiment to <em>everyday</em> <em>life</em>.</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2912/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:45.721970"
+  },
+  {
+    "question_id": 2913,
+    "stimulus": "<div class=\"\">Karni Mata Temple is a Hindu temple located in the town of Deshnoke in India. The temple is dedicated to Karni Mata and is an important pilgrimage site. Numerous rats, known as <em>kābā</em> and considered holy, live in Karni Mata Temple, earning the temple __________ nickname, “Temple of Rats.”</div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "it’s",
+      "B": "its",
+      "C": "their",
+      "D": "they’re"
+    },
+    "answer_ids": {
+      "A": 10241,
+      "B": 10242,
+      "C": 10243,
+      "D": 10244
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Pronouns"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, pronouns and apostrophes are changing in the answer choices, so it’s testing consistency with pronouns. Find and highlight the phrase that the pronoun refers back to: <em>Karni Mata Temple</em>. This phrase is singular, so in order to be consistent, a singular pronoun is needed. Eliminate any answer that isn’t consistent with <em>Karni Mata Temple</em> or is incorrectly punctuated. <br/><br/>\n<ul>\n<li>(A) is wrong because it means “it is.”</li>\n</ul>\n<ul>\n<li>(B) is correct because it is singular and possessive.</li>\n</ul>\n<ul>\n<li>(C) and (D) are wrong because they are plural.</li>\n</ul>\n</div>",
+    "correct_answer": "B",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2913/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:46.537144"
+  },
+  {
+    "question_id": 2914,
+    "stimulus": "<div class=\"\">In addition to her research into the effects of hormones, ultraviolet light, and chemotherapy agents on cell __________ Jewel Plummer Cobb served as dean at  Connecticut College and Rutgers University and as president of California State University, Fullerton, where she led many projects expanding the school’s facilities.</div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "division: biologist",
+      "B": "division. Biologist",
+      "C": "division biologist",
+      "D": "division, biologist"
+    },
+    "answer_ids": {
+      "A": 10245,
+      "B": 10246,
+      "C": 10247,
+      "D": 10248
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Punctuation with Describing Phrases"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, punctuation is changing in the answer choices. The first part of the sentence says <em>In addition to her research into the effects of hormones, ultraviolet light, and chemotherapy agents on cell division</em>, which is an introductory phrase that is not essential to the meaning of the sentence. It should therefore be followed by a comma to separate it from the rest of the sentence. Eliminate answers that do not have a comma.<br/><br/>\n<ul>\n<li>(A), (B), and (C) are wrong because they don’t use a comma.</li>\n</ul>\n<ul>\n<li>(D) is correct because it uses a comma after the non-essential information.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2914/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:47.309530"
+  },
+  {
+    "question_id": 2915,
+    "stimulus": "<div class=\"\">Poetra Asantewa is a performer from Ghana who combines three elements to create her __________ lyrics incorporating social issues, vocalization evoking different emotions, and rhythms using soulful elements.</div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "pieces",
+      "B": "pieces,",
+      "C": "pieces:",
+      "D": "pieces;"
+    },
+    "answer_ids": {
+      "A": 10249,
+      "B": 10250,
+      "C": 10251,
+      "D": 10252
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Connecting Clauses"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, punctuation is changing in the answer choices. Look for independent clauses. The first part of the sentence says <em>Poetra Asantewa is a performer from Ghana who combines three elements to create her pieces</em>, which is an independent clause. The second part of the sentence says <em>lyrics incorporating social issues, vocalization evoking different emotions, and rhythms using soulful elements</em>, which is a list of what she combines. Eliminate any option that doesn’t correctly connect the independent clause to the list.<br/><br/>\n<ul>\n<li>(A) is wrong because some punctuation is needed to separate the independent clause from the list.</li>\n</ul>\n<ul>\n<li>(B) is wrong because the comma makes it look like <em>create her pieces</em> is part of the list, but it’s not.</li>\n</ul>\n<ul>\n<li>(C) is correct because a colon is used when the second part explains the first, such as by providing a list of things.</li>\n</ul>\n<ul>\n<li>(D) is wrong because a semicolon can only connect two independent clauses, and the list isn’t an independent clause.</li>\n</ul>\n</div>",
+    "correct_answer": "C",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2915/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:48.077909"
+  },
+  {
+    "question_id": 2916,
+    "stimulus": "<div class=\"\">Compared to other Ukrainian scientists and mathematicians, __________ she has worked with differential equations, partial differential equations, and integrable systems in Dnipro, Cyprus, and Kyiv.</div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "there is a wide range of fields and Ukrainian cities that Olena Vaneeva has worked in:",
+      "B": "many Ukrainian cities and fields have been home to Olena Vaneeva:",
+      "C": "the range of fields and Ukrainian cities that Olena Vaneeya has worked in is very wide:",
+      "D": "Olena Vaneeva has worked in a wide range of fields and Ukrainian cities:"
+    },
+    "answer_ids": {
+      "A": 10253,
+      "B": 10254,
+      "C": 10255,
+      "D": 10256
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Modifiers"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, the subjects of the answers are changing, which suggests it may be testing modifiers. Look for and highlight a modifying phrase: <em>Compared to other Ukrainian scientists and mathematicians</em>. Whoever is <em>Compared to</em> other scientists and mathematicians needs to come immediately after the comma. Eliminate any answer that doesn’t start with someone who can be compared to scientists and mathematicians.<br/><br/>\n<ul>\n<li>(A) is wrong because <em>there</em> <em>is</em> can’t be compared with scientists and mathematicians.</li>\n</ul>\n<ul>\n<li>(B) is wrong because <em>many</em> <em>Ukrainian cities</em> can’t be compared with scientists and mathematicians.</li>\n</ul>\n<ul>\n<li>(C) is wrong because <em>the</em> <em>range of fields</em> can’t be compared with scientists and mathematicians.</li>\n</ul>\n<ul>\n<li>(D) is correct because <em>Olena Vaneeva</em> can be compared with other scientists and mathematicians.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2916/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:48.900789"
+  },
+  {
+    "question_id": 2917,
+    "stimulus": "<div class=\"\">Astronaut William Anders was a member of the Apollo 8 mission, the first human spaceflight to reach the Moon and orbit it. During the mission, Anders took a photo of Earth rising above the lunar surface, an __________ was later named <em>Earthrise</em>.</div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "image, that",
+      "B": "image",
+      "C": "image that",
+      "D": "image"
+    },
+    "answer_ids": {
+      "A": 10257,
+      "B": 10258,
+      "C": 10259,
+      "D": 10260
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Punctuation with Describing Phrases"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, commas and the word <em>that</em> are changing in the answers, which suggests that the question is testing the construction of describing phrases. The first part of the sentence says <em>During the mission, Anders took a photo of Earth rising above the lunar surface</em>, which is an independent clause followed by a comma. Eliminate any answer that isn’t consistent with the first part of the sentence.<br/><br/>\n<ul>\n<li>(A) is wrong because a phrase starting with <em>that</em> is essential to the meaning of the sentence and never follows a comma.</li>\n</ul>\n<ul>\n<li>(B) is wrong because it creates two independent clauses separated by a comma, which is never allowed.</li>\n</ul>\n<ul>\n<li>(C) is correct because it correctly forms a phrase to describe the <em>image</em>.</li>\n</ul>\n<ul>\n<li>(D) is wrong because it leaves the verb <em>was</em> with no subject.</li>\n</ul>\n</div>",
+    "correct_answer": "C",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2917/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:49.621682"
+  },
+  {
+    "question_id": 2918,
+    "stimulus": "<div class=\"\">French philosopher Denis Diderot was the chief editor of the <em>Encyclopédie</em>, which was completed by 1772. Motivated by the principles of the Enlightenment, the writers of the <em>Encyclopédie</em> __________ to compile all of the world’s knowledge in a single resource available to the ordinary person.</div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "attempted",
+      "B": "are attempting",
+      "C": "will attempt",
+      "D": "attempt"
+    },
+    "answer_ids": {
+      "A": 10261,
+      "B": 10262,
+      "C": 10263,
+      "D": 10264
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Verbs"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, verbs are changing in the answer choices, so it’s testing consistency with verbs. Find and highlight the subject, <em>writers</em>, which is plural, so a plural verb is needed. All of the answers work with a plural subject, so look for a clue regarding tense. The previous sentence uses past tense verbs: <em>was</em> and <em>was completed</em>. Highlight those verbs, which are past tense, and write an annotation that says “past.” Eliminate any answer not in past tense.<br/><br/>\n<ul>\n<li>(A) is correct because it’s in past tense.</li>\n</ul>\n<ul>\n<li>(B) and (D) are wrong because they’re in present tense.</li>\n</ul>\n<ul>\n<li>(C) is wrong because it’s in future tense.</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2918/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:50.353613"
+  },
+  {
+    "question_id": 2919,
+    "stimulus": "<div class=\"\">As one of the most prominent French astrophysicists, Françoise Combes has contributed to research about how galaxies form and __________ she has studied the composition of galaxies and how they interact with each other.</div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "evolve; additionally,",
+      "B": "evolve additionally",
+      "C": "evolve, additionally,",
+      "D": "evolve, additionally;"
+    },
+    "answer_ids": {
+      "A": 10265,
+      "B": 10266,
+      "C": 10267,
+      "D": 10268
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Connecting Clauses"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, punctuation with a transition is changing in the answer choices. Look for independent clauses. The first part of the sentence says <em>Françoise Combes has contributed to research about how galaxies form and evolve</em>. There is an option to add <em>additionally</em> to this independent clause, but it’s not adding on to a previous idea as nothing came before it. Eliminate options with <em>additionally</em> in the first part.<br/><br/>\n<ul>\n<li>(A) is correct because it puts <em>additionally</em> with the second independent clause and puts a semicolon between the independent clauses.</li>\n</ul>\n<ul>\n<li>(B) and (C) are wrong because the sentence contains two independent clauses, which need some punctuation other than commas to properly connect them.</li>\n</ul>\n<ul>\n<li>(D) is wrong because it puts <em>additionally</em> with the first independent clause.</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2919/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:51.132810"
+  },
+  {
+    "question_id": 2920,
+    "stimulus": "<div class=\"\">American avant-garde jazz composer and guitarist Mary Halvorson’s musical discography includes <em>Dragon’s Head</em>, an album created with bassist John Hébert and drummer Ches __________ a solo album; and <em>Away with You</em>, which featured pedal steel player Susan Alcorn, cellist Tomeka Reid, and saxophonist Ingrid Laubrock.</div>",
+    "question_stem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "answer_choices": {
+      "A": "Smith; <em>Meltframe</em>,",
+      "B": "Smith; <em>Meltframe</em>",
+      "C": "Smith, <em>Meltframe</em>,",
+      "D": "Smith, <em>Meltframe</em>:"
+    },
+    "answer_ids": {
+      "A": 10269,
+      "B": 10270,
+      "C": 10271,
+      "D": 10272
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rules",
+      "skill": "Lists"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            In this Rules question, commas and semicolons are changing in the answer choices. The sentence already contains a semicolon near the end, and the part after it is not an independent clause, which suggests that the sentence contains a list separated by semicolons. Use the third example to determine the structure of each item: Title, Comma, Description. Make an annotation of this pattern and eliminate any answer that doesn’t follow it.<br/><br/>\n<ul>\n<li>(A) is correct because it follows the pattern of the third item.</li>\n</ul>\n<ul>\n<li>(B) is wrong because it doesn’t have a comma after the title of the second album.</li>\n</ul>\n<ul>\n<li>(C) and (D) are wrong because they don’t have a semicolon after the first item.</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2920/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:51.898184"
+  },
+  {
+    "question_id": 2921,
+    "stimulus": "<div class=\"\">Mice were studied in an experiment focused on the relationship between room temperature and cancer growth. Cooler room temperatures were found to stimulate fat cells that eradicate the sugar molecules that sustain cancer cells. __________ the cancer cells started to die off in the mice exposed to cooler room temperatures.</div>",
+    "question_stem": "Which choice completes the text with the most logical transition?",
+    "answer_choices": {
+      "A": "Consequently,",
+      "B": "For example,",
+      "C": "However,",
+      "D": "In comparison,"
+    },
+    "answer_ids": {
+      "A": 10273,
+      "B": 10274,
+      "C": 10275,
+      "D": 10276
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Transitions"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a transition question, so highlight ideas that relate to each other. The preceding sentence says <em>Cooler room temperatures were found to stimulate fat cells that eradicate the sugar molecules that sustain cancer cells</em>, and this sentence says <em>the cancer cells started to die off in the mice exposed to cooler room temperatures</em>. These ideas agree, so a same-direction transition is needed. Make an annotation that says “agree.” Eliminate any answer that doesn’t match.<br/><br/>\n<ul>\n<li>(A) is correct because <em>Consequently</em> is same-direction and conveys that the events of the third sentence happened as a result of what was said in the second sentence.</li>\n</ul>\n<ul>\n<li>(B) is wrong because this sentence is not an example of the previous idea.</li>\n</ul>\n<ul>\n<li>(C) and (D) are wrong because they are opposite-direction transitions.</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2921/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:52.724190"
+  },
+  {
+    "question_id": 2922,
+    "stimulus": "<div class=\"\">While researching a topic, a student has taken the following notes:<ul><li>Satyajit Ray was an Indian filmmaker.</li><li>He is well-known for <em>The Apu Trilogy</em>.</li><li>The first film in the trilogy, <em>Pather Panchali</em>, is about the childhood of a small Bengali boy named Apu.</li><li>The second film, <em>Aparajito</em>, depicts Apu in his adolescence and his relationship to both his mother and their home.</li><li>In <em>Apur Sansar</em>, the third film, adult Apu marries Aparna and has a son, Kajal.</li></ul></div>",
+    "question_stem": "The student wants to emphasize how Apu changed throughout the trilogy. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "Apu went from being a child in <em>Pather</em> <em>Panchali</em> to an adult with his own family in <em>Apur Sansar.</em>",
+      "B": "Satyajit Ray, an Indian filmmaker, made <em>The Apu Trilogy</em> about a boy named Apu.",
+      "C": "The three films of <em>The Apu Trilogy</em> are <em>Pather Panchali, Aparajito, </em>and <em>Apur Sansar</em>.",
+      "D": "The character Apu grew up in Bengal and eventually marries and has a son."
+    },
+    "answer_ids": {
+      "A": 10277,
+      "B": 10278,
+      "C": 10279,
+      "D": 10280
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Rhetorical Synthesis"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Rhetorical Synthesis question, so highlight the goal(s) stated in the question: <em>emphasize how Apu changed throughout the trilogy</em>. Eliminate any answer that doesn’t fulfill this purpose.<br/><br/>\n<ul>\n<li>(A) is correct because it includes <em>how Apu changed</em> and specifies when those changes occurred within the <em>trilogy</em>.</li>\n</ul>\n<ul>\n<li>(B) and (C) are wrong because they don’t mention a change.</li>\n</ul>\n<ul>\n<li>(D) is wrong because it doesn’t explain how the changes occurred in relation to the <em>trilogy</em>.</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2922/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:53.596512"
+  },
+  {
+    "question_id": 2923,
+    "stimulus": "<div class=\"\">While researching a topic, a student has taken the following notes:<br/><ul><li>Haenyeo are female divers on Jeju Island, a Korean province.</li><li>Haenyeo earn money by harvesting mollusks and shellfish, such as abalone, sea urchins, and oysters.</li><li>They dive without the use of oxygen masks and tanks.</li><li>They can hold their breath for over three minutes.</li><li>They can dive up to 30 meters below the surface of the water.</li><li>Jellyfish, sharks, and poor weather are different dangers they face while diving.</li></ul></div>",
+    "question_stem": "The student wants to emphasize the abilities of haenyeo. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "Haenyeo are female divers on Jeju Island who harvest shellfish.",
+      "B": "While diving, haenyeo contend with jellyfish, sharks, and poor weather.",
+      "C": "Haenyeo earn money by selling abalone, sea urchins, and oysters, which they harvest by diving without oxygen masks and tanks.",
+      "D": "Haenyeo can dive 30 meters below the surface and hold their breath for over three minutes."
+    },
+    "answer_ids": {
+      "A": 10281,
+      "B": 10282,
+      "C": 10283,
+      "D": 10284
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Rhetorical Synthesis"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Rhetorical Synthesis question, so highlight the goal(s) stated in the question: <em>emphasize the abilities of haenyeo</em>. Eliminate any answer that doesn’t fulfill this purpose.<br/><br/>\n<ul>\n<li>(A) and (B) are wrong because they don’t mention any specific <em>abilities</em>.</li>\n</ul>\n<ul>\n<li>(C) is wrong because it doesn’t include specific details about the <em>abilities</em>.</li>\n</ul>\n<ul>\n<li>(D) is correct because it includes specific details about the <em>abilities</em>.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2923/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:54.683925"
+  },
+  {
+    "question_id": 2924,
+    "stimulus": "<div class=\"\">While researching a topic, a student has taken the following notes:<br/><ul><li>Heliconian Hall was built in 1876 as the Olivet Congregational Church.</li><li>Heliconian Hall is in the Yorkville neighborhood of Toronto.</li><li>The Heliconian Club purchased and renamed Heliconian Hall in 1923.</li><li>The Heliconian Club’s membership includes women professional artists.</li><li>Heliconian Hall hosts music, art, dance, drama, and literature events.</li></ul></div>",
+    "question_stem": "The student wants to describe the history of Heliconian Hall to an audience familiar with the Heliconian Club. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "Heliconian Hall was purchased in 1923 by the Heliconian Club, an organization which includes women professional artists.",
+      "B": "Heliconian Hall, located in the Yorkville neighborhood of Toronto, hosts music, art, dance, drama, and literature events.",
+      "C": "Heliconian Hall, formerly known as the Olivet Congregational Church, is in the Yorkville neighborhood of Toronto.",
+      "D": "Heliconian Hall, built as the Olivet Congregational Church in 1876, was purchased and renamed by the Heliconian Club in 1923."
+    },
+    "answer_ids": {
+      "A": 10285,
+      "B": 10286,
+      "C": 10287,
+      "D": 10288
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Rhetorical Synthesis"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Rhetorical Synthesis question, so highlight the goal(s) stated in the question: <em>describe the history of Heliconian Hall to an audience familiar with the Heliconian Club</em>. Eliminate any answer that doesn’t <em>describe the history</em> in a way that assumes the audience is <em>familiar with the Heliconian Club.<br/></em><br/>\n<ul>\n<li>(A) is wrong because it explains the <em>Heliconian Club</em>, but the audience is already familiar with it.</li>\n</ul>\n<ul>\n<li>(B) and (C) are wrong because they don’t <em>describe the history of</em> <em>Heliconian Hall</em>.</li>\n</ul>\n<ul>\n<li>(D) is correct because it <em>describes the history of Heliconian Hall</em> and doesn’t explain the <em>Heliconian Club</em> since the audience is familiar with it.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2924/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:55.502083"
+  },
+  {
+    "question_id": 2925,
+    "stimulus": "<div class=\"\">While researching a topic, a student has taken the following notes:<br/><ul><li>Evan Adams is an Indigenous Canadian actor.</li><li>He is well-known for his role as Thomas in the film <em>Smoke Signals</em>.</li><li>The film was released in 1998. </li><li>It is about two friends, Thomas and Victor, and their complicated relationships with Victor’s father, Arnold.</li><li>Adams is also known for his role as Seymour in <em>The Business of Fancydancing</em> (2002).</li></ul></div>",
+    "question_stem": "The student wants to introduce Evan Adams and his role in <em>Smoke Signals</em> to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "Evan Adams, an Indigenous Canadian actor, has starred as Thomas in <em>Smoke Signals</em> and Seymour in <em>The Business of Fancydancing</em>.",
+      "B": "<em>Smoke Signals</em>, released in 1998, explores the complicated relationships of friends Thomas and Victor.",
+      "C": "Evan Adams starred in the film <em>Smoke Signals</em> before he starred in <em>The Business of Fancydancing</em>.",
+      "D": "Indigenous Canadian actor Evan Adams starred as Thomas in the 1998 film <em>Smoke Signals</em>, which depicts two friends, Thomas and Victor, and their complicated relationships with Victor’s father, Arnold."
+    },
+    "answer_ids": {
+      "A": 10289,
+      "B": 10290,
+      "C": 10291,
+      "D": 10292
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Rhetorical Synthesis"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Rhetorical Synthesis question, so highlight the goal(s) stated in the question: <em>introduce Evan Adams and his role in Smoke Signals to a new audience</em>. Eliminate any answer that doesn’t introduce <em>Evan Adams</em> in a way that assumes the audience is not familiar with him.<br/><br/>\n<ul>\n<li>(A) is wrong because it doesn’t focus on Adams’s <em>role in</em> <em>Smoke Signals</em>.</li>\n</ul>\n<ul>\n<li>(B) is wrong because it doesn’t <em>introduce Evan Adams</em>.</li>\n</ul>\n<ul>\n<li>(C) is wrong because it doesn’t mention Adams’s specific <em>role in</em> <em>Smoke Signals</em>.</li>\n</ul>\n<ul>\n<li>(D) is correct because it introduces <em>Evan Adam</em>s and describes <em>his role in Smoke Signals</em>.</li>\n</ul>\n</div>",
+    "correct_answer": "D",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2925/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:56.422959"
+  },
+  {
+    "question_id": 2926,
+    "stimulus": "<div class=\"\">While researching a topic, a student has taken the following notes:<br/><ul><li>Marie Byrd Land is an unclaimed region of Antarctica.</li><li>Construction of Byrd Station in Marie Byrd Land was begun in 1956 by the US.</li><li>Byrd Station was abandoned in 1972.</li><li>John Carpenter used Byrd Station as a model for an Antarctic station in crisis for his movie <em>The Thing</em>.</li><li>James Rollins used Byrd Station as a model for an Antarctic station in crisis for his novel <em>The 6th Extinction</em>.</li></ul></div>",
+    "question_stem": "The student wants to highlight a similarity between fictional depictions of a real-world location. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "answer_choices": {
+      "A": "Both John Carpenter’s movie <em>The Thing</em> and James Rollins’s novel <em>The 6th Extinction</em> used Byrd Station as a model for an Antarctic station in crisis.",
+      "B": "In 1956, the US began construction of Byrd Station in Marie Byrd Land, an unclaimed region of Antarctica.",
+      "C": "Abandoned in 1972, Byrd Station was the model for an Antarctic station in crisis in John Carpenter’s <em>The Thing.</em>",
+      "D": "John Carpenter used Byrd Station as a model for an Antarctic station in crisis for his movie <em>The Thing</em>; however, James Rollins used Byrd Station as a model for an Antarctic station in crisis for his novel <em>The 6th Extinction</em>."
+    },
+    "answer_ids": {
+      "A": 10293,
+      "B": 10294,
+      "C": 10295,
+      "D": 10296
+    },
+    "metadata": {
+      "section": "English",
+      "domain": "Writing Rhetoric",
+      "skill": "Rhetorical Synthesis"
+    },
+    "explanation": "<h2 class=\"text-2xl font-bold mb-3\">Explanation</h2>\n<div>\n                            This is a Rhetorical Synthesis question, so highlight the goal(s) stated in the question:<em> highlight a similarity between fictional depictions of a real-world location</em>. Eliminate any answer that doesn’t fulfill this purpose.<br/><br/>\n<ul>\n<li>(A) is correct because it includes a <em>similarity</em>.</li>\n</ul>\n<ul>\n<li>(B) and (C) are wrong because they don’t include a <em>similarity</em>.</li>\n</ul>\n<ul>\n<li>(D) is wrong because the similarity is set up as a contrast with the word <em>however</em>.</li>\n</ul>\n</div>",
+    "correct_answer": "A",
+    "exam_id": 37,
+    "exam_name": "The Princeton Review - Digital SAT Free Practice Test - English - Module 1",
+    "test_series": "Free Practice Test",
+    "subject": "English",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/2926/?question_set=exam&exam_id=37",
+    "scraped_at": "2025-07-06T18:01:57.183956"
+  }
+]

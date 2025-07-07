@@ -1,0 +1,646 @@
+[
+  {
+    "question_id": 3569,
+    "stimulus": "",
+    "question_stem": "In the figure, linesintersects parallel linespandq. What is the value ofa?",
+    "answer_choices": {
+      "A": "35",
+      "B": "55",
+      "C": "125",
+      "D": "145"
+    },
+    "answer_ids": {
+      "A": 12613,
+      "B": 12614,
+      "C": 12615,
+      "D": 12616
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3569/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:14.051227",
+    "explanation": "✕ExplanationThe question asks for the value of an angle on a figure. Use the Geometry Basic Approach. Redraw the figure and labels on the scratch paper. When a line intersects two parallel lines, two kinds of angles are created: big and small. All of the small angles are equal to each other, all of the big angles are equal to each other, and any small angle plus any big angle = 180°. Angleaand the angle labeled 55° are both small angles. Thus, angleaalso measures 55°. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3570,
+    "stimulus": "",
+    "question_stem": "The wait time, in minutes, for each passenger in a group of passengers waiting to board a train is given in the list of numbers shown.9, 12, 8, 3, 9, 13, 11, 15What was the mean wait time, in minutes, for the group of passengers?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3570/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:14.780542",
+    "explanation": "✕ExplanationThe question asks for the mean, or average, of a list of numbers. For averages, use the formulaT=AN, in whichTis theTotal,Ais theAverage, andNis theNumber of things. There are 8 values in the data set, soN= 8. Find theTotalby adding the 8 integers to getT= 9 + 12 + 8 + 3 + 9 + 13 + 11 + 15 = 80. The average formula becomes 80 = (A)(8). Divide both sides of the equation by 8 to get 10 =A. The correct answer is 10.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3571,
+    "stimulus": "",
+    "question_stem": "Which equation has the same value ofzas the equation 2z– 5 = –15?",
+    "answer_choices": {
+      "A": "2z= –20",
+      "B": "2z= –10",
+      "C": "2z= 3",
+      "D": "2z= 75"
+    },
+    "answer_ids": {
+      "A": 12617,
+      "B": 12618,
+      "C": 12619,
+      "D": 12620
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3571/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:15.541849",
+    "explanation": "✕ExplanationThe question asks for the equation that has the same solution as the given equation. The answer choices all have the expression 2zon the left side, so isolate that term in the given equation. Add 5 to both sides of the equation to get 2z= –10. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3572,
+    "stimulus": "",
+    "question_stem": "A rectangular prism has side lengths of 52 centimeters, 52 centimeters, and 45 centimeters. What is the volume, in cubic centimeters, of the rectangular prism?",
+    "answer_choices": {
+      "A": "149",
+      "B": "14,768",
+      "C": "22,210",
+      "D": "121,680"
+    },
+    "answer_ids": {
+      "A": 12621,
+      "B": 12622,
+      "C": 12623,
+      "D": 12624
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3572/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:16.265406",
+    "explanation": "✕ExplanationThe question asks for the volume of a geometric figure. Use the Geometry Basic Approach. Start by drawing a rectangular prism on the scratch paper as best as possible. Next, label the figure with the given information: label the length and width as 52 and the height as 45. Write down the formula for the volume of a rectangular prism, either from memory or after looking it up on the reference sheet. The formula isV=lwh. Plug in the values given in the question to getV= (52)(52)(45), which becomesV= 121,680. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3573,
+    "stimulus": "",
+    "question_stem": "What is the value ofnif 60% ofnis 27?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3573/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:16.986557",
+    "explanation": "✕ExplanationThe question asks for a value based on a percentage. Translate the English to math in Bite-Sized Pieces.Percentmeans out of 100, so translate 60% as. Translateofas times. Translateisas equals. The equation becomes(n) = 27. Multiply both sides of the equation by 100 to get 60n= 2,700. Divide both sides of the equation by 60 to getn= 45. The correct answer is 45.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3574,
+    "stimulus": "",
+    "question_stem": "The equation 0.75s+ 2.25l= 33 models the relationship between the number of short tours,s, and the number of long tours,l, that the members of a museum staff lead on a single day. If the members of the museum staff lead 5 short tours on a single day, what is the maximum number of long tours they can lead on that day?",
+    "answer_choices": {
+      "A": "2.25",
+      "B": "13",
+      "C": "29",
+      "D": "33"
+    },
+    "answer_ids": {
+      "A": 12625,
+      "B": 12626,
+      "C": 12627,
+      "D": 12628
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3574/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:17.736819",
+    "explanation": "✕ExplanationThe question asks for a value based on an equation. The question states that the number of short tours, represented bys, is 5, and that the number of long tours is represented byl. Plugs= 5 into the equation and solve forl. The equation becomes 0.75(5) + 2.25l= 33, or 3.75 + 2.25l= 33. Subtract 3.75 from both sides of the equation to get 2.25l= 29.25. Divide both sides of the equation by 2.25 to getl= 13. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3575,
+    "stimulus": "",
+    "question_stem": "What is the negative solution to the equation 5x2– 12 = –4x?",
+    "answer_choices": {
+      "A": "–4",
+      "B": "",
+      "C": "–2",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 12629,
+      "B": 12630,
+      "C": 12631,
+      "D": 12632
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3575/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:18.448223",
+    "explanation": "✕ExplanationThe question asks for the negative solution to a quadratic equation. One approach is to use the built-in calculator. Enter the expression as it is written into the built-in calculator. The two vertical bars represent the solutions. Click on the gray dot for the negative solution to see that it is at (–2, 0), which means (C) is correct.Another approach is to plug in the answers: plug in the value forxfrom each answer choice one at a time until one of them makes the equation true.Using either method, the correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3576,
+    "stimulus": "",
+    "question_stem": "The dot plots summarize the number of new employees hired at two branches of a company, branch F and branch G, each year for the past 15 years. Which of the following statements correctly compares the standard deviations of the number of new employees hired by the two branches?",
+    "answer_choices": {
+      "A": "The standard deviation of the number of new employees hired at branch F is equal to the standard deviation of the number of new employees hired at branch G.",
+      "B": "The standard deviation of the number of new employees hired at branch F is less than the standard deviation of the number of new employees hired at branch G.",
+      "C": "The standard deviation of the number of new employees hired at branch F is greater than the standard deviation of the number of new employees hired at branch G.",
+      "D": "There is not enough information to compare the standard deviations of the numbers of employees hired at the two branches."
+    },
+    "answer_ids": {
+      "A": 12633,
+      "B": 12634,
+      "C": 12635,
+      "D": 12636
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3576/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:19.181290",
+    "explanation": "✕ExplanationThe question asks for a comparison of the standard deviations of two data sets. Standard deviation is a measure of the spread of a group of numbers. A group of numbers close together has a small standard deviation, whereas a group of numbers spread out has a large standard deviation. At branch F, the distribution of new employees is the same as at branch G, even though the numbers differ. This can be seen visually by looking at the shapes of the two graphs. To confirm, notice that the numbers in each dot plot increase by increments of 1, each value for branch G is 20 less than its corresponding value at branch G, and the number of dots in each column is the same in both plots. Since the distributions are the same, the standard deviations are equal. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3577,
+    "stimulus": "",
+    "question_stem": "The value of a laptop computer that was purchased for $429 will decrease for the first three years at an annual rate of 25% of the previous year’s value. Ify≤ 3, which of the following equations models the value,v, in dollars, of the laptopyyears after it is purchased?",
+    "answer_choices": {
+      "A": "v= 0.75(429)y",
+      "B": "v= 1.25(429)y",
+      "C": "v= 429(0.75)y",
+      "D": "v= 429(1.25)y"
+    },
+    "answer_ids": {
+      "A": 12637,
+      "B": 12638,
+      "C": 12639,
+      "D": 12640
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3577/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:19.934602",
+    "explanation": "✕ExplanationThe question asks for an equation that represents a specific situation. The value is decreasing by a certain percentage over time, so this question is about exponential decay. Write down the growth and decay formula, which isfinal amount= (original amount)(1 ±rate)number of changes. In this case,vis thefinal amount, and the question states that theoriginal amountis $429. Eliminate (A) and (B) because they do not have $429 as the original amount in front of the parentheses. Since this situation involves a decrease, the original amount must be multiplied by (1 –rate). The rate given in the question is 25%, or 0.25, so the value in parentheses should be 1 – 0.25, or 0.75. Eliminate (D), which does not have this rate because it adds 0.25 rather than subtracting it. The only remaining answer is (C), and it matches the growth and decay formula. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3578,
+    "stimulus": "",
+    "question_stem": "f(x) = 8cxThe given equation defines exponential functionf, wherecis a positive constant. Iff(2) = 1,152, what is the value off(3)?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3578/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:20.659382",
+    "explanation": "✕ExplanationThe question asks for the value of a function. In function notation, the number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. According to the question,f(2) = 1,152, so when the input is 2, the output is 1,152. Plug inf(x) = 1,152 andx= 2, and solve forc. The function becomes 1,152 = 8(c)2. Divide both sides of the equation by 8 to get 144 =c2. Take the square root of both sides of the equation to get ±12 =c. The question states thatc is a positive constant, soc= 12. The question asks for the value off(3), so plugx= 3 andc= 12 into the function, and solve forf(3). The function becomesf(3) = 8(12)3, thenf(3) = 8(1,728), and finallyf(3) = 13,824. Leave out the comma when entering the answer in the fill-in box. The correct answer is 13824.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3579,
+    "stimulus": "",
+    "question_stem": "y= 4x+ 36y= –(x+ 9)(x+ 5)What is the solution (x,y) to the given system of equations?",
+    "answer_choices": {
+      "A": "(–9, 0)",
+      "B": "(–5, –9)",
+      "C": "(–9, –5)",
+      "D": "(0, –9)"
+    },
+    "answer_ids": {
+      "A": 12641,
+      "B": 12642,
+      "C": 12643,
+      "D": 12644
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3579/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:21.398165",
+    "explanation": "✕ExplanationThe question asks for the solution to a system of equations. The most efficient method is to enter both equations into a graphing calculator, then scroll and zoom as needed to find the point of intersection. Click on the gray dot to see that the coordinates of the point are (–9, 0), which is (A).Another approach is to plug in the answers. Rewrite the answer choices on the scratch paper and label them “(x,y).” Start with one of the answers in the middle and try (B). Plugx= –5 andy= –9 into the first equation to get –9 = 4(–5) + 36, which becomes –9 = –20 + 36, and then –9 = 16. This is not true, so eliminate (B). It may be difficult to determine whether a bigger or smaller number is needed, so pick a direction and try (A) next. Plugx= –9 andy= 0 into the first equation to get 0 = 4(–9) + 36, which becomes 0 = –36 + 36, and then 0 = 0. This is true, but the point must work in both equations. Plug the same values into the second equation to get 0 = –(–9 + 9)(–9 + 5), which becomes 0 = –(0)(–4), and then 0 = 0. The point (–9, 0) makes both equations true, so it is a solution to the system of equations.Using either method, the correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3580,
+    "stimulus": "",
+    "question_stem": "For the cubic polynomial functiong, the graph ofy=g(x) is shown in thexy-plane. How many distinct values ofxsatisfy the equationg(x) = 0?",
+    "answer_choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_ids": {
+      "A": 12645,
+      "B": 12646,
+      "C": 12647,
+      "D": 12648
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3580/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:22.124066",
+    "explanation": "✕ExplanationThe question asks about the graph of a function. In function notation,f(x) =y. The number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. Together, they represent points on the graph of the function. The question asks for the number of distinct values ofxthat makeg(x) = 0. Sinceg(x) =y,y= 0, and the question is asking for thex-intercepts. Look at the graph and count how many separate times the graph of the function touches thex-axis. There are twox-intercepts, at (–1, 0) and (3, 0). The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3581,
+    "stimulus": "",
+    "question_stem": "The population of a town can be represented by the functionp(y) = 29,400, whereyis the number of years after 2020. Based on the function, how many years will it take for the population of the town to triple?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3581/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:22.831532",
+    "explanation": "✕ExplanationThe question asks for the value of a variable based on an equation. The equation is in the form of the formula for exponential growth and decay. When the change is a multiple instead of a percentage, that formula isfinal amount= (original amount)(multiplier)number of changes. In this case, thefinal amountisp(y), theoriginal amountis 29,300, themultiplieris 3, and thenumber of changesis. Since the multiplier is 3, the population of the town will triple with a single change, so thenumber of changescan be expressed as 1. Write the equation= 1, then multiply both sides of the equation by 60 to gety= 60. The correct answer is 60.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3582,
+    "stimulus": "",
+    "question_stem": "= 5t– 3The given equation relates the positive numbersw,n, andt. Which equation correctly expressesnin terms ofwandt?",
+    "answer_choices": {
+      "A": "n=w– (5t– 3)",
+      "B": "n=",
+      "C": "n=w(5t– 3)",
+      "D": "n="
+    },
+    "answer_ids": {
+      "A": 12649,
+      "B": 12650,
+      "C": 12651,
+      "D": 12652
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3582/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:23.586433",
+    "explanation": "✕ExplanationThe question asks for an equation in terms of specific variables. There are variables in the answer choices, so plugging in is an option. However, that might get messy with three variables, and all of the answer choices havenon the left side of the equation, so the other option is to solve forn. To begin to isolaten, multiply both sides of the equation bynto getw= (n)(5t– 3). Divide both sides of the equation by 5t– 3 to get=n. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3583,
+    "stimulus": "",
+    "question_stem": "In similar trianglesQRSandTUV, anglesQandTeach measure 90° and angleRcorresponds to angleU. The value of cos(U) is. What is the value of cos(R)?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 12653,
+      "B": 12654,
+      "C": 12655,
+      "D": 12656
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3583/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:24.343396",
+    "explanation": "✕ExplanationThe question asks for the value of a trigonometric function. Use the Geometry Basic Approach. Start by drawing two right triangles that are similar to each other, meaning they have the same proportions but are different sizes. Be certain to match up the corresponding angles that are given in the question and put the longest side opposite the right angle. The drawing should look something like this:Next, label the figures with the information given. Use SOHCAHTOA to remember the trig functions and label the sides. The CAH part of the acronym defines the cosine as. The question states that cos(U) =, so label the side adjacent to angleUas 93 and label the hypotenuse as 485. The drawing now looks like this:The question states that the triangles are similar and that angleRcorresponds to angleU. Trig functions are proportional, so cos(R) = cos(U). Since cos(U) =, cos(R) is also. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3584,
+    "stimulus": "",
+    "question_stem": "A circle has center pointP. The measure of central angleLPMin the circle is 65°, and the measure of associated minor arcLMisa°. What is the value ofa?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3584/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:25.064783",
+    "explanation": "✕ExplanationThe question asks for the measure of an angle on a geometric figure. Use the Geometry Basic Approach. Start by drawing the figure on the scratch paper, then label it with the information given. Draw a circle and label the center asP. Label pointsLandMon the circle, and draw straight lines to connect pointsLandMwith centerP. Label angleLPMas 65°, and label minor arcLMasa°. The drawing should look something like this:When an arc measure is given in degrees, the arc length is the same number of degrees as the central angle that defines it. The correct answer is 65.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3585,
+    "stimulus": "",
+    "question_stem": "Which equation could represent the graph shown in thexy-plane?",
+    "answer_choices": {
+      "A": "y=(x– 1)(x+ 1)(x+ 4)",
+      "B": "y=(x+ 1)2(x– 1)(x– 4)",
+      "C": "y=(x– 1)(x– 1)(x+ 4)",
+      "D": "y=(x+ 1)(x– 1)2(x– 4)"
+    },
+    "answer_ids": {
+      "A": 12657,
+      "B": 12658,
+      "C": 12659,
+      "D": 12660
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Advanced Coordinate Geometry"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3585/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:25.810017",
+    "explanation": "✕ExplanationThe question asks for an equation that represents a graph. One approach is to enter the equation from each answer choice into the built-in graphing calculator and see which graph looks like the graph in the question. Since the answers are all in factored form, another approach is to use the factors. Ifais a solution to a polynomial, (x–a) is a factor. This graph intersects thex-axis at (–1, 0), (1, 0), and (4, 0), so the factors must include (x+ 1), (x– 1), and (x– 4). Eliminate (A) and (C), which do not contain all of these factors.Next, plug in a point that is on the graph but is not on thex-axis. Whenx= 5,y≈ 25, so plug those values into the remaining answers. Choice (B) becomes 25 =(5 + 1)2(5 – 1)(5 – 4), and then 25 =(6)2(4)(1). Continue simplifying to get 25 =(36)(4)(1), and finally 25 = 36. This is not true, so eliminate (B). Choice (D) becomes 25 =(5 + 1)(5 – 1)2(5 – 4), and then 25 =(6)(4)2(1). Continue simplifying to get 25 =(6)(16)(1), and finally 25 = 24. The point on the graph is a little lower than 25, so this answer works. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3586,
+    "stimulus": "",
+    "question_stem": "Linemis perpendicular to linek, and the equation of linekin thexy-plane is 3y– 9x= 12. What is the slope of linem?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3586/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:26.524056",
+    "explanation": "✕ExplanationThe question asks for the slope of a line. The question states thatline m is perpendicular to line k, which means they have slopes that are negative reciprocals of each other. The question gives the equation of linek, so find the slope of that line. First, convert the equation of linekinto slope-intercept form,y=mx+b, in whichmis the slope andbis they-intercept. Add 9xto both sides of the equation to get 3y= 9x+ 12, and then divide both sides of the equation by 3 to gety= 3x+ 4. The slope of linekis thus 3.It is also possible to convert the equation of linekinto standard form by switching the two terms on the left side of the equation to get –9x+ 3y= 12. In standard form,Ax+By=C, the slope is. In this case,A= –9 andB= 3, so the slope of linekis= 3. The negative reciprocal of 3 is, so the slope of linemis. The decimal form, –.3333, would also be accepted as correct.Using either form of a linear equation, the correct answer isor –.3333.close",
+    "correct_answer": "o"
+  },
+  {
+    "question_id": 3587,
+    "stimulus": "",
+    "question_stem": "The functiongis defined byg(x) = –3x2+ 36x– 104. The functionfis defined byf(x) =g(x– 2).At which value ofxdoesf(x) reach its maximum value?",
+    "answer_choices": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "answer_ids": {
+      "A": 12661,
+      "B": 12662,
+      "C": 12663,
+      "D": 12664
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Advanced Coordinate Geometry"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3587/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:27.262452",
+    "explanation": "✕ExplanationThe question asks for a value ofxfor which a function reaches its maximum. A parabola reaches its minimum or maximum value at its vertex, so find thex-coordinate of the vertex. The question asks about the graph of a function that has been translated, or shifted, from the graph of the function given in the question. Enter both theg(x) equation and thef(x) equation into the built-in graphing calculator, then scroll and zoom as needed to see the two parabolas. Either use the color-coding or click on the entry field with thef(x) equation to see that the parabola on the right is the graph off(x). Click on the gray dot at the vertex to see that the vertex is at (8, –32). The question asks for the value ofx, which is 8, so (D) is correct.Another approach is to find the vertex of functiongand then apply the shift. Either use the graphing calculator or know that, when a quadratic is in standard form, which isax2+bx+c, thex-coordinate of the vertex can be found using the formulah=. In theg(x) quadratic,a= –3 andb= 36, so thex-coordinate of the vertex is –= 6. When graphs are transformed, or translated, subtracting inside the parentheses shifts the graph to the right. Thus,x– 2 shifts the graph two units to the right, which shifts thex-coordinate of the vertex from 6 to 8.Using either method, the correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3588,
+    "stimulus": "",
+    "question_stem": "Survey ResultsArt museum441Planetarium189A total of 630 students at a high school were surveyed at random to see if they preferred going to the art museum or the planetarium for a field trip. The table shows the results of the survey. Based on this sample, if the school has a total of 2,520 students, how many more students can be expected to prefer the art museum than prefer the planetarium?",
+    "answer_choices": {
+      "A": "252",
+      "B": "756",
+      "C": "1,008",
+      "D": "1,764"
+    },
+    "answer_ids": {
+      "A": 12665,
+      "B": 12666,
+      "C": 12667,
+      "D": 12668
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3588/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:28.029969",
+    "explanation": "✕ExplanationThe question asks for an expected number based on data. To find the expected difference between the number of students who prefer the art museum and the number of students who prefer the planetarium, first subtract the survey results to get 441 – 189 = 252. This is not the final answer because it only represents the difference in a sample of 630 students, not all 2,520 students. Eliminate (A) because it does not answer the final question.Next, set up a proportion representing the difference between preferences out of the total number of students. The proportion is=. Cross-multiply to get (630)(x) = (252)(2,520), or 630x= 635,040. Divide both sides of the equation by 630 to getx= 1,008. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3589,
+    "stimulus": "",
+    "question_stem": "The functiongis defined asg(x) equalsx% of –53, whenx> 0. Which of the following describes this function?",
+    "answer_choices": {
+      "A": "Decreasing exponential",
+      "B": "Decreasing linear",
+      "C": "Increasing exponential",
+      "D": "Increasing linear"
+    },
+    "answer_ids": {
+      "A": 12669,
+      "B": 12670,
+      "C": 12671,
+      "D": 12672
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3589/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:28.739972",
+    "explanation": "✕ExplanationThe question asks for a description of a function based on a percent. Compare the answer choices. Two choices say that the function is increasing, and two say it is decreasing. To determine whether the function is increasing or decreasing, one method is to graph it using the built-in calculator. The calculator automatically adds “of” after the percent sign, so translateequalsas = and enterg(x) =x%(–53). The graph of this function is a line going downward from left to right, so it is decreasing. Eliminate (C) and (D) because they describe an increasing function. Also eliminate (A) because the graph is a straight line, not a curve like the graph of an exponential function would be. This leaves (B) as the correct answer.Another option is to plug in increasing values forxand compare the corresponding values ofg(x). Plug inx= 1 to getg(1) =(–53), org(1) = –0.53. Plug inx= 2 to getg(2) =(–53), org(2) = –1.06. Plug inx= 3 to getg(3) =(–53), org(3) = –1.59. The difference betweeng(1) andg(2) is –0.53 – (–1.06) = 0.53, and the difference betweeng(2) andg(3) is –1.06 – (–1.59) = 0.53. The values ofg(x) decrease by the same amount each time, so the function represents a linear decrease.Using either method, the correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3590,
+    "stimulus": "",
+    "question_stem": "y= 7x–ky= 3x2+ 37x+ 84When graphed in thexy-plane, the given system of equations has exactly one real solution at (x,y). Ifkis a constant, what is the value ofx?",
+    "answer_choices": {
+      "A": "–9",
+      "B": "–5",
+      "C": "5",
+      "D": "9"
+    },
+    "answer_ids": {
+      "A": 12673,
+      "B": 12674,
+      "C": 12675,
+      "D": 12676
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 64,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 1",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3590/?question_set=exam&exam_id=64",
+    "scraped_at": "2025-07-05T20:02:29.485215",
+    "explanation": "✕ExplanationThe question asks for a value in a system of equations. Start by finding the value ofk. The equations are both equal toy, so set them equal to each other. The new equation becomes 3x2+ 37x+ 84 = 7x–k. Put the quadratic in standard form by setting one side equal to 0. Subtract 7xfrom both sides of the equation to get 3x2+ 30x+ 84 = –k, then addkto both sides of the equation go get 3x2+ 30x+ 84 +k= 0.The question states thatthe given system of equations has exactly one real solution, so use the discriminant. The discriminant is the part of the quadratic formula under the square root sign, and it can be written asD=b2– 4ac. When the discriminant is positive, the quadratic has exactly two real solutions; when the discriminant is 0, the quadratic has exactly one real solution; and when the discriminant is negative, the quadratic has no real solutions. In this case, the quadratic has exactly one real solution, so the discriminant must equal 0.With the equation in standard form, which isax2+bx+c= 0,a= 3,b= 30, andc= 84 +k. Plug these values into the discriminant formula and set it equal to 0 to get 0 = (30)2– 4(3)(84 +k). Square 30 and distribute the 4(3) to get 0 = 900 – 1,008 – 12k. Simplify further to get 0 = –108 – 12k, then add 108 to both sides of the equation to get 108 = –12k. Finally, divide both sides of the equation by –12 to get –9 =k.Read carefully: the question asks for the value ofx, not the value ofk. Plug –9 into the standard form quadratic for constantkto get 3x2+ 30x+ 84 + (–9) = 0. Simplify the left side of the equation to get 3x2+ 30x+ 75 = 0. Factor 3 out of the left side of the equation to get 3(x2+ 10x+ 25) = 0, then factor the quadratic to get 3(x+ 5)(x+ 5) = 0. Ifx+ 5 = 0, thenx= –5.It is also possible to enter both of the original equations into the built-in graphing calculator, substituting –9 fork, and then scroll and zoom to find thex-coordinate of the point of intersection, which is –5.Either way, the correct answer is (B).close",
+    "correct_answer": "B"
+  }
+]

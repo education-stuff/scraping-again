@@ -1,0 +1,656 @@
+[
+  {
+    "question_id": 3275,
+    "stimulus": "",
+    "question_stem": "Data set S: 2, 3, 8, 8, 11, 24Data set T: 3, 8, 8, 11, 24The values in data sets S and T are given. Which of the following is a true statement comparing the means of the two data sets?",
+    "answer_choices": {
+      "A": "There is not enough information to compare the means.",
+      "B": "The means of data set S and data set T are equal.",
+      "C": "The mean of data set S is less than the mean of data set T.",
+      "D": "The mean of data set S is greater than the mean of data set T."
+    },
+    "answer_ids": {
+      "A": 11565,
+      "B": 11566,
+      "C": 11567,
+      "D": 11568
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3275/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:35.499211",
+    "explanation": "✕ExplanationThe question asks for a comparison of the means, or averages, of two data sets. One approach is to ballpark. Both data sets contain the numbers 3, 8, 8, 11, and 24. Data set S contains an additional, smaller number, so its mean will be less, which makes (C) correct.To solve mathematically, use the average formulaT=AN, in whichTis theTotal,Ais theAverage, andNis theNumber of things. There are 6 values in data set S, soN= 6. Find theTotalby adding the 6 integers to getT= 2 + 3 + 8 + 8 + 11 + 24 = 56. The average formula becomes 56 = (A)6. Divide both sides of the equation by 6 to get  =A, which means that the mean of data set S is . Repeat the same steps to find the mean of data set T. There are 5 values in data set T, soN= 5. Find theTotalby adding the 5 integers to getT= 3 + 8 + 8 + 11 + 24 = 54. The average formula becomes 54 = (A)(5). Divide both sides of the equation by 5 to get 10.8 =A, which means that the mean of data set T is 10.8. Since  is less than 10.8, the mean of data set S is less than the mean of data set T.Using either method, the correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3276,
+    "stimulus": "",
+    "question_stem": "Ifx= 8, what is the value of 30 –x?",
+    "answer_choices": {
+      "A": "14",
+      "B": "22",
+      "C": "30",
+      "D": "38"
+    },
+    "answer_ids": {
+      "A": 11569,
+      "B": 11570,
+      "C": 11571,
+      "D": 11572
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3276/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:36.207151",
+    "explanation": "✕ExplanationThe question asks for the value of an expression. Plug in 8 forxin the expression 30 –xto get 30 – 8. Simplify the expression to get 30 – 8 = 22. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3277,
+    "stimulus": "",
+    "question_stem": "The valve of a water tank remained open for 44 seconds. The water tank contained 7,854 liters of water before the valve was opened and 1,192 liters of water once the valve was closed. Approximately how many liters of water, on average, drained from the tank each second while the valve was open?",
+    "answer_choices": {
+      "A": "27",
+      "B": "151",
+      "C": "206",
+      "D": "6,662"
+    },
+    "answer_ids": {
+      "A": 11573,
+      "B": 11574,
+      "C": 11575,
+      "D": 11576
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3277/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:36.917850",
+    "explanation": "✕ExplanationThe question asks for a value given a specific situation. Since the question includes the wordaverage, use the formulaT=AN, whereTis theTotal,Ais theAverage, andNis theNumber of things. To find the number of liters of water that drained from the tank, subtract the remaining liters of water from the initial liters of water to get 7,854 – 1,192 = 6,662 liters of water. Since the question states that 1,192 liters of water remained after thevalveremained open for 44 seconds, theNumber of thingsis 44. The average formula becomes 6,662 = (A)(44). Divide both sides of the equation by 44 to get 151.4 ≈A. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3278,
+    "stimulus": "",
+    "question_stem": "Similar right trianglesABCandDEFare shown, whereBcorresponds toE. If the measure of angleEis 52°, what is the measure of angleC?",
+    "answer_choices": {
+      "A": "38°",
+      "B": "52°",
+      "C": "128°",
+      "D": "142°"
+    },
+    "answer_ids": {
+      "A": 11577,
+      "B": 11578,
+      "C": 11579,
+      "D": 11580
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3278/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:37.645904",
+    "explanation": "✕ExplanationThe question asks for the value of the measure of an angle on a geometric figure. Use the Geometry Basic Approach. Start by redrawing the figures on the scratch paper. The question states that the triangles are similar and thatBcorresponds toE, and the figure shows that bothAandDare right angles, soCmust correspond toF. Since angleEhas a measure of 52°, angleBalso has a measure of 52°. Label this information on the figures. All triangles contain 180°, so the third angle in each triangle has a measure of 180° – 90° – 52° = 38°. Label anglesCandFas 38°. The question asks for the measure of angleC, which is 38°. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3279,
+    "stimulus": "",
+    "question_stem": "Last week, a softball equipment company made $26,000 from the sale of equally-priced bats and equally-priced gloves. Whenbis the number of bats sold andgis the number of gloves sold, the equation 500b+ 300g= 26,000 represents this situation. The sales price of each glove is how many dollars less than the sales price of each bat?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3279/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:38.362053",
+    "explanation": "✕ExplanationThe question asks for a value given a specific situation. Translate the information in Bite-Sized Pieces. One piece of information states thatbis the number of bats sold and g is the number of gloves sold, and another piece states that thecompany made $26,000 from the sale of equally-priced bats and equally-priced gloves. Since the sum of 500band 300gequals the total money made from selling the two types of softball equipment, 500 and 300 must be the cost per bat and the cost per glove, respectively. To find how much less the price of a glove is than the price of a bat, subtract 300 from 500: 500 – 300 = 200. Each glove costs $200 less than each bat. The correct answer is 200.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3280,
+    "stimulus": "",
+    "question_stem": "8x–y= –17–7x= 14The given system of equations has one solution at (x,y). What is the value ofx−y?",
+    "answer_choices": {
+      "A": "−31",
+      "B": "−3",
+      "C": "3",
+      "D": "31"
+    },
+    "answer_ids": {
+      "A": 11581,
+      "B": 11582,
+      "C": 11583,
+      "D": 11584
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3280/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:39.093972",
+    "explanation": "✕ExplanationThe question asks for the value of an expression given a system of equations. When a Digital SAT question asks for the value of an expression, there is usually a straightforward way to solve for the expression without needing to completely isolate either variable. Try stacking and adding the two equations.8x–y= –17+ –7x=  14x – y = –3The question asks for the value ofx–y, so stop here. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3281,
+    "stimulus": "",
+    "question_stem": "The functionf(d) = 750d+ 12,000 models the amount of money, in dollars, that an arts organization has in its accountddays after starting a fundraising campaign. Based on this model, how much money, in dollars, did the organization have in its account before starting the fundraising campaign?",
+    "answer_choices": {
+      "A": "16",
+      "B": "750",
+      "C": "11,250",
+      "D": "12,000"
+    },
+    "answer_ids": {
+      "A": 11585,
+      "B": 11586,
+      "C": 11587,
+      "D": 11588
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3281/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:39.842887",
+    "explanation": "✕ExplanationThe question asks for a value based on a function. The question states thatdrepresents the number of days after starting a fundraising campaign andf(d) represents the amount of money in the accountddays after starting the campaign. Plug ind= 0 to determine how many dollars were in the account before the campaign started. The function becomesf(0) = 750(0) + 12,000, thenf(0) = 0 + 12,000, and finallyf(0) = 12,000. There was $12,000 in the account before the fundraising campaign started. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3282,
+    "stimulus": "",
+    "question_stem": "Equilateral triangle T has a perimeter that is one-third the perimeter of equilateral triangle S. If one side of triangle S is 9 inches long, what is the length, in inches, of one side of triangle T?",
+    "answer_choices": {
+      "A": "3",
+      "B": "9",
+      "C": "12",
+      "D": "27"
+    },
+    "answer_ids": {
+      "A": 11589,
+      "B": 11590,
+      "C": 11591,
+      "D": 11592
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3282/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:40.551013",
+    "explanation": "✕ExplanationThe question asks for a value given a relationship between two geometric figures. Use the Geometry Basic Approach. Start by drawing two equilateral triangles of different sizes, then label the figure with the given information. The question states thatone side of triangle S is 9 inches long, so label this on the figure. The perimeter of a geometric shape is the sum of the lengths of its sides, and all three sides in an equilateral triangle are equal, so the perimeter of triangle S is 9 + 9 + 9 = 27 inches. The question states thatequilateral triangle T has a perimeter that is one-third the perimeter of equilateral triangle S, so the perimeter of triangle T isinches. Triangle T has three equal sides, so one side of triangle T isinches long. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3283,
+    "stimulus": "",
+    "question_stem": "If |7x+ 14| = 49, what is one possible value ofx+ 2?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3283/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:41.257987",
+    "explanation": "✕ExplanationThe question asks for a possible value of an expression given an equation with an absolute value. With an absolute value, the value inside the absolute value bars can be either positive or negative, so this equation has two possible solutions. To find the solutions, either set 7x+ 14 equal to 49 or set 7x+ 14 equal to –49. The question asks for the value ofx+ 2, which is equivalent to dividing 7x+ 14 by 7. When 7x+ 14 = 49, divide both sides of the equation by 7 to getx+ 2 = 7. When 7x+ 14 = –49, divide both sides of the equation by 7 to getx+ 2 = –7. Either 7 or –7 is a possible value ofx+ 2. The correct answer is 7 or –7.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3284,
+    "stimulus": "",
+    "question_stem": "xg(x)–30–116–24–86–18–56–12–26–64Five values ofxand their corresponding values ofg(x) are shown in the table. The relationship betweenxandg(x) is linear. If the functiongis defined byg(x) =kx+ 34, what is the value of the constantk?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3284/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:42.018770",
+    "explanation": "✕ExplanationThe question asks for the value of a constant in a function that represents values given in a table. In function notation, the number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. The table includes five input values and five output values, all of which must work in the equationg(x) =kx+ 34. Pick any pair of values from the table and plug them into the given equation to solve fork. Plug inx= –6 andg(x) = 4 to keep the numbers small. The equation of functiongbecomes 4 =k(–6) + 34, or 4 = –6k+ 34. Add 6kto both sides of the equation to get 6k+ 4 = 34, and then subtract 4 from both sides of the equation to get 6k= 30. Divide both sides of the equation by 6 to getk= 5. The correct answer is 5.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3285,
+    "stimulus": "",
+    "question_stem": "The expression (–3x4+ 13) + (–8x4– 9) is equivalent tocx4+ 4, wherecis a constant. What is the value ofc?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3285/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:42.756978",
+    "explanation": "✕ExplanationThe question asks for a constant in an equivalent expression. The question asks for the value ofc, which is multiplied byx4, so focus on the terms withx4. Rewrite the first expression with only those terms to get –3x4+ (–8x4), which becomes –11x4. Set this equal to the term withx4in the second expression to get –11x4=cx4, then divide both sides of this equation byx4to get –11 =c. The correct answer is –11.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3286,
+    "stimulus": "",
+    "question_stem": "The given equation relates the numbersm,n, ands, wherenis not equal to 0 ands> 1. Which equation correctly expressesmin terms ofnands?",
+    "answer_choices": {
+      "A": "m= 2n– 66s",
+      "B": "m= 66ns",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 11593,
+      "B": 11594,
+      "C": 11595,
+      "D": 11596
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3286/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:43.511904",
+    "explanation": "✕ExplanationThe question asks for an equation in terms of a specific variable. The question asks about the relationship among variables and there are variables in the answer choices, so one option is to plug in. However, that might get messy with three variables. All of the answer choices havemby itself, so the other option is to solve form. To isolatem, first cross-multiply to get (n)(2) = (22m)(3s), or 2n= 66ms. Divide both sides of the resulting equation by 66sto get=m. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3287,
+    "stimulus": "",
+    "question_stem": "A certain ant colony contains 96,000 ants. A disease infects the colony, causing the number of ants to decrease by one-half every 4 days. How many ants remained in the colony 20 days after the infection started?",
+    "answer_choices": {
+      "A": "3,000",
+      "B": "4,800",
+      "C": "6,000",
+      "D": "24,000"
+    },
+    "answer_ids": {
+      "A": 11597,
+      "B": 11598,
+      "C": 11599,
+      "D": 11600
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3287/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:44.212069",
+    "explanation": "✕ExplanationThe question asks for an equation that represents a specific situation. The number of ants is decreasing by a multiple over time, so this question is about exponential decay. Write down the growth and decay formula. When the change is a multiple instead of a percentage, the formula isfinal amount= (original amount)(multiplier)number of changes. In this case, theoriginal amountis 96,000. The question states that the number of ants decreasesby one-half every 4 days, so themultiplieris. The question asks for the number of ants20 days after the infection started, so thenumber of changesis= 5. The formula becomesfinal amount= 96,000, orfinal amount= 96,000, and finallyfinal amount= 3,000. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3288,
+    "stimulus": "",
+    "question_stem": "x< 53x– 7y< 16When the given system of inequalities is graphed in thexy-plane, one of the solutions is (39,y). Which of the following could be the value ofy?",
+    "answer_choices": {
+      "A": "−4",
+      "B": "−3",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_ids": {
+      "A": 11601,
+      "B": 11602,
+      "C": 11603,
+      "D": 11604
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3288/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:44.960126",
+    "explanation": "✕ExplanationThe question asks for they-value of a point that satisfies a system of inequalities. The answers contain specific values, so plug in the answers. Rewrite the answer choices on the scratch paper and label them as “y.” Start with one of the middle numbers and try (C), 3. The question provides anx-value of 39, which is possible based on the first inequality, so plugx= 39 andy= 3 into the second inequality. The second inequality becomes 39 – 7(3) < 16, then 39 – 21 < 16, and finally 18 < 16. This is not true, so eliminate (C). The value on the left side of the inequality was close to being less than 16, so try (D), 4, next. Plugx= 39 andy= 4 into the second inequality to get 39 – 7(4) < 16, which becomes 39 – 28 < 16, and then 11 < 16. This is true, so stop here. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3289,
+    "stimulus": "",
+    "question_stem": "Ifsandtare positive, which of the following expressions is equivalent to the given expression?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "(st)14",
+      "D": "(st)45"
+    },
+    "answer_ids": {
+      "A": 11605,
+      "B": 11606,
+      "C": 11607,
+      "D": 11608
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3289/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:45.684660",
+    "explanation": "✕ExplanationThe question asks for an equivalent form of an expression. Although there are variables in the answer choices, plugging in on this question would be difficult given all the exponents. Instead, use Bite-Sized Pieces and Process of Elimination to tackle this question. Start by rewriting the expression with fractional exponents. In a fractional exponent, the numerator is the power and the denominator is the root. Taking the 9th root of a value raised to the 5th power can be written using the fractional exponent. The expression becomes, which can also be written as. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3290,
+    "stimulus": "",
+    "question_stem": "A certain collector’s item increased in value every month for the first six months after it was purchased. The graph shows the value,y, in hundreds of dollars, of the itemxmonths after it was purchased, where 0 ≤x≤ 6. Which of the following is the best interpretation of they-intercept of the graph in this context?",
+    "answer_choices": {
+      "A": "The value of the item when it was purchased was $2.",
+      "B": "The value of the item increased by $200 over the first 6 months after it was purchased.",
+      "C": "The value of the item when it was purchased was $200.",
+      "D": "The value of the item six months after it was purchased was $2,000."
+    },
+    "answer_ids": {
+      "A": 11609,
+      "B": 11610,
+      "C": 11611,
+      "D": 11612
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3290/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:46.398563",
+    "explanation": "✕ExplanationThe question asks for the interpretation of a feature of a graph. Start by reading the final question, which asks for the best interpretation of they-intercept. They-intercept is they-value whenx= 0. The question states that the graph represents the valueof the item x months after it was purchased, sox= 0 means the value at the time it was purchased. Eliminate (B) because it is about a range of months instead of the initial value, and eliminate (D) because it is about the value of the item six months after it was purchased instead of at the time it was purchased. Compare the remaining answer choices. The difference between (A) and (C) is whether the value is $2 or $200. Check the units of they-axis. The question states thatyis the value of the itemin hundreds of dollars, so 2 on they-axis means the initial value was $200. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3291,
+    "stimulus": "",
+    "question_stem": "Which of the following systems of linear equations has exactly one real solution?",
+    "answer_choices": {
+      "A": "y= 2y= 4",
+      "B": "y= 2xy= 2x– 4",
+      "C": "y= 4x– 4y= 4x+ 4",
+      "D": "y= 4x– 2y= 8x– 4"
+    },
+    "answer_ids": {
+      "A": 11613,
+      "B": 11614,
+      "C": 11615,
+      "D": 11616
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3291/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:47.194807",
+    "explanation": "✕ExplanationThe question asks for a system of equations with exactly one real solution. A system of linear equations in two variables has exactly one solution when they-terms are the same and thex-terms are different or vice versa. Eliminate (A) because it contains two equations of horizontal lines, which are parallel and have no solutions. Eliminate (B) and (C) because they-terms and thex-terms are the same. Keep (D) because they-terms are the same and thex-terms are different. Another approach is to enter all four pairs of equations into the built-in calculator and see which pair intersects once. The graphs of the equations in (D) intersect once, so that system of equations has exactly one real solution. Using either method, the correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3292,
+    "stimulus": "",
+    "question_stem": "Thenth term of a sequence is represented bys, and each term after the first term is one-half of the preceding term. If the first term of the sequence is 56, which of the following equations expressessin terms ofn?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 11617,
+      "B": 11618,
+      "C": 11619,
+      "D": 11620
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3292/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:47.906640",
+    "explanation": "✕ExplanationThe question asks for an equation in terms of specific variables. The question asks about the relationship between variables and there are variables in the answer choices, so plug in. The question states thatnrepresents the number of the term of the sequence and that the first term of the sequence is 56. Thus, whenn= 1,s= 56. Plug these values into the answer choices and eliminate any that are not true. Choice (A) becomes 56 =(56)1 – 1, or 56 =(56)0. Any number raised to the power of zero is 1, so this becomes 56 =(1), or 56 =. This is not true, so eliminate (A). Choice (B) becomes 56 =(56)1, or 56 = 28; eliminate (B). Choice (C) becomes 56 = 56, or 56 = 56. This becomes 56 = 56(1), or 56 = 56. This is true, so keep (C), but check (D) just in case. Choice (D) becomes 56 = 56, or 56 = 28; eliminate (D), The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3293,
+    "stimulus": "",
+    "question_stem": "In 2023, a certain streaming service decreased its number of movies available by 9% from the number of movies available in 2022. If the number of movies available in 2023 ismtimes the number of movies available in 2022, what is the value ofm?",
+    "answer_choices": {
+      "A": "0.09",
+      "B": "0.91",
+      "C": "1.09",
+      "D": "1.91"
+    },
+    "answer_ids": {
+      "A": 11621,
+      "B": 11622,
+      "C": 11623,
+      "D": 11624
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3293/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:48.617246",
+    "explanation": "✕ExplanationThe question asks for the value of a constant that represents a decrease. The question is about the relationship between values, so plug in. Plug in 100 for the number of movies available in 2022 because 100 works well with percentages.Percentmeans out of 100, so translate 9% as. Because the number of movies available decreased by 9% from the starting number of 100, take 9% of 100 and subtract it from 100. The result is 100 –(100) = 100 – 9 = 91. Thus, the streaming service has 91 movies available in 2023. This is the target value; circle it. Because the number of movies decreased from 100 to 91, (B) is a likely answer. To test it, plug in 0.91 form. The question states thatthe number of movies available in 2023 is m times the number of movies available in 2022, so multiply the number of movies available in 2022, 100, by 0.91 to get (100)(0.91) = 91. This matches the target value for the number of movies available in 2023, so stop here. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3294,
+    "stimulus": "",
+    "question_stem": "The maximum value ofqis 14 more than 7 times the value ofr. Which inequality represents the relationship betweenqandr?",
+    "answer_choices": {
+      "A": "q≤ 7r+ 14",
+      "B": "q≤ 14r+ 7",
+      "C": "q≥ 7r+ 14",
+      "D": "q≥ 14r+ 7"
+    },
+    "answer_ids": {
+      "A": 11625,
+      "B": 11626,
+      "C": 11627,
+      "D": 11628
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3294/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:49.393358",
+    "explanation": "✕ExplanationThe question asks for an inequality that represents a given situation. Translate the information in Bite-Sized Pieces and eliminate after each piece. Translatethe maximum value of qasqis less than or equal to, orq≤. Eliminate (C) and (D) because the inequality sign is the wrong direction. Translate7 times the value of ras 7r. Eliminate (B) because it does not include this term. Choice (A) also correctly translates14 more thanas + 14. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3295,
+    "stimulus": "",
+    "question_stem": "The equation 5x+ 3y= –8 represents linel. Linemis obtained by shifting linelup 2 units in thexy-plane. Thex-intercept of the graph of linemis (a,b). What is the value ofa?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Advanced Coordinate Geometry"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3295/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:50.104410",
+    "explanation": "✕ExplanationThe question asks for thex-coordinate of thex-intercept of a graph that is a translation of another graph. When a graph is translated, or transformed, up or down, they-value changes. Start by isolatingy. Subtract 5xfrom both sides of the equation to get 3y= –5x– 8. Divide both sides of the equation by 3 to gety=. To translate this graph up 2 units, add 2 to they-value. The equation of the new graph isy=. At this point, the best option is to enter this equation into the built-in calculator, then scroll and zoom as needed to see a gray dot at thex-intercept. Click on the dot to see that the coordinates of the point are (–0.4, 0). The question asks for thex-coordinate of thex-intercept, which is –0.4. It is also possible to solve algebraically by makingy= 0 in the equation of the new graph and solving forx. This might lead to the decimal form –0.4 or to the fractional form, both of which will be accepted as correct. The correct answer is –0.4 or –2/5.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3296,
+    "stimulus": "",
+    "question_stem": "AB= 42BC= 56CA= 70Right triangleABCis similar to triangleDEF, whereAcorresponds toDandBcorresponds toE. The lengths of the sides of triangleABCare given. What is the value of cosD?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 11629,
+      "B": 11630,
+      "C": 11631,
+      "D": 11632
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 52,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 2 - Math - Module 1",
+    "test_series": "Prep Test 2",
+    "subject": "Math",
+    "module_number": 1,
+    "difficulty": null,
+    "url": "https://oneprep.xyz/question/3296/?question_set=exam&exam_id=52",
+    "scraped_at": "2025-07-05T19:58:50.841422",
+    "explanation": "✕ExplanationThe question asks for the value of a trigonometric function. Use the Geometry Basic Approach. Start by drawing two right triangles that are similar to each other, meaning they have the same proportions but are different sizes. Be certain to match up the corresponding angles that are given in the question, and put the longest side opposite the right angle. The drawing should look something like this:The question asks for the value of cosD. Trig functions are proportional, and angleAcorresponds to angleD, so cosA= cosD. Use SOHCAHTOA to remember the trig functions, and find cosA. The CAH part of the acronym defines cosine as. The side adjacent to angleAis 42, and the hypotenuse is 70, so cosA=. Since cosD= cosA, cosDis also. The numerator and denominator are both multiples of 14, so reduce the fraction to get cosD=. The correct answer is (A).close",
+    "correct_answer": "A"
+  }
+]

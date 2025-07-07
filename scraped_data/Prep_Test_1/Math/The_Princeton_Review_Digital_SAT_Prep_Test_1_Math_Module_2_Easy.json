@@ -1,0 +1,666 @@
+[
+  {
+    "question_id": 3150,
+    "stimulus": "",
+    "question_stem": "33, 34, 38, 41, 43, 44, 47Which of the following is the median of the data listed above?",
+    "answer_choices": {
+      "A": "38",
+      "B": "40",
+      "C": "41",
+      "D": "42"
+    },
+    "answer_ids": {
+      "A": 11097,
+      "B": 11098,
+      "C": 11099,
+      "D": 11100
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3150/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:03.238222",
+    "explanation": "✕ExplanationThe question asks for the median of a set of data. The median of a list of numbers is the middle number when the numbers are arranged in order. In lists with an even number of numbers, the median is the average of the two middle numbers. Count to see that there are 7 numbers in the list. Since there is an odd number of numbers, the median is the middle number. Since this list is already in order, cross out one number at a time from each end until only the middle number is left, like so:33,34,38, 41,43,44,47. The middle number is 41, so the median is 41. The answer is (C).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3151,
+    "stimulus": "",
+    "question_stem": "What is the value of the solution to the equation 22 =y– 10?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3151/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:03.974862",
+    "explanation": "✕ExplanationThe question asks for the value of a variable based on an equation. Isolate the variable by moving everything else to the other side of the equation. Since the right side of the equation has –10, add 10 to both sides of the equation. Write this step on the scratch paper like this:22 =y– 10+10+1032 =yThe answer is 32.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3152,
+    "stimulus": "",
+    "question_stem": "A rectangle has a height of 23 inches (in) and a width of 9 in. What is its perimeter, in inches?",
+    "answer_choices": {
+      "A": "32",
+      "B": "64",
+      "C": "207",
+      "D": "1,024"
+    },
+    "answer_ids": {
+      "A": 11101,
+      "B": 11102,
+      "C": 11103,
+      "D": 11104
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3152/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:04.693503",
+    "explanation": "✕ExplanationThe question asks for the perimeter of a rectangle. Use the geometry basic approach. Start by drawing a rectangle on the scratch paper. Next, label the figure with information from the question. In a rectangle, opposite sides are equal, so this rectangle has two sides that are 23 inches long and two sides that are 9 inches long. The drawing should look something like this:The perimeter of a geometric shape is the sum of the lengths of the sides. Add all four side lengths to get 9 + 23 + 9 + 23 = 64. The answer is (B).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3153,
+    "stimulus": "",
+    "question_stem": "15a– (6a– 2a)Which of the following expressions is equivalent to the one above?",
+    "answer_choices": {
+      "A": "5a",
+      "B": "7a",
+      "C": "11a",
+      "D": "23a"
+    },
+    "answer_ids": {
+      "A": 11105,
+      "B": 11106,
+      "C": 11107,
+      "D": 11108
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3153/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:05.460652",
+    "explanation": "✕ExplanationThe question asks for an equivalent form of an expression. Every term includes the variable a multiplied by a different number, called a coefficient. Work with the coefficients, and remember the order of operations, PEMDAS, which stands for Parentheses, Exponents, Multiply, Divide, Add, Subtract. Start inside the parentheses: 6a– 2a= 4a. The expression becomes 15a– 4a. Subtract the coefficients to get 15a– 4a= 11a. The answer is (C).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3154,
+    "stimulus": "",
+    "question_stem": "Which equation represents the relationship between the numbersaandbifais half ofb?",
+    "answer_choices": {
+      "A": "",
+      "B": "a=b– 2",
+      "C": "a=b+ 2",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 11109,
+      "B": 11110,
+      "C": 11111,
+      "D": 11112
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3154/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:06.177294",
+    "explanation": "✕ExplanationThe question asks for an equation that represents the relationship between two variables. Translate the English to math in bite-sized pieces. Translateisas equals, or =. Translatehalfas. Translateofas times, or ×. Thus,a is half of btranslates to. The multiplication sign is not needed when multiplying a number by a variable, so this can be written as. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3155,
+    "stimulus": "",
+    "question_stem": "For all positive values ofy, the expressionis equivalent to. What is the value of constantc?",
+    "answer_choices": {
+      "A": "3",
+      "B": "6",
+      "C": "8",
+      "D": "150"
+    },
+    "answer_ids": {
+      "A": 11113,
+      "B": 11114,
+      "C": 11115,
+      "D": 11116
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3155/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:06.893736",
+    "explanation": "✕ExplanationThe question asks for the value of a constant given two equivalent expressions. Start by rewriting the expressions with an equal sign between them to ge. Next, start to solve by cross-multiplying. The equation becomes (y+c)(15) = (3)(5y+ 30). Distribute on both sides of the equation to get 15y+ 15c= 15y+ 90. Subtract 15yfrom both sides of the equation to get 15c= 90. Divide both sides of the equation by 15 to getc= 6. The answer is (B).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3156,
+    "stimulus": "",
+    "question_stem": "A total of 200 pets were adopted at an event. If 70% of the adopted pets were dogs, how many of the pets were dogs?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3156/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:07.615346",
+    "explanation": "✕ExplanationThe question asks for a value based on a percentage. Translate the English to math in bite-sized pieces.Percentmeans out of 100, so translate 70% as. Translatehow manyas a variable, such asdfor dogs. Translateofas times, or ×. Translatethe petsas 200. The equation becomes. Solve the equation by hand or on a calculator to getd= 140. The answer is 140.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3157,
+    "stimulus": "",
+    "question_stem": "James must drive 100 miles before he can take his driver’s license test. He knows that, when he drives around town running errands, he drives at an average speed of 20 miles per hour. If James maintains this average speed, how many hours must he drive to meet the requirement for his driver’s license test?",
+    "answer_choices": {
+      "A": "5",
+      "B": "20",
+      "C": "80",
+      "D": "100"
+    },
+    "answer_ids": {
+      "A": 11117,
+      "B": 11118,
+      "C": 11119,
+      "D": 11120
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3157/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:08.340378",
+    "explanation": "✕ExplanationThe question asks for a value given a rate. Begin by reading the question to find information about the rate. The question states that Jamesdrives at an average speed of 20 miles per hour. Set up a proportion to determine how many hours it will take James to drive 100 miles. The proportion is. Cross-multiply to get (1)(100) = (20)(x), or 100 = 20x. Divide both sides of the equation by 20 to get 5 =x. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3158,
+    "stimulus": "",
+    "question_stem": "What is the value of 4y– 16 ify– 4 = 11?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3158/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:09.029978",
+    "explanation": "✕ExplanationThe question asks for the value of an expression given an equation. When an SAT question asks for the value of an expression, there is usually a straightforward way to solve for the expression without needing to completely isolate the variable. Since 4yis four timesyand 16 is four times 4, multiply the entire equation by 4 to get (4)(y– 4) = (4)(11). The equation becomes 4y– 16 = 44. The answer is 44.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3159,
+    "stimulus": "",
+    "question_stem": "The functiongis defined asg(x) =x2– 1. What is the value ofg(x) whenx= 3?",
+    "answer_choices": {
+      "A": "4",
+      "B": "5",
+      "C": "7",
+      "D": "8"
+    },
+    "answer_ids": {
+      "A": 11121,
+      "B": 11122,
+      "C": 11123,
+      "D": 11124
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3159/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:09.767658",
+    "explanation": "✕ExplanationThe question asks for the value of a function. In function notation,f(x) =y. The number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. The question provides an input value, so plugx= 3 into the function to getg(3) = 32– 1, which becomesg(3) = 9 – 1, and theng(3) = 8. The answer is (D).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3160,
+    "stimulus": "",
+    "question_stem": "The production costp(x), in dollars, to producexunits of an item when materials cost $2 per item is given byp(x) = 2x+ 150. What is the total cost to produce 2,000 units of this item?",
+    "answer_choices": {
+      "A": "$1,850",
+      "B": "$2,300",
+      "C": "$3,850",
+      "D": "$4,150"
+    },
+    "answer_ids": {
+      "A": 11125,
+      "B": 11126,
+      "C": 11127,
+      "D": 11128
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3160/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:10.507302",
+    "explanation": "✕ExplanationThe question asks for the value of a function. In function notation,f(x) =y. The number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. The question provides the number of items, which is represented byx, so plugx= 2,000 into the function to getp(2,000) = 2(2,000) + 150, which becomesp(2,000) = 4,000 + 150, and thenp(2,000) = 4,150. The answer is (D).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3161,
+    "stimulus": "",
+    "question_stem": "The functionfis given as. Whenx= 6, what is the value off(x)?",
+    "answer_choices": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "9"
+    },
+    "answer_ids": {
+      "A": 11129,
+      "B": 11130,
+      "C": 11131,
+      "D": 11132
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3161/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:11.248349",
+    "explanation": "✕ExplanationThe question asks for the value of a function. In function notation,f(x) =y. The number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. The question provides an input value, so plugx= 6 into the function to get, which becomesf(6) = 4. The answer is (B).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3162,
+    "stimulus": "",
+    "question_stem": "In the figure above, what is the value ofdif lineais parallel to lineb?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3162/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:12.005947",
+    "explanation": "✕ExplanationThe question asks for the value of an angle on a figure. Use the geometry basic approach. Start by redrawing the figure on the scratch paper, then label the figure with the given information. The fact that two of the lines are parallel will be important on some questions about lines and angles, but here it’s unnecessary information. Instead, sincedand 62 make up a straight line and there are 180 degrees in a line,d+ 62 = 180. Subtract 62 from both sides of the equation to getd= 118. The answer is 118.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3163,
+    "stimulus": "",
+    "question_stem": "3x– 4y= 17In thexy-plane, the graph of a line with anx-intercept of (c, 0) and ay-intercept of (0,k), wherecandkare constants, can be represented by the equation above. What is the value of?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 11133,
+      "B": 11134,
+      "C": 11135,
+      "D": 11136
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3163/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:12.767433",
+    "explanation": "✕ExplanationThe question asks for the value of an expression given the equation of a graph in thexy-plane. One method is to use a graphing calculator. Enter the equation of the line, then scroll and zoom as needed to find the intercepts. Thex-intercept is at (5.667, 0), and they-intercept is at (0, –4.25). Thus,c= 5.667,k= –4.25, and. This is the same value as, which matches (A). To solve algebraically, plug the given points into the equation of the line. Plug inx=candy= 0 to get 3c– 4(0) = 17, or 3c= 17. Divide both sides of the equation by 3 to get. Next, plug inx= 0 andy=kto get 3(0) – 4k= 17, or –4k= 17. Divide both sides of the equation by –4 to get. Finally dividecbykto get. When dividing fractions, multiply the reciprocal of the fraction in the denominator and the fraction in the numerator. This becomes, and then. Using either method, the answer is (A).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3164,
+    "stimulus": "",
+    "question_stem": "A postal machine processes mail at a constant rate of 21 pieces of mail per minute. At this rate, how many pieces of mail would the machine process in 7 minutes?",
+    "answer_choices": {
+      "A": "3",
+      "B": "14",
+      "C": "28",
+      "D": "147"
+    },
+    "answer_ids": {
+      "A": 11137,
+      "B": 11138,
+      "C": 11139,
+      "D": 11140
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3164/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:13.546678",
+    "explanation": "✕ExplanationThe question asks for a value given a rate. Begin by reading the question to find information about the rate. The question states that the machineprocesses mail at a constant rate of 21 pieces of mail per minute. Set up a proportion to determine how many pieces of mail the machine will process in 7 minutes, being sure to match up units. The proportion is. Cross-multiply to get (1)(x) = (21)(7), orx= 147. The answer is (D).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3165,
+    "stimulus": "",
+    "question_stem": "Stella had 211 invitations to send for an event. She has already sent 43 invitations and will send them all if she sends 24 each day for the nextddays. Which of the following equations represents this situation?",
+    "answer_choices": {
+      "A": "24d– 43 = 211",
+      "B": "24d+ 43 = 211",
+      "C": "43d– 24 = 211",
+      "D": "43d+ 24 = 211"
+    },
+    "answer_ids": {
+      "A": 11141,
+      "B": 11142,
+      "C": 11143,
+      "D": 11144
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3165/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:14.303269",
+    "explanation": "✕ExplanationThe question asks for an equation that represents a specific situation. Translate the information in bite-sized pieces and eliminate after each piece. One piece of information says that Stella will send 24 invitationseach day for the nextddays. Sincedrepresents the number of days, it should be multiplied by 24. Eliminate (C) and (D) because they multiplydby 43 instead of 24. Compare the remaining answer choices. The difference between (A) and (B) is whether 43 is added to 24dor subtracted from 24d. Since Stellahas already sent 43 invitationsand will send a total of 211 invitations, 43 should be added to 24dand set equal to 211. Eliminate (A) because it uses subtraction. The answer is (B).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3166,
+    "stimulus": "",
+    "question_stem": "x–1012f(x)12151821When the linear functiony=f(x) is graphed in thexy-plane, the graph contains the corresponding values ofxandf(x) shown in the table above. Which of the following could represent the function?",
+    "answer_choices": {
+      "A": "f(x) = 3x+ 12",
+      "B": "f(x) = 3x+ 15",
+      "C": "f(x) = 15x+ 12",
+      "D": "f(x) = 15x+ 15"
+    },
+    "answer_ids": {
+      "A": 11145,
+      "B": 11146,
+      "C": 11147,
+      "D": 11148
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3166/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:15.034478",
+    "explanation": "✕ExplanationThe question asks for the function that represents values given in a table. In function notation, the number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. Together, they represent points on the graph of the function. The table shows pairs of values forxandf(x), and the correct function must work for every point on the graph. Plug in values from the table and eliminate functions that don’t work. Try the point (0, 15) and plugx= 0 andf(x) = 15 into the answer choices. Choice (A) becomes 15 = 3(0) + 12, or 15 = 12. This is not true, so eliminate (A). Choice (B) becomes 15 = 3(0) + 15, or 15 = 15. This is true, so keep (B), but check the remaining answers just in case. Choice (C) becomes 15 = 15(0) + 12, or 15 = 12; eliminate (C). Choice (D) becomes 15 = 15(0) + 15, or 15 = 15; keep (D). Two answers worked for the first point, so try a second point from the table and plugx= 1 andf(x) = 18 into the remaining answers. Choice (B) becomes 18 = 3(1) + 15, or 18 = 18; keep (B). Choice (D) becomes 18 = 15(1) + 15, or 18 = 30; eliminate (D). The answer is (B).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3167,
+    "stimulus": "",
+    "question_stem": "The height of rocket launched from a rooftop can be modeled by the equation h = –16s2+ 64s+ 21, wherehis the height of the rocket above the ground, in feet, andsis the number of seconds since the rocket was launched. Which of the following represents the height, in feet, of the rooftop from which the rocket was launched?",
+    "answer_choices": {
+      "A": "0",
+      "B": "16",
+      "C": "21",
+      "D": "64"
+    },
+    "answer_ids": {
+      "A": 11149,
+      "B": 11150,
+      "C": 11151,
+      "D": 11152
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3167/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:15.791040",
+    "explanation": "✕ExplanationThe question asks for the term in an equation that represents a specific part of a scenario. The question states thatsrepresentsthe number of seconds since the rocket was launchedand asks for the height when the rocket was launched. No time had elapsed at the instant the rocket was launched, so plugs= 0 into the equation. The equation becomesh= –16(0)2+ 64(0) + 21. Simplify the right side of the equation to geth= 0 + 0 + 21, or h = 21. Since the height at the time of 0 seconds is 21 feet, that number represents the initial height, or the height of the rooftop. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3168,
+    "stimulus": "",
+    "question_stem": "Functionfis defined asf(x) =x3+ 1. Which of the following tables gives four values ofxand their corresponding values ofy?",
+    "answer_choices": {
+      "A": "x234y345",
+      "B": "x234y32864",
+      "C": "x234y91065",
+      "D": "x234y92865"
+    },
+    "answer_ids": {
+      "A": 11153,
+      "B": 11154,
+      "C": 11155,
+      "D": 11156
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3168/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:16.515611",
+    "explanation": "✕ExplanationThe question asks for correct values in a function. In function notation,f(x) =y. The number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. When given a function and asked for the table of values, plug values from the answer choices into the function and eliminate answers that don’t work. Start withx= 2 because two answers pair it withy= 3 and two pair it with y = 9, so this will eliminate half of the answer choices. Plugx= 2 into the function to getf(2) = 23 + 1, which becomesf(2) = 8 + 1, and thenf(2) = 9. Eliminate (A) and (B) because they both havey= 3 for thisxvalue. The third point is the same in (C) and (D), so try the second point and plugx= 3 into the function. The function becomesf(3) = 33 + 1, thenf(3) = 27 + 1, and thenf(3) = 28. Eliminate (C). The answer is (D).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3169,
+    "stimulus": "",
+    "question_stem": "Ifh(–1) = 3 andh(0) = 5 in linear functionh, which of the following is the equation of functionh?",
+    "answer_choices": {
+      "A": "h(x) = 2x+ 5",
+      "B": "h(x) = 2x+ 3",
+      "C": "h(x) = 2x",
+      "D": "h(x) = 3x+ 5"
+    },
+    "answer_ids": {
+      "A": 11157,
+      "B": 11158,
+      "C": 11159,
+      "D": 11160
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3169/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:17.261103",
+    "explanation": "✕ExplanationThe question asks for the equation that defines a function. In function notation, the number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. The question provides two pairs of input and output values, so plug those into the answer choices and eliminate answers that don’t work with both points. Start by pluggingx= –1 andh(x) = 3 into the answer choices. Choice (A) becomes 3 = 2(–1) + 5, then 3 = –2 + 5, and then 3 = 3. This is true, so try the second pair of values in (A). Plug inx= 0 andh(x) = 5 and the function becomes 5 = 2(0) + 5, then 5 = 0 + 5, and then 5 = 5. This is also true. Since both points work in the function defined by (A), it is the correct function. The answer is (A).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3170,
+    "stimulus": "",
+    "question_stem": "Which of the following equations correctly expressesrin terms ofpandsif the relationship between the numbersp,r, andscan be expressed asp= 13r– 6s?",
+    "answer_choices": {
+      "A": "",
+      "B": "r= 13p+ 6s",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 11161,
+      "B": 11162,
+      "C": 11163,
+      "D": 11164
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3170/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:18.014014",
+    "explanation": "✕ExplanationThe question asks for an equation in terms of a specific variable. The question asks about the relationship among variables and there are variables in the answer choices, so plugging in is a good option. That might get messy with three variables, and all of the answer choices haverby itself, so the other option is to solve forr. To begin to isolater, add 6sto both sides of the equation to getp+ 6s= 13r. Divide both sides of the equation by 13 to get. Flip the sides of the equation to get. The answer is (D).close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3171,
+    "stimulus": "",
+    "question_stem": "Right triangleABChas sides of the following lengths:AB= 165,BC= 280, andAC= 325. Another triangle,LMN, is similar toABCsuch thatAcorresponds toLandBcorresponds toM. What is the value ofcos(L)?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 11165,
+      "B": 11166,
+      "C": 11167,
+      "D": 11168
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 47,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 1 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 1",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3171/?question_set=exam&exam_id=47",
+    "scraped_at": "2025-07-05T19:57:18.749061",
+    "explanation": "✕ExplanationThe question asks for the value of a trigonometric function. Use the geomtry basic approach. Start by drawing two right triangles that are similar to each other, meaning they have the same proportions but are different sizes. Be certain to match up the corresponding angles that are given in the question, and put the longest side opposite the right angle. Then label the sides of triangleABCwith the lengths given in the question. The drawing should  look something like this:The question asks for the cosine of angleL, which corresponds to angleA. Trig functions are proportional so cos(L) = cos(A), and it is possible to answer the question without knowing any of the side lengths of triangleLMN. To find cos(A), use SOHCAHTOA to remember the trig functions and label the sides. The CAH part of the acronym defines the cosine as. The side adjacent toAis 165, and the hypotenuse is 325, so cos(A) =. Since cos(L) = cos(A), cos(L) is also. To make the result look like an answer choice, either use a calculator to find the decimal equivalent or reduce the fraction. Using a calculator,≈ 0.5077 and≈ 0.5077 . To reduce the fraction, notice that both numbers are multiples of 5, and divide the numerator and denominator by 5 to get. Either way, the correct answer is (A).close",
+    "correct_answer": "A"
+  }
+]

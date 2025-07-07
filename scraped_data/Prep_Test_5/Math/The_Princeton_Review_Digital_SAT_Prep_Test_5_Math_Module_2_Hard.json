@@ -1,0 +1,558 @@
+[
+  {
+    "question_id": 3760,
+    "stimulus": "",
+    "question_stem": "Data set A consists of the heights of 60 trees and has a mean of 15 meters. Data set B consists of the heights of 40 trees and has a mean of 25 meters. Data set C consists of the heights of the 100 trees from data sets A and B. What is the mean, in meters, of data set C?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3760/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:36.087077",
+    "explanation": "✕ExplanationTo find the mean of data set C, we need to calculate the total height of the trees in data set C and divide it by the total number of trees.In data set A, the mean height is 15 meters, and there are 60 trees. Therefore, the total height of the trees in data set A is 15 * 60 = 900 meters.In data set B, the mean height is 25 meters, and there are 40 trees. Therefore, the total height of the trees in data set B is 25 * 40 = 1000 meters.In data set C, the total number of trees is 100, so the total height of the trees in data set C is 900 + 1000 = 1900 meters.To find the mean, we divide the total height by the total number of trees: Mean of data set C = 1900 / 100 = 19 meters.Therefore, the mean of data set C is 20 meters.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3761,
+    "stimulus": "",
+    "question_stem": "Two variables, `a` and `b`, are related such that for each increase of 1 in the value of `a`, the value of `b` increases by a factor of 3. When `a = 0`, `b = 100`. Which equation represents this relationship?",
+    "answer_choices": {
+      "A": "`b = 3(a)^100`",
+      "B": "`b = 3(100)^a`",
+      "C": "`b = 100(a)^3`",
+      "D": "`b = 100(3)^a`"
+    },
+    "answer_ids": {
+      "A": 13189,
+      "B": 13190,
+      "C": 13191,
+      "D": 13192
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3761/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:36.819109",
+    "explanation": "✕ExplanationThe given relationship states that for each increase of 1 in the value of `a`, the value of `b` increases by a factor of 3. This can be represented using an exponential equation.When `a = 0`, `b = 100`. This indicates that `b` is initially 100 when `a` is 0.Looking at the options, we can see that option D) `b = 100(3)^a` best represents this relationship. It indicates that `b` is equal to 100 multiplied by 3 raised to the power of `a`.Therefore, the correct answer is D) `b = 100(3)^a`.close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3762,
+    "stimulus": "",
+    "question_stem": "`(x - 3)(x + 1) = 0`One solution to the given equation can be written as `1 + sqrt(k)`, where `k` is a constant. What is the positive value of `k`?",
+    "answer_choices": {
+      "A": "2",
+      "B": "4",
+      "C": "10",
+      "D": "20"
+    },
+    "answer_ids": {
+      "A": 13193,
+      "B": 13194,
+      "C": 13195,
+      "D": 13196
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3762/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:37.549068",
+    "explanation": "✕ExplanationTo find the value of k, we need to determine the other solution of the quadratic equation.From the given equation `(x - 3)(x + 1) = 0`, we can set each factor equal to zero and solve for x:`x - 3 = 0 or x + 1 = 0`Solving these equations, we find two solutions:`x = 3` or `x = -1`To find the solution in the form `1 + sqrt(k)`, we substitute each value of x into the expression `1 + sqrt(k)` and solve for k:For x = 3:`1 + sqrt(k) = 3``sqrt(k) = 2``k = 4`For `x = -1`:`1 + sqrt(k) = -1``sqrt(k) = -2`Since we are looking for a positive solution for k, the only valid value of k is 4.Therefore, the answer is B) 4.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3763,
+    "stimulus": "",
+    "question_stem": "The dot plots represent the distributions of values in data sets A and B.Which of the following statements must be true?I. The median of data set A is equal to the median of data set B.II. The standard deviation of data set A is equal to the standard deviation of data set B.",
+    "answer_choices": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    },
+    "answer_ids": {
+      "A": 13197,
+      "B": 13198,
+      "C": 13199,
+      "D": 13200
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3763/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:38.281732",
+    "explanation": "✕ExplanationMedian is the middle number. The middle number for Data Set A is 5, while the middle number for Data Set B is 7. They do not equal to each other.The standard deviation shows the \"spread\" of the distribution of the data points from the mean. Even though the data in Data Set A spreads towards smaller numbers more and the data in Data Set B spreads towards bigger numbers more, they are spread away from the mean by the same \"amount\" (just that one is spread downwards and the other upwards), so they have the same standard deviation.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3764,
+    "stimulus": "",
+    "question_stem": "An isosceles right triangle has a perimeter of `120 + 120 sqrt(2)` inches. What is the length, in inches, of one leg of this triangle?",
+    "answer_choices": {
+      "A": "`60`",
+      "B": "`60 sqrt(2)`",
+      "C": "`120`",
+      "D": "`120 sqrt(2)`"
+    },
+    "answer_ids": {
+      "A": 13201,
+      "B": 13202,
+      "C": 13203,
+      "D": 13204
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3764/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:39.019480",
+    "explanation": "✕ExplanationIn an isosceles right triangle, the two legs are congruent, so let's denote the length of one leg as `x` inches. The hypotenuse will then be `x sqrt(2)` inches.The perimeter of the triangle is the sum of the lengths of all three sides:Perimeter = leg + leg + hypotenuse`120 + 120 sqrt(2) = x + x + x sqrt(2)`Simplifying the equation, we have:`120 + 120 sqrt(2) = 2x + x sqrt(2)`We want to find the length of one leg, so we isolate `x`:`2x + x sqrt(2) = 120 + 120 sqrt(2)``x(2 + sqrt(2)) = 120 + 120 sqrt(2)``x = (120 + 120 sqrt(2))/(2 + sqrt(2))``x = 60 sqrt(2)`Therefore, the length of one leg of the triangle is `60 sqrt(2)` inches.The correct answer is B) `60 sqrt(2)`.close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3765,
+    "stimulus": "",
+    "question_stem": "`−4x^2 + 20x + c = 0`In the given equation, `c` is a constant. The equation has exactly one solution. What is the value of `c`?",
+    "answer_choices": {
+      "A": "3",
+      "B": "0",
+      "C": "−25",
+      "D": "−53"
+    },
+    "answer_ids": {
+      "A": 13205,
+      "B": 13206,
+      "C": 13207,
+      "D": 13208
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3765/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:39.776972",
+    "explanation": "✕ExplanationFor a quadratic equation to have exactly one solution, its discriminant (the value inside the square root in the quadratic formula) must be equal to zero.The discriminant is calculated as `b^2 - 4ac`. In our equation, the coefficients are:`a = -4``b = 20``c = c` (the unknown constant)Setting the discriminant equal to zero, we have:`(20)^2 - 4(-4)(c) = 0``400 + 16c = 0``16c = -400``c = -25`Therefore, the value of `c` is C) `−25`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3766,
+    "stimulus": "",
+    "question_stem": "`3/2 y - 1/4 x = 2/3 - 3/2 y``1/2 x + 3/2 = py + 9/2`In the given system of equations, `p` is a constant. If the system has no solution, what is the value of `p`?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3766/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:40.512274",
+    "explanation": "✕ExplanationTo determine the value of `p` when the given system of equations has no solution, we need to compare the coefficients of `y` in both equations.In the first equation, the coefficient of `y` is `3/2`, while in the second equation, the coefficient of `y` is `p`. For the system to have no solution, these coefficients must be equal.Therefore, we have the equation: `3/2 = p`To verify this, let's solve the system of equations and check if it leads to a contradiction:From the first equation, we can rearrange it to isolate `y`:`3/2 y + 3/2 y = 2/3 + 1/4 x`Combining the like terms, we get:`3y = (8 + 3x)/12``y = (8 + 3x)/(36)`Now, let's substitute this expression for `y` into the second equation:`1/2 x + 3/2 = p((8 + 3x)/(36)) + 9/2`Simplifying, we have:`1/2 x + 3/2 = (8p + 3p*x)/(36) + 9/2`To find a common denominator, we multiply all terms by `36`:`18x + 54 = 8p + 3px + 162`Combining like terms, we get:`3px + 18x + 8p = 108`Now, let's examine the coefficients of `x` and the constant terms on both sides of the equation.The coefficient of `x` on the left side is `18`, while the coefficient of `x` on the right side is `3p`. For the system to have no solution, these coefficients must be equal.Therefore, we have the equation: `18 = 3p`Simplifying, we find: `p = 6`Hence, the value of `p` when the system has no solution is `6`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3767,
+    "stimulus": "",
+    "question_stem": "A group of members voted on five candidates to be their new president. The bar graph shows the number of votes for each of the five candidates. How many votes did candidate B receive?",
+    "answer_choices": {
+      "A": "250",
+      "B": "310",
+      "C": "428",
+      "D": "500"
+    },
+    "answer_ids": {
+      "A": 13209,
+      "B": 13210,
+      "C": 13211,
+      "D": 13212
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3767/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:41.247196",
+    "explanation": "✕ExplanationThe bar graph for candidate B indicates he received between 400 and 450 votes. Choice C is the only possible option.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3768,
+    "stimulus": "",
+    "question_stem": "What percentage of 450 is 90?",
+    "answer_choices": {
+      "A": "$20\\%$",
+      "B": "$30\\%$",
+      "C": "$40\\%$",
+      "D": "$50\\%$"
+    },
+    "answer_ids": {
+      "A": 13213,
+      "B": 13214,
+      "C": 13215,
+      "D": 13216
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3768/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:41.970417",
+    "explanation": "✕ExplanationTo find the percentage, divide the given number by the total and multiply by 100. In this case, we divide 90 by 450, which gives us 0.2. Multiplying 0.2 by 100 gives us $20\\%$. Therefore, the correct answer is option A) $20\\%$.close",
+    "correct_answer": "o"
+  },
+  {
+    "question_id": 3769,
+    "stimulus": "",
+    "question_stem": "`x^2/16 = 25`What is a solution to the given equation?",
+    "answer_choices": {
+      "A": "4",
+      "B": "5",
+      "C": "10",
+      "D": "20"
+    },
+    "answer_ids": {
+      "A": 13217,
+      "B": 13218,
+      "C": 13219,
+      "D": 13220
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3769/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:42.741251",
+    "explanation": "✕ExplanationTo solve the equation, we need to isolate the variable `x`. In this case, we can start by multiplying both sides of the equation by 16 to get rid of the fraction: `x^2 = 400`.To find the value of `x`, we take the square root of both sides of the equation: `x = ±sqrt(400)`. The square root of 400 is 20, so the solutions are `x = ±20,` and 20 is one of the solutions.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3770,
+    "stimulus": "",
+    "question_stem": "5 more than 7 times a number `y` is equal to 68. Which equation represents this situation?",
+    "answer_choices": {
+      "A": "(5)(7)y = 68",
+      "B": "7y = 68 + 5",
+      "C": "5y + 7 = 68",
+      "D": "7y + 5 = 68"
+    },
+    "answer_ids": {
+      "A": 13221,
+      "B": 13222,
+      "C": 13223,
+      "D": 13224
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3770/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:43.472788",
+    "explanation": "✕ExplanationThe phrase \"5 more than 7 times a number `y`\" can be translated to the expression `7y + 5`. The equation states that this expression is equal to 68. Therefore, the correct equation representing this situation is option D) `7y + 5 = 68`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3771,
+    "stimulus": "",
+    "question_stem": "Liam deposited a fixed amount into his investment account each quarter. The function `g(t) = 200 + 50t` gives the amount, in dollars, in Liam's investment account after t quarterly deposits. What is the best interpretation of 50 in this context?",
+    "answer_choices": {
+      "A": "With each quarterly deposit, the amount in Liam's investment account increased by $\\$50$.",
+      "B": "Before Liam made any quarterly deposits, the amount in his investment account was $\\$50$.",
+      "C": "After 1 quarterly deposit, the amount in Liam's investment account was $\\$50$.",
+      "D": "Liam made a total of 50 quarterly deposits."
+    },
+    "answer_ids": {
+      "A": 13225,
+      "B": 13226,
+      "C": 13227,
+      "D": 13228
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3771/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:44.202883",
+    "explanation": "✕ExplanationThe function `g(t) = 200 + 50t` represents the amount in Liam's investment account after `t` quarterly deposits. In this context, the coefficient 50 represents the amount by which the investment account increases with each quarterly deposit. Therefore, the correct interpretation is option A.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3772,
+    "stimulus": "",
+    "question_stem": "A customer spent $\\$54$ to purchase oranges at $\\$6$ per pound. How many pounds of oranges did the customer purchase?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3772/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:44.938919",
+    "explanation": "✕ExplanationTo find the number of pounds, we need to divide the total amount spent by the price per pound. In this case, we divide $\\$54$ by $\\$6$, which gives us 9 pounds.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3773,
+    "stimulus": "",
+    "question_stem": "Michelle bought 15 storage bins that were each the same price. She used a coupon for $\\$225$ off the entire purchase. The cost for the entire purchase after using the coupon was $\\$75$. What was the original price, in dollars, for 1 storage bin?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3773/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:45.708088",
+    "explanation": "✕ExplanationLet's assume the original price for one storage bin is x dollars. The total cost of 15 bins without the coupon is 15x dollars. After using the coupon, the cost becomes 15x - $\\$225$ = $\\$75$. We can solve this equation to find the value of x:15x - $\\$225$ = $7515x = $\\$75$ + $\\$225$15x = $\\$300$x = ($\\$300$)/(15x) = $\\$20$Therefore, the original price for one storage bin was $\\$20$.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3774,
+    "stimulus": "",
+    "question_stem": "For the linear function `f`, the table shows three values of `x` and their corresponding values of `f(x)`. Which equation defines `f(x)`?",
+    "answer_choices": {
+      "A": "`f(x) = 10 + 4x`",
+      "B": "`f(x) = 10 + 14x`",
+      "C": "`f(x) = 4 + 10x`",
+      "D": "`f(x) = 14 + 18x`"
+    },
+    "answer_ids": {
+      "A": 13229,
+      "B": 13230,
+      "C": 13231,
+      "D": 13232
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3774/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:46.453316",
+    "explanation": "✕ExplanationAt `x=0`, `f(0) = 10`, which corresponds to `f(0)` for choices A and B. At `x=1`, `f(1) = 14`, which corresponds to `f(1)` for choices A. Therefore, the answer is A.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3775,
+    "stimulus": "",
+    "question_stem": "Right triangles PQR and STU are similar, and P corresponds to S. If the measure of angle P is 36°, what is the measure of angle S?",
+    "answer_choices": {
+      "A": "36°",
+      "B": "54°",
+      "C": "72°",
+      "D": "144°"
+    },
+    "answer_ids": {
+      "A": 13233,
+      "B": 13234,
+      "C": 13235,
+      "D": 13236
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3775/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:47.197398",
+    "explanation": "✕ExplanationIn similar triangles, corresponding angles are congruent. Since angle P in triangle PQR corresponds to angle S in triangle STU, they have the same measure. Therefore, the measure of angle S is also 36°.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3776,
+    "stimulus": "",
+    "question_stem": "The scatterplot shows the relationship between two variables, `x`and `y`.Which of the following equations is the most appropriate linear model for the data shown?",
+    "answer_choices": {
+      "A": "`y = 1.1 + 9.2x`",
+      "B": "`y = 1.1 - 9.2x`",
+      "C": "`y = 9.2 + 1.1x`",
+      "D": "`y = 9.2 - 1.1x`"
+    },
+    "answer_ids": {
+      "A": 13237,
+      "B": 13238,
+      "C": 13239,
+      "D": 13240
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3776/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:47.953461",
+    "explanation": "✕ExplanationThe standalone number is the y-intercept. In the graph, y-intercept for the best-fit line for the points would be around 9.2 (i.e., not 1.1). The best-fit line would be going down, so the coefficient for `x` would be negative, which is -1.1.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3777,
+    "stimulus": "",
+    "question_stem": "What is an equation of the graph shown?",
+    "answer_choices": {
+      "A": "`y = -x + 6`",
+      "B": "`y = -2x + 6`",
+      "C": "`y = x + 6`",
+      "D": "`y = 2x + 6`"
+    },
+    "answer_ids": {
+      "A": 13241,
+      "B": 13242,
+      "C": 13243,
+      "D": 13244
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3777/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:48.712806",
+    "explanation": "✕ExplanationThe line has a y-intercept of 6. The slope is 1 (change in y / change in x = 1 / 1 = 1). Therefore, the equation is `y = x + 6`.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3778,
+    "stimulus": "",
+    "question_stem": "`3.2c + 4d = 96`The given equation describes the relationship between the number of cats, `c`, and the number of dogs, `d`, that can be cared for at a pet care business on a given day. If the business cares for 12 dogs on a given day, how many cats can it care for on this day?",
+    "answer_choices": {
+      "A": "10",
+      "B": "15",
+      "C": "25",
+      "D": "32"
+    },
+    "answer_ids": {
+      "A": 13245,
+      "B": 13246,
+      "C": 13247,
+      "D": 13248
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3778/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:49.491532",
+    "explanation": "✕ExplanationWe are given the equation `3.2c + 4d = 96`, where `d` represents the number of dogs cared for on a given day. Substituting the given value of 12 for `d` in the equation, we have `3.2c + 4(12) = 96`. Simplifying, we get `3.2c + 48 = 96` and `3.2c = 48`. Dividing both sides of the equation by 3.2, we find `c` = 15.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3779,
+    "stimulus": "",
+    "question_stem": "If `x/4 = 3`, what is the value of `4/x`?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3779/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:50.241919",
+    "explanation": "✕ExplanationTo find the value of `4/x`, simply invert the fractions on both sides: `4/x = 1/3.`close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3780,
+    "stimulus": "",
+    "question_stem": "`8x + y = 16``2x + y = 24`The solution to the given system of equations is `(x, y)`. What is the value of `y`?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3780/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:50.990787",
+    "explanation": "✕ExplanationSimplify by eliminating a variable. We can eliminate either `x` or `y`, and although `y` seem more obvious and easier to eliminate (both equations have 1y, so we could have just subtracted one from another), it's better to eliminate `x` so we get `y` equals to something in the end, which is what we want to find in the question.Multiplying equation 2 by 4, we get:`8x + 4y = 96`By subtracting the second equation from the first, we get:`-3y = -80`.Dividing both sides by `-3`, we get:`y = 80/3`close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3781,
+    "stimulus": "",
+    "question_stem": "Linetin thexy-plane has a slope of `-1/4` and passes through the point (8, 10). Which equation defines linet?",
+    "answer_choices": {
+      "A": "`y = x/4 + 8 `",
+      "B": "`y = 4x - 1`",
+      "C": "`y = -x/4 + 8`",
+      "D": "`y = -x/4 + 12`"
+    },
+    "answer_ids": {
+      "A": 13249,
+      "B": 13250,
+      "C": 13251,
+      "D": 13252
+    },
+    "metadata": {},
+    "exam_id": 72,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 5 - Math - Module 2 - Hard",
+    "test_series": "Prep Test 5",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Hard",
+    "url": "https://oneprep.xyz/question/3781/?question_set=exam&exam_id=72",
+    "scraped_at": "2025-07-05T20:04:51.720917",
+    "explanation": "✕ExplanationGiven that line t has a slope of `-1/4` and passes through the point (8, 10), we can substitute the values into the equation.The slope, `-1/4`, matches the given slope of line t.However, when we substitute the coordinates (8, 10) into the equation, we get `10 = -1/4(8) + 12`, which simplifies to `10 = -2 + 12` and further simplifies to `10 = 10`. This equation is true, indicating that point (8, 10) lies on the line defined by option A.Therefore, the correct answer is D)` y = -1/4x + 12`, which defines line t.close",
+    "correct_answer": "D"
+  }
+]

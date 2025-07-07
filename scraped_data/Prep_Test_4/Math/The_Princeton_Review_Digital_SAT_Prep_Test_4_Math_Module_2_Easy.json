@@ -1,0 +1,656 @@
+[
+  {
+    "question_id": 3591,
+    "stimulus": "",
+    "question_stem": "For the graph shown, what is they-intercept?",
+    "answer_choices": {
+      "A": "(–4, –4)",
+      "B": "(–4, 0)",
+      "C": "(0, –4)",
+      "D": "(0, 0)"
+    },
+    "answer_ids": {
+      "A": 12677,
+      "B": 12678,
+      "C": 12679,
+      "D": 12680
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3591/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:30.206678",
+    "explanation": "✕ExplanationThe question asks for they-intercept of a graph. They-intercept of a graph is defined as the point where the graph crosses they-axis. This happens whenx= 0. Findx= 0 on the graph and move straight down to see that the graph crosses they-axis aty= –4. Points on a graph are represented as ordered pairs in the form (x,y), with thex-value first and they-value second, so the point at they-intercept is (0, –4). The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3592,
+    "stimulus": "",
+    "question_stem": "What is the solution to the equationw– 19 = 513?",
+    "answer_choices": {
+      "A": "27",
+      "B": "494",
+      "C": "532",
+      "D": "9,747"
+    },
+    "answer_ids": {
+      "A": 12681,
+      "B": 12682,
+      "C": 12683,
+      "D": 12684
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3592/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:30.977476",
+    "explanation": "✕ExplanationThe question asks for the solution to an equation. To solve forw, add 19 to both sides of the equation. The equation becomesw= 532. The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3593,
+    "stimulus": "",
+    "question_stem": "An island’s tourism office records the number of visitors each month. The line graph shows the number of visitors, in thousands, each month for the past year. Which month of the year had the least number of visitors?",
+    "answer_choices": {
+      "A": "February",
+      "B": "March",
+      "C": "August",
+      "D": "December"
+    },
+    "answer_ids": {
+      "A": 12685,
+      "B": 12686,
+      "C": 12687,
+      "D": 12688
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Working with Data"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3593/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:31.853465",
+    "explanation": "✕ExplanationThe question asks for a value based on a graph. To find the month in which the island had the least number of visitors, first check the units on each axis of the line graph. Thex-axis shows months, and they-axis shows the number of visitors, in thousands, in ascending order from low to high. Thus, the least number of visitors will be represented by the lowest point on the line graph. Find the lowest point on the graph and look up the month on thex-axis. The graph reaches its lowest point in February. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3594,
+    "stimulus": "",
+    "question_stem": "n= 7m– 2In the given equation, what is the value ofnwhen the value ofmis 6?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3594/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:32.588975",
+    "explanation": "✕ExplanationThe question asks for a value based on an equation. Plugm= 6 into the equation, and solve forn. The equation becomesn= 7(6) – 2. Follow the order of operations on the right side of the equation and multiply first to getn= 42 – 2. Next, subtract on the right side of the equation to getn= 40. The correct answer is 40.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3595,
+    "stimulus": "",
+    "question_stem": "What is an equivalent distance, inmeters, to a distance of 28 kilometers? (1 kilometer = 1,000 meters)",
+    "answer_choices": {
+      "A": "0.028",
+      "B": "0.28",
+      "C": "2,800",
+      "D": "28,000"
+    },
+    "answer_ids": {
+      "A": 12689,
+      "B": 12690,
+      "C": 12691,
+      "D": 12692
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Proportional Relationships"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3595/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:33.307663",
+    "explanation": "✕ExplanationThe question asks for a measurement and gives conflicting units. To convert kilometers to meters, set up a proportion. Be sure to match up units. The question states that1 kilometer = 1,000 meters, so the proportion is=. To solve forx, cross-multiply to get (1,000)(28) = (1)(x), which becomes 28,000 =x. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3596,
+    "stimulus": "",
+    "question_stem": "If the measure of angleWisradians, what is the measure of angleWindegrees?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3596/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:34.089877",
+    "explanation": "✕ExplanationThe question asks for the measure of an angle and gives conflicting units. Either write down a conversion between radians and degrees from memory or open the reference sheet, which states that thenumber of degrees of arc in a circle is 360and that thenumber of radians of arc in a circle is 2π. Thus, 360 degrees = 2π radians. This reduces to the other conversion, which is 180 degrees = π radians. Set up a proportion, being sure to match up units. The proportion is=. Cross-multiply to get (π)(x) = (180). Simplify to get πx= 81π, then divide both sides of the equation by π to getx= 81. The correct answer is 81.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3597,
+    "stimulus": "",
+    "question_stem": "If |y+ 3| = 15, what is one possible value ofy?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3597/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:34.827406",
+    "explanation": "✕ExplanationThe question asks for a value given an equation with an absolute value. With an absolute value, the value inside the absolute value bars can be either positive or negative, so this equation has two possible solutions. To find one solution, either sety+ 3 equal to 15 or sety+ 3 equal to –15, and solve fory. Wheny+ 3 = 15, subtract 3 from both sides of the equation to gety= 12. Wheny+ 3 = –15, subtract 3 from both sides of the equation to gety= –18. The correct answer is 12 or –18.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3598,
+    "stimulus": "",
+    "question_stem": "Giovanni makes homemade candles in tins with an average weight of 4.6 ounces of candle wax per tin. Given this average weight, which of the following functions can Giovanni use to estimate the number of ounces of candle wax,w, that are inttins?",
+    "answer_choices": {
+      "A": "w(t) =t– 4.6",
+      "B": "w(t) =t+ 4.6",
+      "C": "w(t) =",
+      "D": "w(t) = 4.6t"
+    },
+    "answer_ids": {
+      "A": 12693,
+      "B": 12694,
+      "C": 12695,
+      "D": 12696
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3598/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:35.574924",
+    "explanation": "✕ExplanationThe question asks for a function that models a specific situation. There are variables in the answer choices, so plug in. Maket= 2. The question states that Giovanni uses 4.6 ounces of candle wax per tin, so he will use (4.6)(2) = 9.2 ounces of candle wax for 2 tins. Plugt= 2 andw(t) = 9.2 into the answer choices, and eliminate any that don’t work. Choice (A) becomes 9.2 = 2 – 4.6, or 9.2 = –2.6. This is not true, so eliminate (A). Choice (B) becomes 9.2 = 2 + 4.6, or 9.2 = 6.6; eliminate (B). Choice (C) becomes 9.2 =, or 9.2 ≈ 0.43; eliminate (C). Choice (D) becomes 9.2 = 4.6(2), or 9.2 = 9.2. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3599,
+    "stimulus": "",
+    "question_stem": "A local organization rents a classroom for 5 hours at an hourly rate. The organization also pays a one-time booking fee of $5 in addition to the hourly rate. The total cost of renting the classroom is $65. What is the rate, in dollars, for renting the classroom for 1 hour?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Linear Solving"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3599/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:36.299058",
+    "explanation": "✕ExplanationThe question asks for a value given a specific situation. Translate the information in Bite-Sized Pieces. The question states that thetotal cost of renting the classroom is $65. The question also states that the organizationpays a one-time booking fee of $5. Subtract the booking fee from the total cost to get $65 – $5 = $60. Since the organization rented the classroom for 5 hours, divide $60 by 5 to find the rate for one hour:= $12. The correct answer is 12.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3600,
+    "stimulus": "",
+    "question_stem": "(6a2– 5a+ 1) + (–2a2–a– 4)Which expression is equivalent to the given expression?",
+    "answer_choices": {
+      "A": "4a2– 6a– 3",
+      "B": "4a2– 5a– 3",
+      "C": "8a2– 6a+ 5",
+      "D": "8a2– 5a– 3"
+    },
+    "answer_ids": {
+      "A": 12697,
+      "B": 12698,
+      "C": 12699,
+      "D": 12700
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3600/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:37.030193",
+    "explanation": "✕ExplanationThe question asks for an equivalent form of an expression. Use Bite-Sized Pieces and Process of Elimination to tackle this question. Start by combining the terms that havea2. Add the first term of each set of parentheses to get 6a2+ (–2a2) = 6a2– 2a2= 4a2. Eliminate (C) and (D) because they do not include 4a2. Compare the remaining answer choices: (A) and (B) both have the term –3, so work with thea-terms. Add those terms to get –5a+ (–a) = –5a–a= –6a.  Eliminate (B) because it does not include –6a. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3601,
+    "stimulus": "",
+    "question_stem": "6 less than 2 times a numberzequals –15. Which equation represents this situation?",
+    "answer_choices": {
+      "A": "(2)(–6)z= –15",
+      "B": "2z= –15 – 6",
+      "C": "2z– 6 = –15",
+      "D": "6z– 2 = –15"
+    },
+    "answer_ids": {
+      "A": 12701,
+      "B": 12702,
+      "C": 12703,
+      "D": 12704
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Representation and Interpretation"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3601/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:37.773955",
+    "explanation": "✕ExplanationThe question asks for an equation that represents a given situation. Translate the information in Bite-Sized Pieces and eliminate after each piece. Translate2 times a number zas 2z. Eliminate (A) and (D) because they do not contain this term. Choices (B) and (C) correctly translate6 less thanas – 6 andequals –15as = –15. However, 6 should be subtracted from 2z, not from –15, so eliminate (B). The correct answer is (C).close",
+    "correct_answer": "C"
+  },
+  {
+    "question_id": 3602,
+    "stimulus": "",
+    "question_stem": "70b– 7b2Which expression is equivalent to the given expression?",
+    "answer_choices": {
+      "A": "b(10 – 7b)",
+      "B": "7b(10 –b)",
+      "C": "10b(7 – 7b)",
+      "D": "b2(10 – 7b)"
+    },
+    "answer_ids": {
+      "A": 12705,
+      "B": 12706,
+      "C": 12707,
+      "D": 12708
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Nonlinear Solving"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3602/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:38.486249",
+    "explanation": "✕ExplanationThe question asks for an equivalent form of an expression. Both terms contain 7b, so one approach is to factor out 7bto get 7b(10 –b). Check that (B) is correct by distributing: 7b(10) = 70b, and 7b(–b) = –7b2, so 7b(10 –b) is an equivalent form of 70b– 7b2.There are variables in the answer choices, so another option is to plug in. Plug in a simple number forb, such asb= 2. The expression becomes 70(2) – 7(2)2. Simplify the expression to get 140 – 7(4), then 140 – 28, and finally 112. This is the target value; write it down and circle it. Now plugb= 2 into each answer choice and eliminate any that do not match the target value of 112. Choice (A) becomes 2[10 – 7(2)] = 2(10 – 14) = 2(–4) = –8. This does not match the target value, so eliminate (A). Choice (B) becomes 7(2)(10 – 2) = 7(2)(8) = 112. This matches the target value, so keep (B), but check the remaining answers just in case. Choice (C) becomes 10(2)[7 – 7(2)] = 20(7 – 14) = 20(–7) = –140; eliminate (C). Choice (D) becomes (2)2[10 – 7(2)] = 4(10 – 14) = 4(–4) = –16; eliminate (D).Using either method, the correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3603,
+    "stimulus": "",
+    "question_stem": "Ifx= 5 andz= 12 in the right triangle shown, which expression is equivalent toy?",
+    "answer_choices": {
+      "A": "",
+      "B": "",
+      "C": "12 – 5",
+      "D": ""
+    },
+    "answer_ids": {
+      "A": 12709,
+      "B": 12710,
+      "C": 12711,
+      "D": 12712
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3603/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:39.206214",
+    "explanation": "✕ExplanationThe question asks for the length of the third side of a right triangle. The side labeledzis opposite the 90° angle, so it is the hypotenuse. To find the length of the side labeledy, use the Pythagorean Theorem:a2+b2=c2. Plug in the known values to get 52+y2= 122. Let the answers help: the answers all have 12 and 5, so don’t apply the exponents to those numbers. To find the value ofy, first subtract 52from both sides of the equation to gety2= 122– 52. Next, take the square root of both sides of the equation to gety=. The correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3604,
+    "stimulus": "",
+    "question_stem": "–12 =x–y3y=xWhich point (x,y) is the solution to the given system of equations in thexy-plane?",
+    "answer_choices": {
+      "A": "(–20, –8)",
+      "B": "(–18, –6)",
+      "C": "(–16, –4)",
+      "D": "(–14, –2)"
+    },
+    "answer_ids": {
+      "A": 12713,
+      "B": 12714,
+      "C": 12715,
+      "D": 12716
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3604/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:39.943408",
+    "explanation": "✕ExplanationThe question asks for the solution to a system of equations. One method is to enter both equations into the built-in graphing calculator, then scroll and zoom as needed to find the point(s) of intersection. The graph shows one point of intersection at(–18, –6), which is (B).Another approach is to plug in the answers. Rewrite the answer choices on the scratch paper and label them “(x,y).” Start with (A) and plugx= –20 andy= –8 into the easier second equation. The equation becomes 3(–8) = –20, or –24 = –20. This is not true, so eliminate (A). Try (B) next and plugx= –18 andy= –6 into the second equation to get 3(–6) = –18, or –18 = –18. This is true, but the solution must work in both equations. Plug the point in (B) into the first equation to get –12 = –18 – (–6), which becomes –12 = –18 + 6, and then –12 = –12 . This is also true, so (–18, –6) is a solution to the system of equations.Using either method, the correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3605,
+    "stimulus": "",
+    "question_stem": "xg(x)015321627933The table shows the relationship between corresponding values ofxandg(x) for linear functiong. Which of the following equations definesg(x)?",
+    "answer_choices": {
+      "A": "g(x) =x+ 33",
+      "B": "g(x) = 2x+ 15",
+      "C": "g(x) = 21x+ 15",
+      "D": "g(x) = 33x+ 27"
+    },
+    "answer_ids": {
+      "A": 12717,
+      "B": 12718,
+      "C": 12719,
+      "D": 12720
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3605/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:40.674655",
+    "explanation": "✕ExplanationThe question asks for the function that represents values given in a table. In function notation, the number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. The table includes four input and output values, and the correct equation must work for every pair of values. Plug in values from the table and eliminate functions that don’t work. Because 0 is likely to make more than one answer work, try the second row of the table and plugx= 3 andg(x) = 21 into the answer choices. Choice (A) becomes 21 = 3 + 33, or 21 = 36. This is not true, so eliminate (A). Choice (B) becomes 21 = 2(3) + 15, or 21 = 6 + 15, and then 21 = 21. This is true, so keep (B) but check the remaining answers with this pair of values. Choice (C) becomes 21 = 21(3) + 15, or 21 = 63 + 15, and then 21 = 78; eliminate (C). The right side of the equation in (D) will be even larger, so it cannot equal 21; eliminate (D). The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3606,
+    "stimulus": "",
+    "question_stem": "The functionfis defined byf(x) =x2. Whenf(x) equals 36, what is the positive value ofx?",
+    "answer_choices": {
+      "A": "",
+      "B": "12",
+      "C": "72",
+      "D": "144"
+    },
+    "answer_ids": {
+      "A": 12721,
+      "B": 12722,
+      "C": 12723,
+      "D": 12724
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Functions"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3606/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:41.409642",
+    "explanation": "✕ExplanationThe question asks for a value given a function. In function notation,f(x) =y. the number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. The question provides an output value of 36, and the answers have numbers that could represent the positivex-value, so plug in the answers. Rewrite the answer choices on the scratch paper and label them “x.” Start with one of the middle numbers and try (B), 12. Plug 12 into the function forxto getf(12) =(12)2, which becomesf(12) =(144), and thenf(12) = 36. This matches the output value given in the question, so stop here. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3607,
+    "stimulus": "",
+    "question_stem": "Rectangle A has a length of 45 inches (in) and a width of 57 in. What is the perimeter, in inches, of rectangle A?",
+    "answer_choices": {},
+    "answer_ids": {},
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3607/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:42.126991",
+    "explanation": "✕ExplanationThe question asks for a measurement of a geometric figure. Use the Geometry Basic Approach. Start by drawing a rectangle on the scratch paper. Next, label the figure with information from the question. In a rectangle, opposite sides are equal, so this rectangle has two sides that are 45 inches long and two sides that are 57 inches long. The drawing should look something like this:The perimeter of a geometric shape is the sum of the lengths of the sides. Add all four side lengths to get 57 + 45 + 57 + 45 = 204. The correct answer is 204.close",
+    "correct_answer": ""
+  },
+  {
+    "question_id": 3608,
+    "stimulus": "",
+    "question_stem": "Which equation could represent the graph shown in thexy-plane?",
+    "answer_choices": {
+      "A": "y=x– 4",
+      "B": "y= 2x+ 4",
+      "C": "y=x+ 4",
+      "D": "y= 2x– 4"
+    },
+    "answer_ids": {
+      "A": 12725,
+      "B": 12726,
+      "C": 12727,
+      "D": 12728
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3608/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:42.852926",
+    "explanation": "✕ExplanationThe question asks for an equation that represents a graph. To find the best equation, compare features of the graph to the answer choices. The equations in the answer choices are all in the formy=mx+b, in whichmis the slope andbis they-intercept. They-intercept of the graph is at (0, –4), sob= –4. Eliminate (B) and (C) because they have the wrongy-intercept. Find the slope by using the formulaslope=. The graph has points at (4, 4) and (0, –4), so plug those values into the slope formula to getslope=, which becomesslope=, orslope= 2. Eliminate (A) because it has a slope ofinstead of 2.Another option is to enter all four of the equations in the answer choices into the built-in calculator and see which one looks like the graph in the question.Using either method, the correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3609,
+    "stimulus": "",
+    "question_stem": "An elevator has a maximum weight restriction of 700 kilograms. What is the maximum number of packages that can be transferred on the elevator in a cart if the weight of the cart is 50 kilograms and the weight of each package is 15 kilograms?",
+    "answer_choices": {
+      "A": "42",
+      "B": "43",
+      "C": "44",
+      "D": "46"
+    },
+    "answer_ids": {
+      "A": 12729,
+      "B": 12730,
+      "C": 12731,
+      "D": 12732
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3609/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:43.558058",
+    "explanation": "✕ExplanationThe question asks for the maximum value given a specific situation. Since the question asks for a specific value and the answers contain numbers in increasing order, plug in the answers. Rewrite the answer choices on the scratch paper and label them “number of packages.” Next, pick a value to start with. Since the question asks for the maximum, start with the largest number, 46.If there are 46 packages and each package weighs 15 kilograms, the total weight is (46)(15) = 690 kilograms. Add the weight of the cart for a combined weight of 690 + 50 = 740 kilograms. This is too big, so eliminate (D) and try another number. Try (C), and make the number of packages 44. If there are 44 packages with a weight of 15 kilograms each, the weight of the packages is (44)(15) = 660 kilograms. Add the weight of the cart for a combined weight of 660 + 50 = 710 kilograms. The combined weight is still greater than 700 pounds, so eliminate (C). The result was close, so (B) is likely correct. To check, make the number of packages 43. If there are 43 packages with a weight of 15 kilograms each, the weight of the packages is (43)(15) = 645 kilograms. Add the weight of the cart for a combined weight of 695 kilograms. This is less than 700, so 43 is the maximum number of packages that can be on the cart without going over the elevator’s weight limit. The correct answer is (B).close",
+    "correct_answer": "B"
+  },
+  {
+    "question_id": 3610,
+    "stimulus": "",
+    "question_stem": "The functiong(x) = 9x+ 126 is graphed in thexy-plane. What is thex-coordinate of thex-intercept of the graph ofy=g(x)?",
+    "answer_choices": {
+      "A": "–14",
+      "B": "–9",
+      "C": "9",
+      "D": "14"
+    },
+    "answer_ids": {
+      "A": 12733,
+      "B": 12734,
+      "C": 12735,
+      "D": 12736
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Algebra",
+      "skill": "Coordinate Geometry"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3610/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:44.281223",
+    "explanation": "✕ExplanationThe question asks for thex-intercept of a function. Anx-intercept is a point wherey= 0. In function notation,f(x) =y. The number inside the parentheses is thex-value that goes into the function, or the input, and the value that comes out of the function is they-value, or the output. Together, they represent points on the graph of the function. One approach is to enter the equation into the built-in graphing calculator, then scroll and zoom as needed to find the point where the graph intersects thex-axis. The graph shows thex-intercept at (–14, 0), so thex-coordinate is –14, which is (A).Because the answers are possiblex-coordinates of thex-intercept, another approach is to plug in the answers along with 0 fory. Using (A), for example, plugx= –14 andy= 0 into the function to get 0 = 9(–14) + 126, which becomes 0 = –126 + 126, and then 0 = 0. This is true, so (–14, 0) is thex-intercept.Using either method, the correct answer is (A).close",
+    "correct_answer": "A"
+  },
+  {
+    "question_id": 3611,
+    "stimulus": "",
+    "question_stem": "In trianglePQR, anglePmeasures 35° and angleQmeasures 43°. In triangleLMN,angleMmeasures 43° and angleNmeasures 35°. Which additional piece of information is necessary to determine whether trianglePQRand triangleLMNare similar?",
+    "answer_choices": {
+      "A": "The lengths of sidesPQandMN",
+      "B": "The measure of angleL",
+      "C": "The length of sideLM",
+      "D": "No additional information is necessary."
+    },
+    "answer_ids": {
+      "A": 12737,
+      "B": 12738,
+      "C": 12739,
+      "D": 12740
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Geometry and Trigonometry",
+      "skill": "Geometry and Trigonometry"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3611/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:45.003470",
+    "explanation": "✕ExplanationThe question asks for information that will provide proof of similar triangles. Use the Geometry Basic Approach. Start by drawing two triangles on the scratch paper. Next, label the figures with information from the question: label anglePas 35°, angleQas 43°, angleMas 43°, and angleNas 35°. The drawing should look something like this:All triangles contain 180°, so the third angle in trianglePQRis 180° – 35° – 43° = 102°, and the third angle in triangleLMNis 180° – 43° – 35° = 102°. Label these on the figure, which now looks like this:Two triangles are similar if they have the same three angle measurements, which these triangles do. Since it is already possible to determine that the two triangles are similar, no additional information is needed. The correct answer is (D).close",
+    "correct_answer": "D"
+  },
+  {
+    "question_id": 3612,
+    "stimulus": "",
+    "question_stem": "A chef separates 160 liters of oil into two containers. The first container holdsqliters of oil, and the second container holdsrliters of oil, which is 8 less than 5 timesq. What is the value ofr?",
+    "answer_choices": {
+      "A": "40",
+      "B": "102",
+      "C": "132",
+      "D": "792"
+    },
+    "answer_ids": {
+      "A": 12741,
+      "B": 12742,
+      "C": 12743,
+      "D": 12744
+    },
+    "metadata": {
+      "section": "Math",
+      "domain": "Strategies",
+      "skill": "Plugging In the Answers"
+    },
+    "exam_id": 65,
+    "exam_name": "The Princeton Review - Digital SAT Prep Test 4 - Math - Module 2 - Easy",
+    "test_series": "Prep Test 4",
+    "subject": "Math",
+    "module_number": 2,
+    "difficulty": "Easy",
+    "url": "https://oneprep.xyz/question/3612/?question_set=exam&exam_id=65",
+    "scraped_at": "2025-07-05T20:02:45.726892",
+    "explanation": "✕ExplanationThe question asks for a value given a specific situation. Since the question asks for a specific value and the answers contain numbers in increasing order, plug in the answers. Rewrite the answer choices on the scratch paper and label them as “r.” Next, start with a number in the middle and try (B), 102. The question states that the chefseparates 160 liters of oil into two containers. If one container holdsr= 102 liters of oil, the other container holdsq= 160 – 102 = 58 liters of oil. The question also states thatr is 8 less than 5 times q. Ifq= 58, multiply by 5 to get (5)(58) = 290, then subtract 8 to get 290 – 8 = 282. The two values ofr, 102 and 282, are not equal, so eliminate (B).It may be difficult to determine whether a larger or smaller value is needed, so pick a direction and try (C), 132. Ifr= 132,q= 160 – 132 = 28. Multiply this value forqby 5 to get (5)(28) = 140, then subtract 8 to get 140 – 8 = 132. The two values ofrare the same, 132, so this answer works. The correct answer is (C).close",
+    "correct_answer": "C"
+  }
+]
